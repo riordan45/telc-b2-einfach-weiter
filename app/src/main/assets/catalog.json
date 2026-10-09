@@ -1,0 +1,1386 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
+  "book": "Einfach weiter! Deutsch B2 · Gesamtausgabe",
+  "tracks": [
+    {
+      "number": 1,
+      "sourceFilename": "001_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-001",
+      "asset": "audio/001.mp3",
+      "durationMs": 11416,
+      "bytes": 84088,
+      "sha256": "23ccc453e584f9368542520d5ee008454eef8f72e6bb03025c5836f75c24ba70",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_001-007.zip",
+      "title": "Einführung · Einfach weiter! B2",
+      "references": []
+    },
+    {
+      "number": 2,
+      "sourceFilename": "002_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-002",
+      "asset": "audio/002.mp3",
+      "durationMs": 138919,
+      "bytes": 1504364,
+      "sha256": "e59b1bc7462a42f761585f24b4b10027e224693224580c73475069d058b61782",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_001-007.zip",
+      "title": "Freizeit · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 1,
+          "chapterTitle": "Freizeit",
+          "evidence": "Opening announcement: Lektion 1, Aufgabe 2b; explicit track marker in full-B2 sample, printed p. 9",
+          "status": "verified",
+          "exercise": "2b",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "sourceFilename": "003_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-003",
+      "asset": "audio/003.mp3",
+      "durationMs": 379193,
+      "bytes": 4751657,
+      "sha256": "7ae50bd48cb5f3482c36397fd43b57d00d54c681e2e7151297b6f284808464ac",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_001-007.zip",
+      "title": "Freizeit · Aufgabe 6b, 6c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 1,
+          "chapterTitle": "Freizeit",
+          "evidence": "Opening announcement: Aufgabe 6b, 6c; explicit track marker in full-B2 sample, printed p. 15",
+          "status": "verified",
+          "exercise": "6b",
+          "page": 15
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 1,
+          "chapterTitle": "Freizeit",
+          "evidence": "Opening announcement: Aufgabe 6b, 6c; explicit track marker in full-B2 sample, printed p. 15",
+          "status": "verified",
+          "exercise": "6c",
+          "page": 15
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "sourceFilename": "004_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-004",
+      "asset": "audio/004.mp3",
+      "durationMs": 307435,
+      "bytes": 3198710,
+      "sha256": "4dc3e76e3831f75409acb37f2672d22f9e270e4b9748a5b9219000a7ebcf1a32",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_001-007.zip",
+      "title": "Arbeit und Beruf · Aufgabe 2b, 2c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 2,
+          "chapterTitle": "Arbeit und Beruf",
+          "evidence": "Opening announcement: Lektion 2, Aufgabe 2b, 2c",
+          "status": "verified",
+          "exercise": "2b"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 2,
+          "chapterTitle": "Arbeit und Beruf",
+          "evidence": "Opening announcement: Lektion 2, Aufgabe 2b, 2c",
+          "status": "verified",
+          "exercise": "2c"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "sourceFilename": "005_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-005",
+      "asset": "audio/005.mp3",
+      "durationMs": 482090,
+      "bytes": 5365350,
+      "sha256": "e79c06832afed9a4be935f090c82058b989daa27346ea767f987764e782a65e3",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_001-007.zip",
+      "title": "Arbeit und Beruf · Aufgabe 4c, 4d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 2,
+          "chapterTitle": "Arbeit und Beruf",
+          "evidence": "Opening announcement: Aufgabe 4c, 4d; chapter follows the announced lesson 2 sequence",
+          "status": "chapter-context",
+          "exercise": "4c"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 2,
+          "chapterTitle": "Arbeit und Beruf",
+          "evidence": "Opening announcement: Aufgabe 4c, 4d; chapter follows the announced lesson 2 sequence",
+          "status": "chapter-context",
+          "exercise": "4d"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "sourceFilename": "006_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-006",
+      "asset": "audio/006.mp3",
+      "durationMs": 401398,
+      "bytes": 4178356,
+      "sha256": "daec50e1fbce7202c3543f028b61c87d0b57f9a7d21c851755f0e3634b16bab9",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_001-007.zip",
+      "title": "Lebenswege · Aufgabe 1b, 1e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 3,
+          "chapterTitle": "Lebenswege",
+          "evidence": "Opening announcement: Lektion 3, Aufgabe 1b, 1e",
+          "status": "verified",
+          "exercise": "1b"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 3,
+          "chapterTitle": "Lebenswege",
+          "evidence": "Opening announcement: Lektion 3, Aufgabe 1b, 1e",
+          "status": "verified",
+          "exercise": "1e"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "sourceFilename": "007_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-007",
+      "asset": "audio/007.mp3",
+      "durationMs": 172121,
+      "bytes": 1720229,
+      "sha256": "9ba47eabb6a38defe837859280836c67bc13a4d0b3ab211d331519f4620ba07b",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_001-007.zip",
+      "title": "Lebenswege · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 3,
+          "chapterTitle": "Lebenswege",
+          "evidence": "Opening announcement: Aufgabe 6a; chapter follows the announced lesson 3 sequence",
+          "status": "chapter-context",
+          "exercise": "6a"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "sourceFilename": "008_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-008",
+      "asset": "audio/008.mp3",
+      "durationMs": 166322,
+      "bytes": 1768247,
+      "sha256": "66e7aea89d44e2080300b082e1f69e426b85ac98ee167b17084eab05c6d9b01c",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_008-016.zip",
+      "title": "Unterwegs · Aufgabe 3a, 3c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Lektion 4, Aufgabe 3a, 3c",
+          "status": "verified",
+          "exercise": "3a"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Lektion 4, Aufgabe 3a, 3c",
+          "status": "verified",
+          "exercise": "3c"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "sourceFilename": "009_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-009",
+      "asset": "audio/009.mp3",
+      "durationMs": 321097,
+      "bytes": 3585590,
+      "sha256": "9fbc9f8df541ae908f4016d89831d4562fbb93aa31ca0ad076998cb0e9c054d3",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_008-016.zip",
+      "title": "Unterwegs · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Aufgabe 6a; chapter follows the announced lesson 4 sequence",
+          "status": "chapter-context",
+          "exercise": "6a"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "sourceFilename": "010_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-010",
+      "asset": "audio/010.mp3",
+      "durationMs": 152424,
+      "bytes": 1678017,
+      "sha256": "e16893848d3d7853f9d1eb5fd43cafb26a72cdd1302f08312d8f144bf1a10290",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_008-016.zip",
+      "title": "Unterwegs · Aufgabe 6c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Aufgabe 6c; chapter follows the announced lesson 4 sequence",
+          "status": "chapter-context",
+          "exercise": "6c"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "sourceFilename": "011_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-011",
+      "asset": "audio/011.mp3",
+      "durationMs": 96522,
+      "bytes": 1062330,
+      "sha256": "e2dda24d219550072cd50f498f886ec5638181253a8b9c9c72611cf5331bdecf",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_008-016.zip",
+      "title": "Klima und Natur · Aufgabe 2a, 2c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 5,
+          "chapterTitle": "Klima und Natur",
+          "evidence": "Opening announcement: Lektion 5, Aufgabe 2a, 2c; lesson/exercise recovered by base-model cross-check of first 12 seconds",
+          "status": "verified",
+          "exercise": "2a"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 5,
+          "chapterTitle": "Klima und Natur",
+          "evidence": "Opening announcement: Lektion 5, Aufgabe 2a, 2c; lesson/exercise recovered by base-model cross-check of first 12 seconds",
+          "status": "verified",
+          "exercise": "2c"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "sourceFilename": "012_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-012",
+      "asset": "audio/012.mp3",
+      "durationMs": 209189,
+      "bytes": 2401132,
+      "sha256": "2d43434fa891c2cb99aa45d41439096e1150a00a0e2f6389082db3236dfa8edf",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_008-016.zip",
+      "title": "Klima und Natur · Aufgabe 2e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 5,
+          "chapterTitle": "Klima und Natur",
+          "evidence": "Opening announcement: Aufgabe 2e; chapter follows the announced lesson 5 sequence",
+          "status": "chapter-context",
+          "exercise": "2e"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "sourceFilename": "013_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-013",
+      "asset": "audio/013.mp3",
+      "durationMs": 209920,
+      "bytes": 2540067,
+      "sha256": "d914ddca54f3de6d3ef28300c6e61e7492e6838dba094e4273cc649e42889978",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_008-016.zip",
+      "title": "Klima und Natur · Aufgabe 5a, 5c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 5,
+          "chapterTitle": "Klima und Natur",
+          "evidence": "Opening announcement: Aufgabe 5a, 5c; chapter follows the announced lesson 5 sequence",
+          "status": "chapter-context",
+          "exercise": "5a"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 5,
+          "chapterTitle": "Klima und Natur",
+          "evidence": "Opening announcement: Aufgabe 5a, 5c; chapter follows the announced lesson 5 sequence",
+          "status": "chapter-context",
+          "exercise": "5c"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "sourceFilename": "014_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-014",
+      "asset": "audio/014.mp3",
+      "durationMs": 496013,
+      "bytes": 5381469,
+      "sha256": "74be744d68d5ee662e9c6c44912608a6a59e5027f05a8514f4252db3db901b9c",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_008-016.zip",
+      "title": "Globalisierung · Aufgabe 1d, 1e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 6,
+          "chapterTitle": "Globalisierung",
+          "evidence": "Opening announcement: Lektion 6, Aufgabe 1d, 1e",
+          "status": "verified",
+          "exercise": "1d"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 6,
+          "chapterTitle": "Globalisierung",
+          "evidence": "Opening announcement: Lektion 6, Aufgabe 1d, 1e",
+          "status": "verified",
+          "exercise": "1e"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "sourceFilename": "015_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-015",
+      "asset": "audio/015.mp3",
+      "durationMs": 265404,
+      "bytes": 2877672,
+      "sha256": "11e4d7d7fcdc38c336995392ed32d2285fcb67bb1a61c3b1c5110648d9f461b3",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_008-016.zip",
+      "title": "Globalisierung · Aufgabe 5b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 6,
+          "chapterTitle": "Globalisierung",
+          "evidence": "Opening announcement: Aufgabe 5b; chapter follows the announced lesson 6 sequence",
+          "status": "chapter-context",
+          "exercise": "5b"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "sourceFilename": "016_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-016",
+      "asset": "audio/016.mp3",
+      "durationMs": 118674,
+      "bytes": 1313422,
+      "sha256": "31ad58d4a0e8ff5e1383bf201162f4bedbe7fafd12efb2eb399b2133eb57b92d",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_008-016.zip",
+      "title": "Globalisierung · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 6,
+          "chapterTitle": "Globalisierung",
+          "evidence": "Opening announcement: Aufgabe 6a; chapter follows the announced lesson 6 sequence",
+          "status": "chapter-context",
+          "exercise": "6a"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "sourceFilename": "017_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-017",
+      "asset": "audio/017.mp3",
+      "durationMs": 597185,
+      "bytes": 9340225,
+      "sha256": "d14bb47187730e2dec53ca6da3a98c136bd01660ce56427e146bbad4e48db7b1",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_017-019.zip",
+      "title": "Bildung · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 7,
+          "chapterTitle": "Bildung",
+          "evidence": "Opening announcement: Lektion 7, Aufgabe 2b",
+          "status": "verified",
+          "exercise": "2b"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "sourceFilename": "018_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-018",
+      "asset": "audio/018.mp3",
+      "durationMs": 510694,
+      "bytes": 6127601,
+      "sha256": "ba40cbefe063a91afb5862306b1ce66fadeb451e52753e7af8b8bce2774be612",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_017-019.zip",
+      "title": "Bildung · Aufgabe 6d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 7,
+          "chapterTitle": "Bildung",
+          "evidence": "Opening announcement: Aufgabe 6d; chapter follows the announced lesson 7 sequence",
+          "status": "chapter-context",
+          "exercise": "6d"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "sourceFilename": "019_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-019",
+      "asset": "audio/019.mp3",
+      "durationMs": 307905,
+      "bytes": 3900636,
+      "sha256": "9c9afdbbe95e2ee1a2321f0487da2d84c3825f7d59436eab6757e64e9023ab44",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_017-019.zip",
+      "title": "Bildung · Aufgabe 6e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 7,
+          "chapterTitle": "Bildung",
+          "evidence": "Opening announcement: Aufgabe 6e; chapter follows the announced lesson 7 sequence",
+          "status": "chapter-context",
+          "exercise": "6e"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "sourceFilename": "020_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-020",
+      "asset": "audio/020.mp3",
+      "durationMs": 109662,
+      "bytes": 1598562,
+      "sha256": "006d16d63455144f3cd9ab7b1f2a71ac0107a4733b1b41cf2146078078dfaf1a",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_020-031.zip",
+      "title": "Konflikte · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Lektion 8, Aufgabe 2a",
+          "status": "verified",
+          "exercise": "2a"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "sourceFilename": "021_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-021",
+      "asset": "audio/021.mp3",
+      "durationMs": 104307,
+      "bytes": 1539407,
+      "sha256": "91d1a7b6e594ef94ca14ac9abacc5b4fed33995fe6b739d4455e710905fdac82",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_020-031.zip",
+      "title": "Konflikte · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Aufgabe 2b; chapter follows the announced lesson 8 sequence",
+          "status": "chapter-context",
+          "exercise": "2b"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "sourceFilename": "022_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-022",
+      "asset": "audio/022.mp3",
+      "durationMs": 130508,
+      "bytes": 1966650,
+      "sha256": "956d35ed33563933378b9aad0645374d14388175ef7c669fb8d3e33fc346146b",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_020-031.zip",
+      "title": "Konflikte · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Aufgabe 2c; chapter follows the announced lesson 8 sequence",
+          "status": "chapter-context",
+          "exercise": "2c"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "sourceFilename": "023_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-023",
+      "asset": "audio/023.mp3",
+      "durationMs": 237976,
+      "bytes": 3703065,
+      "sha256": "58da35f15ec6ab92421656c0695146d943d0986da71004b3ec5d61724b07170f",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_020-031.zip",
+      "title": "Konflikte · Aufgabe 2d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Aufgabe 2d; chapter follows the announced lesson 8 sequence",
+          "status": "chapter-context",
+          "exercise": "2d"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "sourceFilename": "024_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-024",
+      "asset": "audio/024.mp3",
+      "durationMs": 74580,
+      "bytes": 1080085,
+      "sha256": "e190a2ddffde399381d8d7e4aa06af0935878bfd237c4edf8e56a31c84b0657b",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_020-031.zip",
+      "title": "Konflikte · Aufgabe 2e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Aufgabe 2e; chapter follows the announced lesson 8 sequence",
+          "status": "chapter-context",
+          "exercise": "2e"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "sourceFilename": "025_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-025",
+      "asset": "audio/025.mp3",
+      "durationMs": 53238,
+      "bytes": 673145,
+      "sha256": "59462ae7c7293f946d7844b3142cd5d396b73907c9a9ccfa851e5314ecc21dbd",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_020-031.zip",
+      "title": "Konflikte · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Aufgabe 3a; chapter follows the announced lesson 8 sequence",
+          "status": "chapter-context",
+          "exercise": "3a"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "sourceFilename": "026_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-026",
+      "asset": "audio/026.mp3",
+      "durationMs": 253336,
+      "bytes": 2905558,
+      "sha256": "ffd230cf483a7311773bbd63aa3fde81397f8f48f717f059f1415695ab79beb2",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_020-031.zip",
+      "title": "Gesellschaft · Aufgabe 2c, 2e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 9,
+          "chapterTitle": "Gesellschaft",
+          "evidence": "Opening announcement: Lektion 9, Aufgabe 2c, 2e",
+          "status": "verified",
+          "exercise": "2c"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 9,
+          "chapterTitle": "Gesellschaft",
+          "evidence": "Opening announcement: Lektion 9, Aufgabe 2c, 2e",
+          "status": "verified",
+          "exercise": "2e"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "sourceFilename": "027_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-027",
+      "asset": "audio/027.mp3",
+      "durationMs": 80039,
+      "bytes": 839472,
+      "sha256": "7ed2a8f06f70b07537bddd6967cb4d170309394790fed7eb9dfe364f3fb5d1d1",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_020-031.zip",
+      "title": "Wissen und Können · Aufgabe 1d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 10,
+          "chapterTitle": "Wissen und Können",
+          "evidence": "Opening announcement: Lektion 10, Aufgabe 1d",
+          "status": "verified",
+          "exercise": "1d"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "sourceFilename": "028_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-028",
+      "asset": "audio/028.mp3",
+      "durationMs": 352287,
+      "bytes": 5439525,
+      "sha256": "e01148aed6b18430a86be66e37553e6f5aa6a93382a63ad42249c78fb7e30c0c",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_020-031.zip",
+      "title": "Wissen und Können",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 10,
+          "chapterTitle": "Wissen und Können",
+          "evidence": "Opening announcement: no reliably recognized exercise label; chapter follows the announced lesson 10 sequence between tracks 27 and 29",
+          "status": "chapter-context"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "sourceFilename": "029_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-029",
+      "asset": "audio/029.mp3",
+      "durationMs": 197825,
+      "bytes": 2205525,
+      "sha256": "e1ac830460cfe3c8dd1c817829c15d0fc1b95f939856d4ee67dff857086e5fa4",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_020-031.zip",
+      "title": "Realität und Fiktion · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 11,
+          "chapterTitle": "Realität und Fiktion",
+          "evidence": "Opening announcement: Lektion 11, Aufgabe 2c",
+          "status": "verified",
+          "exercise": "2c"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "sourceFilename": "030_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-030",
+      "asset": "audio/030.mp3",
+      "durationMs": 175752,
+      "bytes": 1851008,
+      "sha256": "ba663291710bf5a83b3a7dd8b8ca8845789fd178073dd5833184519244f825bb",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_020-031.zip",
+      "title": "Realität und Fiktion · Aufgabe 5b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 11,
+          "chapterTitle": "Realität und Fiktion",
+          "evidence": "Opening announcement: Aufgabe 5b; chapter follows the announced lesson 11 sequence",
+          "status": "chapter-context",
+          "exercise": "5b"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "sourceFilename": "031_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-031",
+      "asset": "audio/031.mp3",
+      "durationMs": 129959,
+      "bytes": 1373647,
+      "sha256": "841b7d83396379a36cca6e228fea1a4f62daa4388b7f9bcdec7bc44375518c02",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_020-031.zip",
+      "title": "Fit für die Prüfung · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 12,
+          "chapterTitle": "Fit für die Prüfung",
+          "evidence": "Opening announcement: Lektion 12, Aufgabe 3a",
+          "status": "verified",
+          "exercise": "3a"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "sourceFilename": "032_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-032",
+      "asset": "audio/032.mp3",
+      "durationMs": 47778,
+      "bytes": 551039,
+      "sha256": "4d5b51a9933faa62e89aa56fbc7bf61b9fe0aa9d6bb6bfb2f76eedf8467c20da",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_032-043.zip",
+      "title": "Aussprache · Aufgabe 1a, 1b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "1a",
+          "evidence": "Opening announcement: Aufgabe 1a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "verified"
+        },
+        {
+          "section": "Aussprachetraining",
+          "exercise": "1b",
+          "evidence": "Opening announcement: Aufgabe 1b; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "sourceFilename": "033_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-033",
+      "asset": "audio/033.mp3",
+      "durationMs": 83931,
+      "bytes": 820543,
+      "sha256": "e5c6c431ba09b3d17e9b1f5228e9cb71fc16bb72af1ec345b1e5350dedff5614",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_032-043.zip",
+      "title": "Aussprache · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "2a",
+          "evidence": "Opening announcement: Aufgabe 2a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "sourceFilename": "034_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-034",
+      "asset": "audio/034.mp3",
+      "durationMs": 79360,
+      "bytes": 667945,
+      "sha256": "847750c3ad92a9d9832f9c335e9637490a3c78409e89e62dff1eb37bc7cc83d6",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_032-043.zip",
+      "title": "Aussprache · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "3a",
+          "evidence": "Opening announcement: Aufgabe 3a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "sourceFilename": "035_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-035",
+      "asset": "audio/035.mp3",
+      "durationMs": 143099,
+      "bytes": 892154,
+      "sha256": "cf95e8aefa1a6e919418fa132200905e6645cb7570d71d776c8044796f8d73fe",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_032-043.zip",
+      "title": "Aussprache · Aufgabe 3b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "3b",
+          "evidence": "Opening announcement: Aufgabe 3b; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "sourceFilename": "036_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-036",
+      "asset": "audio/036.mp3",
+      "durationMs": 70949,
+      "bytes": 966450,
+      "sha256": "a5f09469a9887e9067b2c83e552a2f9a02e30bd6669e4da47ea077c67330b40a",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_032-043.zip",
+      "title": "Aussprache · Aufgabe 4a, 4b, 4c",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "4a",
+          "evidence": "Opening announcement: Aufgabe 4a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        },
+        {
+          "section": "Aussprachetraining",
+          "exercise": "4b",
+          "evidence": "Opening announcement: Aufgabe 4b; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        },
+        {
+          "section": "Aussprachetraining",
+          "exercise": "4c",
+          "evidence": "Opening announcement: Aufgabe 4c; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "sourceFilename": "037_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-037",
+      "asset": "audio/037.mp3",
+      "durationMs": 80562,
+      "bytes": 1114007,
+      "sha256": "40d431ba6cf53fd2a2e9efa35cc3e447486288e34aad224641401db94fe8f485",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_032-043.zip",
+      "title": "Aussprache · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "5a",
+          "evidence": "Opening announcement: Aufgabe 5a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "sourceFilename": "038_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-038",
+      "asset": "audio/038.mp3",
+      "durationMs": 67056,
+      "bytes": 621415,
+      "sha256": "3bb60b38c1c1610955970fdb341bcdbf586ee83f89637fac205fac68d9caeabe",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_032-043.zip",
+      "title": "Aussprache · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "6a",
+          "evidence": "Opening announcement: Aufgabe 6a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "sourceFilename": "039_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-039",
+      "asset": "audio/039.mp3",
+      "durationMs": 37590,
+      "bytes": 269232,
+      "sha256": "18cf012e48f2d89a42f7ca31b8766e3fcf63455bdd7846818168317311a75c51",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_032-043.zip",
+      "title": "Aussprache · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "7a",
+          "evidence": "Opening announcement: Aufgabe 7a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "sourceFilename": "040_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-040",
+      "asset": "audio/040.mp3",
+      "durationMs": 44957,
+      "bytes": 300653,
+      "sha256": "a58cdf97ae19e5fdfc29b4b5f8be0ea03b6eb74c10926fd03630176b780bc779",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_032-043.zip",
+      "title": "Aussprache · Aufgabe 7b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "7b",
+          "evidence": "Opening announcement: Aufgabe 7b; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "sourceFilename": "041_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-041",
+      "asset": "audio/041.mp3",
+      "durationMs": 53420,
+      "bytes": 460918,
+      "sha256": "e41a9ba2291dbf19aaadbd60017331696743dc03480d5546f2bcb26ffad912ce",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_032-043.zip",
+      "title": "Aussprache · Aufgabe 7c",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "7c",
+          "evidence": "Opening announcement: Aufgabe 7c; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "sourceFilename": "042_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-042",
+      "asset": "audio/042.mp3",
+      "durationMs": 40359,
+      "bytes": 348615,
+      "sha256": "c864bd4732d51228144986a16d68eef144caa899259ef8a5370d336b4983c5a5",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_032-043.zip",
+      "title": "Aussprache · Aufgabe 8a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "8a",
+          "evidence": "Opening announcement: Aufgabe 8a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "sourceFilename": "043_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-043",
+      "asset": "audio/043.mp3",
+      "durationMs": 74449,
+      "bytes": 481808,
+      "sha256": "a9b2d3b4c6e0303385cac9b24433286640f242d6df3c0f4ed67a5b3cfd54d1ec",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_032-043.zip",
+      "title": "Aussprache · Aufgabe 8b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "8b",
+          "evidence": "Opening announcement: Aufgabe 8b; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "sourceFilename": "044_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-044",
+      "asset": "audio/044.mp3",
+      "durationMs": 138945,
+      "bytes": 1503706,
+      "sha256": "637e3f3fc82be2f0ec89a3c5647bce142dfc521b8bee631de149543653b0835a",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_044-054.zip",
+      "title": "Freizeit · Aufgabe 1b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 1,
+          "chapterTitle": "Freizeit",
+          "evidence": "Opening announcement: Lektion 1, Aufgabe 1b; explicit track marker in full-B2 sample, printed p. 133",
+          "status": "verified",
+          "exercise": "1b",
+          "page": 133
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "sourceFilename": "045_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-045",
+      "asset": "audio/045.mp3",
+      "durationMs": 151562,
+      "bytes": 1570668,
+      "sha256": "fc1322f3f234feeae063c0ec018edbf82612e3f57a6fb54905feec36a684c034",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_044-054.zip",
+      "title": "Freizeit · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 1,
+          "chapterTitle": "Freizeit",
+          "evidence": "Opening announcement: Aufgabe 4a; explicit track marker in full-B2 sample, printed p. 136",
+          "status": "verified",
+          "exercise": "4a",
+          "page": 136
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "sourceFilename": "046_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-046",
+      "asset": "audio/046.mp3",
+      "durationMs": 128000,
+      "bytes": 1395986,
+      "sha256": "eae6399eef9a2e00015507208fb512a717ecc06f359b6a82acb17ac29aaf2885",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_044-054.zip",
+      "title": "Lebenswege · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 3,
+          "chapterTitle": "Lebenswege",
+          "evidence": "Opening announcement: Lektion 3, Aufgabe 6a",
+          "status": "verified",
+          "exercise": "6a"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "sourceFilename": "047_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-047",
+      "asset": "audio/047.mp3",
+      "durationMs": 373838,
+      "bytes": 3821366,
+      "sha256": "9092a5f0955af35d7e68371f96d9b0cde3a6bd9ac04c501da50571bb4895b640",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_044-054.zip",
+      "title": "1. Etappe · Hörverstehen Teil 2",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "1. Etappe, Teil 2",
+          "evidence": "Opening announcement: 1. Etappe, Zwischentest, Hörverstehen Teil 2",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "sourceFilename": "048_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-048",
+      "asset": "audio/048.mp3",
+      "durationMs": 179827,
+      "bytes": 1914856,
+      "sha256": "be98416e374363acf5dd5480db2a116b82c1c1b5190301804f9686daff428a1f",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_044-054.zip",
+      "title": "Unterwegs · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Lektion 4, Aufgabe 2b; explicit track marker in full-B2 sample, printed p. 161",
+          "status": "verified",
+          "exercise": "2b",
+          "page": 161
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "sourceFilename": "049_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-049",
+      "asset": "audio/049.mp3",
+      "durationMs": 69277,
+      "bytes": 745132,
+      "sha256": "a7a914e1d1d65c710d368f70de0bb254e8dd55bb3cb9ef9d7982ec0be7bc9fec",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_044-054.zip",
+      "title": "Unterwegs · Aufgabe 5c",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Aufgabe 5c; chapter follows the announced lesson 4 sequence",
+          "status": "chapter-context",
+          "exercise": "5c"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "sourceFilename": "050_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-050",
+      "asset": "audio/050.mp3",
+      "durationMs": 259004,
+      "bytes": 2865221,
+      "sha256": "b5854b2f8b5d5efa0e1bd6e2946a3cc6603e3c2ab703d3e9b9bff72b2282e1f4",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_044-054.zip",
+      "title": "Unterwegs · Aufgabe 5d",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Aufgabe 5d; chapter follows the announced lesson 4 sequence",
+          "status": "chapter-context",
+          "exercise": "5d"
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "sourceFilename": "051_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-051",
+      "asset": "audio/051.mp3",
+      "durationMs": 131030,
+      "bytes": 1485191,
+      "sha256": "5745f8bf579f6725c4ca4c1c3ce8452c9ddb0062c28ff234a471b6650b4161f3",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_044-054.zip",
+      "title": "Klima und Natur · Aufgabe 2",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 5,
+          "chapterTitle": "Klima und Natur",
+          "evidence": "Opening announcement: Lektion 5, Aufgabe 2",
+          "status": "verified",
+          "exercise": "2"
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "sourceFilename": "052_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-052",
+      "asset": "audio/052.mp3",
+      "durationMs": 142681,
+      "bytes": 1592689,
+      "sha256": "6537b3b2ce8cf5174d61deafc756999bf4ed3a298fab46dd2cd33505e71d84ae",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_044-054.zip",
+      "title": "Globalisierung · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 6,
+          "chapterTitle": "Globalisierung",
+          "evidence": "Opening announcement: Lektion 6, Aufgabe 1a",
+          "status": "verified",
+          "exercise": "1a"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "sourceFilename": "053_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-053",
+      "asset": "audio/053.mp3",
+      "durationMs": 261094,
+      "bytes": 2673187,
+      "sha256": "8c57f427c9ec3f1e5903c6cf4e2374e975c37b5e838adf2d51430364c29955e0",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_044-054.zip",
+      "title": "2. Etappe · Hörverstehen Teil 1",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "2. Etappe, Teil 1",
+          "evidence": "Opening announcement: 2. Etappe, Zwischentest, Hörverstehen Teil 1",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "sourceFilename": "054_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-054",
+      "asset": "audio/054.mp3",
+      "durationMs": 176823,
+      "bytes": 1880145,
+      "sha256": "5e4d8f5827ff4e90f4d8057b1f8a78a2ea9c2c1012b9d22e706c5b972f5ae1ba",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_044-054.zip",
+      "title": "Bildung · Aufgabe 5",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 7,
+          "chapterTitle": "Bildung",
+          "evidence": "Opening announcement: Lektion 7, Aufgabe 5",
+          "status": "verified",
+          "exercise": "5"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "sourceFilename": "055_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-055",
+      "asset": "audio/055.mp3",
+      "durationMs": 170475,
+      "bytes": 1976731,
+      "sha256": "6b7ba4ba2e757260e5974fa3eba8bb7e7daedb591028adb15e045d4d21dc36dd",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_055-063.zip",
+      "title": "Konflikte · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Lektion 8, Aufgabe 4a",
+          "status": "verified",
+          "exercise": "4a"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "sourceFilename": "056_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-056",
+      "asset": "audio/056.mp3",
+      "durationMs": 113189,
+      "bytes": 1215486,
+      "sha256": "f0aa92fc90819e99cf31c10d1c886f7cf5e104873a2c8d85a62af89c56d07f59",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_055-063.zip",
+      "title": "Gesellschaft · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 9,
+          "chapterTitle": "Gesellschaft",
+          "evidence": "Opening announcement: Lektion 9, Aufgabe 2b",
+          "status": "verified",
+          "exercise": "2b"
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "sourceFilename": "057_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-057",
+      "asset": "audio/057.mp3",
+      "durationMs": 194142,
+      "bytes": 2144769,
+      "sha256": "a7ade155fe7d5b34957b6bdc23c5c7049ad676d73cd48125287b370898d5ec33",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_055-063.zip",
+      "title": "3. Etappe · Hörverstehen Teil 3",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "3. Etappe, Teil 3",
+          "evidence": "Opening announcement: 3. Etappe, Zwischentest, Hörverstehen Teil 3",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "sourceFilename": "058_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-058",
+      "asset": "audio/058.mp3",
+      "durationMs": 210286,
+      "bytes": 2243770,
+      "sha256": "ac6c51a2759e2a5d0c6c034781fd8ca59ccb87c2c2f91058af19eb30b97036a3",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_055-063.zip",
+      "title": "Wissen und Können · Aufgabe 8c",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 10,
+          "chapterTitle": "Wissen und Können",
+          "evidence": "Opening announcement: Lektion 10, Aufgabe 8c; small/base 12-second passes agree",
+          "status": "verified",
+          "exercise": "8c"
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "sourceFilename": "059_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-059",
+      "asset": "audio/059.mp3",
+      "durationMs": 175464,
+      "bytes": 1952232,
+      "sha256": "ae96a51f820d29ec108cee76b3e3b6d4931d39caefe9b72d810ff6e422d3b260",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_055-063.zip",
+      "title": "Realität und Fiktion · Aufgabe 1a, 1b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 11,
+          "chapterTitle": "Realität und Fiktion",
+          "evidence": "Opening announcement: Lektion 11, Aufgabe 1a, 1b",
+          "status": "verified",
+          "exercise": "1a"
+        },
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 11,
+          "chapterTitle": "Realität und Fiktion",
+          "evidence": "Opening announcement: Lektion 11, Aufgabe 1a, 1b",
+          "status": "verified",
+          "exercise": "1b"
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "sourceFilename": "060_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-060",
+      "asset": "audio/060.mp3",
+      "durationMs": 469394,
+      "bytes": 4951591,
+      "sha256": "ae9f92bfa10b09692eadc37b24d35aafd26c7968afa9c0eaac7b9098364688d0",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_055-063.zip",
+      "title": "4. Etappe · Hörverstehen Teil 2",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "4. Etappe, Teil 2",
+          "evidence": "Opening announcement: 4. Etappe, Zwischentest, Hörverstehen Teil 2",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "sourceFilename": "061_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-061",
+      "asset": "audio/061.mp3",
+      "durationMs": 410828,
+      "bytes": 4444897,
+      "sha256": "d8dd9b96ce2859abcd2045f01378d2a83a8a94a6b11c530d059ad6b40eb38802",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_055-063.zip",
+      "title": "Übungstest · Hörverstehen Teil 1",
+      "references": [
+        {
+          "section": "Übungstest telc Deutsch B2",
+          "exercise": "Hörverstehen Teil 1",
+          "evidence": "Opening announcement: Hörverstehen Teil 1; Übungstest telc Deutsch B2 explicitly announced at track 61",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "sourceFilename": "062_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-062",
+      "asset": "audio/062.mp3",
+      "durationMs": 586031,
+      "bytes": 5870833,
+      "sha256": "22fdfd39636699705fa16051a53a6ecda7516f5de56a4c11714697d1f7042e9d",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_055-063.zip",
+      "title": "Übungstest · Hörverstehen Teil 2",
+      "references": [
+        {
+          "section": "Übungstest telc Deutsch B2",
+          "exercise": "Hörverstehen Teil 2",
+          "evidence": "Opening announcement: Hörverstehen Teil 2; Übungstest telc Deutsch B2 explicitly announced at track 61",
+          "status": "chapter-context"
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "sourceFilename": "063_telc_Einfach_weiter!_Deutsch_B2_Kurs-_und_Arbeitsbuch.mp3",
+      "id": "b2-063",
+      "asset": "audio/063.mp3",
+      "durationMs": 371984,
+      "bytes": 3512126,
+      "sha256": "6115bd6ef83cc70266aa80907f7b09b80fa89837c9d03b3880af39a41ecb85af",
+      "archiveUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_weiter/Audios/Einfach_weiter_Track_055-063.zip",
+      "title": "Übungstest · Hörverstehen Teil 3",
+      "references": [
+        {
+          "section": "Übungstest telc Deutsch B2",
+          "exercise": "Hörverstehen Teil 3",
+          "evidence": "Opening announcement: Hörverstehen Teil 3; Übungstest telc Deutsch B2 explicitly announced at track 61",
+          "status": "chapter-context"
+        }
+      ]
+    }
+  ]
+}

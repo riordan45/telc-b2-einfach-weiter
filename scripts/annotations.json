@@ -1,0 +1,877 @@
+{
+  "1": {
+    "title": "Einführung · Einfach weiter! B2",
+    "references": []
+  },
+  "2": {
+    "title": "Freizeit · Aufgabe 2b",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 1,
+        "chapterTitle": "Freizeit",
+        "evidence": "Opening announcement: Lektion 1, Aufgabe 2b; explicit track marker in full-B2 sample, printed p. 9",
+        "status": "verified",
+        "exercise": "2b",
+        "page": 9
+      }
+    ]
+  },
+  "3": {
+    "title": "Freizeit · Aufgabe 6b, 6c",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 1,
+        "chapterTitle": "Freizeit",
+        "evidence": "Opening announcement: Aufgabe 6b, 6c; explicit track marker in full-B2 sample, printed p. 15",
+        "status": "verified",
+        "exercise": "6b",
+        "page": 15
+      },
+      {
+        "section": "Kursbuch",
+        "chapter": 1,
+        "chapterTitle": "Freizeit",
+        "evidence": "Opening announcement: Aufgabe 6b, 6c; explicit track marker in full-B2 sample, printed p. 15",
+        "status": "verified",
+        "exercise": "6c",
+        "page": 15
+      }
+    ]
+  },
+  "4": {
+    "title": "Arbeit und Beruf · Aufgabe 2b, 2c",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 2,
+        "chapterTitle": "Arbeit und Beruf",
+        "evidence": "Opening announcement: Lektion 2, Aufgabe 2b, 2c",
+        "status": "verified",
+        "exercise": "2b"
+      },
+      {
+        "section": "Kursbuch",
+        "chapter": 2,
+        "chapterTitle": "Arbeit und Beruf",
+        "evidence": "Opening announcement: Lektion 2, Aufgabe 2b, 2c",
+        "status": "verified",
+        "exercise": "2c"
+      }
+    ]
+  },
+  "5": {
+    "title": "Arbeit und Beruf · Aufgabe 4c, 4d",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 2,
+        "chapterTitle": "Arbeit und Beruf",
+        "evidence": "Opening announcement: Aufgabe 4c, 4d; chapter follows the announced lesson 2 sequence",
+        "status": "chapter-context",
+        "exercise": "4c"
+      },
+      {
+        "section": "Kursbuch",
+        "chapter": 2,
+        "chapterTitle": "Arbeit und Beruf",
+        "evidence": "Opening announcement: Aufgabe 4c, 4d; chapter follows the announced lesson 2 sequence",
+        "status": "chapter-context",
+        "exercise": "4d"
+      }
+    ]
+  },
+  "6": {
+    "title": "Lebenswege · Aufgabe 1b, 1e",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 3,
+        "chapterTitle": "Lebenswege",
+        "evidence": "Opening announcement: Lektion 3, Aufgabe 1b, 1e",
+        "status": "verified",
+        "exercise": "1b"
+      },
+      {
+        "section": "Kursbuch",
+        "chapter": 3,
+        "chapterTitle": "Lebenswege",
+        "evidence": "Opening announcement: Lektion 3, Aufgabe 1b, 1e",
+        "status": "verified",
+        "exercise": "1e"
+      }
+    ]
+  },
+  "7": {
+    "title": "Lebenswege · Aufgabe 6a",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 3,
+        "chapterTitle": "Lebenswege",
+        "evidence": "Opening announcement: Aufgabe 6a; chapter follows the announced lesson 3 sequence",
+        "status": "chapter-context",
+        "exercise": "6a"
+      }
+    ]
+  },
+  "8": {
+    "title": "Unterwegs · Aufgabe 3a, 3c",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 4,
+        "chapterTitle": "Unterwegs",
+        "evidence": "Opening announcement: Lektion 4, Aufgabe 3a, 3c",
+        "status": "verified",
+        "exercise": "3a"
+      },
+      {
+        "section": "Kursbuch",
+        "chapter": 4,
+        "chapterTitle": "Unterwegs",
+        "evidence": "Opening announcement: Lektion 4, Aufgabe 3a, 3c",
+        "status": "verified",
+        "exercise": "3c"
+      }
+    ]
+  },
+  "9": {
+    "title": "Unterwegs · Aufgabe 6a",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 4,
+        "chapterTitle": "Unterwegs",
+        "evidence": "Opening announcement: Aufgabe 6a; chapter follows the announced lesson 4 sequence",
+        "status": "chapter-context",
+        "exercise": "6a"
+      }
+    ]
+  },
+  "10": {
+    "title": "Unterwegs · Aufgabe 6c",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 4,
+        "chapterTitle": "Unterwegs",
+        "evidence": "Opening announcement: Aufgabe 6c; chapter follows the announced lesson 4 sequence",
+        "status": "chapter-context",
+        "exercise": "6c"
+      }
+    ]
+  },
+  "11": {
+    "title": "Klima und Natur · Aufgabe 2a, 2c",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 5,
+        "chapterTitle": "Klima und Natur",
+        "evidence": "Opening announcement: Lektion 5, Aufgabe 2a, 2c; lesson/exercise recovered by base-model cross-check of first 12 seconds",
+        "status": "verified",
+        "exercise": "2a"
+      },
+      {
+        "section": "Kursbuch",
+        "chapter": 5,
+        "chapterTitle": "Klima und Natur",
+        "evidence": "Opening announcement: Lektion 5, Aufgabe 2a, 2c; lesson/exercise recovered by base-model cross-check of first 12 seconds",
+        "status": "verified",
+        "exercise": "2c"
+      }
+    ]
+  },
+  "12": {
+    "title": "Klima und Natur · Aufgabe 2e",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 5,
+        "chapterTitle": "Klima und Natur",
+        "evidence": "Opening announcement: Aufgabe 2e; chapter follows the announced lesson 5 sequence",
+        "status": "chapter-context",
+        "exercise": "2e"
+      }
+    ]
+  },
+  "13": {
+    "title": "Klima und Natur · Aufgabe 5a, 5c",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 5,
+        "chapterTitle": "Klima und Natur",
+        "evidence": "Opening announcement: Aufgabe 5a, 5c; chapter follows the announced lesson 5 sequence",
+        "status": "chapter-context",
+        "exercise": "5a"
+      },
+      {
+        "section": "Kursbuch",
+        "chapter": 5,
+        "chapterTitle": "Klima und Natur",
+        "evidence": "Opening announcement: Aufgabe 5a, 5c; chapter follows the announced lesson 5 sequence",
+        "status": "chapter-context",
+        "exercise": "5c"
+      }
+    ]
+  },
+  "14": {
+    "title": "Globalisierung · Aufgabe 1d, 1e",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 6,
+        "chapterTitle": "Globalisierung",
+        "evidence": "Opening announcement: Lektion 6, Aufgabe 1d, 1e",
+        "status": "verified",
+        "exercise": "1d"
+      },
+      {
+        "section": "Kursbuch",
+        "chapter": 6,
+        "chapterTitle": "Globalisierung",
+        "evidence": "Opening announcement: Lektion 6, Aufgabe 1d, 1e",
+        "status": "verified",
+        "exercise": "1e"
+      }
+    ]
+  },
+  "15": {
+    "title": "Globalisierung · Aufgabe 5b",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 6,
+        "chapterTitle": "Globalisierung",
+        "evidence": "Opening announcement: Aufgabe 5b; chapter follows the announced lesson 6 sequence",
+        "status": "chapter-context",
+        "exercise": "5b"
+      }
+    ]
+  },
+  "16": {
+    "title": "Globalisierung · Aufgabe 6a",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 6,
+        "chapterTitle": "Globalisierung",
+        "evidence": "Opening announcement: Aufgabe 6a; chapter follows the announced lesson 6 sequence",
+        "status": "chapter-context",
+        "exercise": "6a"
+      }
+    ]
+  },
+  "17": {
+    "title": "Bildung · Aufgabe 2b",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 7,
+        "chapterTitle": "Bildung",
+        "evidence": "Opening announcement: Lektion 7, Aufgabe 2b",
+        "status": "verified",
+        "exercise": "2b"
+      }
+    ]
+  },
+  "18": {
+    "title": "Bildung · Aufgabe 6d",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 7,
+        "chapterTitle": "Bildung",
+        "evidence": "Opening announcement: Aufgabe 6d; chapter follows the announced lesson 7 sequence",
+        "status": "chapter-context",
+        "exercise": "6d"
+      }
+    ]
+  },
+  "19": {
+    "title": "Bildung · Aufgabe 6e",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 7,
+        "chapterTitle": "Bildung",
+        "evidence": "Opening announcement: Aufgabe 6e; chapter follows the announced lesson 7 sequence",
+        "status": "chapter-context",
+        "exercise": "6e"
+      }
+    ]
+  },
+  "20": {
+    "title": "Konflikte · Aufgabe 2a",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 8,
+        "chapterTitle": "Konflikte",
+        "evidence": "Opening announcement: Lektion 8, Aufgabe 2a",
+        "status": "verified",
+        "exercise": "2a"
+      }
+    ]
+  },
+  "21": {
+    "title": "Konflikte · Aufgabe 2b",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 8,
+        "chapterTitle": "Konflikte",
+        "evidence": "Opening announcement: Aufgabe 2b; chapter follows the announced lesson 8 sequence",
+        "status": "chapter-context",
+        "exercise": "2b"
+      }
+    ]
+  },
+  "22": {
+    "title": "Konflikte · Aufgabe 2c",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 8,
+        "chapterTitle": "Konflikte",
+        "evidence": "Opening announcement: Aufgabe 2c; chapter follows the announced lesson 8 sequence",
+        "status": "chapter-context",
+        "exercise": "2c"
+      }
+    ]
+  },
+  "23": {
+    "title": "Konflikte · Aufgabe 2d",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 8,
+        "chapterTitle": "Konflikte",
+        "evidence": "Opening announcement: Aufgabe 2d; chapter follows the announced lesson 8 sequence",
+        "status": "chapter-context",
+        "exercise": "2d"
+      }
+    ]
+  },
+  "24": {
+    "title": "Konflikte · Aufgabe 2e",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 8,
+        "chapterTitle": "Konflikte",
+        "evidence": "Opening announcement: Aufgabe 2e; chapter follows the announced lesson 8 sequence",
+        "status": "chapter-context",
+        "exercise": "2e"
+      }
+    ]
+  },
+  "25": {
+    "title": "Konflikte · Aufgabe 3a",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 8,
+        "chapterTitle": "Konflikte",
+        "evidence": "Opening announcement: Aufgabe 3a; chapter follows the announced lesson 8 sequence",
+        "status": "chapter-context",
+        "exercise": "3a"
+      }
+    ]
+  },
+  "26": {
+    "title": "Gesellschaft · Aufgabe 2c, 2e",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 9,
+        "chapterTitle": "Gesellschaft",
+        "evidence": "Opening announcement: Lektion 9, Aufgabe 2c, 2e",
+        "status": "verified",
+        "exercise": "2c"
+      },
+      {
+        "section": "Kursbuch",
+        "chapter": 9,
+        "chapterTitle": "Gesellschaft",
+        "evidence": "Opening announcement: Lektion 9, Aufgabe 2c, 2e",
+        "status": "verified",
+        "exercise": "2e"
+      }
+    ]
+  },
+  "27": {
+    "title": "Wissen und Können · Aufgabe 1d",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 10,
+        "chapterTitle": "Wissen und Können",
+        "evidence": "Opening announcement: Lektion 10, Aufgabe 1d",
+        "status": "verified",
+        "exercise": "1d"
+      }
+    ]
+  },
+  "28": {
+    "title": "Wissen und Können",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 10,
+        "chapterTitle": "Wissen und Können",
+        "evidence": "Opening announcement: no reliably recognized exercise label; chapter follows the announced lesson 10 sequence between tracks 27 and 29",
+        "status": "chapter-context"
+      }
+    ]
+  },
+  "29": {
+    "title": "Realität und Fiktion · Aufgabe 2c",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 11,
+        "chapterTitle": "Realität und Fiktion",
+        "evidence": "Opening announcement: Lektion 11, Aufgabe 2c",
+        "status": "verified",
+        "exercise": "2c"
+      }
+    ]
+  },
+  "30": {
+    "title": "Realität und Fiktion · Aufgabe 5b",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 11,
+        "chapterTitle": "Realität und Fiktion",
+        "evidence": "Opening announcement: Aufgabe 5b; chapter follows the announced lesson 11 sequence",
+        "status": "chapter-context",
+        "exercise": "5b"
+      }
+    ]
+  },
+  "31": {
+    "title": "Fit für die Prüfung · Aufgabe 3a",
+    "references": [
+      {
+        "section": "Kursbuch",
+        "chapter": 12,
+        "chapterTitle": "Fit für die Prüfung",
+        "evidence": "Opening announcement: Lektion 12, Aufgabe 3a",
+        "status": "verified",
+        "exercise": "3a"
+      }
+    ]
+  },
+  "32": {
+    "title": "Aussprache · Aufgabe 1a, 1b",
+    "references": [
+      {
+        "section": "Aussprachetraining",
+        "exercise": "1a",
+        "evidence": "Opening announcement: Aufgabe 1a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "verified"
+      },
+      {
+        "section": "Aussprachetraining",
+        "exercise": "1b",
+        "evidence": "Opening announcement: Aufgabe 1b; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "verified"
+      }
+    ]
+  },
+  "33": {
+    "title": "Aussprache · Aufgabe 2a",
+    "references": [
+      {
+        "section": "Aussprachetraining",
+        "exercise": "2a",
+        "evidence": "Opening announcement: Aufgabe 2a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "chapter-context"
+      }
+    ]
+  },
+  "34": {
+    "title": "Aussprache · Aufgabe 3a",
+    "references": [
+      {
+        "section": "Aussprachetraining",
+        "exercise": "3a",
+        "evidence": "Opening announcement: Aufgabe 3a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "chapter-context"
+      }
+    ]
+  },
+  "35": {
+    "title": "Aussprache · Aufgabe 3b",
+    "references": [
+      {
+        "section": "Aussprachetraining",
+        "exercise": "3b",
+        "evidence": "Opening announcement: Aufgabe 3b; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "chapter-context"
+      }
+    ]
+  },
+  "36": {
+    "title": "Aussprache · Aufgabe 4a, 4b, 4c",
+    "references": [
+      {
+        "section": "Aussprachetraining",
+        "exercise": "4a",
+        "evidence": "Opening announcement: Aufgabe 4a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "chapter-context"
+      },
+      {
+        "section": "Aussprachetraining",
+        "exercise": "4b",
+        "evidence": "Opening announcement: Aufgabe 4b; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "chapter-context"
+      },
+      {
+        "section": "Aussprachetraining",
+        "exercise": "4c",
+        "evidence": "Opening announcement: Aufgabe 4c; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "chapter-context"
+      }
+    ]
+  },
+  "37": {
+    "title": "Aussprache · Aufgabe 5a",
+    "references": [
+      {
+        "section": "Aussprachetraining",
+        "exercise": "5a",
+        "evidence": "Opening announcement: Aufgabe 5a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "chapter-context"
+      }
+    ]
+  },
+  "38": {
+    "title": "Aussprache · Aufgabe 6a",
+    "references": [
+      {
+        "section": "Aussprachetraining",
+        "exercise": "6a",
+        "evidence": "Opening announcement: Aufgabe 6a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "chapter-context"
+      }
+    ]
+  },
+  "39": {
+    "title": "Aussprache · Aufgabe 7a",
+    "references": [
+      {
+        "section": "Aussprachetraining",
+        "exercise": "7a",
+        "evidence": "Opening announcement: Aufgabe 7a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "chapter-context"
+      }
+    ]
+  },
+  "40": {
+    "title": "Aussprache · Aufgabe 7b",
+    "references": [
+      {
+        "section": "Aussprachetraining",
+        "exercise": "7b",
+        "evidence": "Opening announcement: Aufgabe 7b; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "chapter-context"
+      }
+    ]
+  },
+  "41": {
+    "title": "Aussprache · Aufgabe 7c",
+    "references": [
+      {
+        "section": "Aussprachetraining",
+        "exercise": "7c",
+        "evidence": "Opening announcement: Aufgabe 7c; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "chapter-context"
+      }
+    ]
+  },
+  "42": {
+    "title": "Aussprache · Aufgabe 8a",
+    "references": [
+      {
+        "section": "Aussprachetraining",
+        "exercise": "8a",
+        "evidence": "Opening announcement: Aufgabe 8a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "chapter-context"
+      }
+    ]
+  },
+  "43": {
+    "title": "Aussprache · Aufgabe 8b",
+    "references": [
+      {
+        "section": "Aussprachetraining",
+        "exercise": "8b",
+        "evidence": "Opening announcement: Aufgabe 8b; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+        "status": "chapter-context"
+      }
+    ]
+  },
+  "44": {
+    "title": "Freizeit · Aufgabe 1b",
+    "references": [
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 1,
+        "chapterTitle": "Freizeit",
+        "evidence": "Opening announcement: Lektion 1, Aufgabe 1b; explicit track marker in full-B2 sample, printed p. 133",
+        "status": "verified",
+        "exercise": "1b",
+        "page": 133
+      }
+    ]
+  },
+  "45": {
+    "title": "Freizeit · Aufgabe 4a",
+    "references": [
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 1,
+        "chapterTitle": "Freizeit",
+        "evidence": "Opening announcement: Aufgabe 4a; explicit track marker in full-B2 sample, printed p. 136",
+        "status": "verified",
+        "exercise": "4a",
+        "page": 136
+      }
+    ]
+  },
+  "46": {
+    "title": "Lebenswege · Aufgabe 6a",
+    "references": [
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 3,
+        "chapterTitle": "Lebenswege",
+        "evidence": "Opening announcement: Lektion 3, Aufgabe 6a",
+        "status": "verified",
+        "exercise": "6a"
+      }
+    ]
+  },
+  "47": {
+    "title": "1. Etappe · Hörverstehen Teil 2",
+    "references": [
+      {
+        "section": "Zwischentests",
+        "exercise": "1. Etappe, Teil 2",
+        "evidence": "Opening announcement: 1. Etappe, Zwischentest, Hörverstehen Teil 2",
+        "status": "verified"
+      }
+    ]
+  },
+  "48": {
+    "title": "Unterwegs · Aufgabe 2b",
+    "references": [
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 4,
+        "chapterTitle": "Unterwegs",
+        "evidence": "Opening announcement: Lektion 4, Aufgabe 2b; explicit track marker in full-B2 sample, printed p. 161",
+        "status": "verified",
+        "exercise": "2b",
+        "page": 161
+      }
+    ]
+  },
+  "49": {
+    "title": "Unterwegs · Aufgabe 5c",
+    "references": [
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 4,
+        "chapterTitle": "Unterwegs",
+        "evidence": "Opening announcement: Aufgabe 5c; chapter follows the announced lesson 4 sequence",
+        "status": "chapter-context",
+        "exercise": "5c"
+      }
+    ]
+  },
+  "50": {
+    "title": "Unterwegs · Aufgabe 5d",
+    "references": [
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 4,
+        "chapterTitle": "Unterwegs",
+        "evidence": "Opening announcement: Aufgabe 5d; chapter follows the announced lesson 4 sequence",
+        "status": "chapter-context",
+        "exercise": "5d"
+      }
+    ]
+  },
+  "51": {
+    "title": "Klima und Natur · Aufgabe 2",
+    "references": [
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 5,
+        "chapterTitle": "Klima und Natur",
+        "evidence": "Opening announcement: Lektion 5, Aufgabe 2",
+        "status": "verified",
+        "exercise": "2"
+      }
+    ]
+  },
+  "52": {
+    "title": "Globalisierung · Aufgabe 1a",
+    "references": [
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 6,
+        "chapterTitle": "Globalisierung",
+        "evidence": "Opening announcement: Lektion 6, Aufgabe 1a",
+        "status": "verified",
+        "exercise": "1a"
+      }
+    ]
+  },
+  "53": {
+    "title": "2. Etappe · Hörverstehen Teil 1",
+    "references": [
+      {
+        "section": "Zwischentests",
+        "exercise": "2. Etappe, Teil 1",
+        "evidence": "Opening announcement: 2. Etappe, Zwischentest, Hörverstehen Teil 1",
+        "status": "verified"
+      }
+    ]
+  },
+  "54": {
+    "title": "Bildung · Aufgabe 5",
+    "references": [
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 7,
+        "chapterTitle": "Bildung",
+        "evidence": "Opening announcement: Lektion 7, Aufgabe 5",
+        "status": "verified",
+        "exercise": "5"
+      }
+    ]
+  },
+  "55": {
+    "title": "Konflikte · Aufgabe 4a",
+    "references": [
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 8,
+        "chapterTitle": "Konflikte",
+        "evidence": "Opening announcement: Lektion 8, Aufgabe 4a",
+        "status": "verified",
+        "exercise": "4a"
+      }
+    ]
+  },
+  "56": {
+    "title": "Gesellschaft · Aufgabe 2b",
+    "references": [
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 9,
+        "chapterTitle": "Gesellschaft",
+        "evidence": "Opening announcement: Lektion 9, Aufgabe 2b",
+        "status": "verified",
+        "exercise": "2b"
+      }
+    ]
+  },
+  "57": {
+    "title": "3. Etappe · Hörverstehen Teil 3",
+    "references": [
+      {
+        "section": "Zwischentests",
+        "exercise": "3. Etappe, Teil 3",
+        "evidence": "Opening announcement: 3. Etappe, Zwischentest, Hörverstehen Teil 3",
+        "status": "verified"
+      }
+    ]
+  },
+  "58": {
+    "title": "Wissen und Können · Aufgabe 8c",
+    "references": [
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 10,
+        "chapterTitle": "Wissen und Können",
+        "evidence": "Opening announcement: Lektion 10, Aufgabe 8c; small/base 12-second passes agree",
+        "status": "verified",
+        "exercise": "8c"
+      }
+    ]
+  },
+  "59": {
+    "title": "Realität und Fiktion · Aufgabe 1a, 1b",
+    "references": [
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 11,
+        "chapterTitle": "Realität und Fiktion",
+        "evidence": "Opening announcement: Lektion 11, Aufgabe 1a, 1b",
+        "status": "verified",
+        "exercise": "1a"
+      },
+      {
+        "section": "Arbeitsbuch",
+        "chapter": 11,
+        "chapterTitle": "Realität und Fiktion",
+        "evidence": "Opening announcement: Lektion 11, Aufgabe 1a, 1b",
+        "status": "verified",
+        "exercise": "1b"
+      }
+    ]
+  },
+  "60": {
+    "title": "4. Etappe · Hörverstehen Teil 2",
+    "references": [
+      {
+        "section": "Zwischentests",
+        "exercise": "4. Etappe, Teil 2",
+        "evidence": "Opening announcement: 4. Etappe, Zwischentest, Hörverstehen Teil 2",
+        "status": "verified"
+      }
+    ]
+  },
+  "61": {
+    "title": "Übungstest · Hörverstehen Teil 1",
+    "references": [
+      {
+        "section": "Übungstest telc Deutsch B2",
+        "exercise": "Hörverstehen Teil 1",
+        "evidence": "Opening announcement: Hörverstehen Teil 1; Übungstest telc Deutsch B2 explicitly announced at track 61",
+        "status": "verified"
+      }
+    ]
+  },
+  "62": {
+    "title": "Übungstest · Hörverstehen Teil 2",
+    "references": [
+      {
+        "section": "Übungstest telc Deutsch B2",
+        "exercise": "Hörverstehen Teil 2",
+        "evidence": "Opening announcement: Hörverstehen Teil 2; Übungstest telc Deutsch B2 explicitly announced at track 61",
+        "status": "chapter-context"
+      }
+    ]
+  },
+  "63": {
+    "title": "Übungstest · Hörverstehen Teil 3",
+    "references": [
+      {
+        "section": "Übungstest telc Deutsch B2",
+        "exercise": "Hörverstehen Teil 3",
+        "evidence": "Opening announcement: Hörverstehen Teil 3; Übungstest telc Deutsch B2 explicitly announced at track 61",
+        "status": "chapter-context"
+      }
+    ]
+  }
+}
