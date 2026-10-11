@@ -2,6 +2,7 @@ package com.example.weiterb2
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
+import androidx.activity.compose.BackHandler
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.*
@@ -16,6 +17,7 @@ import androidx.compose.material.icons.rounded.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.runtime.saveable.rememberSaveable
+import androidx.compose.runtime.saveable.listSaver
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -53,27 +55,45 @@ fun StudyApp(vm: StudyViewModel = viewModel()) {
     val progress by vm.progress.collectAsStateWithLifecycle()
     val bookmarks by vm.bookmarks.collectAsStateWithLifecycle()
     val settings by vm.settings.collectAsStateWithLifecycle()
-    var tab by rememberSaveable { mutableIntStateOf(0) }
+    var navigation by rememberSaveable(stateSaver = listSaver<AppNavigation, String>(
+        save = { listOf(it.menu) + it.path },
+        restore = { AppNavigation(it.first(), it.drop(1)) },
+    )) { mutableStateOf(AppNavigation()) }
     var playerOpen by rememberSaveable { mutableStateOf(false) }
     val current = vm.tracks.find { it.id == playback.trackId }
     fun open(track: Track, position: Long? = null) { vm.select(track, position); playerOpen = true }
+    // Menus register their content here; adding one needs no new Back-button logic.
+    val menus = listOf(
+        TopLevelMenu(AppNavigation.HOME, "Library", Icons.Rounded.Headphones) { padding ->
+            Library(vm.tracks, progress, playback.ready, Modifier.padding(padding), ::open,
+                group = navigation.path.lastOrNull(),
+                selectGroup = { navigation = navigation.open(it) },
+                clearGroup = { navigation = navigation.copy(path = emptyList()) },
+                goBack = { navigation = navigation.back() })
+        },
+        TopLevelMenu("saved", "Saved", Icons.Rounded.Bookmarks) { padding ->
+            Saved(vm.tracks, progress, bookmarks, Modifier.padding(padding), ::open, vm::editBookmark, vm::deleteBookmark)
+        },
+        TopLevelMenu("settings", "Settings", Icons.Rounded.Settings) { padding ->
+            Settings(settings, Modifier.padding(padding), vm::continuous)
+        },
+    )
+    BackHandler(enabled = playerOpen || navigation.canGoBack) {
+        if (playerOpen) playerOpen = false else navigation = navigation.back()
+    }
     Scaffold(
         bottomBar = {
             Column {
                 if (current != null) MiniPlayer(current, playback, vm::togglePlayback) { playerOpen = true }
                 NavigationBar {
-                    listOf("Library" to Icons.Rounded.Headphones, "Saved" to Icons.Rounded.Bookmarks, "Settings" to Icons.Rounded.Settings).forEachIndexed { index, (label, icon) ->
-                        NavigationBarItem(selected = tab == index, onClick = { tab = index }, icon = { Icon(icon, null) }, label = { Text(label) })
+                    menus.forEach { menu ->
+                        NavigationBarItem(selected = navigation.menu == menu.id, onClick = { navigation = navigation.selectMenu(menu.id) }, icon = { Icon(menu.icon, null) }, label = { Text(menu.label) })
                     }
                 }
             }
         }
     ) { padding ->
-        when (tab) {
-            0 -> Library(vm.tracks, progress, playback.ready, Modifier.padding(padding), ::open)
-            1 -> Saved(vm.tracks, progress, bookmarks, Modifier.padding(padding), ::open, vm::editBookmark, vm::deleteBookmark)
-            else -> Settings(settings, Modifier.padding(padding), vm::continuous)
-        }
+        (menus.firstOrNull { it.id == navigation.menu } ?: menus.first()).content(padding)
     }
     if (playerOpen && current != null) {
         ModalBottomSheet(onDismissRequest = { playerOpen = false }, sheetState = rememberModalBottomSheetState(skipPartiallyExpanded = true)) {
@@ -81,6 +101,12 @@ fun StudyApp(vm: StudyViewModel = viewModel()) {
         }
     }
 }
+private data class TopLevelMenu(
+    val id: String,
+    val label: String,
+    val icon: ImageVector,
+    val content: @Composable (PaddingValues) -> Unit,
+)
 @Composable
 private fun Heading(eyebrow: String, title: String, subtitle: String? = null) {
     Column(Modifier.padding(top = 20.dp, bottom = 12.dp)) {
@@ -91,10 +117,10 @@ private fun Heading(eyebrow: String, title: String, subtitle: String? = null) {
 }
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
-private fun Library(tracks: List<Track>, progress: List<TrackProgress>, ready: Boolean, modifier: Modifier, open: (Track, Long?) -> Unit) {
+private fun Library(tracks: List<Track>, progress: List<TrackProgress>, ready: Boolean, modifier: Modifier, open: (Track, Long?) -> Unit,
+    group: String?, selectGroup: (String) -> Unit, clearGroup: () -> Unit, goBack: () -> Unit) {
     var query by rememberSaveable { mutableStateOf("") }
     var chapters by rememberSaveable { mutableStateOf(true) }
-    var group by rememberSaveable { mutableStateOf<String?>(null) }
     val grouped = remember(tracks) { tracks.groupBy { it.groupLabel } }
     val latest = progress.filter { it.lastPlayed > 0 }.maxByOrNull { it.lastPlayed }
     val resume = tracks.find { it.id == latest?.trackId } ?: tracks.getOrNull(1)
@@ -121,14 +147,14 @@ private fun Library(tracks: List<Track>, progress: List<TrackProgress>, ready: B
         }
         item { OutlinedTextField(value = query, onValueChange = { query = it }, placeholder = { Text("Track, chapter, page or exercise") }, label = { Text("Search audio") }, leadingIcon = { Icon(Icons.Rounded.Search, null) }, trailingIcon = { if (query.isNotEmpty()) IconButton(onClick = { query = "" }) { Icon(Icons.Rounded.Close, "Clear search") } }, singleLine = true, modifier = Modifier.fillMaxWidth(), shape = MaterialTheme.shapes.medium) }
         item { Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            FilterChip(selected = chapters, onClick = { chapters = true; group = null }, label = { Text("Chapters") })
-            FilterChip(selected = !chapters, onClick = { chapters = false; group = null }, label = { Text("All tracks") })
+            FilterChip(selected = chapters, onClick = { chapters = true; clearGroup() }, label = { Text("Chapters") })
+            FilterChip(selected = !chapters, onClick = { chapters = false; clearGroup() }, label = { Text("All tracks") })
         } }
         if (!ready) item { LinearProgressIndicator(Modifier.fillMaxWidth()); Text("Preparing your audio library…", style = MaterialTheme.typography.bodySmall) }
         if (query.isBlank() && chapters && group == null) {
             items(grouped.keys.toList(), key = { it }) { label ->
                 val chapterTracks = grouped.getValue(label)
-                Surface(onClick = { group = label }, shape = MaterialTheme.shapes.medium, color = MaterialTheme.colorScheme.surfaceContainerLow) {
+                Surface(onClick = { selectGroup(label) }, shape = MaterialTheme.shapes.medium, color = MaterialTheme.colorScheme.surfaceContainerLow) {
                     Row(Modifier.padding(20.dp), verticalAlignment = Alignment.CenterVertically) {
                         Column(Modifier.weight(1f)) {
                             Text(label, style = MaterialTheme.typography.titleMedium)
@@ -140,7 +166,7 @@ private fun Library(tracks: List<Track>, progress: List<TrackProgress>, ready: B
             }
         } else {
             if (group != null && query.isBlank()) item { Row(verticalAlignment = Alignment.CenterVertically) {
-                IconButton(onClick = { group = null }) { Icon(Icons.AutoMirrored.Rounded.ArrowBack, "Back to chapters") }
+                IconButton(onClick = goBack) { Icon(Icons.AutoMirrored.Rounded.ArrowBack, "Back to chapters") }
                 Text(group.orEmpty(), style = MaterialTheme.typography.titleMedium, modifier = Modifier.weight(1f))
             } }
             if (results.isEmpty()) item { Text("No matching audio. Try a track number or chapter name.", Modifier.padding(vertical = 24.dp)) }

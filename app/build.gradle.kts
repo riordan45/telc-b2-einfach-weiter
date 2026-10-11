@@ -8,7 +8,7 @@ android {
     namespace = "com.example.weiterb2"
     compileSdk = 36
     defaultConfig {
-        applicationId = "com.example.weiterb2"
+        applicationId = providers.gradleProperty("applicationId").getOrElse("com.example.weiterb2")
         minSdk = 26
         targetSdk = 36
         versionCode = 1
