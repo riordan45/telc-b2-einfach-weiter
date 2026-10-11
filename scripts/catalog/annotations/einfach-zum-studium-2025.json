@@ -1,0 +1,579 @@
+{
+  "schemaVersion": 1,
+  "bookId": "einfach-zum-studium-2025",
+  "review": {
+    "author": "official_catalog",
+    "reviewedAt": "2026-10-11T18:10:12.216508+00:00",
+    "reviewer": "root",
+    "independentlyReviewedAt": "2026-10-11T18:14:07.428217+00:00",
+    "independentReviewMethod": "Every cited first-pass or alternative-model transcript read and compared to lesson/module/exercise; intros left without references; test series boundaries checked."
+  },
+  "tracks": {
+    "einfach-zum-studium-2025-pack-100-track-1": {
+      "title": "Modul 1 · Aufgabe 5b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "5b",
+          "evidence": "Reviewed opening announcement: Modul 1, Aufgabe 5b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "a5873cf1889e894522241de84742e834aff15ade82a268c4f6f5e6c1d7cbbd1d",
+        "sourceLocator": "audio SHA256 a5873cf1889e894522241de84742e834aff15ade82a268c4f6f5e6c1d7cbbd1d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/a5873cf1889e894522241de84742e834aff15ade82a268c4f6f5e6c1d7cbbd1d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/a5873cf1889e894522241de84742e834aff15ade82a268c4f6f5e6c1d7cbbd1d.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-100-track-2": {
+      "title": "Modul 2 · Aufgabe 4a, 4b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "4a, 4b",
+          "evidence": "Reviewed opening announcement: Modul 2, Aufgabe 4a, 4b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "3a9c92052fb137869cdc4333564dfd88efa045502d3171fd8090aa91173e1988",
+        "sourceLocator": "audio SHA256 3a9c92052fb137869cdc4333564dfd88efa045502d3171fd8090aa91173e1988 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/3a9c92052fb137869cdc4333564dfd88efa045502d3171fd8090aa91173e1988.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/3a9c92052fb137869cdc4333564dfd88efa045502d3171fd8090aa91173e1988.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-100-track-3": {
+      "title": "Modul 3 · Aufgabe 5b, 5c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "5b, 5c",
+          "evidence": "Reviewed opening announcement: Modul 3, Aufgabe 5b, 5c."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "7284a859e3fbf0ccb29387c632208359d9b876ce0ed25fe08a843c1b1b22a62a",
+        "sourceLocator": "audio SHA256 7284a859e3fbf0ccb29387c632208359d9b876ce0ed25fe08a843c1b1b22a62a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/7284a859e3fbf0ccb29387c632208359d9b876ce0ed25fe08a843c1b1b22a62a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/7284a859e3fbf0ccb29387c632208359d9b876ce0ed25fe08a843c1b1b22a62a.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-101-track-4": {
+      "title": "Modul 4 · Aufgabe 5a, 5b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "5a, 5b",
+          "evidence": "Reviewed opening announcement: Modul 4, Aufgabe 5a, 5b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "7a6999197660d5fb9d3ad46636d47376075ba10ea45552070f6b6fbad3ad0435",
+        "sourceLocator": "audio SHA256 7a6999197660d5fb9d3ad46636d47376075ba10ea45552070f6b6fbad3ad0435 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/7a6999197660d5fb9d3ad46636d47376075ba10ea45552070f6b6fbad3ad0435.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/7a6999197660d5fb9d3ad46636d47376075ba10ea45552070f6b6fbad3ad0435.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-101-track-5": {
+      "title": "Modul 5 · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "3a",
+          "evidence": "Reviewed opening announcement: Modul 5, Aufgabe 3a."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "3354666fc82cb181bb6fc11d4b3f68cccd8fd63df438adf5fa54a51070c26a05",
+        "sourceLocator": "audio SHA256 3354666fc82cb181bb6fc11d4b3f68cccd8fd63df438adf5fa54a51070c26a05 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/3354666fc82cb181bb6fc11d4b3f68cccd8fd63df438adf5fa54a51070c26a05.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/3354666fc82cb181bb6fc11d4b3f68cccd8fd63df438adf5fa54a51070c26a05.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-101-track-6": {
+      "title": "Modul 5 · Aufgabe 6b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "6b",
+          "evidence": "Reviewed opening announcement: Modul 5, Aufgabe 6b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "7dcdc35cbd7dd53bc4aa6cb81fa659a9b913c2c6f71df1db3fcec72c413649ba",
+        "sourceLocator": "audio SHA256 7dcdc35cbd7dd53bc4aa6cb81fa659a9b913c2c6f71df1db3fcec72c413649ba at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/7dcdc35cbd7dd53bc4aa6cb81fa659a9b913c2c6f71df1db3fcec72c413649ba.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/7dcdc35cbd7dd53bc4aa6cb81fa659a9b913c2c6f71df1db3fcec72c413649ba.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-101-track-7": {
+      "title": "Modul 5 · Aufgabe 6d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "6d",
+          "evidence": "Reviewed opening announcement: Modul 5, Aufgabe 6d."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "ec5d60600664bfb5fdaf52d8093927f36df4011cb7162cc05dbf94e8b4465326",
+        "sourceLocator": "audio SHA256 ec5d60600664bfb5fdaf52d8093927f36df4011cb7162cc05dbf94e8b4465326 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/ec5d60600664bfb5fdaf52d8093927f36df4011cb7162cc05dbf94e8b4465326.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/ec5d60600664bfb5fdaf52d8093927f36df4011cb7162cc05dbf94e8b4465326.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-101-track-8": {
+      "title": "Modul 6 · Aufgabe 4a, 4b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "4a, 4b",
+          "evidence": "Reviewed opening announcement: Modul 6, Aufgabe 4a, 4b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "28a34c70194c8fb8106312cb898db77384d127cb1a4887b4c6d1817f09fc98dd",
+        "sourceLocator": "audio SHA256 28a34c70194c8fb8106312cb898db77384d127cb1a4887b4c6d1817f09fc98dd at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/28a34c70194c8fb8106312cb898db77384d127cb1a4887b4c6d1817f09fc98dd.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/28a34c70194c8fb8106312cb898db77384d127cb1a4887b4c6d1817f09fc98dd.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-101-track-9": {
+      "title": "Modul 7 · Aufgabe 8b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "8b",
+          "evidence": "Reviewed opening announcement: Modul 7, Aufgabe 8b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "70eea491aba1d521c8b476623c197e237671e6cbb4d7ba95c38ff2e1fbdaa754",
+        "sourceLocator": "audio SHA256 70eea491aba1d521c8b476623c197e237671e6cbb4d7ba95c38ff2e1fbdaa754 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/70eea491aba1d521c8b476623c197e237671e6cbb4d7ba95c38ff2e1fbdaa754.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/70eea491aba1d521c8b476623c197e237671e6cbb4d7ba95c38ff2e1fbdaa754.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-102-track-10": {
+      "title": "Modul 8 · Aufgabe 6c, 6d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "6c, 6d",
+          "evidence": "Reviewed opening announcement: Modul 8, Aufgabe 6c, 6d."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "fcfb73cf7e48fec635e7b51a690abce7150f560e82a06f2efa76ff5eacff57d4",
+        "sourceLocator": "audio SHA256 fcfb73cf7e48fec635e7b51a690abce7150f560e82a06f2efa76ff5eacff57d4 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/fcfb73cf7e48fec635e7b51a690abce7150f560e82a06f2efa76ff5eacff57d4.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/fcfb73cf7e48fec635e7b51a690abce7150f560e82a06f2efa76ff5eacff57d4.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-102-track-11": {
+      "title": "Modul 9 · Aufgabe 2a, 2b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "2a, 2b",
+          "evidence": "Reviewed opening announcement: Modul 9, Aufgabe 2a, 2b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "bc25ad02296f5a6a4addcde40a31d508ec453a04dc80758952a6ca593dab715f",
+        "sourceLocator": "audio SHA256 bc25ad02296f5a6a4addcde40a31d508ec453a04dc80758952a6ca593dab715f at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/bc25ad02296f5a6a4addcde40a31d508ec453a04dc80758952a6ca593dab715f.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/bc25ad02296f5a6a4addcde40a31d508ec453a04dc80758952a6ca593dab715f.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-102-track-12": {
+      "title": "Modul 10 · Aufgabe 3b, 3c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "3b, 3c",
+          "evidence": "Reviewed opening announcement: Modul 10, Aufgabe 3b, 3c."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "cc2b13e106a018ec12c6c7f23d9db883a1617ca0d190eada9cadf90874cd47a4",
+        "sourceLocator": "audio SHA256 cc2b13e106a018ec12c6c7f23d9db883a1617ca0d190eada9cadf90874cd47a4 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/cc2b13e106a018ec12c6c7f23d9db883a1617ca0d190eada9cadf90874cd47a4.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/cc2b13e106a018ec12c6c7f23d9db883a1617ca0d190eada9cadf90874cd47a4.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-102-track-13": {
+      "title": "Modul 11 · Hören, Teil 1",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "Hören, Teil 1",
+          "evidence": "Reviewed opening announcement: Modul 11, Hören, Teil 1."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "afde7c5e4a630843991af84c46dbcdba0ebf204bf2d1a9e03b14e77d03375853",
+        "sourceLocator": "audio SHA256 afde7c5e4a630843991af84c46dbcdba0ebf204bf2d1a9e03b14e77d03375853 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/afde7c5e4a630843991af84c46dbcdba0ebf204bf2d1a9e03b14e77d03375853.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/afde7c5e4a630843991af84c46dbcdba0ebf204bf2d1a9e03b14e77d03375853.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-103-track-14": {
+      "title": "Modul 11 · Hören, Teil 2",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "Hören, Teil 2",
+          "evidence": "Reviewed opening announcement: Modul 11, Hören, Teil 2."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "31fa9e0604013adbe9ef499959d8e3f39a463d214e498c5bc1aca9d3ea93c231",
+        "sourceLocator": "audio SHA256 31fa9e0604013adbe9ef499959d8e3f39a463d214e498c5bc1aca9d3ea93c231 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/31fa9e0604013adbe9ef499959d8e3f39a463d214e498c5bc1aca9d3ea93c231.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/31fa9e0604013adbe9ef499959d8e3f39a463d214e498c5bc1aca9d3ea93c231.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-103-track-15": {
+      "title": "Modul 11 · Hören, Teil 3",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 11,
+          "evidence": "Reviewed local base-model opening recovers: Modul 11, Hören, Teil 3.",
+          "exercise": "Hören, Teil 3"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement-base-fallback",
+        "sourceSha256": "fe8e6029749e4421f526a9453ec739399ae325ad3fcf3e7d814e9bb433ba0d98",
+        "sourceLocator": "audio SHA256 fe8e6029749e4421f526a9453ec739399ae325ad3fcf3e7d814e9bb433ba0d98 at 00:00–00:12; evidence cache fe8e6029749e4421f526a9453ec739399ae325ad3fcf3e7d814e9bb433ba0d98-12s-base",
+        "model": "base",
+        "clipSeconds": 12,
+        "evidencePath": ".work/analysis/announcements-by-sha/fe8e6029749e4421f526a9453ec739399ae325ad3fcf3e7d814e9bb433ba0d98-12s-base.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/fe8e6029749e4421f526a9453ec739399ae325ad3fcf3e7d814e9bb433ba0d98-12s-base.evidence.json"
+      }
+    },
+    "einfach-zum-studium-2025-pack-103-track-16": {
+      "title": "Modul 12 · Hören, Teil 1",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "Hören, Teil 1",
+          "evidence": "Reviewed opening announcement: Modul 12, Hören, Teil 1."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "1137f800bc850cee71538fa2db2c4fad93084fe93c8c0b615f4887fd9b70e627",
+        "sourceLocator": "audio SHA256 1137f800bc850cee71538fa2db2c4fad93084fe93c8c0b615f4887fd9b70e627 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/1137f800bc850cee71538fa2db2c4fad93084fe93c8c0b615f4887fd9b70e627.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/1137f800bc850cee71538fa2db2c4fad93084fe93c8c0b615f4887fd9b70e627.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-104-track-17": {
+      "title": "Modul 12 · Hören, Teil 2",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "Hören, Teil 2",
+          "evidence": "Reviewed opening announcement: Modul 12, Hören, Teil 2."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "afdea41fa53793838eb4d3d52d0d01736294ede098028a5d51cee8532c4cab41",
+        "sourceLocator": "audio SHA256 afdea41fa53793838eb4d3d52d0d01736294ede098028a5d51cee8532c4cab41 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/afdea41fa53793838eb4d3d52d0d01736294ede098028a5d51cee8532c4cab41.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/afdea41fa53793838eb4d3d52d0d01736294ede098028a5d51cee8532c4cab41.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-104-track-18": {
+      "title": "Modul 12 · Hören, Teil 3",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "Hören, Teil 3",
+          "evidence": "Reviewed opening announcement: Modul 12, Hören, Teil 3."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "20461caf00e6b6242f7b2c08aad14bdeecdf77e45a8f4e60c54fd4b9e13a85cc",
+        "sourceLocator": "audio SHA256 20461caf00e6b6242f7b2c08aad14bdeecdf77e45a8f4e60c54fd4b9e13a85cc at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/20461caf00e6b6242f7b2c08aad14bdeecdf77e45a8f4e60c54fd4b9e13a85cc.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/20461caf00e6b6242f7b2c08aad14bdeecdf77e45a8f4e60c54fd4b9e13a85cc.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-104-track-19": {
+      "title": "Aussprachetraining · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "exercise": "1a",
+          "evidence": "Reviewed opening announcement: Aussprachetraining, Aufgabe 1a."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "26a07cb129054d5e24478b2669aeba2ae5cef6840fe8e9176e5ee5e824245e44",
+        "sourceLocator": "audio SHA256 26a07cb129054d5e24478b2669aeba2ae5cef6840fe8e9176e5ee5e824245e44 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/26a07cb129054d5e24478b2669aeba2ae5cef6840fe8e9176e5ee5e824245e44.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/26a07cb129054d5e24478b2669aeba2ae5cef6840fe8e9176e5ee5e824245e44.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-104-track-20": {
+      "title": "Aussprachetraining · Aufgabe 1c, 1d, 1e",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "exercise": "1c, 1d, 1e",
+          "evidence": "Reviewed opening announcement: Aussprachetraining, Aufgabe 1c, 1d, 1e."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "c9e2f1e1c01e979fda78a24788d481b9e9de8c1cc3c2f4d8c3784758c523f4bd",
+        "sourceLocator": "audio SHA256 c9e2f1e1c01e979fda78a24788d481b9e9de8c1cc3c2f4d8c3784758c523f4bd at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/c9e2f1e1c01e979fda78a24788d481b9e9de8c1cc3c2f4d8c3784758c523f4bd.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/c9e2f1e1c01e979fda78a24788d481b9e9de8c1cc3c2f4d8c3784758c523f4bd.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-104-track-21": {
+      "title": "Aussprachetraining · Aufgabe 2a, 2b, 2d",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "exercise": "2a, 2b, 2d",
+          "evidence": "Reviewed opening announcement: Aussprachetraining, Aufgabe 2a, 2b, 2d."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "2a804e1fec8979cb9747c40aa3a5557a16f2b5b539fd2fc23fa77fef097f1985",
+        "sourceLocator": "audio SHA256 2a804e1fec8979cb9747c40aa3a5557a16f2b5b539fd2fc23fa77fef097f1985 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/2a804e1fec8979cb9747c40aa3a5557a16f2b5b539fd2fc23fa77fef097f1985.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/2a804e1fec8979cb9747c40aa3a5557a16f2b5b539fd2fc23fa77fef097f1985.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-104-track-22": {
+      "title": "Aussprachetraining · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "exercise": "3a",
+          "evidence": "Reviewed opening announcement: Aussprachetraining, Aufgabe 3a."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "17c5e81efbc55a915cb854c4cf4ae57d36b2ce82c00c535bca3ce6b5e50cc779",
+        "sourceLocator": "audio SHA256 17c5e81efbc55a915cb854c4cf4ae57d36b2ce82c00c535bca3ce6b5e50cc779 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/17c5e81efbc55a915cb854c4cf4ae57d36b2ce82c00c535bca3ce6b5e50cc779.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/17c5e81efbc55a915cb854c4cf4ae57d36b2ce82c00c535bca3ce6b5e50cc779.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-104-track-23": {
+      "title": "Aussprachetraining · Aufgabe 3d",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "exercise": "3d",
+          "evidence": "Reviewed opening announcement: Aussprachetraining, Aufgabe 3d."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "c5e8bac2ce1cb821eb9d038fe69838d39e448d24528b4e2b20c45be5331ecc4d",
+        "sourceLocator": "audio SHA256 c5e8bac2ce1cb821eb9d038fe69838d39e448d24528b4e2b20c45be5331ecc4d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/c5e8bac2ce1cb821eb9d038fe69838d39e448d24528b4e2b20c45be5331ecc4d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/c5e8bac2ce1cb821eb9d038fe69838d39e448d24528b4e2b20c45be5331ecc4d.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-104-track-24": {
+      "title": "Aussprachetraining · Aufgabe 4b, 4c",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "exercise": "4b, 4c",
+          "evidence": "Reviewed opening announcement: Aussprachetraining, Aufgabe 4b, 4c."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "9769874ce1d504ea4e7e66507a47d79e642de7b3927d03251566a211e5c2be5a",
+        "sourceLocator": "audio SHA256 9769874ce1d504ea4e7e66507a47d79e642de7b3927d03251566a211e5c2be5a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/9769874ce1d504ea4e7e66507a47d79e642de7b3927d03251566a211e5c2be5a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/9769874ce1d504ea4e7e66507a47d79e642de7b3927d03251566a211e5c2be5a.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-104-track-25": {
+      "title": "Aussprachetraining · Aufgabe 4d",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "exercise": "4d",
+          "evidence": "Reviewed opening announcement: Aussprachetraining, Aufgabe 4d."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "ad60bf7636f1e468aac0a91aa10e94eaf48a22d947fd9ae9bee96af8478da927",
+        "sourceLocator": "audio SHA256 ad60bf7636f1e468aac0a91aa10e94eaf48a22d947fd9ae9bee96af8478da927 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/ad60bf7636f1e468aac0a91aa10e94eaf48a22d947fd9ae9bee96af8478da927.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/ad60bf7636f1e468aac0a91aa10e94eaf48a22d947fd9ae9bee96af8478da927.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "einfach-zum-studium-2025-pack-104-track-26": {
+      "title": "Aussprachetraining · Aufgabe 5e",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "exercise": "5e",
+          "evidence": "Reviewed opening announcement: Aussprachetraining, Aufgabe 5e."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "9b03179922773fd798dd20fb9bf2fed6e2820e44430bdbd95ffad41e4eb50ec5",
+        "sourceLocator": "audio SHA256 9b03179922773fd798dd20fb9bf2fed6e2820e44430bdbd95ffad41e4eb50ec5 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/9b03179922773fd798dd20fb9bf2fed6e2820e44430bdbd95ffad41e4eb50ec5.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/9b03179922773fd798dd20fb9bf2fed6e2820e44430bdbd95ffad41e4eb50ec5.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    }
+  },
+  "documents": {},
+  "sources": []
+}

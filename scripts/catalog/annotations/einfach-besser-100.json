@@ -1,0 +1,1368 @@
+{
+  "bookId": "einfach-besser-100",
+  "tracks": {
+    "einfach-besser-100-pack-100-track-2": {
+      "title": "Lektion 1 – Ein neuer Beruf – Aufgabe 5a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb100, PDF page 1: 'Aufgabe 5a und b (Track 2)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "e796200a958fff4d923f4f0ddc853d70ea4851f189f2b0bccf404331480f7959"
+      }
+    },
+    "einfach-besser-100-pack-100-track-3": {
+      "title": "Lektion 1 – Ein neuer Beruf – Aufgabe 7a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "7a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb100, PDF page 1: 'Aufgabe 7a (Track 3)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "817a4177b2fd0dc106d2ecf438b09af291ba0501a4998daf628e62f7f427ade4"
+      }
+    },
+    "einfach-besser-100-pack-100-track-4": {
+      "title": "Lektion 1 – Ein neuer Beruf – Aufgabe 8c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb100, PDF page 1: 'Aufgabe 8c (Track 4)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "cc1218cde9512f036ecebdf468e4683a3621add3226954dcb7c767c5a0b8b04b"
+      }
+    },
+    "einfach-besser-100-pack-100-track-5": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 1c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb100, PDF page 1: 'Aufgabe 1c (Track 5)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "e483dab5f6fdd37adc467b1b2d200d5000ca9637856a458217d9ca4b58045666"
+      }
+    },
+    "einfach-besser-100-pack-100-track-6": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 2a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb100, PDF page 1: 'Aufgabe 2a und b (Track 6)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "32f6edc3ac593ccaa6a6423d5fbcf54194a719636331ea7a33ede720bb2e4c5c"
+      }
+    },
+    "einfach-besser-100-pack-100-track-7": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 5b und c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5b und c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb100, PDF page 1: 'Aufgabe 5b und c (Track 7)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "059aa4513ee679b76e8b282103b1c0d3bd6f22944367ee24051dd632f177b298"
+      }
+    },
+    "einfach-besser-100-pack-100-track-8": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "6a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb100, PDF page 2: 'Aufgabe 6a (Track 8)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "9c2cec550a942d505184dcacb615b89469e0c9e35a185479f9c8d1db88ab1d38"
+      }
+    },
+    "einfach-besser-100-pack-100-track-9": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 8b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb100, PDF page 2: 'Aufgabe 8b (Track 9)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "dcf898b63d5d9c87120d3404c689b9143af42814ba553712bffe7bfb38110705"
+      }
+    },
+    "einfach-besser-100-pack-100-track-10": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 1b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb100, PDF page 2: 'Aufgabe 1b (Track 10)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "48bcc6e88fbefe3bb623abb281a64eacb2ffe958796bfe6e2fb00a45501e0b58"
+      }
+    },
+    "einfach-besser-100-pack-100-track-11": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 4b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb100, PDF page 2: 'Aufgabe 4b (Track 11)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "7f8eeedfa1d2d48d82510e77177ed5ad3bdf12ca99966fdb7a698e20c1c24853"
+      }
+    },
+    "einfach-besser-100-pack-100-track-12": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "6a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb100, PDF page 2: 'Aufgabe 6a (Track 12)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "af2c63b339652f358a0253e9bc128e18d81289263f172a9d5d13bb7d8f8f68d9"
+      }
+    },
+    "einfach-besser-100-pack-100-track-13": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 9a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "9a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 3,
+          "evidence": "Official publisher transcript eb100, PDF page 3: 'Aufgabe 9a (Track 13)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "eb895ae3253a6a5d097d55dd0e35f3951a3a342b9ab120a4c5f6097b75e01899"
+      }
+    },
+    "einfach-besser-100-pack-100-track-14": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 11a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "11a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 3,
+          "evidence": "Official publisher transcript eb100, PDF page 3: 'Aufgabe 11a (Track 14)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "e0fc2a35f02bbc195939880621bef1657b5e9f1dd9d704c11d803a72ce18907f"
+      }
+    },
+    "einfach-besser-100-pack-100-track-15": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 1b und c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1b und c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 3,
+          "evidence": "Official publisher transcript eb100, PDF page 3: 'Aufgabe 1b und c (Track 15)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "36784750cf0a8bda60c25576dbcb1d9a51e99c1968c11347467207a97d29c240"
+      }
+    },
+    "einfach-besser-100-pack-100-track-16": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 4a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 4,
+          "evidence": "Official publisher transcript eb100, PDF page 4: 'Aufgabe 4a (Track 16)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "9edf856fa42520bc1ec56945920988c2c9dafd868cb063c9d918a2cf39058e01"
+      }
+    },
+    "einfach-besser-100-pack-100-track-17": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 4b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 4,
+          "evidence": "Official publisher transcript eb100, PDF page 4: 'Aufgabe 4b (Track 17)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "edc963f8cb6d7aa6eed2c586bb4f299566aec238cc9f1bb5a4eb01b465b0acbb"
+      }
+    },
+    "einfach-besser-100-pack-100-track-18": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "6a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 4,
+          "evidence": "Official publisher transcript eb100, PDF page 4: 'Aufgabe 6a (Track 18)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "cdd4f720a447e9fdc3da37b2e22101ed08f3c02306b929eb24e7044537316c2a"
+      }
+    },
+    "einfach-besser-100-pack-100-track-19": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 9a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "9a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 5,
+          "evidence": "Official publisher transcript eb100, PDF page 5: 'Aufgabe 9a und b (Track 19)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c38115ae00d2dab990e535ab3889e1d1c2725af8636594ebdd45ae06ee08fa50"
+      }
+    },
+    "einfach-besser-100-pack-100-track-20": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Aufgabe 1b und c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1b und c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 5,
+          "evidence": "Official publisher transcript eb100, PDF page 5: 'Aufgabe 1b und c (Track 20)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "98a6b7c602358109696c54fffd1f8d51cb41aa6b4464d605c5d3050e1d45d3fd"
+      }
+    },
+    "einfach-besser-100-pack-101-track-21": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Aufgabe 2",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 5,
+          "evidence": "Official publisher transcript eb100, PDF page 5: 'Aufgabe 2 (Track 21)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "dc3c90a81b7d38ae76febf36cae69bf21a53618da5dd83cb43041ff14be9d26e"
+      }
+    },
+    "einfach-besser-100-pack-101-track-22": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Aufgabe 5a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 5,
+          "evidence": "Official publisher transcript eb100, PDF page 5: 'Aufgabe 5a und b (Track 22)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "94fe2ec0ad29a5360fe69df638a2752e6f73f5a73809137126d29b6315962b17"
+      }
+    },
+    "einfach-besser-100-pack-101-track-23": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Aufgabe 8a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 5,
+          "evidence": "Official publisher transcript eb100, PDF page 5: 'Aufgabe 8a (Track 23)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "ed8e42f7977c9596bf773c17e9522fe1fad777605a30b1db50f9e2a4efbd39bf"
+      }
+    },
+    "einfach-besser-100-pack-101-track-24": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Aufgabe 1b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 6,
+          "evidence": "Official publisher transcript eb100, PDF page 6: 'Aufgabe 1b (Track 24)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "4885c43edbc5959d80b3cb767ce41010f9fc1a484d75e973ef9594dedd59fcc2"
+      }
+    },
+    "einfach-besser-100-pack-101-track-25": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 6,
+          "evidence": "Official publisher transcript eb100, PDF page 6: 'Aufgabe 2a (Track 25)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "a7b2b99b60bbc48e06f921c811dd1791397cd3a9fa532a951cbf9bd59c3f6ec3"
+      }
+    },
+    "einfach-besser-100-pack-101-track-26": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Aufgabe 4a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 6,
+          "evidence": "Official publisher transcript eb100, PDF page 6: 'Aufgabe 4a und b (Track 26)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c036bea3af4e639d9b964aa9ca33880ab5a6753a5f15690b9ddf62ad9f136e63"
+      }
+    },
+    "einfach-besser-100-pack-101-track-27": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Aufgabe 9",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "9",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 7,
+          "evidence": "Official publisher transcript eb100, PDF page 7: 'Aufgabe 9 (Track 27)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "1283b482bd19dd7687d248960c0f653659629ff7e527d751d8779d0de337138c"
+      }
+    },
+    "einfach-besser-100-pack-102-track-46": {
+      "title": "Lektion 1 – Ein neuer Beruf – Aufgabe 1b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "1b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 8,
+          "evidence": "Official publisher transcript eb100, PDF page 8: 'Aufgabe 1b (Track 83)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 83 corresponds to original EB100 track 46: complete decoded audio-envelope correlation 0.999974 against EB500 source SHA256 b48c269d0676ab1712ec6a18cc3d9bf130d2526726b9328294bfe9d06a41d37e, duration difference -32ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "fc5dfc1b2429956a0173e6467c732a9cab30fa70ff9264f603fbd93716aa3f13"
+      }
+    },
+    "einfach-besser-100-pack-102-track-47": {
+      "title": "Lektion 1 – Ein neuer Beruf – Aufgabe 9a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "9a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 8,
+          "evidence": "Official publisher transcript eb100, PDF page 8: 'Aufgabe 9a (Track 84)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 84 corresponds to original EB100 track 47: complete decoded audio-envelope correlation 0.999982 against EB500 source SHA256 8d56211bee85d109a1fb1b8499ab90e25f5d636afd044b7cfa1f41d5bc56e7cf, duration difference -44ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "359f0745b37aa8813593a48dea40d04668b23760097e096c9e8f1c740cd9d919"
+      }
+    },
+    "einfach-besser-100-pack-102-track-48": {
+      "title": "Lektion 1 – Ein neuer Beruf – Aufgabe 17",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "17",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 8,
+          "evidence": "Official publisher transcript eb100, PDF page 8: 'Aufgabe 17 (Track 85)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 85 corresponds to original EB100 track 48: complete decoded audio-envelope correlation 0.999983 against EB500 source SHA256 d8802d17381d0809094a838187b634c43adbe21bda6da789609ab245deabc8a6, duration difference -38ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "d068e37aae4a8dc093dbe3e81afb819cf05927d2de0d6e0be4be6f0010d5be04"
+      }
+    },
+    "einfach-besser-100-pack-102-track-49": {
+      "title": "Lektion 1 – Ein neuer Beruf – Lernzielkontrolle 1, Aufgabe 2",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 1, Aufgabe 2",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 8,
+          "evidence": "Official publisher transcript eb100, PDF page 8: 'Lernzielkontrolle 1, Aufgabe 2 (Track 86)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 86 corresponds to original EB100 track 49: complete decoded audio-envelope correlation 0.999982 against EB500 source SHA256 47d01f69511c22d3506a83559624a56f7813192ee6c6b4b93239000d24feb2ac, duration difference -50ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "022cd15c742642381f3d7ff9885f054b1fb6f01efaadb046a6490f9bba4bf349"
+      }
+    },
+    "einfach-besser-100-pack-102-track-50": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 3b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "3b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 8,
+          "evidence": "Official publisher transcript eb100, PDF page 8: 'Aufgabe 3b (Track 87)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 87 corresponds to original EB100 track 50: complete decoded audio-envelope correlation 0.999973 against EB500 source SHA256 cc0d40eb34d35bd87a62beacb5873c9660ed0b3c14cb8d757335b406146dc127, duration difference -43ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c24a2e920170751103da0723245df3284142e7b61fca057341f7fb68068fece7"
+      }
+    },
+    "einfach-besser-100-pack-102-track-51": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 9",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "9",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 9,
+          "evidence": "Official publisher transcript eb100, PDF page 9: 'Aufgabe 9 (Track 88)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 88 corresponds to original EB100 track 51: complete decoded audio-envelope correlation 0.999979 against EB500 source SHA256 8e7fe4523051b0d15c6e3e60a2693f879c9fd805866015065221d079f3bfa01a, duration difference -34ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "9e80cccb739459273448f6d32c5ffffa9f18287260d8e6b4179cf1132fa29141"
+      }
+    },
+    "einfach-besser-100-pack-102-track-52": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 11a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "11a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 9,
+          "evidence": "Official publisher transcript eb100, PDF page 9: 'Aufgabe 11a (Track 89)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 89 corresponds to original EB100 track 52: complete decoded audio-envelope correlation 0.999977 against EB500 source SHA256 ab308e1a51c56d489863774954c889a6c23ce55c95f378cfd3f4c72c04682935, duration difference -51ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "96674ab484ea80d83fe219b9a0a9f5d197327de302c74c06b38b36acbf4b38ce"
+      }
+    },
+    "einfach-besser-100-pack-102-track-53": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Lernzielkontrolle 2, Aufgabe 2",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 2, Aufgabe 2",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 9,
+          "evidence": "Official publisher transcript eb100, PDF page 9: 'Lernzielkontrolle 2, Aufgabe 2 (Track 90)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 90 corresponds to original EB100 track 53: complete decoded audio-envelope correlation 0.999985 against EB500 source SHA256 feba5f79d294fe72b8b7d8d674b332ca5b21b3097dcadaafc8bcd2faaaf90a44, duration difference -39ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "01c6acf0731e4d335174e11bb86d1cb93c36c653fb27696422e7faefc78f3542"
+      }
+    },
+    "einfach-besser-100-pack-102-track-54": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 6",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "6",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 9,
+          "evidence": "Official publisher transcript eb100, PDF page 9: 'Aufgabe 6 (Track 91)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 91 corresponds to original EB100 track 54: complete decoded audio-envelope correlation 0.999982 against EB500 source SHA256 bd87f588af86c5fd84878bfb94d6b78e8ff50b7f6b1343ce705b7ecb7cd12adb, duration difference -35ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "b8316c03274e83293659261ecf2e619abf4f640d179c799c5ceba9db085c1469"
+      }
+    },
+    "einfach-besser-100-pack-102-track-55": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 12a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "12a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 10,
+          "evidence": "Official publisher transcript eb100, PDF page 10: 'Aufgabe 12a (Track 92)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 92 corresponds to original EB100 track 55: complete decoded audio-envelope correlation 0.999980 against EB500 source SHA256 9b8edd0da651547da1d1b6b235790841ab8b80e4052a57b9dddc0f398c1f0e26, duration difference -32ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "5edcc2ecf07cf53923d158c853b58a17623fe42a9c14957c0d97926e0676ea5e"
+      }
+    },
+    "einfach-besser-100-pack-102-track-56": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 13b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "13b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 10,
+          "evidence": "Official publisher transcript eb100, PDF page 10: 'Aufgabe 13b (Track 93)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 93 corresponds to original EB100 track 56: complete decoded audio-envelope correlation 0.999981 against EB500 source SHA256 6cd61687e76ad8e581c771ff6962c62d7e2e821c3f3d328d03662d316d8ceada, duration difference -50ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "9b42545a3687b7ad093993658192d77f93ef0ac93f9cbc2175a08d03770ddf96"
+      }
+    },
+    "einfach-besser-100-pack-102-track-57": {
+      "title": "Lektion 3 – Auf Jobsuche – Lernzielkontrolle 3, Aufgabe 2",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 3, Aufgabe 2",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 10,
+          "evidence": "Official publisher transcript eb100, PDF page 10: 'Lernzielkontrolle 3, Aufgabe 2 (Track 94)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 94 corresponds to original EB100 track 57: complete decoded audio-envelope correlation 0.999972 against EB500 source SHA256 b53835bee20b3ca19e82e95feb15aec568de74c2c309d1cb75521c38d3a4d769, duration difference -40ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "3b6907afe020ec252dd5dd066c13563405ad75607d8470751519a2102fb558f9"
+      }
+    },
+    "einfach-besser-100-pack-102-track-58": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 6a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "6a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 10,
+          "evidence": "Official publisher transcript eb100, PDF page 10: 'Aufgabe 6a (Track 95)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 95 corresponds to original EB100 track 58: complete decoded audio-envelope correlation 0.999976 against EB500 source SHA256 f2dbd8c91f8d7a89c2477df4b34aedbabb49a6012f8b2c62302a272e2046b43d, duration difference -46ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "af60d92f87ae69e3accdae040bc915357e6acfcf66f52fc035bb2c76aa248533"
+      }
+    },
+    "einfach-besser-100-pack-102-track-59": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 6c",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "6c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 10,
+          "evidence": "Official publisher transcript eb100, PDF page 10: 'Aufgabe 6c (Track 96)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 96 corresponds to original EB100 track 59: complete decoded audio-envelope correlation 0.999978 against EB500 source SHA256 88521e8b8b46e3bb28bee1f326726bbe272d3c56d98e65e8a6528cf60073514e, duration difference -37ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "d6cf986c65eb7141c1946ec1b981502c51249603e4212144138f59ab458f80ea"
+      }
+    },
+    "einfach-besser-100-pack-102-track-60": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 8a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "8a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript eb100, PDF page 11: 'Aufgabe 8a (Track 97)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 97 corresponds to original EB100 track 60: complete decoded audio-envelope correlation 1.000000 against EB500 source SHA256 ffb907c1b5ec5de04b714bbc8f5997fc8354feb54afb83360dd76dbde5f6563c, duration difference 0ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "ffb907c1b5ec5de04b714bbc8f5997fc8354feb54afb83360dd76dbde5f6563c"
+      }
+    },
+    "einfach-besser-100-pack-103-track-61": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 8b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "8b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript eb100, PDF page 11: 'Aufgabe 8b (Track 98)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 98 corresponds to original EB100 track 61: complete decoded audio-envelope correlation 1.000000 against EB500 source SHA256 f47fd6449dbfecaecc7de719cc31b25183c778de2106e4ee8b033c68193132a1, duration difference 0ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "f47fd6449dbfecaecc7de719cc31b25183c778de2106e4ee8b033c68193132a1"
+      }
+    },
+    "einfach-besser-100-pack-103-track-62": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 8c",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "8c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript eb100, PDF page 11: 'Aufgabe 8c (Track 99)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 99 corresponds to original EB100 track 62: complete decoded audio-envelope correlation 1.000000 against EB500 source SHA256 7dfe7a8e7e1357523b9bca71ebcb390b11b280a2f3dc854ed82042d83dcf5857, duration difference 0ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "7dfe7a8e7e1357523b9bca71ebcb390b11b280a2f3dc854ed82042d83dcf5857"
+      }
+    },
+    "einfach-besser-100-pack-103-track-63": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 13b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "13b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript eb100, PDF page 11: 'Aufgabe 13b (Track 100)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 100 corresponds to original EB100 track 63: complete decoded audio-envelope correlation 0.999975 against EB500 source SHA256 0cc74c0327a1f8372eff38f7ef506fa1a2688399268cb4818ecb670867e74ced, duration difference -49ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "03c959081d3e30fb6ed62e126534b5bcf62029cf0d15cae51e262af186c36e5d"
+      }
+    },
+    "einfach-besser-100-pack-103-track-64": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Lernzielkontrolle 4, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 4, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript eb100, PDF page 11: 'Lernzielkontrolle 4, Aufgabe 1 (Track 101)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 101 corresponds to original EB100 track 64: complete decoded audio-envelope correlation 0.999980 against EB500 source SHA256 63bb19dfd0fb5ff52df4934059e55bef556114104760363ff99d119554998de1, duration difference -51ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "cfd8658130dc444668025a98cbfe0931a7318e33fc2d2f029e6be2c1d5f8d186"
+      }
+    },
+    "einfach-besser-100-pack-103-track-65": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Aufgabe 5a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "5a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript eb100, PDF page 11: 'Aufgabe 5a (Track 102)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 102 corresponds to original EB100 track 65: complete decoded audio-envelope correlation 0.999962 against EB500 source SHA256 edaf2537e3d5eca5e2e32546a7dc7c585a3ab5622d001691294dbcc1503e8575, duration difference -48ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "d7f932f1b007e6d57bf6ad485dd0710a476bead1ddef9ebbf47d8e11a619ca5c"
+      }
+    },
+    "einfach-besser-100-pack-103-track-66": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Aufgabe 8a und b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "8a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript eb100, PDF page 11: 'Aufgabe 8a und b (Track 103)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 103 corresponds to original EB100 track 66: complete decoded audio-envelope correlation 0.999971 against EB500 source SHA256 9e687fbbbc0264044352cf7b54bb914d36e7ebfc0fa6c785b5cdd789df85e3cd, duration difference -51ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "a87b50a1a0598de6bf8c6472d15328aa80d7a5e5dfcd9de73bccbebf0c125b66"
+      }
+    },
+    "einfach-besser-100-pack-103-track-67": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Lernzielkontrolle 5, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 5, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 12,
+          "evidence": "Official publisher transcript eb100, PDF page 12: 'Lernzielkontrolle 5, Aufgabe 1 (Track 104)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 104 corresponds to original EB100 track 67: complete decoded audio-envelope correlation 0.999970 against EB500 source SHA256 5d79d3ab662c3efe5a5f45f8053e50c420284c202ffa2fcf62914cab17ceedf5, duration difference -34ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "5ac7d598795735a1b6fa76a37263ba6779ec9a7a4db068a456f263e82de668a6"
+      }
+    },
+    "einfach-besser-100-pack-103-track-68": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Aufgabe 3f",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "3f",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 12,
+          "evidence": "Official publisher transcript eb100, PDF page 12: 'Aufgabe 3f (Track 105)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 105 corresponds to original EB100 track 68: complete decoded audio-envelope correlation 0.999994 against EB500 source SHA256 b34198e6cc7f322b612c2d52c343410a795a23fa9ec914462d166157c3f4981f, duration difference -29ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "05a70e483403c96e492efd769da42c9787f2c760d46ea116efe52aac3e514b5e"
+      }
+    },
+    "einfach-besser-100-pack-103-track-69": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Aufgabe 5d",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "5d",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 12,
+          "evidence": "Official publisher transcript eb100, PDF page 12: 'Aufgabe 5d (Track 106)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 106 corresponds to original EB100 track 69: complete decoded audio-envelope correlation 0.999975 against EB500 source SHA256 4463d4d24d537f3e0996a504a2ba34af272af687f5c712be1d5316198ea17de2, duration difference -48ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "2b23e03544025b72ab248103fb3a985e8abc80c3efe0ef4a62d2c62714df9c08"
+      }
+    },
+    "einfach-besser-100-pack-103-track-70": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Lernzielkontrolle 6, Aufgabe 3",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 6, Aufgabe 3",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 12,
+          "evidence": "Official publisher transcript eb100, PDF page 12: 'Lernzielkontrolle 6, Aufgabe 3 (Track 107)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; publisher printed track 107 corresponds to original EB100 track 70: complete decoded audio-envelope correlation 0.999985 against EB500 source SHA256 c756198fc266e7bf4a69aa5f0233f2110fb5e2c90a579d56c3b5c56fccb9f961, duration difference -31ms; chapter title corroborated by official EB100 teacher handbook, PDF page4; https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "15e9d626936fe7552740ee6e40f33136861e44f7e4be6f3a920ad0b58319297d"
+      }
+    },
+    "einfach-besser-100-pack-100-track-1": {
+      "title": "Einführung – Track 1",
+      "references": [
+        {
+          "section": "Einführung",
+          "status": "verified",
+          "evidence": "Original audio 001_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 7b1f8bd27774f80eaea9647a72ecc3b82d6892dff74b97fc784c8ee530a0fb0a), opening announcement reviewed from local transcription: 'Telk. Einfach besser 100. Deutsch für Berufssprachkurse. Brückenelement B1, B2. Kurs und Arbeitsbuch.'; Announcement identifies title and Kurs- und Arbeitsbuch; no exercise in the introduction."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "7b1f8bd27774f80eaea9647a72ecc3b82d6892dff74b97fc784c8ee530a0fb0a",
+        "sourceLocator": "Original audio 001_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-101-track-28": {
+      "title": "Aufgabe 1b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 028_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 7d226476fd09430268760f2601d14efda4372b919d6ee9d5a28de5fb49f78b20), opening announcement reviewed from local transcription: 'Aussprache Training. Aufgabe 1b. 1. Woher kommt da ja?'",
+          "exercise": "1b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "7d226476fd09430268760f2601d14efda4372b919d6ee9d5a28de5fb49f78b20",
+        "sourceLocator": "Original audio 028_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-101-track-29": {
+      "title": "Aufgabe 1c",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 029_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 6d3381ca76f8c26602579ccbb40590723276834ba31345e0ba56ccfeac5777bf), opening announcement reviewed from local transcription: 'Aussprache Training, Aufgabe 1-C, eins. Woher kommt da ja?'",
+          "exercise": "1c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "6d3381ca76f8c26602579ccbb40590723276834ba31345e0ba56ccfeac5777bf",
+        "sourceLocator": "Original audio 029_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-101-track-30": {
+      "title": "Aufgabe 2a und b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 030_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 0cda711cdc8d6dda6f320d05cb64a2aa60f446371f1b0849f5ac4befefe1110c), opening announcement reviewed from local transcription: 'Aussprachetraining, Aufgabe 2a und b'",
+          "exercise": "2a und b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "0cda711cdc8d6dda6f320d05cb64a2aa60f446371f1b0849f5ac4befefe1110c",
+        "sourceLocator": "Original audio 030_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-101-track-31": {
+      "title": "Aufgabe 2c",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 031_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 403c74eab698417227f0b1dfd15968acbe920f79ef0e67735bebeb6f017e2127), opening announcement reviewed from local transcription: 'Aussprachetraining, Aufgabe 2-C'",
+          "exercise": "2c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "403c74eab698417227f0b1dfd15968acbe920f79ef0e67735bebeb6f017e2127",
+        "sourceLocator": "Original audio 031_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-101-track-32": {
+      "title": "Aufgabe 2d",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 032_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 37564c8ebdb0e16bdeb43782968d9fd82004e32eb03d813f4fdabb8765f0f8a6), opening announcement reviewed from local transcription: 'Aussprachetraining - Aufgabe 2D'",
+          "exercise": "2d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "37564c8ebdb0e16bdeb43782968d9fd82004e32eb03d813f4fdabb8765f0f8a6",
+        "sourceLocator": "Original audio 032_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-101-track-33": {
+      "title": "Aufgabe 3b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 033_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 e85451a4feb24d0b04cf769db87a70adb3f987f3acef2bdaed2c976b58e5401a), opening announcement reviewed from local transcription: 'Aussprachetraining - Aufgabe 3 B'",
+          "exercise": "3b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "e85451a4feb24d0b04cf769db87a70adb3f987f3acef2bdaed2c976b58e5401a",
+        "sourceLocator": "Original audio 033_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-101-track-34": {
+      "title": "Aufgabe 3c",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 034_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 c4ee47fa917040745b8a7f7178cfca81f79ad52f5fe8afc9976c548373c2aa8e), opening announcement reviewed from local transcription: 'Aussprachetraining, Aufgabe 3C'",
+          "exercise": "3c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "c4ee47fa917040745b8a7f7178cfca81f79ad52f5fe8afc9976c548373c2aa8e",
+        "sourceLocator": "Original audio 034_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-101-track-35": {
+      "title": "Aufgabe 4b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 035_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 88514afc0c46ec6bef79b33d49b9949104aaeb3e5e7a35ad049ca249e008e2de), opening announcement reviewed from local transcription: 'Aussprachetraining, Aufgabe 4B'",
+          "exercise": "4b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "88514afc0c46ec6bef79b33d49b9949104aaeb3e5e7a35ad049ca249e008e2de",
+        "sourceLocator": "Original audio 035_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-101-track-36": {
+      "title": "Aufgabe 4c",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 036_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 7ca4c0b3040fd04e60ce38b50fa33d6a5526fd63e67307316a1b15ae1e86e4d6), opening announcement reviewed from local transcription: 'Aussprachetraining, Aufgabe 4 C'",
+          "exercise": "4c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "7ca4c0b3040fd04e60ce38b50fa33d6a5526fd63e67307316a1b15ae1e86e4d6",
+        "sourceLocator": "Original audio 036_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-101-track-37": {
+      "title": "Aufgabe 5a und b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 037_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 8f4fc53f35eb0412a07ddc73e0e527a9a8867cabbf54b471a9b3fd4aed3f0e93), opening announcement reviewed from local transcription: 'Aussprachetraining, Aufgabe 5A und B.'",
+          "exercise": "5a und b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "8f4fc53f35eb0412a07ddc73e0e527a9a8867cabbf54b471a9b3fd4aed3f0e93",
+        "sourceLocator": "Original audio 037_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-101-track-38": {
+      "title": "Aufgabe 6a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 038_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 d9e9f89900cef89f96644df85ce364725d87a275990823f8a0dc9854d77a2601), opening announcement reviewed from local transcription: 'Aussprachetraining, Aufgabe 6A'",
+          "exercise": "6a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "d9e9f89900cef89f96644df85ce364725d87a275990823f8a0dc9854d77a2601",
+        "sourceLocator": "Original audio 038_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-101-track-39": {
+      "title": "Aufgabe 6b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 039_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 4526b4f0e53024bdb327209b70ea6777b4655256b010c4cddd3c517ff6f9d116), opening announcement reviewed from local transcription: 'Aussprachetraining, Aufgabe 6 B'",
+          "exercise": "6b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "4526b4f0e53024bdb327209b70ea6777b4655256b010c4cddd3c517ff6f9d116",
+        "sourceLocator": "Original audio 039_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-101-track-40": {
+      "title": "Aufgabe 6d",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 040_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 1d9634cbac73ce4d18f14b38601554a95b38b1765bcbfc5385f8804c0c3d6c1a), opening announcement reviewed from local transcription: 'Aussprachetraining - Aufgabe 6-D'",
+          "exercise": "6d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "1d9634cbac73ce4d18f14b38601554a95b38b1765bcbfc5385f8804c0c3d6c1a",
+        "sourceLocator": "Original audio 040_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-102-track-41": {
+      "title": "Aufgabe 6e",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 041_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 82f49057a2a4b3a65c725137064bd65d98ce07d80045d2eda98ad4783d142870), opening announcement reviewed from local transcription: 'Aussprachetraining - Aufgabe 6-E'",
+          "exercise": "6e"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "82f49057a2a4b3a65c725137064bd65d98ce07d80045d2eda98ad4783d142870",
+        "sourceLocator": "Original audio 041_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-102-track-42": {
+      "title": "Aufgabe 7b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 042_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 a089a443285bf058572703e1a19f701905f8b78e3b729b084fe610f11c0cea0d), opening announcement reviewed from local transcription: 'Aussprachetraining - Aufgabe 7B'",
+          "exercise": "7b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "a089a443285bf058572703e1a19f701905f8b78e3b729b084fe610f11c0cea0d",
+        "sourceLocator": "Original audio 042_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-102-track-43": {
+      "title": "Aufgabe 7d",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 043_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 45d41c3d59407ec96f9691ef0017d93fa9fed83bf2dbf45d5273b818256ff554), opening announcement reviewed from local transcription: 'Aussprachetraining - Aufgabe 7D'",
+          "exercise": "7d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "45d41c3d59407ec96f9691ef0017d93fa9fed83bf2dbf45d5273b818256ff554",
+        "sourceLocator": "Original audio 043_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-102-track-44": {
+      "title": "Aufgabe 8b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 044_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 99e16046b674c17b820182e4765fa06e9ce95e2dde5c00bea4cc075bf0a25070), opening announcement reviewed from local transcription: 'Aussprachetraining, Aufgabe 8B'",
+          "exercise": "8b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "99e16046b674c17b820182e4765fa06e9ce95e2dde5c00bea4cc075bf0a25070",
+        "sourceLocator": "Original audio 044_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-100-pack-102-track-45": {
+      "title": "Aufgabe 9a und b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio 045_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 (SHA256 b49ce8ac03da81199396eeedef30488ae6b80186c2dc4ed0b7e6e4f8d3237fd6), opening announcement reviewed from local transcription: 'Aussprachetraining Aufgabe 9a und b'",
+          "exercise": "9a und b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "b49ce8ac03da81199396eeedef30488ae6b80186c2dc4ed0b7e6e4f8d3237fd6",
+        "sourceLocator": "Original audio 045_telc_Einfach_besser_100!_Deutsch_fuer_Berufssprachkurse_Brueckenelement_B1B2.mp3 at00:00–00:12"
+      }
+    }
+  },
+  "documents": {},
+  "sources": [
+    {
+      "url": "https://shop.telc.net/media/catalog/product/file/4/0/4004-hae-2402a_lhb_online_1_.pdf",
+      "sha256": "160c26114eaeec289ec3e9ec6b8e597dda0f281315d3c6b9f57734969ef885d4",
+      "pageCount": 49,
+      "title": "eb100-teacher"
+    },
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_100_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+      "sha256": "460cac6d005bb7dd3b40558f4662cab97060c1a0c83050e00bd1073a7a7a1628",
+      "pageCount": 12,
+      "title": "eb100"
+    }
+  ],
+  "review": {
+    "author": "app_architecture",
+    "reviewedAt": "2026-10-11T18:10:30.613781+00:00",
+    "reviewer": "metadata_pipeline",
+    "independentlyReviewedAt": "2026-10-11T18:11:19.648081+00:00"
+  }
+}

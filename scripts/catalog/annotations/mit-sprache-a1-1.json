@@ -1,0 +1,2876 @@
+{
+  "schemaVersion": 1,
+  "bookId": "mit-sprache-a1-1",
+  "review": {
+    "author": "official_catalog",
+    "reviewedAt": "2026-10-11T18:17:53.219902+00:00",
+    "reviewer": "root",
+    "independentlyReviewedAt": "2026-10-11T18:18:52.073701+00:00",
+    "independentReviewMethod": "All144cached local opening transcripts read and compared to each lesson/exercise and named-test section; combined course/workbook label avoids unsupported split; introduction omitted; no page/timestamp assumptions."
+  },
+  "tracks": {
+    "mit-sprache-a1-1-pack-100-track-1": {
+      "title": "Einführung · Mit.Sprache A1.1",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "34ea65dc8031b56d2d72b3c4a4f60c881619d8fb85d8f013514a2285411cda07",
+        "sourceLocator": "audio SHA256 34ea65dc8031b56d2d72b3c4a4f60c881619d8fb85d8f013514a2285411cda07 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/34ea65dc8031b56d2d72b3c4a4f60c881619d8fb85d8f013514a2285411cda07.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/34ea65dc8031b56d2d72b3c4a4f60c881619d8fb85d8f013514a2285411cda07.evidence.json",
+        "reason": "Opening announces publisher and combined course/workbook title; no exercise or lesson reference."
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-2": {
+      "title": "Lektion 1 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "2a",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 2a.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "7d1a16c6c122d7ed36b7c751ab11965f4d224974bc7a24beb77981ddc176a5fa",
+        "sourceLocator": "audio SHA256 7d1a16c6c122d7ed36b7c751ab11965f4d224974bc7a24beb77981ddc176a5fa at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/7d1a16c6c122d7ed36b7c751ab11965f4d224974bc7a24beb77981ddc176a5fa.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/7d1a16c6c122d7ed36b7c751ab11965f4d224974bc7a24beb77981ddc176a5fa.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-3": {
+      "title": "Lektion 1 · Aufgabe 3",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "3",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 3.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "271ee04b4549147f8a914fbf9bda6e2491cc3c2cca75538cef5a4da05e6c1e8b",
+        "sourceLocator": "audio SHA256 271ee04b4549147f8a914fbf9bda6e2491cc3c2cca75538cef5a4da05e6c1e8b at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/271ee04b4549147f8a914fbf9bda6e2491cc3c2cca75538cef5a4da05e6c1e8b.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/271ee04b4549147f8a914fbf9bda6e2491cc3c2cca75538cef5a4da05e6c1e8b.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-4": {
+      "title": "Lektion 1 · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "4a",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 4a.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "0b62ff04543559803efc4725355f6dcf6af7ce34819b8e774b3c0ba039378db0",
+        "sourceLocator": "audio SHA256 0b62ff04543559803efc4725355f6dcf6af7ce34819b8e774b3c0ba039378db0 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/0b62ff04543559803efc4725355f6dcf6af7ce34819b8e774b3c0ba039378db0.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/0b62ff04543559803efc4725355f6dcf6af7ce34819b8e774b3c0ba039378db0.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-5": {
+      "title": "Lektion 1 · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5a",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 5a.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "4c957139e6e31e51efa480b19f476e0cbfc0c46911b91ad18f753eabaff34c36",
+        "sourceLocator": "audio SHA256 4c957139e6e31e51efa480b19f476e0cbfc0c46911b91ad18f753eabaff34c36 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/4c957139e6e31e51efa480b19f476e0cbfc0c46911b91ad18f753eabaff34c36.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/4c957139e6e31e51efa480b19f476e0cbfc0c46911b91ad18f753eabaff34c36.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-6": {
+      "title": "Lektion 1 · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6a",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 6a.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "bfa5b0bb88edb9690cd2b87eaa5bd10b150ecff35b9c863fe29ad35d3673877c",
+        "sourceLocator": "audio SHA256 bfa5b0bb88edb9690cd2b87eaa5bd10b150ecff35b9c863fe29ad35d3673877c at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/bfa5b0bb88edb9690cd2b87eaa5bd10b150ecff35b9c863fe29ad35d3673877c.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/bfa5b0bb88edb9690cd2b87eaa5bd10b150ecff35b9c863fe29ad35d3673877c.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-7": {
+      "title": "Lektion 1 · Aufgabe 8b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "8b",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 8b.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "83406ecf75019d35f28e7124b800d1f891159895efcaa397a8708bb8d12c8e45",
+        "sourceLocator": "audio SHA256 83406ecf75019d35f28e7124b800d1f891159895efcaa397a8708bb8d12c8e45 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/83406ecf75019d35f28e7124b800d1f891159895efcaa397a8708bb8d12c8e45.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/83406ecf75019d35f28e7124b800d1f891159895efcaa397a8708bb8d12c8e45.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-8": {
+      "title": "Lektion 1 · Aufgabe 8c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "8c",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 8c.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "14b3adca23e5e768be1ac9950007eb39bfc0bf7a777c2ec8971b25e63d6d9551",
+        "sourceLocator": "audio SHA256 14b3adca23e5e768be1ac9950007eb39bfc0bf7a777c2ec8971b25e63d6d9551 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/14b3adca23e5e768be1ac9950007eb39bfc0bf7a777c2ec8971b25e63d6d9551.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/14b3adca23e5e768be1ac9950007eb39bfc0bf7a777c2ec8971b25e63d6d9551.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-9": {
+      "title": "Lektion 1 · Aufgabe 10b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "10b",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 10b.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "dbd0042bd1efff2163c2840d6c5663c113c34852c51801893f7d0532d84efc31",
+        "sourceLocator": "audio SHA256 dbd0042bd1efff2163c2840d6c5663c113c34852c51801893f7d0532d84efc31 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/dbd0042bd1efff2163c2840d6c5663c113c34852c51801893f7d0532d84efc31.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/dbd0042bd1efff2163c2840d6c5663c113c34852c51801893f7d0532d84efc31.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-10": {
+      "title": "Lektion 1 · Aufgabe 10d",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "10d",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 10d.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "7b46b505e47e6b0169222b90f521beb2fd6c11ad4dbf04006ea34faad95db085",
+        "sourceLocator": "audio SHA256 7b46b505e47e6b0169222b90f521beb2fd6c11ad4dbf04006ea34faad95db085 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/7b46b505e47e6b0169222b90f521beb2fd6c11ad4dbf04006ea34faad95db085.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/7b46b505e47e6b0169222b90f521beb2fd6c11ad4dbf04006ea34faad95db085.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-11": {
+      "title": "Lektion 1 · Aufgabe 11a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "11a",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 11a.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "57a0689a44cbaad959e1f02c2fa1f7e6fad0be50e686bb0f19bbee9404fd2607",
+        "sourceLocator": "audio SHA256 57a0689a44cbaad959e1f02c2fa1f7e6fad0be50e686bb0f19bbee9404fd2607 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/57a0689a44cbaad959e1f02c2fa1f7e6fad0be50e686bb0f19bbee9404fd2607.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/57a0689a44cbaad959e1f02c2fa1f7e6fad0be50e686bb0f19bbee9404fd2607.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-12": {
+      "title": "Lektion 1 · Aufgabe 12a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "12a",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 12a.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "f098fc4ccd59410ee46adb27e84e3fd4ed46436c592f484ace39ec2afd3cb9a1",
+        "sourceLocator": "audio SHA256 f098fc4ccd59410ee46adb27e84e3fd4ed46436c592f484ace39ec2afd3cb9a1 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/f098fc4ccd59410ee46adb27e84e3fd4ed46436c592f484ace39ec2afd3cb9a1.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/f098fc4ccd59410ee46adb27e84e3fd4ed46436c592f484ace39ec2afd3cb9a1.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-13": {
+      "title": "Lektion 1 · Aufgabe 12c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "12c",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 12c.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b610442a0d3bad7097d1aaea6214c2f00f6204d75aad98805f6a7af1cfe6b759",
+        "sourceLocator": "audio SHA256 b610442a0d3bad7097d1aaea6214c2f00f6204d75aad98805f6a7af1cfe6b759 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/b610442a0d3bad7097d1aaea6214c2f00f6204d75aad98805f6a7af1cfe6b759.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/b610442a0d3bad7097d1aaea6214c2f00f6204d75aad98805f6a7af1cfe6b759.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-14": {
+      "title": "Lektion 1 · Aufgabe 13b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "13b",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 13b.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "c46246d250154cce836c6a6a91cb6f71e917c03ac2872d049e8839b2851148e3",
+        "sourceLocator": "audio SHA256 c46246d250154cce836c6a6a91cb6f71e917c03ac2872d049e8839b2851148e3 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/c46246d250154cce836c6a6a91cb6f71e917c03ac2872d049e8839b2851148e3.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/c46246d250154cce836c6a6a91cb6f71e917c03ac2872d049e8839b2851148e3.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-15": {
+      "title": "Lektion 1 · Aufgabe 13d",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "13d",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 13d.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "febd4374dd1988e51ccdb2be2f238226b56f45e0bbb75c5fd5f566a52df1bdfe",
+        "sourceLocator": "audio SHA256 febd4374dd1988e51ccdb2be2f238226b56f45e0bbb75c5fd5f566a52df1bdfe at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/febd4374dd1988e51ccdb2be2f238226b56f45e0bbb75c5fd5f566a52df1bdfe.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/febd4374dd1988e51ccdb2be2f238226b56f45e0bbb75c5fd5f566a52df1bdfe.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-16": {
+      "title": "Lektion 1 · Aufgabe 13e",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "13e",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 13e.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "130932d83bb4e62fcaccb676127118d71bc33467bf50cfb8878e8726afb10cda",
+        "sourceLocator": "audio SHA256 130932d83bb4e62fcaccb676127118d71bc33467bf50cfb8878e8726afb10cda at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/130932d83bb4e62fcaccb676127118d71bc33467bf50cfb8878e8726afb10cda.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/130932d83bb4e62fcaccb676127118d71bc33467bf50cfb8878e8726afb10cda.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-17": {
+      "title": "Lektion 1 · Aufgabe 14a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "14a",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 14a.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "c59e770f0d60cd7cd88e66ac956edc8319731dba1c23d839363485ad4bcf7f5a",
+        "sourceLocator": "audio SHA256 c59e770f0d60cd7cd88e66ac956edc8319731dba1c23d839363485ad4bcf7f5a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/c59e770f0d60cd7cd88e66ac956edc8319731dba1c23d839363485ad4bcf7f5a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/c59e770f0d60cd7cd88e66ac956edc8319731dba1c23d839363485ad4bcf7f5a.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-18": {
+      "title": "Lektion 1 · Aufgabe 14e",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "14e",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 14e.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "fcd70075e48e4dbb4883eaa8ebca1420f45274d1f9a92176391785eee12a15cd",
+        "sourceLocator": "audio SHA256 fcd70075e48e4dbb4883eaa8ebca1420f45274d1f9a92176391785eee12a15cd at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/fcd70075e48e4dbb4883eaa8ebca1420f45274d1f9a92176391785eee12a15cd.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/fcd70075e48e4dbb4883eaa8ebca1420f45274d1f9a92176391785eee12a15cd.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-19": {
+      "title": "Lektion 2 · Aufgabe 5a, 5b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5a, 5b",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 5a, 5b.",
+          "status": "verified",
+          "chapter": 2
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "7ce8a75524d8f28ee8b89c2d9e2a2ac853e86e2b536eba49bdafebeb0eb43cd1",
+        "sourceLocator": "audio SHA256 7ce8a75524d8f28ee8b89c2d9e2a2ac853e86e2b536eba49bdafebeb0eb43cd1 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/7ce8a75524d8f28ee8b89c2d9e2a2ac853e86e2b536eba49bdafebeb0eb43cd1.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/7ce8a75524d8f28ee8b89c2d9e2a2ac853e86e2b536eba49bdafebeb0eb43cd1.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-20": {
+      "title": "Lektion 2 · Aufgabe 5c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5c",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 5c.",
+          "status": "verified",
+          "chapter": 2
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "10526fc35d1a4d2300209f47db17c99c51d13cd68d1e1b89453d4c0ca4ef9e81",
+        "sourceLocator": "audio SHA256 10526fc35d1a4d2300209f47db17c99c51d13cd68d1e1b89453d4c0ca4ef9e81 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/10526fc35d1a4d2300209f47db17c99c51d13cd68d1e1b89453d4c0ca4ef9e81.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/10526fc35d1a4d2300209f47db17c99c51d13cd68d1e1b89453d4c0ca4ef9e81.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-21": {
+      "title": "Lektion 2 · Aufgabe 6c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6c",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 6c.",
+          "status": "verified",
+          "chapter": 2
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "818ed2c01c1c628f580879a720fea42789d50c37f05c30d12dafb5f36f448df6",
+        "sourceLocator": "audio SHA256 818ed2c01c1c628f580879a720fea42789d50c37f05c30d12dafb5f36f448df6 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/818ed2c01c1c628f580879a720fea42789d50c37f05c30d12dafb5f36f448df6.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/818ed2c01c1c628f580879a720fea42789d50c37f05c30d12dafb5f36f448df6.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-22": {
+      "title": "Lektion 2 · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "7a",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 7a.",
+          "status": "verified",
+          "chapter": 2
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "82f951f847bebc0a3bb2686a9ad140beb7d35b47c31a000e65480cd0e9897cea",
+        "sourceLocator": "audio SHA256 82f951f847bebc0a3bb2686a9ad140beb7d35b47c31a000e65480cd0e9897cea at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/82f951f847bebc0a3bb2686a9ad140beb7d35b47c31a000e65480cd0e9897cea.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/82f951f847bebc0a3bb2686a9ad140beb7d35b47c31a000e65480cd0e9897cea.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-23": {
+      "title": "Lektion 2 · Aufgabe 9a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9a",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 9a.",
+          "status": "verified",
+          "chapter": 2
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "42262b44cb98b90afca3627b1bc2e72094ead569eaee115174c16ba3c6f2dcf2",
+        "sourceLocator": "audio SHA256 42262b44cb98b90afca3627b1bc2e72094ead569eaee115174c16ba3c6f2dcf2 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/42262b44cb98b90afca3627b1bc2e72094ead569eaee115174c16ba3c6f2dcf2.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/42262b44cb98b90afca3627b1bc2e72094ead569eaee115174c16ba3c6f2dcf2.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-24": {
+      "title": "Lektion 3 · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "1a",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 1a.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "192dc6603ec1d2d669a6a572d042cdea15ed9abcdec24d1649b46907081c264d",
+        "sourceLocator": "audio SHA256 192dc6603ec1d2d669a6a572d042cdea15ed9abcdec24d1649b46907081c264d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/192dc6603ec1d2d669a6a572d042cdea15ed9abcdec24d1649b46907081c264d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/192dc6603ec1d2d669a6a572d042cdea15ed9abcdec24d1649b46907081c264d.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-25": {
+      "title": "Lektion 3 · Aufgabe 3b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "3b",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 3b.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "97ee9c6503f87a4e820a67c34df93245c0d49c2905ef2ff51aa600204ada2ad2",
+        "sourceLocator": "audio SHA256 97ee9c6503f87a4e820a67c34df93245c0d49c2905ef2ff51aa600204ada2ad2 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/97ee9c6503f87a4e820a67c34df93245c0d49c2905ef2ff51aa600204ada2ad2.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/97ee9c6503f87a4e820a67c34df93245c0d49c2905ef2ff51aa600204ada2ad2.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-26": {
+      "title": "Lektion 3 · Aufgabe 3c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "3c",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 3c.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "70a734650cf44dc4ab3b16dee2b086efdc4630dcb872ab6ba670404649417af0",
+        "sourceLocator": "audio SHA256 70a734650cf44dc4ab3b16dee2b086efdc4630dcb872ab6ba670404649417af0 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/70a734650cf44dc4ab3b16dee2b086efdc4630dcb872ab6ba670404649417af0.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/70a734650cf44dc4ab3b16dee2b086efdc4630dcb872ab6ba670404649417af0.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-27": {
+      "title": "Lektion 3 · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "4a",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 4a.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "0a39dde17cb5276afec768a05ae1a66d817a6dd354dabaf7258506797987ef42",
+        "sourceLocator": "audio SHA256 0a39dde17cb5276afec768a05ae1a66d817a6dd354dabaf7258506797987ef42 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/0a39dde17cb5276afec768a05ae1a66d817a6dd354dabaf7258506797987ef42.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/0a39dde17cb5276afec768a05ae1a66d817a6dd354dabaf7258506797987ef42.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-28": {
+      "title": "Lektion 3 · Aufgabe 4f",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "4f",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 4f.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "da8ee7ff1f8e1a8e8a425d92ba42c21c67e8f968d4f63e90c7f0107a115ff456",
+        "sourceLocator": "audio SHA256 da8ee7ff1f8e1a8e8a425d92ba42c21c67e8f968d4f63e90c7f0107a115ff456 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/da8ee7ff1f8e1a8e8a425d92ba42c21c67e8f968d4f63e90c7f0107a115ff456.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/da8ee7ff1f8e1a8e8a425d92ba42c21c67e8f968d4f63e90c7f0107a115ff456.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-29": {
+      "title": "Lektion 3 · Aufgabe 5b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5b",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 5b.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8b0d763230d98d142f8a06dbdf07e4721b15cc1c745e025c9ee6de7eef6dcc78",
+        "sourceLocator": "audio SHA256 8b0d763230d98d142f8a06dbdf07e4721b15cc1c745e025c9ee6de7eef6dcc78 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/8b0d763230d98d142f8a06dbdf07e4721b15cc1c745e025c9ee6de7eef6dcc78.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/8b0d763230d98d142f8a06dbdf07e4721b15cc1c745e025c9ee6de7eef6dcc78.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-100-track-30": {
+      "title": "Lektion 3 · Aufgabe 5c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5c",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 5c.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "f5038120bcea817a9c0c21fa4308d85b82f29e25a8ac85aaa88cf131a69d9d47",
+        "sourceLocator": "audio SHA256 f5038120bcea817a9c0c21fa4308d85b82f29e25a8ac85aaa88cf131a69d9d47 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/f5038120bcea817a9c0c21fa4308d85b82f29e25a8ac85aaa88cf131a69d9d47.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/f5038120bcea817a9c0c21fa4308d85b82f29e25a8ac85aaa88cf131a69d9d47.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-31": {
+      "title": "Lektion 3 · Aufgabe 6c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6c",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 6c.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "9c929dbdd55bba4cf86b6afa742246c9f83b689efb89c24e258e04d6f6318ded",
+        "sourceLocator": "audio SHA256 9c929dbdd55bba4cf86b6afa742246c9f83b689efb89c24e258e04d6f6318ded at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/9c929dbdd55bba4cf86b6afa742246c9f83b689efb89c24e258e04d6f6318ded.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/9c929dbdd55bba4cf86b6afa742246c9f83b689efb89c24e258e04d6f6318ded.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-32": {
+      "title": "Lektion 3 · Aufgabe 9b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9b",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 9b.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "d3ebea28ec7abf3d574a0d34c80f9a99b21cf982162b0bb80b687c1e246ebd52",
+        "sourceLocator": "audio SHA256 d3ebea28ec7abf3d574a0d34c80f9a99b21cf982162b0bb80b687c1e246ebd52 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/d3ebea28ec7abf3d574a0d34c80f9a99b21cf982162b0bb80b687c1e246ebd52.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/d3ebea28ec7abf3d574a0d34c80f9a99b21cf982162b0bb80b687c1e246ebd52.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-33": {
+      "title": "Lektion 3 · Aufgabe 9g",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9g",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 9g.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "d54b15563379ec84b3c42d19c163f30d89927763360f7ebcd5fea0f5f9654b52",
+        "sourceLocator": "audio SHA256 d54b15563379ec84b3c42d19c163f30d89927763360f7ebcd5fea0f5f9654b52 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/d54b15563379ec84b3c42d19c163f30d89927763360f7ebcd5fea0f5f9654b52.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/d54b15563379ec84b3c42d19c163f30d89927763360f7ebcd5fea0f5f9654b52.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-34": {
+      "title": "Lektion 3 · Aufgabe 10b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "10b",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 10b.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "fd193eef767c575c3324ad1f4a3801e9b79efe415050345c263d575879c3552f",
+        "sourceLocator": "audio SHA256 fd193eef767c575c3324ad1f4a3801e9b79efe415050345c263d575879c3552f at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/fd193eef767c575c3324ad1f4a3801e9b79efe415050345c263d575879c3552f.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/fd193eef767c575c3324ad1f4a3801e9b79efe415050345c263d575879c3552f.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-35": {
+      "title": "Lektion 3 · Aufgabe 10d",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "10d",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 10d.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "bc728ae9e703be51e1e14bd0e73473ad99af6d783f49720d8969b08a12814500",
+        "sourceLocator": "audio SHA256 bc728ae9e703be51e1e14bd0e73473ad99af6d783f49720d8969b08a12814500 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/bc728ae9e703be51e1e14bd0e73473ad99af6d783f49720d8969b08a12814500.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/bc728ae9e703be51e1e14bd0e73473ad99af6d783f49720d8969b08a12814500.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-36": {
+      "title": "Lektion 4 · Aufgabe 2a, 2b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "2a, 2b",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 2a, 2b.",
+          "status": "verified",
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "2819b2e7082c83decf109b703bd1ce8d01d976df1bd540815ec96edef5fc6a07",
+        "sourceLocator": "audio SHA256 2819b2e7082c83decf109b703bd1ce8d01d976df1bd540815ec96edef5fc6a07 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/2819b2e7082c83decf109b703bd1ce8d01d976df1bd540815ec96edef5fc6a07.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/2819b2e7082c83decf109b703bd1ce8d01d976df1bd540815ec96edef5fc6a07.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-37": {
+      "title": "Lektion 4 · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5a",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 5a.",
+          "status": "verified",
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "2a5295de1639ec671a6540f0e812d1dca17f86dd594f15a511344c4c82138d74",
+        "sourceLocator": "audio SHA256 2a5295de1639ec671a6540f0e812d1dca17f86dd594f15a511344c4c82138d74 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/2a5295de1639ec671a6540f0e812d1dca17f86dd594f15a511344c4c82138d74.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/2a5295de1639ec671a6540f0e812d1dca17f86dd594f15a511344c4c82138d74.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-38": {
+      "title": "Lektion 4 · Aufgabe 6",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 6.",
+          "status": "verified",
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "567717a49043a7d244a03933f5d0feb5b059c2eb510363ec91040ea7b18c29b0",
+        "sourceLocator": "audio SHA256 567717a49043a7d244a03933f5d0feb5b059c2eb510363ec91040ea7b18c29b0 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/567717a49043a7d244a03933f5d0feb5b059c2eb510363ec91040ea7b18c29b0.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/567717a49043a7d244a03933f5d0feb5b059c2eb510363ec91040ea7b18c29b0.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-39": {
+      "title": "Lektion 4 · Aufgabe 7",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "7",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 7.",
+          "status": "verified",
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "6b818f2ff0ea09b9551f73fac0f14f1dfe08bb869c6927804d05ac719c623200",
+        "sourceLocator": "audio SHA256 6b818f2ff0ea09b9551f73fac0f14f1dfe08bb869c6927804d05ac719c623200 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/6b818f2ff0ea09b9551f73fac0f14f1dfe08bb869c6927804d05ac719c623200.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/6b818f2ff0ea09b9551f73fac0f14f1dfe08bb869c6927804d05ac719c623200.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-40": {
+      "title": "Lektion 4 · Aufgabe 9a, 9b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9a, 9b",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 9a, 9b.",
+          "status": "verified",
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "6a8154b1bb23a11f6cacc6185d9ceed388408e03e21edf46c63fbac97b07fc9a",
+        "sourceLocator": "audio SHA256 6a8154b1bb23a11f6cacc6185d9ceed388408e03e21edf46c63fbac97b07fc9a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/6a8154b1bb23a11f6cacc6185d9ceed388408e03e21edf46c63fbac97b07fc9a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/6a8154b1bb23a11f6cacc6185d9ceed388408e03e21edf46c63fbac97b07fc9a.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-41": {
+      "title": "Lektion 4 · Aufgabe 11a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "11a",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 11a.",
+          "status": "verified",
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "70595612bf16ce50d21e86e0a1c53582373802d17637848b07dd8aae55d24c8e",
+        "sourceLocator": "audio SHA256 70595612bf16ce50d21e86e0a1c53582373802d17637848b07dd8aae55d24c8e at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/70595612bf16ce50d21e86e0a1c53582373802d17637848b07dd8aae55d24c8e.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/70595612bf16ce50d21e86e0a1c53582373802d17637848b07dd8aae55d24c8e.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-42": {
+      "title": "Lektion 4 · Aufgabe 11b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "11b",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 11b.",
+          "status": "verified",
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "38fd30901305d2ae7697b492a46773999261b6077d29cbdac9e8cad730f011dc",
+        "sourceLocator": "audio SHA256 38fd30901305d2ae7697b492a46773999261b6077d29cbdac9e8cad730f011dc at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/38fd30901305d2ae7697b492a46773999261b6077d29cbdac9e8cad730f011dc.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/38fd30901305d2ae7697b492a46773999261b6077d29cbdac9e8cad730f011dc.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-43": {
+      "title": "Lektion 4 · Aufgabe 12b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "12b",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 12b.",
+          "status": "verified",
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "3ce24a424bb7b64aa5bfc63a88684e885d84b1be44ae47807a80f6ee30071f53",
+        "sourceLocator": "audio SHA256 3ce24a424bb7b64aa5bfc63a88684e885d84b1be44ae47807a80f6ee30071f53 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/3ce24a424bb7b64aa5bfc63a88684e885d84b1be44ae47807a80f6ee30071f53.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/3ce24a424bb7b64aa5bfc63a88684e885d84b1be44ae47807a80f6ee30071f53.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-44": {
+      "title": "Lektion 5 · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "1a",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 1a.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "2bbf24af2d35348d82d84c0fa076361db136393f447077e196013e98ba97b389",
+        "sourceLocator": "audio SHA256 2bbf24af2d35348d82d84c0fa076361db136393f447077e196013e98ba97b389 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/2bbf24af2d35348d82d84c0fa076361db136393f447077e196013e98ba97b389.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/2bbf24af2d35348d82d84c0fa076361db136393f447077e196013e98ba97b389.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-45": {
+      "title": "Lektion 5 · Aufgabe 2a, 2b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "2a, 2b",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 2a, 2b.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e08446240254a59dfd085016cfd3239df96418f87aa8395935565b6e797e79c1",
+        "sourceLocator": "audio SHA256 e08446240254a59dfd085016cfd3239df96418f87aa8395935565b6e797e79c1 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/e08446240254a59dfd085016cfd3239df96418f87aa8395935565b6e797e79c1.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/e08446240254a59dfd085016cfd3239df96418f87aa8395935565b6e797e79c1.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-46": {
+      "title": "Lektion 5 · Aufgabe 3b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "3b",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 3b.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8494b173b61a7bd51b9fb07f4d76ea794a9eab21407967813b51ed47619d8bef",
+        "sourceLocator": "audio SHA256 8494b173b61a7bd51b9fb07f4d76ea794a9eab21407967813b51ed47619d8bef at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/8494b173b61a7bd51b9fb07f4d76ea794a9eab21407967813b51ed47619d8bef.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/8494b173b61a7bd51b9fb07f4d76ea794a9eab21407967813b51ed47619d8bef.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-47": {
+      "title": "Lektion 5 · Aufgabe 4c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "4c",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 4c.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "793fafdcd78e8cc46828bdbbf563ed24178d2967d23ec07116260e3354088222",
+        "sourceLocator": "audio SHA256 793fafdcd78e8cc46828bdbbf563ed24178d2967d23ec07116260e3354088222 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/793fafdcd78e8cc46828bdbbf563ed24178d2967d23ec07116260e3354088222.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/793fafdcd78e8cc46828bdbbf563ed24178d2967d23ec07116260e3354088222.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-48": {
+      "title": "Lektion 5 · Aufgabe 6",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 6.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "c8174b47446bc3208182247d611503a1958a2d02ac2085eb8c0648bf50b8baba",
+        "sourceLocator": "audio SHA256 c8174b47446bc3208182247d611503a1958a2d02ac2085eb8c0648bf50b8baba at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/c8174b47446bc3208182247d611503a1958a2d02ac2085eb8c0648bf50b8baba.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/c8174b47446bc3208182247d611503a1958a2d02ac2085eb8c0648bf50b8baba.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-49": {
+      "title": "Lektion 5 · Aufgabe 8a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "8a",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 8a.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "faa2f189a44eba50a2f01641384b4b022b41cc2fc54081a3b0dce16ed291bfb6",
+        "sourceLocator": "audio SHA256 faa2f189a44eba50a2f01641384b4b022b41cc2fc54081a3b0dce16ed291bfb6 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/faa2f189a44eba50a2f01641384b4b022b41cc2fc54081a3b0dce16ed291bfb6.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/faa2f189a44eba50a2f01641384b4b022b41cc2fc54081a3b0dce16ed291bfb6.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-50": {
+      "title": "Lektion 5 · Aufgabe 9a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9a",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 9a.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "ce97faa6ad370e506069e74b9b97b44ddc2dfdcee1e57f494ff57dbe66e5ad71",
+        "sourceLocator": "audio SHA256 ce97faa6ad370e506069e74b9b97b44ddc2dfdcee1e57f494ff57dbe66e5ad71 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/ce97faa6ad370e506069e74b9b97b44ddc2dfdcee1e57f494ff57dbe66e5ad71.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/ce97faa6ad370e506069e74b9b97b44ddc2dfdcee1e57f494ff57dbe66e5ad71.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-51": {
+      "title": "Lektion 5 · Aufgabe 9b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9b",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 9b.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "21c7a69aab4a86b9fc50cbcfdbabe97c3669eb94d8c7d6cd9b5573bd4015e3a6",
+        "sourceLocator": "audio SHA256 21c7a69aab4a86b9fc50cbcfdbabe97c3669eb94d8c7d6cd9b5573bd4015e3a6 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/21c7a69aab4a86b9fc50cbcfdbabe97c3669eb94d8c7d6cd9b5573bd4015e3a6.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/21c7a69aab4a86b9fc50cbcfdbabe97c3669eb94d8c7d6cd9b5573bd4015e3a6.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-52": {
+      "title": "Lektion 6 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "2a",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 2a.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "219c9a1dbe0f978085f9540950bd11c1ba1e2ed6171f1dbd32b064a20c5c21b5",
+        "sourceLocator": "audio SHA256 219c9a1dbe0f978085f9540950bd11c1ba1e2ed6171f1dbd32b064a20c5c21b5 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/219c9a1dbe0f978085f9540950bd11c1ba1e2ed6171f1dbd32b064a20c5c21b5.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/219c9a1dbe0f978085f9540950bd11c1ba1e2ed6171f1dbd32b064a20c5c21b5.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-53": {
+      "title": "Lektion 6 · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "2b",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 2b.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b16ca155b72e63cd6d62a970632166b97f66fe97d72a0873f3823825f5c84d25",
+        "sourceLocator": "audio SHA256 b16ca155b72e63cd6d62a970632166b97f66fe97d72a0873f3823825f5c84d25 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/b16ca155b72e63cd6d62a970632166b97f66fe97d72a0873f3823825f5c84d25.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/b16ca155b72e63cd6d62a970632166b97f66fe97d72a0873f3823825f5c84d25.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-54": {
+      "title": "Lektion 6 · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "2c",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 2c.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "cc148e4d31d77331e45d73d080bbe6962aad88ef53455bbd8113c08052f837de",
+        "sourceLocator": "audio SHA256 cc148e4d31d77331e45d73d080bbe6962aad88ef53455bbd8113c08052f837de at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/cc148e4d31d77331e45d73d080bbe6962aad88ef53455bbd8113c08052f837de.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/cc148e4d31d77331e45d73d080bbe6962aad88ef53455bbd8113c08052f837de.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-55": {
+      "title": "Lektion 6 · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5a",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 5a.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "21340052803216bea367ce882156b7a119a086a8997e53d20fafe1f84d3cfc42",
+        "sourceLocator": "audio SHA256 21340052803216bea367ce882156b7a119a086a8997e53d20fafe1f84d3cfc42 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/21340052803216bea367ce882156b7a119a086a8997e53d20fafe1f84d3cfc42.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/21340052803216bea367ce882156b7a119a086a8997e53d20fafe1f84d3cfc42.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-56": {
+      "title": "Lektion 6 · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6a",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 6a.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "0e2f557c2c48ada4f287704281d0455672b8a73b26e991fe8b1f49e2fddb9d3a",
+        "sourceLocator": "audio SHA256 0e2f557c2c48ada4f287704281d0455672b8a73b26e991fe8b1f49e2fddb9d3a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/0e2f557c2c48ada4f287704281d0455672b8a73b26e991fe8b1f49e2fddb9d3a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/0e2f557c2c48ada4f287704281d0455672b8a73b26e991fe8b1f49e2fddb9d3a.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-57": {
+      "title": "Lektion 6 · Aufgabe 6b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6b",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 6b.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "d55a06f97bed20a28709d5af95ee687bfdbda13439473222634a4b00e2b81f4a",
+        "sourceLocator": "audio SHA256 d55a06f97bed20a28709d5af95ee687bfdbda13439473222634a4b00e2b81f4a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/d55a06f97bed20a28709d5af95ee687bfdbda13439473222634a4b00e2b81f4a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/d55a06f97bed20a28709d5af95ee687bfdbda13439473222634a4b00e2b81f4a.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-58": {
+      "title": "Lektion 6 · Aufgabe 7c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "7c",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 7c.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8161cd55a410bc64fae09146eb7b04ecf22e4e389cda550fdd9288c01107876e",
+        "sourceLocator": "audio SHA256 8161cd55a410bc64fae09146eb7b04ecf22e4e389cda550fdd9288c01107876e at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/8161cd55a410bc64fae09146eb7b04ecf22e4e389cda550fdd9288c01107876e.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/8161cd55a410bc64fae09146eb7b04ecf22e4e389cda550fdd9288c01107876e.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-59": {
+      "title": "Lektion 7 · Aufgabe 1b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "1b",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 1b.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "676ede21723543cc3ddf8f3428e65ea4783073268afbf2a6de434ffb2689520d",
+        "sourceLocator": "audio SHA256 676ede21723543cc3ddf8f3428e65ea4783073268afbf2a6de434ffb2689520d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/676ede21723543cc3ddf8f3428e65ea4783073268afbf2a6de434ffb2689520d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/676ede21723543cc3ddf8f3428e65ea4783073268afbf2a6de434ffb2689520d.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-60": {
+      "title": "Lektion 7 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "2a",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 2a.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "fa76739cec168eaa96b7e27bada402821b17ee505b76fc919778cd08c7a8446e",
+        "sourceLocator": "audio SHA256 fa76739cec168eaa96b7e27bada402821b17ee505b76fc919778cd08c7a8446e at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/fa76739cec168eaa96b7e27bada402821b17ee505b76fc919778cd08c7a8446e.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/fa76739cec168eaa96b7e27bada402821b17ee505b76fc919778cd08c7a8446e.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-61": {
+      "title": "Lektion 7 · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "2b",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 2b.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "614a41ab57a1aa0fc769340b28f36b2a18b3a1bf90680d494c5e0db85a018dce",
+        "sourceLocator": "audio SHA256 614a41ab57a1aa0fc769340b28f36b2a18b3a1bf90680d494c5e0db85a018dce at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/614a41ab57a1aa0fc769340b28f36b2a18b3a1bf90680d494c5e0db85a018dce.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/614a41ab57a1aa0fc769340b28f36b2a18b3a1bf90680d494c5e0db85a018dce.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-62": {
+      "title": "Lektion 7 · Aufgabe 4c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "4c",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 4c.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b98be244b6b723dcc84863eb4e51c42a1029adbb2eb647de5a9dc331a98b2d5d",
+        "sourceLocator": "audio SHA256 b98be244b6b723dcc84863eb4e51c42a1029adbb2eb647de5a9dc331a98b2d5d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/b98be244b6b723dcc84863eb4e51c42a1029adbb2eb647de5a9dc331a98b2d5d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/b98be244b6b723dcc84863eb4e51c42a1029adbb2eb647de5a9dc331a98b2d5d.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-63": {
+      "title": "Lektion 7 · Aufgabe 5b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5b",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 5b.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "cb862c8959ca677623f8538f507c973bc16e86d303a813cf73ea5681ae2a2a57",
+        "sourceLocator": "audio SHA256 cb862c8959ca677623f8538f507c973bc16e86d303a813cf73ea5681ae2a2a57 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/cb862c8959ca677623f8538f507c973bc16e86d303a813cf73ea5681ae2a2a57.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/cb862c8959ca677623f8538f507c973bc16e86d303a813cf73ea5681ae2a2a57.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-64": {
+      "title": "Lektion 7 · Aufgabe 5e",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5e",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 5e.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "f86022bb534fb9c796ed3d157a9f8d21d2e72ab2345f4949b9cbb807341e124b",
+        "sourceLocator": "audio SHA256 f86022bb534fb9c796ed3d157a9f8d21d2e72ab2345f4949b9cbb807341e124b at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/f86022bb534fb9c796ed3d157a9f8d21d2e72ab2345f4949b9cbb807341e124b.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/f86022bb534fb9c796ed3d157a9f8d21d2e72ab2345f4949b9cbb807341e124b.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-101-track-65": {
+      "title": "Lektion 7 · Aufgabe 6b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6b",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 6b.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "633e4b6dc056c451f63dc296a9a0992d0b7096d8047bb40802d09494b919ed5f",
+        "sourceLocator": "audio SHA256 633e4b6dc056c451f63dc296a9a0992d0b7096d8047bb40802d09494b919ed5f at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/633e4b6dc056c451f63dc296a9a0992d0b7096d8047bb40802d09494b919ed5f.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/633e4b6dc056c451f63dc296a9a0992d0b7096d8047bb40802d09494b919ed5f.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-66": {
+      "title": "Lektion 7 · Aufgabe 6c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6c",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 6c.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "d6579a261ed392547347298474c5284dd09794dd97b788c8afbe832ab58cc30b",
+        "sourceLocator": "audio SHA256 d6579a261ed392547347298474c5284dd09794dd97b788c8afbe832ab58cc30b at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/d6579a261ed392547347298474c5284dd09794dd97b788c8afbe832ab58cc30b.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/d6579a261ed392547347298474c5284dd09794dd97b788c8afbe832ab58cc30b.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-67": {
+      "title": "Lektion 7 · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "7a",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 7a.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8b79adcc4218835e78571f47a70d5eae8e003c4caeaedbf35b777b51d4c5de5d",
+        "sourceLocator": "audio SHA256 8b79adcc4218835e78571f47a70d5eae8e003c4caeaedbf35b777b51d4c5de5d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/8b79adcc4218835e78571f47a70d5eae8e003c4caeaedbf35b777b51d4c5de5d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/8b79adcc4218835e78571f47a70d5eae8e003c4caeaedbf35b777b51d4c5de5d.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-68": {
+      "title": "Lektion 7 · Aufgabe 9a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9a",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 9a.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "79604833f3ab9f2a85b5f6942f2ac2ec3b7feffece6df557b20d2ed21119a2ad",
+        "sourceLocator": "audio SHA256 79604833f3ab9f2a85b5f6942f2ac2ec3b7feffece6df557b20d2ed21119a2ad at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/79604833f3ab9f2a85b5f6942f2ac2ec3b7feffece6df557b20d2ed21119a2ad.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/79604833f3ab9f2a85b5f6942f2ac2ec3b7feffece6df557b20d2ed21119a2ad.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-69": {
+      "title": "Lektion 7 · Aufgabe 9b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9b",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 9b.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "efef381ddcc4b74f37b7ca4d7be814ec7e71d3ff4c3d3071049c2268194a561a",
+        "sourceLocator": "audio SHA256 efef381ddcc4b74f37b7ca4d7be814ec7e71d3ff4c3d3071049c2268194a561a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/efef381ddcc4b74f37b7ca4d7be814ec7e71d3ff4c3d3071049c2268194a561a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/efef381ddcc4b74f37b7ca4d7be814ec7e71d3ff4c3d3071049c2268194a561a.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-70": {
+      "title": "Lektion 7 · Aufgabe 10a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "10a",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 10a.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "fa62bb66640341e55e9faad9a57c303f9e41d77a84991a7291f35e397a031997",
+        "sourceLocator": "audio SHA256 fa62bb66640341e55e9faad9a57c303f9e41d77a84991a7291f35e397a031997 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/fa62bb66640341e55e9faad9a57c303f9e41d77a84991a7291f35e397a031997.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/fa62bb66640341e55e9faad9a57c303f9e41d77a84991a7291f35e397a031997.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-71": {
+      "title": "Lektion 8 · Aufgabe 1c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "1c",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 1c.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e9fc246443f7a65664f37c102c8c055cc38d0a27566df19cd6d135e2cfeb440b",
+        "sourceLocator": "audio SHA256 e9fc246443f7a65664f37c102c8c055cc38d0a27566df19cd6d135e2cfeb440b at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/e9fc246443f7a65664f37c102c8c055cc38d0a27566df19cd6d135e2cfeb440b.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/e9fc246443f7a65664f37c102c8c055cc38d0a27566df19cd6d135e2cfeb440b.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-72": {
+      "title": "Lektion 8 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "2a",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 2a.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "c5c103f2ba02ca66dfa8a569f7fb6bd9a3017ef5dc2f90df680144b2ffe9c1e7",
+        "sourceLocator": "audio SHA256 c5c103f2ba02ca66dfa8a569f7fb6bd9a3017ef5dc2f90df680144b2ffe9c1e7 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/c5c103f2ba02ca66dfa8a569f7fb6bd9a3017ef5dc2f90df680144b2ffe9c1e7.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/c5c103f2ba02ca66dfa8a569f7fb6bd9a3017ef5dc2f90df680144b2ffe9c1e7.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-73": {
+      "title": "Lektion 8 · Aufgabe 5c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5c",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 5c.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "6c7350578c0b6745894cb5d33213dc9c691da1e220f4a90d3e37d75cdc9be8ca",
+        "sourceLocator": "audio SHA256 6c7350578c0b6745894cb5d33213dc9c691da1e220f4a90d3e37d75cdc9be8ca at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/6c7350578c0b6745894cb5d33213dc9c691da1e220f4a90d3e37d75cdc9be8ca.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/6c7350578c0b6745894cb5d33213dc9c691da1e220f4a90d3e37d75cdc9be8ca.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-74": {
+      "title": "Lektion 8 · Aufgabe 6a, 6b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6a, 6b",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 6a, 6b.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "eb9c66ab15f9ff7536cc5bf2b990fe93427ab38576478de579c4604dce4f6b26",
+        "sourceLocator": "audio SHA256 eb9c66ab15f9ff7536cc5bf2b990fe93427ab38576478de579c4604dce4f6b26 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/eb9c66ab15f9ff7536cc5bf2b990fe93427ab38576478de579c4604dce4f6b26.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/eb9c66ab15f9ff7536cc5bf2b990fe93427ab38576478de579c4604dce4f6b26.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-75": {
+      "title": "Lektion 8 · Aufgabe 6d",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6d",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 6d.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "0cd35318fe861b52062a689a0dc32b8ba343dd1a1acdbb5048e23d3acbddb223",
+        "sourceLocator": "audio SHA256 0cd35318fe861b52062a689a0dc32b8ba343dd1a1acdbb5048e23d3acbddb223 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/0cd35318fe861b52062a689a0dc32b8ba343dd1a1acdbb5048e23d3acbddb223.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/0cd35318fe861b52062a689a0dc32b8ba343dd1a1acdbb5048e23d3acbddb223.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-76": {
+      "title": "Lektion 8 · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "7a",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 7a.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e8c6e8fa7abf01412811603b6fdacc3339ffc8dde2375eb5e8b0eaa03b22de2a",
+        "sourceLocator": "audio SHA256 e8c6e8fa7abf01412811603b6fdacc3339ffc8dde2375eb5e8b0eaa03b22de2a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/e8c6e8fa7abf01412811603b6fdacc3339ffc8dde2375eb5e8b0eaa03b22de2a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/e8c6e8fa7abf01412811603b6fdacc3339ffc8dde2375eb5e8b0eaa03b22de2a.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-77": {
+      "title": "Lektion 8 · Aufgabe 8a, 8b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "8a, 8b",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 8a, 8b.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "333dfddf0e4346fc6f8f104bfd53903ee9a1df3a38c58d5afb394234538a71f5",
+        "sourceLocator": "audio SHA256 333dfddf0e4346fc6f8f104bfd53903ee9a1df3a38c58d5afb394234538a71f5 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/333dfddf0e4346fc6f8f104bfd53903ee9a1df3a38c58d5afb394234538a71f5.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/333dfddf0e4346fc6f8f104bfd53903ee9a1df3a38c58d5afb394234538a71f5.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-78": {
+      "title": "Lektion 8 · Aufgabe 10a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "10a",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 10a.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "9b570e029e002451ddb35d65a3f1bf154bafdb58e8d9b054603bccd43550f572",
+        "sourceLocator": "audio SHA256 9b570e029e002451ddb35d65a3f1bf154bafdb58e8d9b054603bccd43550f572 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/9b570e029e002451ddb35d65a3f1bf154bafdb58e8d9b054603bccd43550f572.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/9b570e029e002451ddb35d65a3f1bf154bafdb58e8d9b054603bccd43550f572.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-79": {
+      "title": "Lektion 1 · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "3a",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 3a.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "4dd4c8b26625b5c8c2a4f6f0ba376e8d244eee4e46168819e189b542efdb7471",
+        "sourceLocator": "audio SHA256 4dd4c8b26625b5c8c2a4f6f0ba376e8d244eee4e46168819e189b542efdb7471 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/4dd4c8b26625b5c8c2a4f6f0ba376e8d244eee4e46168819e189b542efdb7471.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/4dd4c8b26625b5c8c2a4f6f0ba376e8d244eee4e46168819e189b542efdb7471.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-80": {
+      "title": "Lektion 1 · Aufgabe 5d",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5d",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 5d.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "3d6f3d3f1d9ac28641727c5abc1bf82a4e7d3b615ea32fa12c9c10f75e123e4d",
+        "sourceLocator": "audio SHA256 3d6f3d3f1d9ac28641727c5abc1bf82a4e7d3b615ea32fa12c9c10f75e123e4d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/3d6f3d3f1d9ac28641727c5abc1bf82a4e7d3b615ea32fa12c9c10f75e123e4d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/3d6f3d3f1d9ac28641727c5abc1bf82a4e7d3b615ea32fa12c9c10f75e123e4d.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-81": {
+      "title": "Lektion 1 · Aufgabe 8b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "8b",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 8b.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "828cecad4e316ab5ef05b0c92c1c36665197929e816e7bfb66c2d8ae908700eb",
+        "sourceLocator": "audio SHA256 828cecad4e316ab5ef05b0c92c1c36665197929e816e7bfb66c2d8ae908700eb at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/828cecad4e316ab5ef05b0c92c1c36665197929e816e7bfb66c2d8ae908700eb.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/828cecad4e316ab5ef05b0c92c1c36665197929e816e7bfb66c2d8ae908700eb.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-82": {
+      "title": "Lektion 1 · Aufgabe 9c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9c",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 9c.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "5d85d9ae238e8ac0af4335cc239eabca5eabce907dc28a295ff73b9bc11b0bb8",
+        "sourceLocator": "audio SHA256 5d85d9ae238e8ac0af4335cc239eabca5eabce907dc28a295ff73b9bc11b0bb8 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/5d85d9ae238e8ac0af4335cc239eabca5eabce907dc28a295ff73b9bc11b0bb8.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/5d85d9ae238e8ac0af4335cc239eabca5eabce907dc28a295ff73b9bc11b0bb8.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-83": {
+      "title": "Lektion 1 · Aufgabe 10a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "10a",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 10a.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "30b7f932c591778ae3bfd35896d3dc738a89c30bacf72dfef8364b1a71ee1a20",
+        "sourceLocator": "audio SHA256 30b7f932c591778ae3bfd35896d3dc738a89c30bacf72dfef8364b1a71ee1a20 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/30b7f932c591778ae3bfd35896d3dc738a89c30bacf72dfef8364b1a71ee1a20.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/30b7f932c591778ae3bfd35896d3dc738a89c30bacf72dfef8364b1a71ee1a20.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-84": {
+      "title": "Lektion 1 · Aufgabe 12f",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "12f",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 12f.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "f52940ee62c74d40f48daaefae09a8e7664f4a5c9c6fe90de5bce824d2979be2",
+        "sourceLocator": "audio SHA256 f52940ee62c74d40f48daaefae09a8e7664f4a5c9c6fe90de5bce824d2979be2 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/f52940ee62c74d40f48daaefae09a8e7664f4a5c9c6fe90de5bce824d2979be2.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/f52940ee62c74d40f48daaefae09a8e7664f4a5c9c6fe90de5bce824d2979be2.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-85": {
+      "title": "Lektion 1 · Aufgabe 13a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "13a",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 13a.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "811f4139dddebcf0148263a41344d5eb9bd1790c0497cae8a14ed360f9cd3f88",
+        "sourceLocator": "audio SHA256 811f4139dddebcf0148263a41344d5eb9bd1790c0497cae8a14ed360f9cd3f88 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/811f4139dddebcf0148263a41344d5eb9bd1790c0497cae8a14ed360f9cd3f88.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/811f4139dddebcf0148263a41344d5eb9bd1790c0497cae8a14ed360f9cd3f88.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-86": {
+      "title": "Lektion 1 · Aufgabe 13d",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "13d",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 13d.",
+          "status": "verified",
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "6dc7d7012d32558f80cc1583587c18b8489b8957857cc9776433ea362eb58048",
+        "sourceLocator": "audio SHA256 6dc7d7012d32558f80cc1583587c18b8489b8957857cc9776433ea362eb58048 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/6dc7d7012d32558f80cc1583587c18b8489b8957857cc9776433ea362eb58048.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/6dc7d7012d32558f80cc1583587c18b8489b8957857cc9776433ea362eb58048.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-87": {
+      "title": "Lektion 2 · Aufgabe 3c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "3c",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 3c.",
+          "status": "verified",
+          "chapter": 2
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "d63a441c44059ece7ca637c1b2fd24ec2c9fb655f968878b0d4faea7d78679db",
+        "sourceLocator": "audio SHA256 d63a441c44059ece7ca637c1b2fd24ec2c9fb655f968878b0d4faea7d78679db at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/d63a441c44059ece7ca637c1b2fd24ec2c9fb655f968878b0d4faea7d78679db.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/d63a441c44059ece7ca637c1b2fd24ec2c9fb655f968878b0d4faea7d78679db.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-88": {
+      "title": "Lektion 2 · Aufgabe 5b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5b",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 5b.",
+          "status": "verified",
+          "chapter": 2
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "ddd6fa833b23dff71806686c0f77534e7e1403df1fa4db07f83931225ab1075a",
+        "sourceLocator": "audio SHA256 ddd6fa833b23dff71806686c0f77534e7e1403df1fa4db07f83931225ab1075a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/ddd6fa833b23dff71806686c0f77534e7e1403df1fa4db07f83931225ab1075a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/ddd6fa833b23dff71806686c0f77534e7e1403df1fa4db07f83931225ab1075a.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-89": {
+      "title": "Lektion 2 · Aufgabe 5c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5c",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 5c.",
+          "status": "verified",
+          "chapter": 2
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "0707b295aedcc67378e596d035eaed837bc4db4d9b708dc0bef4b60d598e2042",
+        "sourceLocator": "audio SHA256 0707b295aedcc67378e596d035eaed837bc4db4d9b708dc0bef4b60d598e2042 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/0707b295aedcc67378e596d035eaed837bc4db4d9b708dc0bef4b60d598e2042.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/0707b295aedcc67378e596d035eaed837bc4db4d9b708dc0bef4b60d598e2042.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-102-track-90": {
+      "title": "Lektion 2 · Aufgabe 6b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6b",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 6b.",
+          "status": "verified",
+          "chapter": 2
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "50549c951c081757fb54df25f9497d111a9b41dde4a2bb5254e1bc2bfbb3bcf4",
+        "sourceLocator": "audio SHA256 50549c951c081757fb54df25f9497d111a9b41dde4a2bb5254e1bc2bfbb3bcf4 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/50549c951c081757fb54df25f9497d111a9b41dde4a2bb5254e1bc2bfbb3bcf4.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/50549c951c081757fb54df25f9497d111a9b41dde4a2bb5254e1bc2bfbb3bcf4.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-91": {
+      "title": "Lektion 2 · Aufgabe 9c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9c",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 9c.",
+          "status": "verified",
+          "chapter": 2
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "a1cbe62ec512babf78766d4e6fb0addeae9a2571c15a6aca0d798aaeb2a8770e",
+        "sourceLocator": "audio SHA256 a1cbe62ec512babf78766d4e6fb0addeae9a2571c15a6aca0d798aaeb2a8770e at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/a1cbe62ec512babf78766d4e6fb0addeae9a2571c15a6aca0d798aaeb2a8770e.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/a1cbe62ec512babf78766d4e6fb0addeae9a2571c15a6aca0d798aaeb2a8770e.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-92": {
+      "title": "Lernfortschrittstest A · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Lernfortschrittstest A",
+          "exercise": "4a",
+          "evidence": "Reviewed opening announcement: Lernfortschrittstest A, Aufgabe 4a.",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "ebe22e9184ad82147c38a602bfdba1471d4f42b65cbbc8550446da3d0d973f9a",
+        "sourceLocator": "audio SHA256 ebe22e9184ad82147c38a602bfdba1471d4f42b65cbbc8550446da3d0d973f9a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/ebe22e9184ad82147c38a602bfdba1471d4f42b65cbbc8550446da3d0d973f9a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/ebe22e9184ad82147c38a602bfdba1471d4f42b65cbbc8550446da3d0d973f9a.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-93": {
+      "title": "Lernfortschrittstest A · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Lernfortschrittstest A",
+          "exercise": "4b",
+          "evidence": "Reviewed opening announcement: Lernfortschrittstest A, Aufgabe 4b.",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "46b9c2cfb55ba71da8f403df095340657ebc07ba82c39e3bfb30e28a2fabc9e1",
+        "sourceLocator": "audio SHA256 46b9c2cfb55ba71da8f403df095340657ebc07ba82c39e3bfb30e28a2fabc9e1 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/46b9c2cfb55ba71da8f403df095340657ebc07ba82c39e3bfb30e28a2fabc9e1.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/46b9c2cfb55ba71da8f403df095340657ebc07ba82c39e3bfb30e28a2fabc9e1.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-94": {
+      "title": "Lektion 3 · Aufgabe 1b, 1c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "1b, 1c",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 1b, 1c.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "9e6f921bcfcc4b0313218f5db33a5a4bf1fa266c8216168666bbed8a0b600388",
+        "sourceLocator": "audio SHA256 9e6f921bcfcc4b0313218f5db33a5a4bf1fa266c8216168666bbed8a0b600388 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/9e6f921bcfcc4b0313218f5db33a5a4bf1fa266c8216168666bbed8a0b600388.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/9e6f921bcfcc4b0313218f5db33a5a4bf1fa266c8216168666bbed8a0b600388.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-95": {
+      "title": "Lektion 3 · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "4a",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 4a.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "1517c59f9dd1e9fa3a71057f0e0b7921fce1bd787fb0eee48f7a0afe74194ad0",
+        "sourceLocator": "audio SHA256 1517c59f9dd1e9fa3a71057f0e0b7921fce1bd787fb0eee48f7a0afe74194ad0 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/1517c59f9dd1e9fa3a71057f0e0b7921fce1bd787fb0eee48f7a0afe74194ad0.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/1517c59f9dd1e9fa3a71057f0e0b7921fce1bd787fb0eee48f7a0afe74194ad0.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-96": {
+      "title": "Lektion 3 · Aufgabe 4d",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "4d",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 4d.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "1dbeb1fb2666d244c33a006e5626422d1c7d5526a6ea0a2725f7c6121f2fe946",
+        "sourceLocator": "audio SHA256 1dbeb1fb2666d244c33a006e5626422d1c7d5526a6ea0a2725f7c6121f2fe946 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/1dbeb1fb2666d244c33a006e5626422d1c7d5526a6ea0a2725f7c6121f2fe946.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/1dbeb1fb2666d244c33a006e5626422d1c7d5526a6ea0a2725f7c6121f2fe946.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-97": {
+      "title": "Lektion 3 · Aufgabe 6e",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6e",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 6e.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b4150adc54ed8dfdadfddd815a904eb0f6e779aaca5415e3f4837fd0d79ae9a4",
+        "sourceLocator": "audio SHA256 b4150adc54ed8dfdadfddd815a904eb0f6e779aaca5415e3f4837fd0d79ae9a4 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/b4150adc54ed8dfdadfddd815a904eb0f6e779aaca5415e3f4837fd0d79ae9a4.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/b4150adc54ed8dfdadfddd815a904eb0f6e779aaca5415e3f4837fd0d79ae9a4.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-98": {
+      "title": "Lektion 3 · Aufgabe 6h",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6h",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 6h.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "19aa273a7c2a9d3e0980b211e356b89a3da63319d3e1483465236dd10e4f72ab",
+        "sourceLocator": "audio SHA256 19aa273a7c2a9d3e0980b211e356b89a3da63319d3e1483465236dd10e4f72ab at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/19aa273a7c2a9d3e0980b211e356b89a3da63319d3e1483465236dd10e4f72ab.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/19aa273a7c2a9d3e0980b211e356b89a3da63319d3e1483465236dd10e4f72ab.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-99": {
+      "title": "Lektion 3 · Aufgabe 6i",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6i",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 6i.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "7b4dd7e96c3cbd112e6dd33483fe771d2da9a1d63f540ebd70ee118be2cbfce3",
+        "sourceLocator": "audio SHA256 7b4dd7e96c3cbd112e6dd33483fe771d2da9a1d63f540ebd70ee118be2cbfce3 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/7b4dd7e96c3cbd112e6dd33483fe771d2da9a1d63f540ebd70ee118be2cbfce3.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/7b4dd7e96c3cbd112e6dd33483fe771d2da9a1d63f540ebd70ee118be2cbfce3.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-100": {
+      "title": "Lektion 3 · Aufgabe 9a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9a",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 9a.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8335178552b2f23643a5cc4906d73bb4b3b041a5a53f41f39efc30e4098a0360",
+        "sourceLocator": "audio SHA256 8335178552b2f23643a5cc4906d73bb4b3b041a5a53f41f39efc30e4098a0360 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/8335178552b2f23643a5cc4906d73bb4b3b041a5a53f41f39efc30e4098a0360.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/8335178552b2f23643a5cc4906d73bb4b3b041a5a53f41f39efc30e4098a0360.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-101": {
+      "title": "Lektion 3 · Aufgabe 10b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "10b",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 10b.",
+          "status": "verified",
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "c7ba907ff1063ec978a59a95463e506fcee0d660fcddc412d8a9921ac968e879",
+        "sourceLocator": "audio SHA256 c7ba907ff1063ec978a59a95463e506fcee0d660fcddc412d8a9921ac968e879 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/c7ba907ff1063ec978a59a95463e506fcee0d660fcddc412d8a9921ac968e879.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/c7ba907ff1063ec978a59a95463e506fcee0d660fcddc412d8a9921ac968e879.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-102": {
+      "title": "Lektion 4 · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "1a",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 1a.",
+          "status": "verified",
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "899db820b983a8542291a620ff1bcc0f1bf509734f35b943a07bc53725851de6",
+        "sourceLocator": "audio SHA256 899db820b983a8542291a620ff1bcc0f1bf509734f35b943a07bc53725851de6 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/899db820b983a8542291a620ff1bcc0f1bf509734f35b943a07bc53725851de6.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/899db820b983a8542291a620ff1bcc0f1bf509734f35b943a07bc53725851de6.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-103": {
+      "title": "Lektion 4 · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "2c",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 2c.",
+          "status": "verified",
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b1b5f4ab9ec48e66763861511528a9df34f37339ea1d3057fe4b63fee9228b8d",
+        "sourceLocator": "audio SHA256 b1b5f4ab9ec48e66763861511528a9df34f37339ea1d3057fe4b63fee9228b8d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/b1b5f4ab9ec48e66763861511528a9df34f37339ea1d3057fe4b63fee9228b8d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/b1b5f4ab9ec48e66763861511528a9df34f37339ea1d3057fe4b63fee9228b8d.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-104": {
+      "title": "Lektion 4 · Aufgabe 6a, 6b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6a, 6b",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 6a, 6b.",
+          "status": "verified",
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "bbd00ace44a1f32477b92f5ef7206235bd546a2267bf1b1ae0318dd0c393e224",
+        "sourceLocator": "audio SHA256 bbd00ace44a1f32477b92f5ef7206235bd546a2267bf1b1ae0318dd0c393e224 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/bbd00ace44a1f32477b92f5ef7206235bd546a2267bf1b1ae0318dd0c393e224.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/bbd00ace44a1f32477b92f5ef7206235bd546a2267bf1b1ae0318dd0c393e224.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-105": {
+      "title": "Lektion 4 · Aufgabe 8b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "8b",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 8b.",
+          "status": "verified",
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e72822666b693d3fe32b619acc04fd95b759e4912462266f7e1090b998245ea8",
+        "sourceLocator": "audio SHA256 e72822666b693d3fe32b619acc04fd95b759e4912462266f7e1090b998245ea8 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/e72822666b693d3fe32b619acc04fd95b759e4912462266f7e1090b998245ea8.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/e72822666b693d3fe32b619acc04fd95b759e4912462266f7e1090b998245ea8.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-106": {
+      "title": "Lektion 4 · Aufgabe 11a, 11b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "11a, 11b",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 11a, 11b.",
+          "status": "verified",
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "3c6e5bed4680dc7630dddb6da723152139346b38c64ec85d6cda56570bc9062b",
+        "sourceLocator": "audio SHA256 3c6e5bed4680dc7630dddb6da723152139346b38c64ec85d6cda56570bc9062b at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/3c6e5bed4680dc7630dddb6da723152139346b38c64ec85d6cda56570bc9062b.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/3c6e5bed4680dc7630dddb6da723152139346b38c64ec85d6cda56570bc9062b.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-107": {
+      "title": "Lernfortschrittstest B · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Lernfortschrittstest B",
+          "exercise": "4a",
+          "evidence": "Reviewed opening announcement: Lernfortschrittstest B, Aufgabe 4a.",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b2456cfe57a7627bb02d7a9ce80416d69761699b1707361fd52cac73c58bd91e",
+        "sourceLocator": "audio SHA256 b2456cfe57a7627bb02d7a9ce80416d69761699b1707361fd52cac73c58bd91e at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/b2456cfe57a7627bb02d7a9ce80416d69761699b1707361fd52cac73c58bd91e.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/b2456cfe57a7627bb02d7a9ce80416d69761699b1707361fd52cac73c58bd91e.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-108": {
+      "title": "Lernfortschrittstest B · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Lernfortschrittstest B",
+          "exercise": "4b",
+          "evidence": "Reviewed opening announcement: Lernfortschrittstest B, Aufgabe 4b.",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "29980830a228c164065da6c1e0156a504a31cd12b28205c52aa2377644efed7e",
+        "sourceLocator": "audio SHA256 29980830a228c164065da6c1e0156a504a31cd12b28205c52aa2377644efed7e at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/29980830a228c164065da6c1e0156a504a31cd12b28205c52aa2377644efed7e.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/29980830a228c164065da6c1e0156a504a31cd12b28205c52aa2377644efed7e.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-109": {
+      "title": "Lektion 5 · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "4b",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 4b.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "775049bc982c44f9942219ae5c5ec5a592030817cade2ce5542e5c55f64f2b3d",
+        "sourceLocator": "audio SHA256 775049bc982c44f9942219ae5c5ec5a592030817cade2ce5542e5c55f64f2b3d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/775049bc982c44f9942219ae5c5ec5a592030817cade2ce5542e5c55f64f2b3d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/775049bc982c44f9942219ae5c5ec5a592030817cade2ce5542e5c55f64f2b3d.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-110": {
+      "title": "Lektion 5 · Aufgabe 4c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "4c",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 4c.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "7f5a32636910bdbc3e673719a76ff34542b59ebf049c21b7197528f547949be9",
+        "sourceLocator": "audio SHA256 7f5a32636910bdbc3e673719a76ff34542b59ebf049c21b7197528f547949be9 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/7f5a32636910bdbc3e673719a76ff34542b59ebf049c21b7197528f547949be9.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/7f5a32636910bdbc3e673719a76ff34542b59ebf049c21b7197528f547949be9.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-111": {
+      "title": "Lektion 5 · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6a",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 6a.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "024e7cc645d6a704f1797bcc50ba21fd439ae3ef5cc856fe20a977c2aa21cc93",
+        "sourceLocator": "audio SHA256 024e7cc645d6a704f1797bcc50ba21fd439ae3ef5cc856fe20a977c2aa21cc93 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/024e7cc645d6a704f1797bcc50ba21fd439ae3ef5cc856fe20a977c2aa21cc93.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/024e7cc645d6a704f1797bcc50ba21fd439ae3ef5cc856fe20a977c2aa21cc93.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-112": {
+      "title": "Lektion 5 · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "7a",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 7a.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "4938b7571b731a73c7006dfffe4bd675165234d1acd5e0514a1dfbce7fb11f87",
+        "sourceLocator": "audio SHA256 4938b7571b731a73c7006dfffe4bd675165234d1acd5e0514a1dfbce7fb11f87 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/4938b7571b731a73c7006dfffe4bd675165234d1acd5e0514a1dfbce7fb11f87.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/4938b7571b731a73c7006dfffe4bd675165234d1acd5e0514a1dfbce7fb11f87.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-113": {
+      "title": "Lektion 5 · Aufgabe 9b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9b",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 9b.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "03d6b79a24822216aff79befe5a02bf3c40f82c29acba0a913fbea40529cafe2",
+        "sourceLocator": "audio SHA256 03d6b79a24822216aff79befe5a02bf3c40f82c29acba0a913fbea40529cafe2 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/03d6b79a24822216aff79befe5a02bf3c40f82c29acba0a913fbea40529cafe2.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/03d6b79a24822216aff79befe5a02bf3c40f82c29acba0a913fbea40529cafe2.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-114": {
+      "title": "Lektion 5 · Aufgabe 9c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9c",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 9c.",
+          "status": "verified",
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "cb5df724c63d473c0f0f29f3c5458719159464cda1cf4b362b838121ce5bfad2",
+        "sourceLocator": "audio SHA256 cb5df724c63d473c0f0f29f3c5458719159464cda1cf4b362b838121ce5bfad2 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/cb5df724c63d473c0f0f29f3c5458719159464cda1cf4b362b838121ce5bfad2.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/cb5df724c63d473c0f0f29f3c5458719159464cda1cf4b362b838121ce5bfad2.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-115": {
+      "title": "Lektion 6 · Aufgabe 2d",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "2d",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 2d.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "a93e72e7ca634b99b57b25617d27aa9c889c0cf47922341aaffe635953049125",
+        "sourceLocator": "audio SHA256 a93e72e7ca634b99b57b25617d27aa9c889c0cf47922341aaffe635953049125 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/a93e72e7ca634b99b57b25617d27aa9c889c0cf47922341aaffe635953049125.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/a93e72e7ca634b99b57b25617d27aa9c889c0cf47922341aaffe635953049125.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-116": {
+      "title": "Lektion 6 · Aufgabe 3e",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "3e",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 3e.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "43a92a850fef57640094453de677431092f19ae358c146194c85e4317dca0d78",
+        "sourceLocator": "audio SHA256 43a92a850fef57640094453de677431092f19ae358c146194c85e4317dca0d78 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/43a92a850fef57640094453de677431092f19ae358c146194c85e4317dca0d78.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/43a92a850fef57640094453de677431092f19ae358c146194c85e4317dca0d78.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-117": {
+      "title": "Lektion 6 · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5a",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 5a.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8d32ad421366c3a7b6a43e6360aaa2efa70783f221c2008b5a76ed28b1248745",
+        "sourceLocator": "audio SHA256 8d32ad421366c3a7b6a43e6360aaa2efa70783f221c2008b5a76ed28b1248745 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/8d32ad421366c3a7b6a43e6360aaa2efa70783f221c2008b5a76ed28b1248745.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/8d32ad421366c3a7b6a43e6360aaa2efa70783f221c2008b5a76ed28b1248745.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-118": {
+      "title": "Lektion 6 · Aufgabe 5d",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5d",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 5d.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "4897d29c439ba25d743e0412c5fe438a353966846b808da9727d5c43a726d432",
+        "sourceLocator": "audio SHA256 4897d29c439ba25d743e0412c5fe438a353966846b808da9727d5c43a726d432 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/4897d29c439ba25d743e0412c5fe438a353966846b808da9727d5c43a726d432.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/4897d29c439ba25d743e0412c5fe438a353966846b808da9727d5c43a726d432.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-119": {
+      "title": "Lektion 6 · Aufgabe 6d",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6d",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 6d.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "a89db75d0305a61869f425e973d2cf4a27cadab066de48f0c5f77e4ae5a21c7c",
+        "sourceLocator": "audio SHA256 a89db75d0305a61869f425e973d2cf4a27cadab066de48f0c5f77e4ae5a21c7c at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/a89db75d0305a61869f425e973d2cf4a27cadab066de48f0c5f77e4ae5a21c7c.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/a89db75d0305a61869f425e973d2cf4a27cadab066de48f0c5f77e4ae5a21c7c.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-103-track-120": {
+      "title": "Lektion 6 · Aufgabe 7b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "7b",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 7b.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "0f3e1590512b64bdb76b42fe71bd513d1fdfbbc4f960dfd2622ed86a6ebed046",
+        "sourceLocator": "audio SHA256 0f3e1590512b64bdb76b42fe71bd513d1fdfbbc4f960dfd2622ed86a6ebed046 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/0f3e1590512b64bdb76b42fe71bd513d1fdfbbc4f960dfd2622ed86a6ebed046.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/0f3e1590512b64bdb76b42fe71bd513d1fdfbbc4f960dfd2622ed86a6ebed046.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-121": {
+      "title": "Lektion 6 · Aufgabe 8c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "8c",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 8c.",
+          "status": "verified",
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "7a79c914387992f5129988aa3ac520a5589c270fc9a8949053f0127aed1d3ce9",
+        "sourceLocator": "audio SHA256 7a79c914387992f5129988aa3ac520a5589c270fc9a8949053f0127aed1d3ce9 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/7a79c914387992f5129988aa3ac520a5589c270fc9a8949053f0127aed1d3ce9.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/7a79c914387992f5129988aa3ac520a5589c270fc9a8949053f0127aed1d3ce9.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-122": {
+      "title": "Lernfortschrittstest C · Aufgabe 4",
+      "references": [
+        {
+          "section": "Lernfortschrittstest C",
+          "exercise": "4",
+          "evidence": "Reviewed opening announcement: Lernfortschrittstest C, Aufgabe 4.",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "61cf48ee72c74035a8e7fe4f05120e9df7216dc045054537487e74f9c2c51dc7",
+        "sourceLocator": "audio SHA256 61cf48ee72c74035a8e7fe4f05120e9df7216dc045054537487e74f9c2c51dc7 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/61cf48ee72c74035a8e7fe4f05120e9df7216dc045054537487e74f9c2c51dc7.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/61cf48ee72c74035a8e7fe4f05120e9df7216dc045054537487e74f9c2c51dc7.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-123": {
+      "title": "Lektion 7 · Aufgabe 5b, 5c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5b, 5c",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 5b, 5c.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "29a04febc73a8025b92a78bf175cfaedce242d92603b0f0b500979642c805371",
+        "sourceLocator": "audio SHA256 29a04febc73a8025b92a78bf175cfaedce242d92603b0f0b500979642c805371 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/29a04febc73a8025b92a78bf175cfaedce242d92603b0f0b500979642c805371.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/29a04febc73a8025b92a78bf175cfaedce242d92603b0f0b500979642c805371.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-124": {
+      "title": "Lektion 7 · Aufgabe 5d",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5d",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 5d.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "0fd26f3ac33c34a9513980c5f798098c3b27a53775f601e012986d6005fcbbad",
+        "sourceLocator": "audio SHA256 0fd26f3ac33c34a9513980c5f798098c3b27a53775f601e012986d6005fcbbad at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/0fd26f3ac33c34a9513980c5f798098c3b27a53775f601e012986d6005fcbbad.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/0fd26f3ac33c34a9513980c5f798098c3b27a53775f601e012986d6005fcbbad.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-125": {
+      "title": "Lektion 7 · Aufgabe 7b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "7b",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 7b.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "a946d3f8d41976eee499c0cb78581d38a17fd9d894ccd426a33b3f0c43248421",
+        "sourceLocator": "audio SHA256 a946d3f8d41976eee499c0cb78581d38a17fd9d894ccd426a33b3f0c43248421 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/a946d3f8d41976eee499c0cb78581d38a17fd9d894ccd426a33b3f0c43248421.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/a946d3f8d41976eee499c0cb78581d38a17fd9d894ccd426a33b3f0c43248421.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-126": {
+      "title": "Lektion 7 · Aufgabe 7e",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "7e",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 7e.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "08a2c5969cb6f248c5a20949770a1ba8207819d49c7a09f4375fe7a4e03ee295",
+        "sourceLocator": "audio SHA256 08a2c5969cb6f248c5a20949770a1ba8207819d49c7a09f4375fe7a4e03ee295 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/08a2c5969cb6f248c5a20949770a1ba8207819d49c7a09f4375fe7a4e03ee295.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/08a2c5969cb6f248c5a20949770a1ba8207819d49c7a09f4375fe7a4e03ee295.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-127": {
+      "title": "Lektion 7 · Aufgabe 9c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "9c",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 9c.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "787623d8cc41d19d8e453faf298657758b411443b1a8dc61cbc3b5201df0f20f",
+        "sourceLocator": "audio SHA256 787623d8cc41d19d8e453faf298657758b411443b1a8dc61cbc3b5201df0f20f at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/787623d8cc41d19d8e453faf298657758b411443b1a8dc61cbc3b5201df0f20f.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/787623d8cc41d19d8e453faf298657758b411443b1a8dc61cbc3b5201df0f20f.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-128": {
+      "title": "Lektion 7 · Aufgabe 10a",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "10a",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 10a.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "2c3d2b93e44789e08fcbb100f95e2ba30c5e6082966f0e42b526c3a3b705768b",
+        "sourceLocator": "audio SHA256 2c3d2b93e44789e08fcbb100f95e2ba30c5e6082966f0e42b526c3a3b705768b at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/2c3d2b93e44789e08fcbb100f95e2ba30c5e6082966f0e42b526c3a3b705768b.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/2c3d2b93e44789e08fcbb100f95e2ba30c5e6082966f0e42b526c3a3b705768b.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-129": {
+      "title": "Lektion 7 · Aufgabe 10b",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "10b",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 10b.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "bdf0c0f28357a0a23576cc6ba85c43522115d217d183838c717013cff988d3c6",
+        "sourceLocator": "audio SHA256 bdf0c0f28357a0a23576cc6ba85c43522115d217d183838c717013cff988d3c6 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/bdf0c0f28357a0a23576cc6ba85c43522115d217d183838c717013cff988d3c6.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/bdf0c0f28357a0a23576cc6ba85c43522115d217d183838c717013cff988d3c6.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-130": {
+      "title": "Lektion 7 · Aufgabe 10g",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "10g",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 10g.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "a012548f84517bcc4b0d1c525b896fe028508fa43f4a938a46fdedf6e37e015d",
+        "sourceLocator": "audio SHA256 a012548f84517bcc4b0d1c525b896fe028508fa43f4a938a46fdedf6e37e015d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/a012548f84517bcc4b0d1c525b896fe028508fa43f4a938a46fdedf6e37e015d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/a012548f84517bcc4b0d1c525b896fe028508fa43f4a938a46fdedf6e37e015d.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-131": {
+      "title": "Lektion 8 · Aufgabe 4",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "4",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 4.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "16016ef5edbac195ce5088a81cec745274451e4a9aff5b8fff773644635b57d4",
+        "sourceLocator": "audio SHA256 16016ef5edbac195ce5088a81cec745274451e4a9aff5b8fff773644635b57d4 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/16016ef5edbac195ce5088a81cec745274451e4a9aff5b8fff773644635b57d4.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/16016ef5edbac195ce5088a81cec745274451e4a9aff5b8fff773644635b57d4.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-132": {
+      "title": "Lektion 8 · Aufgabe 5c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5c",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 5c.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "70c90621c0216cbad3ef88d05fd430720f00197b8633b4ad01d3dd21baa62026",
+        "sourceLocator": "audio SHA256 70c90621c0216cbad3ef88d05fd430720f00197b8633b4ad01d3dd21baa62026 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/70c90621c0216cbad3ef88d05fd430720f00197b8633b4ad01d3dd21baa62026.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/70c90621c0216cbad3ef88d05fd430720f00197b8633b4ad01d3dd21baa62026.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-133": {
+      "title": "Lektion 8 · Aufgabe 5d",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "5d",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 5d.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "856e0fccb009619cd172c2a9085c9102831d40d48237ab100f3b423db9c4f57f",
+        "sourceLocator": "audio SHA256 856e0fccb009619cd172c2a9085c9102831d40d48237ab100f3b423db9c4f57f at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/856e0fccb009619cd172c2a9085c9102831d40d48237ab100f3b423db9c4f57f.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/856e0fccb009619cd172c2a9085c9102831d40d48237ab100f3b423db9c4f57f.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-134": {
+      "title": "Lektion 8 · Aufgabe 6g",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6g",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 6g.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "7099c568ce5c0b7d11a74ec9e4bd77010bee48b84fd5785755088a30c3a63b9a",
+        "sourceLocator": "audio SHA256 7099c568ce5c0b7d11a74ec9e4bd77010bee48b84fd5785755088a30c3a63b9a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/7099c568ce5c0b7d11a74ec9e4bd77010bee48b84fd5785755088a30c3a63b9a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/7099c568ce5c0b7d11a74ec9e4bd77010bee48b84fd5785755088a30c3a63b9a.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-135": {
+      "title": "Lektion 8 · Aufgabe 6h",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "6h",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 6h.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "422de64bb1a62a9fe684525b08c55271c75f34db009934a5c6db421714746854",
+        "sourceLocator": "audio SHA256 422de64bb1a62a9fe684525b08c55271c75f34db009934a5c6db421714746854 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/422de64bb1a62a9fe684525b08c55271c75f34db009934a5c6db421714746854.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/422de64bb1a62a9fe684525b08c55271c75f34db009934a5c6db421714746854.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-136": {
+      "title": "Lektion 8 · Aufgabe 7c",
+      "references": [
+        {
+          "section": "Kurs- und Arbeitsbuch",
+          "exercise": "7c",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 7c.",
+          "status": "verified",
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "6f4cacac32eb0d92d41d7a0ecb576a45344919e71fec76604c2137c41eaf5841",
+        "sourceLocator": "audio SHA256 6f4cacac32eb0d92d41d7a0ecb576a45344919e71fec76604c2137c41eaf5841 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/6f4cacac32eb0d92d41d7a0ecb576a45344919e71fec76604c2137c41eaf5841.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/6f4cacac32eb0d92d41d7a0ecb576a45344919e71fec76604c2137c41eaf5841.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-137": {
+      "title": "Lernfortschrittstest D · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Lernfortschrittstest D",
+          "exercise": "4a",
+          "evidence": "Reviewed opening announcement: Lernfortschrittstest D, Aufgabe 4a.",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "fe28056ff9329b541f0ec29f980855f8fd585edca682aa0f51f0c959cde4de0b",
+        "sourceLocator": "audio SHA256 fe28056ff9329b541f0ec29f980855f8fd585edca682aa0f51f0c959cde4de0b at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/fe28056ff9329b541f0ec29f980855f8fd585edca682aa0f51f0c959cde4de0b.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/fe28056ff9329b541f0ec29f980855f8fd585edca682aa0f51f0c959cde4de0b.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-138": {
+      "title": "Lernfortschrittstest D · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Lernfortschrittstest D",
+          "exercise": "4b",
+          "evidence": "Reviewed opening announcement: Lernfortschrittstest D, Aufgabe 4b.",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b1345da309c456a56f4e32d9c7261674159c450098176812d93075a6a6c2d70d",
+        "sourceLocator": "audio SHA256 b1345da309c456a56f4e32d9c7261674159c450098176812d93075a6a6c2d70d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/b1345da309c456a56f4e32d9c7261674159c450098176812d93075a6a6c2d70d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/b1345da309c456a56f4e32d9c7261674159c450098176812d93075a6a6c2d70d.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-104-track-139": {
+      "title": "Lernfortschrittstest D · Aufgabe 4c",
+      "references": [
+        {
+          "section": "Lernfortschrittstest D",
+          "exercise": "4c",
+          "evidence": "Reviewed opening announcement: Lernfortschrittstest D, Aufgabe 4c.",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "9c57f10b9cccfa6a3a0df971a5caa2f8bc1d98b6fe64df7b689f2b7096125778",
+        "sourceLocator": "audio SHA256 9c57f10b9cccfa6a3a0df971a5caa2f8bc1d98b6fe64df7b689f2b7096125778 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/9c57f10b9cccfa6a3a0df971a5caa2f8bc1d98b6fe64df7b689f2b7096125778.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/9c57f10b9cccfa6a3a0df971a5caa2f8bc1d98b6fe64df7b689f2b7096125778.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-105-track-140": {
+      "title": "Prüfungstraining · Start Deutsch 1 · Hören, Teil 1",
+      "references": [
+        {
+          "section": "Prüfungstraining · Start Deutsch 1",
+          "exercise": "Hören, Teil 1",
+          "evidence": "Reviewed opening announcement: Prüfungstraining · Start Deutsch 1, Hören, Teil 1.",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "42ca395f1d9af681542a3406193c7a109c530888a0d4e77ecc0989d5608939f6",
+        "sourceLocator": "audio SHA256 42ca395f1d9af681542a3406193c7a109c530888a0d4e77ecc0989d5608939f6 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/42ca395f1d9af681542a3406193c7a109c530888a0d4e77ecc0989d5608939f6.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/42ca395f1d9af681542a3406193c7a109c530888a0d4e77ecc0989d5608939f6.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-105-track-141": {
+      "title": "Prüfungsvorbereitung · Start Deutsch 1 · Aufgabe 2 (Hören, Teil 3)",
+      "references": [
+        {
+          "section": "Prüfungsvorbereitung · Start Deutsch 1",
+          "exercise": "2 (Hören, Teil 3)",
+          "evidence": "Reviewed opening announcement: Prüfungsvorbereitung · Start Deutsch 1, Aufgabe 2 (Hören, Teil 3).",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "96a8ffc749a033fb0ad7d9a5916ab552066674930b8ceafcea82a14920df8997",
+        "sourceLocator": "audio SHA256 96a8ffc749a033fb0ad7d9a5916ab552066674930b8ceafcea82a14920df8997 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/96a8ffc749a033fb0ad7d9a5916ab552066674930b8ceafcea82a14920df8997.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/96a8ffc749a033fb0ad7d9a5916ab552066674930b8ceafcea82a14920df8997.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-105-track-142": {
+      "title": "Prüfungstraining · Start Deutsch 1 · Hören, Teil 3",
+      "references": [
+        {
+          "section": "Prüfungstraining · Start Deutsch 1",
+          "exercise": "Hören, Teil 3",
+          "evidence": "Reviewed opening announcement: Prüfungstraining · Start Deutsch 1, Hören, Teil 3.",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "ed0701b692105014abeeedefc61e95330c0ff44864c06c7d13c3753fb30b3d47",
+        "sourceLocator": "audio SHA256 ed0701b692105014abeeedefc61e95330c0ff44864c06c7d13c3753fb30b3d47 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/ed0701b692105014abeeedefc61e95330c0ff44864c06c7d13c3753fb30b3d47.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/ed0701b692105014abeeedefc61e95330c0ff44864c06c7d13c3753fb30b3d47.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-105-track-143": {
+      "title": "Prüfungsvorbereitung · telc Deutsch A1 für Zuwanderer · Aufgabe 2 (Hören, Teil B)",
+      "references": [
+        {
+          "section": "Prüfungsvorbereitung · telc Deutsch A1 für Zuwanderer",
+          "exercise": "2 (Hören, Teil B)",
+          "evidence": "Reviewed opening announcement: Prüfungsvorbereitung · telc Deutsch A1 für Zuwanderer, Aufgabe 2 (Hören, Teil B).",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b96306ad408c8c3bd27251ba73ca9e2deea2acfce36c1fe3c460c1339d848f08",
+        "sourceLocator": "audio SHA256 b96306ad408c8c3bd27251ba73ca9e2deea2acfce36c1fe3c460c1339d848f08 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/b96306ad408c8c3bd27251ba73ca9e2deea2acfce36c1fe3c460c1339d848f08.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/b96306ad408c8c3bd27251ba73ca9e2deea2acfce36c1fe3c460c1339d848f08.evidence.json"
+      }
+    },
+    "mit-sprache-a1-1-pack-105-track-144": {
+      "title": "Prüfungstraining · telc Deutsch A1 für Zuwanderer · Hören, Teil B",
+      "references": [
+        {
+          "section": "Prüfungstraining · telc Deutsch A1 für Zuwanderer",
+          "exercise": "Hören, Teil B",
+          "evidence": "Reviewed opening announcement: Prüfungstraining · telc Deutsch A1 für Zuwanderer, Hören, Teil B.",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "477e81f3836367886f93fc37e00de1742d19767339fb1f6dafbcb7d031b2b3a0",
+        "sourceLocator": "audio SHA256 477e81f3836367886f93fc37e00de1742d19767339fb1f6dafbcb7d031b2b3a0 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/477e81f3836367886f93fc37e00de1742d19767339fb1f6dafbcb7d031b2b3a0.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/477e81f3836367886f93fc37e00de1742d19767339fb1f6dafbcb7d031b2b3a0.evidence.json"
+      }
+    }
+  },
+  "documents": {},
+  "sources": [],
+  "sectionReview": "Track1 announces Kurs- und Arbeitsbuch. Individual lesson tracks do not explicitly announce the course/workbook split, so ordinary lesson references retain the combined section; named tests use their explicitly spoken headings."
+}

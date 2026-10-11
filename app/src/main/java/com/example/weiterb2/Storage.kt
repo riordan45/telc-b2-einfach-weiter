@@ -5,6 +5,8 @@ import android.content.Context
 import androidx.datastore.preferences.core.*
 import androidx.datastore.preferences.preferencesDataStore
 import androidx.room.*
+import androidx.room.migration.Migration
+import androidx.sqlite.db.SupportSQLiteDatabase
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.catch
 import kotlinx.coroutines.flow.map
@@ -43,8 +45,43 @@ abstract class StudyDao {
     @Query("DELETE FROM bookmarks WHERE id = :id") abstract suspend fun deleteBookmark(id: Long)
     @Query("UPDATE bookmarks SET note = :note WHERE id = :id") abstract suspend fun editBookmark(id: Long, note: String)
 }
-@Database(entities = [TrackProgress::class, Bookmark::class], version = 1, exportSchema = true)
-abstract class StudyDatabase : RoomDatabase() { abstract fun study(): StudyDao }
+@Entity(tableName = "content_downloads")
+data class ContentDownload(
+    @PrimaryKey val id: String,
+    val generation: Long = 0,
+    val phase: String = "NOT_DOWNLOADED",
+    val downloadId: Long? = null,
+    val stagingName: String? = null,
+    val downloadedBytes: Long = 0,
+    val totalBytes: Long = 0,
+    val error: String? = null,
+)
+@Entity(tableName = "document_positions")
+data class DocumentPosition(@PrimaryKey val documentId: String, val pageIndex: Int = 0)
+
+@Dao
+interface ContentDao {
+    @Query("SELECT * FROM content_downloads") fun observe(): Flow<List<ContentDownload>>
+    @Query("SELECT * FROM content_downloads") suspend fun all(): List<ContentDownload>
+    @Query("SELECT * FROM content_downloads WHERE id = :id") suspend fun get(id: String): ContentDownload?
+    @Insert(onConflict = OnConflictStrategy.REPLACE) suspend fun put(value: ContentDownload)
+    @Query("SELECT pageIndex FROM document_positions WHERE documentId = :id") fun documentPage(id: String): Flow<Int?>
+    @Insert(onConflict = OnConflictStrategy.REPLACE) suspend fun saveDocumentPage(value: DocumentPosition)
+}
+
+@Database(entities = [TrackProgress::class, Bookmark::class, ContentDownload::class, DocumentPosition::class], version = 2, exportSchema = true)
+abstract class StudyDatabase : RoomDatabase() {
+    abstract fun study(): StudyDao
+    abstract fun content(): ContentDao
+    companion object {
+        val MIGRATION_1_2 = object : Migration(1, 2) {
+            override fun migrate(db: SupportSQLiteDatabase) {
+                db.execSQL("CREATE TABLE IF NOT EXISTS `content_downloads` (`id` TEXT NOT NULL, `generation` INTEGER NOT NULL, `phase` TEXT NOT NULL, `downloadId` INTEGER, `stagingName` TEXT, `downloadedBytes` INTEGER NOT NULL, `totalBytes` INTEGER NOT NULL, `error` TEXT, PRIMARY KEY(`id`))")
+                db.execSQL("CREATE TABLE IF NOT EXISTS `document_positions` (`documentId` TEXT NOT NULL, `pageIndex` INTEGER NOT NULL, PRIMARY KEY(`documentId`))")
+            }
+        }
+    }
+}
 
 private val Context.settingsStore by preferencesDataStore("playback_settings")
 data class PlaybackSettings(val speed: Float = 1f, val continuous: Boolean = false, val repeatTrack: Boolean = false)
@@ -60,7 +97,9 @@ class SettingsRepository(private val context: Context) {
     suspend fun setRepeat(value: Boolean) { context.settingsStore.edit { it[repeat] = value } }
 }
 class WeiterApplication : Application() {
-    val catalog by lazy { Catalog.load(this) }
-    val database by lazy { Room.databaseBuilder(this, StudyDatabase::class.java, "study.db").build() }
+    val library by lazy { Catalog.loadLibrary(this) }
+    val catalog get() = library.tracks
+    val database by lazy { Room.databaseBuilder(this, StudyDatabase::class.java, "study.db").addMigrations(StudyDatabase.MIGRATION_1_2).build() }
     val settings by lazy { SettingsRepository(this) }
+    val content by lazy { ContentRepository(this, library, database.content()) }
 }

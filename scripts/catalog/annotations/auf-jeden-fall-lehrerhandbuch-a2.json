@@ -1,0 +1,132 @@
+{
+  "bookId": "auf-jeden-fall-lehrerhandbuch-a2",
+  "review": {
+    "author": "metadata_pipeline",
+    "reviewedAt": "2026-10-11T18:16:08.524670+00:00",
+    "reviewer": "app_architecture",
+    "independentlyReviewedAt": "2026-10-11T18:24:06.527699+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/2_A2.1/other/Auf_jeden_Fall_A2_1_Wortschatzliste_Deutsch.pdf",
+      "sha256": "763ba7f96b9721dbd441808624d6dc1f53deb30fec5cf5539455e18d42026738",
+      "pageCount": 16
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/3_A2.2/other/Auf_jeden_Fall_A2_2_Wortschatzliste_Deutsch.pdf",
+      "sha256": "45eccbb783801a6b932447c4666ab1988a62d0436fde18dd9eb30ed7aa87ee97",
+      "pageCount": 15
+    }
+  ],
+  "tracks": {
+    "auf-jeden-fall-lehrerhandbuch-a2-pack-100-track-1": {
+      "title": "Große Gefühle",
+      "references": [
+        {
+          "section": "Lektionstests",
+          "chapter": 1,
+          "evidence": "Official ZIP member 'Auf_jeden_Fall_A2_LHB_Track 1_Lektionstest_1.mp3' explicitly names Lektionstest 1; original audio SHA-256 74fd8aa5061b1fba09167af548414e0b002a1e564a05be204ae81a5a93e62e04. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/2_A2.1/other/Auf_jeden_Fall_A2_1_Wortschatzliste_Deutsch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapterTitle": "Große Gefühle"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-archive-member",
+        "sourceSha256": "74fd8aa5061b1fba09167af548414e0b002a1e564a05be204ae81a5a93e62e04",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_A2_LHB_Track 1_Lektionstest_1.mp3; opening evidence 74fd8aa5061b1fba09167af548414e0b002a1e564a05be204ae81a5a93e62e04.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-lehrerhandbuch-a2-pack-100-track-3": {
+      "title": "Das feiern wir",
+      "references": [
+        {
+          "section": "Lektionstests",
+          "chapter": 3,
+          "evidence": "Official ZIP member 'Auf_jeden_Fall_A2_LHB_Track 2_Lektionstest_3.mp3' explicitly names Lektionstest 3; original audio SHA-256 59ade4afb36f87bfce625d0bba5aaa1e51c8692bfc4f720c995df30316c6bc03. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/2_A2.1/other/Auf_jeden_Fall_A2_1_Wortschatzliste_Deutsch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapterTitle": "Das feiern wir"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-archive-member",
+        "sourceSha256": "59ade4afb36f87bfce625d0bba5aaa1e51c8692bfc4f720c995df30316c6bc03",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_A2_LHB_Track 2_Lektionstest_3.mp3; opening evidence 59ade4afb36f87bfce625d0bba5aaa1e51c8692bfc4f720c995df30316c6bc03.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-lehrerhandbuch-a2-pack-100-track-5": {
+      "title": "Neue Ziele",
+      "references": [
+        {
+          "section": "Lektionstests",
+          "chapter": 5,
+          "evidence": "Official ZIP member 'Auf_jeden_Fall_A2_LHB_Track 3_Lektionstest_5.mp3' explicitly names Lektionstest 5; original audio SHA-256 9b877b3f97aa5cf53eaf9ea3b55c0933ed18611087b794bbe0e5129074f31a94. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/2_A2.1/other/Auf_jeden_Fall_A2_1_Wortschatzliste_Deutsch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapterTitle": "Neue Ziele"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-archive-member",
+        "sourceSha256": "9b877b3f97aa5cf53eaf9ea3b55c0933ed18611087b794bbe0e5129074f31a94",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_A2_LHB_Track 3_Lektionstest_5.mp3; opening evidence 9b877b3f97aa5cf53eaf9ea3b55c0933ed18611087b794bbe0e5129074f31a94.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-lehrerhandbuch-a2-pack-100-track-7": {
+      "title": "Neue Wohnung, neues Glück",
+      "references": [
+        {
+          "section": "Lektionstests",
+          "chapter": 7,
+          "evidence": "Official ZIP member 'Auf_jeden_Fall_A2_LHB_Track 4_Lektionstest_7.mp3' explicitly names Lektionstest 7; original audio SHA-256 57b5c2c729723e910992fdcc94c7405eb523d6aaccbc537cacf3fbc3d8410d0b. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/3_A2.2/other/Auf_jeden_Fall_A2_2_Wortschatzliste_Deutsch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapterTitle": "Neue Wohnung, neues Glück"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-archive-member",
+        "sourceSha256": "57b5c2c729723e910992fdcc94c7405eb523d6aaccbc537cacf3fbc3d8410d0b",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_A2_LHB_Track 4_Lektionstest_7.mp3; opening evidence 57b5c2c729723e910992fdcc94c7405eb523d6aaccbc537cacf3fbc3d8410d0b.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-lehrerhandbuch-a2-pack-100-track-9": {
+      "title": "Das liebe Geld",
+      "references": [
+        {
+          "section": "Lektionstests",
+          "chapter": 9,
+          "evidence": "Official ZIP member 'Auf_jeden_Fall_A2_LHB_Track 5_Lektionstest_9.mp3' explicitly names Lektionstest 9; original audio SHA-256 924e36b62a77a4a3359bf71c787fb49efdc38db85f26a45490f94ba67af3f338. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/3_A2.2/other/Auf_jeden_Fall_A2_2_Wortschatzliste_Deutsch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapterTitle": "Das liebe Geld"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-archive-member",
+        "sourceSha256": "924e36b62a77a4a3359bf71c787fb49efdc38db85f26a45490f94ba67af3f338",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_A2_LHB_Track 5_Lektionstest_9.mp3; opening evidence 924e36b62a77a4a3359bf71c787fb49efdc38db85f26a45490f94ba67af3f338.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-lehrerhandbuch-a2-pack-100-track-11": {
+      "title": "Hals- und Beinbruch",
+      "references": [
+        {
+          "section": "Lektionstests",
+          "chapter": 11,
+          "evidence": "Official ZIP member 'Auf_jeden_Fall_A2_LHB_Track 6_Lektionstest_11.mp3' explicitly names Lektionstest 11; original audio SHA-256 2517e6fcac0926df7f8ec0a0ba58f91c9692ea3e4f421eb937339d10f50e97d5. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/3_A2.2/other/Auf_jeden_Fall_A2_2_Wortschatzliste_Deutsch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapterTitle": "Hals- und Beinbruch"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-archive-member",
+        "sourceSha256": "2517e6fcac0926df7f8ec0a0ba58f91c9692ea3e4f421eb937339d10f50e97d5",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_A2_LHB_Track 6_Lektionstest_11.mp3; opening evidence 2517e6fcac0926df7f8ec0a0ba58f91c9692ea3e4f421eb937339d10f50e97d5.txt from original audio beginning"
+      }
+    }
+  },
+  "documents": {}
+}

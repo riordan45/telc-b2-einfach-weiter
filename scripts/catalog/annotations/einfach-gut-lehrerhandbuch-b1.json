@@ -1,0 +1,491 @@
+{
+  "bookId": "einfach-gut-lehrerhandbuch-b1",
+  "review": {
+    "author": "metadata_pipeline",
+    "reviewedAt": "2026-10-11T18:16:14.907580+00:00",
+    "reviewer": "app_architecture",
+    "independentlyReviewedAt": "2026-10-11T18:24:06.527699+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+      "sha256": "bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79",
+      "pageCount": 7
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf",
+      "sha256": "072c23302a24f98c4a474dbda3cab8fe67789f3073245f3c40aa4c0bb8dafa6d",
+      "pageCount": 22
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf",
+      "sha256": "abe794fd3af6576382f63fec64931580e2afa0945703f757c7dae2c300e7760d",
+      "pageCount": 16
+    }
+  ],
+  "tracks": {
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-1": {
+      "title": "Gute Reise! · Aufgabe b und c",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 4; heading 'Aufgabe b und c' lists Track 1. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "b und c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "Gute Reise!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "b63489db6e2203465c36689d1f21039828106a900dfaaff7a2b68e29b750e36f",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_01.mp3; opening evidence b63489db6e2203465c36689d1f21039828106a900dfaaff7a2b68e29b750e36f.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-2": {
+      "title": "Liebe Nachbarn … · Aufgabe a",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 4; heading 'Aufgabe a' lists Track 2. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "Liebe Nachbarn …"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "b32a2e35ba4c0771243b337aa675974913ef00dd1766277ce29b569fab8cc0e5",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_02.mp3; opening evidence b32a2e35ba4c0771243b337aa675974913ef00dd1766277ce29b569fab8cc0e5.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-3": {
+      "title": "Ein Schulprojekt zum Umweltschutz · Aufgabe a und b",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 4; heading 'Aufgabe a und b' lists Track 3 und 4. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "a und b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "Ein Schulprojekt zum Umweltschutz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "c3a1d951c619c666030e5c0543b596512a4c79aefba68730d96ed7682b19362d",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_03.mp3; opening evidence c3a1d951c619c666030e5c0543b596512a4c79aefba68730d96ed7682b19362d.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-4": {
+      "title": "Ein Schulprojekt zum Umweltschutz · Aufgabe a und b",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 4; heading 'Aufgabe a und b' lists Track 3 und 4. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "a und b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "Ein Schulprojekt zum Umweltschutz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "fb5747c070075624d818b452f55eb27d0c9385b740848aa168244036c2668c03",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_04.mp3; opening evidence fb5747c070075624d818b452f55eb27d0c9385b740848aa168244036c2668c03.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-5": {
+      "title": "Online einkaufen · Aufgabe a und c",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 4; heading 'Aufgabe a und c' lists Track 5. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "a und c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "Online einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "e1ae3fceab0ad9602868be6828a1d254f004aadad081705728fe4d3037f0e4ae",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_05.mp3; opening evidence e1ae3fceab0ad9602868be6828a1d254f004aadad081705728fe4d3037f0e4ae.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-6": {
+      "title": "Fernsehen und Unterhaltung · Aufgabe c",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 4; heading 'Aufgabe c' lists Track 6. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 15.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "Fernsehen und Unterhaltung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "f24d357355018a4f3754d93b100ca16a75012db061fd3e40d17f208e89f5404e",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_06.mp3; opening evidence f24d357355018a4f3754d93b100ca16a75012db061fd3e40d17f208e89f5404e.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-7": {
+      "title": "So war das damals … · Aufgabe a und b",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 4; heading 'Aufgabe a und b' lists Track 7. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 19.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "a und b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "So war das damals …"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "1620a080e3a65530933475f914c8936027ba7f0bf49a2f5bb3f2c006dae62080",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_07.mp3; opening evidence 1620a080e3a65530933475f914c8936027ba7f0bf49a2f5bb3f2c006dae62080.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-8": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe a, b und c",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 4; heading 'Aufgabe a, b und c' lists Track 8 und 9. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "a, b und c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "9efbe32c619c1308aacc0f2240f873ebc4265271e815f2dbdef512e4894a88d3",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_08.mp3; opening evidence 9efbe32c619c1308aacc0f2240f873ebc4265271e815f2dbdef512e4894a88d3.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-9": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe a, b und c",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 4; heading 'Aufgabe a, b und c' lists Track 8 und 9. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "a, b und c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "06a5034b118b159591ff79b5d91ea09250f2ba01861f3bd288731dd7acc92e54",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_09.mp3; opening evidence 06a5034b118b159591ff79b5d91ea09250f2ba01861f3bd288731dd7acc92e54.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-10": {
+      "title": "Ein neuer Arbeitsplatz · Aufgabe a",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 4; heading 'Aufgabe a' lists Track 10. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "Ein neuer Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "a3e2b9a166088ed7584c49f8f8e222733320f5a395c4b9ab46305024a2b9de61",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_10.mp3; opening evidence a3e2b9a166088ed7584c49f8f8e222733320f5a395c4b9ab46305024a2b9de61.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-11": {
+      "title": "Ein neuer Arbeitsplatz · Aufgabe b",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 4; heading 'Aufgabe b' lists Track 11. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "Ein neuer Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "cfa124fbdcfbdb4257fa1baf9691cc12ac7238c88b08253faa64647fccbc7bac",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_11.mp3; opening evidence cfa124fbdcfbdb4257fa1baf9691cc12ac7238c88b08253faa64647fccbc7bac.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-12": {
+      "title": "Büroalltag · Aufgabe a",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 5; heading 'Aufgabe a' lists Track 12. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 5,
+          "chapterTitle": "Büroalltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "b4dd30609e5df714d2ba4525d0750d5f663fc8e285f5a42227bed094061ff61f",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_12.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-13": {
+      "title": "Gesunde Ernährung · Aufgabe a",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 5; heading 'Aufgabe a' lists Track 13. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 5,
+          "chapterTitle": "Gesunde Ernährung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "1fb8a6956b78dad006126b676a893f825539bf3e15fcd9953ff18bb979e12552",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_13.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-100-track-14": {
+      "title": "Gut versichert! · Aufgabe a und c",
+      "references": [
+        {
+          "section": "Fokus Hören",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 5; heading 'Aufgabe a und c' lists Track 14. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 13.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "a und c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 5,
+          "chapterTitle": "Gut versichert!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "0a0a80817a52bed4559d1eafba479d615698bf984817e0469b034bcf606b2008",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Fokus_Hoeren_01-14/Einfach_gut_B1_LHB_Fokus_Hoeren_14.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-101-track-1": {
+      "title": "Gute Reise! · Aufgabe c",
+      "references": [
+        {
+          "section": "Lektionstest",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 5; heading 'Aufgabe c' lists Track 1. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 5,
+          "chapterTitle": "Gute Reise!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "24381c32f9c1a3edfbd57e6422212e3786f6c4bd6804a390a4cc87eb5a038f27",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Lektionstests_01-08/Einfach_gut_B1_LHB_Lektionstests_01.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-101-track-2": {
+      "title": "Ein Schulprojekt zum Umweltschutz · Aufgabe a",
+      "references": [
+        {
+          "section": "Lektionstest",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 5; heading 'Aufgabe a' lists Track 2. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 5,
+          "chapterTitle": "Ein Schulprojekt zum Umweltschutz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "d285fe5caca7a77cd0340f5f2c2876ee5c00ad49eca500e47fd93527574897cf",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Lektionstests_01-08/Einfach_gut_B1_LHB_Lektionstests_02.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-101-track-3": {
+      "title": "Online einkaufen · Aufgabe a",
+      "references": [
+        {
+          "section": "Lektionstest",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 6; heading 'Aufgabe a' lists Track 3. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapterTitle": "Online einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "f3c52bf5157d587f13dddeb61e250a05217a0c5c920f23be2561e403b392b81c",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Lektionstests_01-08/Einfach_gut_B1_LHB_Lektionstests_03.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-101-track-4": {
+      "title": "Fernsehen und Unterhaltung · Aufgabe b",
+      "references": [
+        {
+          "section": "Lektionstest",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 6; heading 'Aufgabe b' lists Track 4. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 15.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapterTitle": "Fernsehen und Unterhaltung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "fe638f04b7396de2c839567ea86abb7131f693a01d001ae1aadc9fb2512d6b97",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Lektionstests_01-08/Einfach_gut_B1_LHB_Lektionstests_04.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-101-track-5": {
+      "title": "Ein neuer Arbeitsplatz · Aufgabe a",
+      "references": [
+        {
+          "section": "Lektionstest",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 6; heading 'Aufgabe a' lists Track 5. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapterTitle": "Ein neuer Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "04cd876b88e00825286983f43f290a931790c10e423284c24dd1bd8f3b4628b0",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Lektionstests_01-08/Einfach_gut_B1_LHB_Lektionstests_05.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-101-track-6": {
+      "title": "Büroalltag · Aufgabe c",
+      "references": [
+        {
+          "section": "Lektionstest",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 6; heading 'Aufgabe c' lists Track 6. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapterTitle": "Büroalltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "1daa67a7595141112271921858ef8ac06a01972dbf047a01238360abdaff2bdb",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Lektionstests_01-08/Einfach_gut_B1_LHB_Lektionstests_06.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-101-track-7": {
+      "title": "Gesunde Ernährung · Aufgabe a",
+      "references": [
+        {
+          "section": "Lektionstest",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 7; heading 'Aufgabe a' lists Track 7. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 7,
+          "chapterTitle": "Gesunde Ernährung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "a89f0b03a30ad38860abe950821ca457c84f508ce454579164155fffa3102cd0",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Lektionstests_01-08/Einfach_gut_B1_LHB_Lektionstests_07.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-lehrerhandbuch-b1-pack-101-track-8": {
+      "title": "Gut versichert! · Aufgabe a",
+      "references": [
+        {
+          "section": "Lektionstest",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf; PDF p. 7; heading 'Aufgabe a' lists Track 8. PDF SHA-256 bfbaf2a94290eafabd305280944a6551a528584d1e53059730fbf2658f9cfa79. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 13.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/LHB/Einfach_gut_LHB_B1_Loesungen_Hoertexte.pdf",
+          "sourcePage": 7,
+          "chapterTitle": "Gut versichert!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "29748d484dc30a716d96728d2a9c42bb679483810d499f5a501ae22242523641",
+        "sourceLocator": "Original ZIP member Einfach_gut_B1_LHB_Lektionstests_01-08/Einfach_gut_B1_LHB_Lektionstests_08.mp3; reviewed official source context"
+      }
+    }
+  },
+  "documents": {}
+}

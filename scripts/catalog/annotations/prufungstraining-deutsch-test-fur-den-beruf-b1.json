@@ -1,0 +1,908 @@
+{
+  "schemaVersion": 1,
+  "bookId": "prufungstraining-deutsch-test-fur-den-beruf-b1",
+  "review": {
+    "author": "official_catalog",
+    "reviewedAt": "2026-10-11T18:07:50.999761+00:00",
+    "reviewer": "root",
+    "independentlyReviewedAt": "2026-10-11T18:15:48.233422+00:00",
+    "independentReviewMethod": "Original evidence PDF checksums verified; every source-page track marker and exercise text checked independently; chapter layout and cached representative opening announcements cross-checked."
+  },
+  "tracks": {
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-1": {
+      "title": "Lektion 6 · Aufgabe 1f",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "1f",
+          "evidence": "Official telc Hörtexte: Lektion 6, Aufgabe 1f (Track 1).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 1,
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "b3dbd9729857b34b6410554c6444eee517940e77033f37fa112611dc08803844"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-2": {
+      "title": "Lektion 6 · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "2b",
+          "evidence": "Official telc Hörtexte: Lektion 6, Aufgabe 2b (Track 2).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 1,
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "3e7f250ca23ccc48610a75a4be2aeb1953f48a623a5f188e865ccf2c4b32de53"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-3": {
+      "title": "Lektion 6 · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "2c",
+          "evidence": "Official telc Hörtexte: Lektion 6, Aufgabe 2c (Track 3).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 1,
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "d09aaae6a791d78f6434185f1f0ac0bdde2e70dc01a84bdc2a8ae04ec7f3c620"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-4": {
+      "title": "Lektion 6 · Aufgabe 2d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "2d",
+          "evidence": "Official telc Hörtexte: Lektion 6, Aufgabe 2d (Track 4).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 1,
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "a3917d319e6601d3299c43b3ccdb3e520fe667697303a5abc8c815ca7a0b5632"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-5": {
+      "title": "Lektion 6 · Aufgabe 3b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3b",
+          "evidence": "Official telc Hörtexte: Lektion 6, Aufgabe 3b (Track 5).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 2,
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "d99f3051bcea6c0fa5e6486e2a6825392103a31e7a3000d1a7d32b8dcfbbb706"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-6": {
+      "title": "Lektion 6 · Aufgabe 5",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "5",
+          "evidence": "Official telc Hörtexte: Lektion 6, Aufgabe 5 (Track 6).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 2,
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "2fb4c2ccf1629c9b9f18404b74c6f30fe35c809deb566a5296bccc642f97ace9"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-7": {
+      "title": "Lektion 6 · Aufgabe 6",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "6",
+          "evidence": "Official telc Hörtexte: Lektion 6, Aufgabe 6 (Track 7).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 2,
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "820fd1951010f38b8814a5b2ce319e91cc44dbb1a5fc14d2b94c73dd1044319a"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-8": {
+      "title": "Lektion 7 · Aufgabe 1d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "1d",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 1d (Track 8).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 3,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "8e49d805757ffa11ba9a4faabd5641eefc66f5a935e47422d605c21650e585c4"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-9": {
+      "title": "Lektion 7 · Aufgabe 3c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3c",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 3c (Track 9).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "3c5aca2c0c331d09c14b5f85a8e691465380213f960e09dba9396d7a9f2caa1a"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-10": {
+      "title": "Lektion 7 · Aufgabe 3e",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3e",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 3e (Track 10).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "4d8a3faa84e8d45796a8c0238c27244de90c0e07a3d867f908a75fedc15bec84"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-11": {
+      "title": "Lektion 7 · Aufgabe 4c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4c",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 4c (Track 11).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "36f5c0dc62f008f896d22145f24510a4887263570b43b1c7903e18fd679132a0"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-12": {
+      "title": "Lektion 7 · Aufgabe 5",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "5",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 5 (Track 12).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "009512f254aad7e9e2e1d24328088b9fcdebfb3fb11ed136dce91456af6b3bda"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-13": {
+      "title": "Lektion 8 · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "1a",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 1a (Track 13).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 5,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "c662d5d1da62275ec0a1de44e9ded2115e2c2db231afda83eae4db047ce5be0a"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-14": {
+      "title": "Lektion 8 · Aufgabe 1d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "1d",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 1d (Track 14).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 5,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "7363290c49453a0674e4421ace9254b0e0745063f170971c59335de12c1c8dea"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-100-track-15": {
+      "title": "Lektion 8 · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3a",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 3a (Track 15).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 5,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "cb2c170129f820aabc7e193713d4f5aa34ead016b1801664d12f6ee292bf1ef9"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-16": {
+      "title": "Lektion 8 · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4b",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 4b (Track 16).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 5,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "f2863bfba408801a15f822b83e801bbf0b77ff59d294a08381365545866e2a15"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-17": {
+      "title": "Lektion 8 · Aufgabe 4d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4d",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 4d (Track 17).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 5,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "2bc021639e1e340372df4a5004cf6309e8ebddde159cf9011b9f45708c9c413a"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-18": {
+      "title": "Lektion 8 · Aufgabe 5",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "5",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 5 (Track 18).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "c8072bde371846882d50a9c2e8923e0ceac44dac38bd1d4553188cf88ff896da"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-19": {
+      "title": "Lektion 9 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "2a",
+          "evidence": "Official telc Hörtexte: Lektion 9, Aufgabe 2a (Track 19).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapter": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "41e8318b7e2accdf2e35eed24aecd079635a96059deb477f6bf104cafba7a272"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-20": {
+      "title": "Lektion 9 · Aufgabe 3",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3",
+          "evidence": "Official telc Hörtexte: Lektion 9, Aufgabe 3 (Track 20).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapter": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "adcbc4a8e9cc04bfa418c9796180fa0d924bc1c8eebb382ee390c8bdbeb37789"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-21": {
+      "title": "Lektion 9 · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4a",
+          "evidence": "Official telc Hörtexte: Lektion 9, Aufgabe 4a (Track 21).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 7,
+          "chapter": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "7647f7b147d3e9edb00b2c690a259dba751936485371e31be3394183b26b3835"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-22": {
+      "title": "Lektion 9 · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "5a",
+          "evidence": "Official telc Hörtexte: Lektion 9, Aufgabe 5a (Track 22).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 7,
+          "chapter": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "9a03fd7f6cdbd1ce06816f7e4f8f6065d009c72d110efb987123b4a2fa818340"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-23": {
+      "title": "Lektion 9 · Aufgabe 6",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "6",
+          "evidence": "Official telc Hörtexte: Lektion 9, Aufgabe 6 (Track 23).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 7,
+          "chapter": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "650509b5caca1fe461ea0a0491828a3e745cf556ab92f565760c13cfd4c297d9"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-24": {
+      "title": "Lektion 10 · Aufgabe 1d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "1d",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 1d (Track 24).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 8,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "8ec03f3f755a3eb694e1650f6005af698ad9d9c194f5fe74ec6f5928539bc420"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-25": {
+      "title": "Lektion 10 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "2a",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 2a (Track 25).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 8,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "7d8fac0cfcd5f2abb7488530a426c39afb2d01fbdeb156036f9732a58300312f"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-26": {
+      "title": "Lektion 10 · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "2b",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 2b (Track 26).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 8,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "8c9d35b8cba5aaca6e6733c8585159dd8c5973dacf29b8c30fedd23c57fe0a01"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-27": {
+      "title": "Lektion 10 · Aufgabe 3b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3b",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 3b (Track 27).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 8,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "af0e10bac122e192a6c44ee8774e30890f360bb93f157a5bf9f5e0a6ccafffc8"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-28": {
+      "title": "Lektion 10 · Aufgabe 3c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3c",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 3c (Track 28).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 8,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "5c58d5c4b99bc0af89aed7a6003280f69210598f91c2471bd52d28b750497dd7"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-29": {
+      "title": "Lektion 10 · Aufgabe 3d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3d",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 3d (Track 29).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 8,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "d52659bbebfa431bdfbd50c6ad11dfb2403a903685a3ff0dc49b55168b59f45f"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-30": {
+      "title": "Lektion 10 · Aufgabe 3g",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3g",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 3g (Track 30).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 8,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "ef69d621414b11debc285b06edf9b9455d0d353df5a28a72b5f2dc022a07131e"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-31": {
+      "title": "Lektion 10 · Aufgabe 4",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 4 (Track 31).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 8,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "f96211483f44b2f50b8e9b257926224710e489fff16eff4159351306da795ec6"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-32": {
+      "title": "Lektion 13 · Aufgabe 3a und b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3a und b",
+          "evidence": "Official telc Hörtexte: Lektion 13, Aufgabe 3a und b (Track 32).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 8,
+          "chapter": 13
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "68e0dbdb4c15d3cf614be1c9b5db57522e53f811555922740ea6b88666e05039"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-33": {
+      "title": "Lektion 13 · Aufgabe 4c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4c",
+          "evidence": "Official telc Hörtexte: Lektion 13, Aufgabe 4c (Track 33).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 9,
+          "chapter": 13
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "cfcd911b3d78e5159075cb99b11b084c04efe36347ccbc5ab7ad99e40686339b"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-34": {
+      "title": "Lektion 14 · Aufgabe 3g und 4a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3g und 4a",
+          "evidence": "Official telc Hörtexte: Lektion 14, Aufgabe 3g und 4a (Track 34).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 9,
+          "chapter": 14
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "246c5b968db5c7bc3bd1192bac8910cf87425e6b951373cebfdbbbdde74308fd"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-35": {
+      "title": "Lektion 14 · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4b",
+          "evidence": "Official telc Hörtexte: Lektion 14, Aufgabe 4b (Track 35).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 9,
+          "chapter": 14
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "6a56fadd6db22a67b0b9750199a127f28eba885d2a74b66b46a5dabac6b445bb"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-36": {
+      "title": "Lektion 15 · Aufgabe 3a und b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3a und b",
+          "evidence": "Official telc Hörtexte: Lektion 15, Aufgabe 3a und b (Track 36).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 10,
+          "chapter": 15
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "ecd1707ac463e42f9f3a7d47ec6388eb3adae5ab8a49c0261c52d65dd8e286fe"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-101-track-37": {
+      "title": "Lektion 15 · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4a",
+          "evidence": "Official telc Hörtexte: Lektion 15, Aufgabe 4a (Track 37).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 10,
+          "chapter": 15
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "8974f800014754a988394ce8a6d96b7f53bb410f852abc467c3b5d5dfff57505"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-102-track-38": {
+      "title": "Übungstest 1 · Hören Teil 1",
+      "references": [
+        {
+          "section": "Übungstest 1",
+          "exercise": "Hören Teil 1",
+          "evidence": "Official telc Hörtexte: Übungstest 1, Hören Teil 1 (Track 38).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "cb24404cd699f49add2833cbb83290d04484410cf6653b22f2fbed2585fe1dd8"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-102-track-39": {
+      "title": "Übungstest 1 · Hören Teil 2",
+      "references": [
+        {
+          "section": "Übungstest 1",
+          "exercise": "Hören Teil 2",
+          "evidence": "Official telc Hörtexte: Übungstest 1, Hören Teil 2 (Track 39).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "ba984c16b9197a843c22c600f33065fc36f69d7f20c4a46faebcf6cae146b663"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-102-track-40": {
+      "title": "Übungstest 1 · Hören Teil 3",
+      "references": [
+        {
+          "section": "Übungstest 1",
+          "exercise": "Hören Teil 3",
+          "evidence": "Official telc Hörtexte: Übungstest 1, Hören Teil 3 (Track 40).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "627151e4c216a5fdc23db73ac8f00cd2dd1c92e5d114bc314311bc54166394b1"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-102-track-41": {
+      "title": "Übungstest 1 · Hören Teil 4",
+      "references": [
+        {
+          "section": "Übungstest 1",
+          "exercise": "Hören Teil 4",
+          "evidence": "Official telc Hörtexte: Übungstest 1, Hören Teil 4 (Track 41).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "a76af3ffbe7c6e751c9781e80b663bd97a202930c903db989f924c8efffd046d"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-102-track-42": {
+      "title": "Übungstest 1 · Hören und Schreiben",
+      "references": [
+        {
+          "section": "Übungstest 1",
+          "exercise": "Hören und Schreiben",
+          "evidence": "Official telc Hörtexte: Übungstest 1, Hören und Schreiben (Track 42).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "4480be8360bbf6d4c3c76cd981fb4588d8bd1b9f2703f1eaeb5b4c6040c882cc"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-102-track-43": {
+      "title": "Übungstest 2 · Hören Teil 1",
+      "references": [
+        {
+          "section": "Übungstest 2",
+          "exercise": "Hören Teil 1",
+          "evidence": "Official telc Hörtexte: Übungstest 2, Hören Teil 1 (Track 43).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 13
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "9537ae252dac57fbce343b96d44fbbf03a9cdc97e0d275a438bd98d11f804fa8"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-102-track-44": {
+      "title": "Übungstest 2 · Hören Teil 2",
+      "references": [
+        {
+          "section": "Übungstest 2",
+          "exercise": "Hören Teil 2",
+          "evidence": "Official telc Hörtexte: Übungstest 2, Hören Teil 2 (Track 44).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 14
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "9b8414e39e638adf15af715c58187c40113bc6d7ca77b930996b8d8f10fb8a8d"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-102-track-45": {
+      "title": "Übungstest 2 · Hören Teil 3",
+      "references": [
+        {
+          "section": "Übungstest 2",
+          "exercise": "Hören Teil 3",
+          "evidence": "Official telc Hörtexte: Übungstest 2, Hören Teil 3 (Track 45).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 14
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "f72a534297e87053c54093ea39c56ec743d5c0fd4b4252e46b114dce4563e1de"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-102-track-46": {
+      "title": "Übungstest 2 · Hören Teil 4",
+      "references": [
+        {
+          "section": "Übungstest 2",
+          "exercise": "Hören Teil 4",
+          "evidence": "Official telc Hörtexte: Übungstest 2, Hören Teil 4 (Track 46).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 15
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "5104e5f3fc56a50afe9dd8c1508828fce408b22da5387fa5909cf37d080565c1"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-den-beruf-b1-pack-102-track-47": {
+      "title": "Übungstest 2 · Hören und Schreiben",
+      "references": [
+        {
+          "section": "Übungstest 2",
+          "exercise": "Hören und Schreiben",
+          "evidence": "Official telc Hörtexte: Übungstest 2, Hören und Schreiben (Track 47).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+          "sourcePage": 15
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "820c1490f1a3b3f81c3a4988716b6b5e36fca9a102b0e744c43ad6dad747151a"
+      }
+    }
+  },
+  "documents": {},
+  "sources": [
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_DTB_B1/Loesungen_Hoertexte/Pruefungstraining_Deutsch-Test_fuer_den_Beruf_B1_Hoertexte.pdf",
+      "sha256": "03b1ae822b0d185121519f1ac2bfda42a7941aae8a4afb6f44befa6209709188",
+      "pageCount": 15,
+      "title": "Prüfungstraining Deutsch-Test für den Beruf B1 Hörtexte",
+      "cachePath": ".work/analysis/annotation-sources/1b68a40fbb1e.pdf",
+      "orderedTextPath": ".work/analysis/annotation-sources/1b68a40fbb1e-ordered.json"
+    }
+  ],
+  "sourceIssues": []
+}

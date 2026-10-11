@@ -1,0 +1,533 @@
+{
+  "schemaVersion": 1,
+  "bookId": "prufungstraining-telc-deutsch-c1-hochschule",
+  "review": {
+    "author": "official_catalog",
+    "reviewedAt": "2026-10-11T18:10:12.216508+00:00",
+    "reviewer": "root",
+    "independentlyReviewedAt": "2026-10-11T18:14:07.433279+00:00",
+    "independentReviewMethod": "Every cited first-pass or alternative-model transcript read and compared to lesson/module/exercise; intros left without references; test series boundaries checked."
+  },
+  "tracks": {
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-1": {
+      "title": "Einführung",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "d2b342023757d7634d3b10dd9b73d7944c4dc62b1e977774697d7004267aa018",
+        "sourceLocator": "audio SHA256 d2b342023757d7634d3b10dd9b73d7944c4dc62b1e977774697d7004267aa018 at 00:00–00:12",
+        "reason": "Opening announces publisher and book title only; no exercise or lesson reference.",
+        "evidencePath": ".work/analysis/announcements-by-sha/d2b342023757d7634d3b10dd9b73d7944c4dc62b1e977774697d7004267aa018.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/d2b342023757d7634d3b10dd9b73d7944c4dc62b1e977774697d7004267aa018.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-2": {
+      "title": "Lektion 5 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "2a",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 2a."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "edd631f8f572dad0f7fd35e67bb139d40532f7b7fc2708eaea22df8eab5d7978",
+        "sourceLocator": "audio SHA256 edd631f8f572dad0f7fd35e67bb139d40532f7b7fc2708eaea22df8eab5d7978 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/edd631f8f572dad0f7fd35e67bb139d40532f7b7fc2708eaea22df8eab5d7978.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/edd631f8f572dad0f7fd35e67bb139d40532f7b7fc2708eaea22df8eab5d7978.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-3": {
+      "title": "Lektion 5 · Aufgabe 2b · Sprecher 1",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "2b",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 2b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "cdfb9128d02e18a93d05fe03273d64c0c303a0b91f1833f4f27f8d91b31c894d",
+        "sourceLocator": "audio SHA256 cdfb9128d02e18a93d05fe03273d64c0c303a0b91f1833f4f27f8d91b31c894d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/cdfb9128d02e18a93d05fe03273d64c0c303a0b91f1833f4f27f8d91b31c894d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/cdfb9128d02e18a93d05fe03273d64c0c303a0b91f1833f4f27f8d91b31c894d.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-4": {
+      "title": "Lektion 5 · Aufgabe 2b · Sprecher 2",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "2b",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 2b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "9cc3dcb7168658cec7c973d9ea3f5e83dcdc97cac8c07e60a77c8203b7fb6e8c",
+        "sourceLocator": "audio SHA256 9cc3dcb7168658cec7c973d9ea3f5e83dcdc97cac8c07e60a77c8203b7fb6e8c at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/9cc3dcb7168658cec7c973d9ea3f5e83dcdc97cac8c07e60a77c8203b7fb6e8c.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/9cc3dcb7168658cec7c973d9ea3f5e83dcdc97cac8c07e60a77c8203b7fb6e8c.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-5": {
+      "title": "Lektion 5 · Aufgabe 2b · Sprecher 3",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "2b",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 2b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "58d732782a0c60d4b0d9b684aeede0d8bab6493ba4f0b592fcd9af0061a687d9",
+        "sourceLocator": "audio SHA256 58d732782a0c60d4b0d9b684aeede0d8bab6493ba4f0b592fcd9af0061a687d9 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/58d732782a0c60d4b0d9b684aeede0d8bab6493ba4f0b592fcd9af0061a687d9.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/58d732782a0c60d4b0d9b684aeede0d8bab6493ba4f0b592fcd9af0061a687d9.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-6": {
+      "title": "Lektion 5 · Aufgabe 3",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "3",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 3."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "5d647bfb78da5ec8854897fe70a0d5e310d27408d10e6c2f744039dfbe739a38",
+        "sourceLocator": "audio SHA256 5d647bfb78da5ec8854897fe70a0d5e310d27408d10e6c2f744039dfbe739a38 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/5d647bfb78da5ec8854897fe70a0d5e310d27408d10e6c2f744039dfbe739a38.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/5d647bfb78da5ec8854897fe70a0d5e310d27408d10e6c2f744039dfbe739a38.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-7": {
+      "title": "Lektion 6 · Aufgabe 2b · Abschnitt 1",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "2b",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 2b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "727f615f2ae3e7898f60579627256de3834beb6e716915a20a4eb54e0631b76a",
+        "sourceLocator": "audio SHA256 727f615f2ae3e7898f60579627256de3834beb6e716915a20a4eb54e0631b76a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/727f615f2ae3e7898f60579627256de3834beb6e716915a20a4eb54e0631b76a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/727f615f2ae3e7898f60579627256de3834beb6e716915a20a4eb54e0631b76a.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-8": {
+      "title": "Lektion 6 · Aufgabe 2b · Abschnitt 2",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "2b",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 2b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "bdd81864881e296faa404f85884d196f5c75a2a4559ff88c0f351990ebfc654f",
+        "sourceLocator": "audio SHA256 bdd81864881e296faa404f85884d196f5c75a2a4559ff88c0f351990ebfc654f at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/bdd81864881e296faa404f85884d196f5c75a2a4559ff88c0f351990ebfc654f.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/bdd81864881e296faa404f85884d196f5c75a2a4559ff88c0f351990ebfc654f.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-9": {
+      "title": "Lektion 6 · Aufgabe 2b · Abschnitt 3",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "2b",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 2b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "c04cac8637c92a22a4b7ba2702956027af7abc25c0c439a82e5d342e6b0c6cab",
+        "sourceLocator": "audio SHA256 c04cac8637c92a22a4b7ba2702956027af7abc25c0c439a82e5d342e6b0c6cab at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/c04cac8637c92a22a4b7ba2702956027af7abc25c0c439a82e5d342e6b0c6cab.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/c04cac8637c92a22a4b7ba2702956027af7abc25c0c439a82e5d342e6b0c6cab.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-10": {
+      "title": "Lektion 6 · Aufgabe 2b · Abschnitt 4",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "2b",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 2b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "5d143a4aedf1676b116fe3ae07786b0bb0698f74a2ec10b4e83f0ed73d3a2d7a",
+        "sourceLocator": "audio SHA256 5d143a4aedf1676b116fe3ae07786b0bb0698f74a2ec10b4e83f0ed73d3a2d7a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/5d143a4aedf1676b116fe3ae07786b0bb0698f74a2ec10b4e83f0ed73d3a2d7a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/5d143a4aedf1676b116fe3ae07786b0bb0698f74a2ec10b4e83f0ed73d3a2d7a.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-11": {
+      "title": "Lektion 6 · Aufgabe 2b · Abschnitt 5",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "2b",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 2b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "36d5e46140c252ee220805f5aecd708ea88b55bc7f4cf9989fd3fc88ae6e9574",
+        "sourceLocator": "audio SHA256 36d5e46140c252ee220805f5aecd708ea88b55bc7f4cf9989fd3fc88ae6e9574 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/36d5e46140c252ee220805f5aecd708ea88b55bc7f4cf9989fd3fc88ae6e9574.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/36d5e46140c252ee220805f5aecd708ea88b55bc7f4cf9989fd3fc88ae6e9574.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-12": {
+      "title": "Lektion 6 · Aufgabe 3a, 3b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 6,
+          "evidence": "Reviewed local base-model opening recovers: Lektion 6, Aufgabe 3a, 3b.",
+          "exercise": "3a, 3b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement-base-fallback",
+        "sourceSha256": "5e7fa249d875141c3b5bae8b00bf4fd452a9f82670a754e236ef6d5e1a6e04f6",
+        "sourceLocator": "audio SHA256 5e7fa249d875141c3b5bae8b00bf4fd452a9f82670a754e236ef6d5e1a6e04f6 at 00:00–00:12; evidence cache 5e7fa249d875141c3b5bae8b00bf4fd452a9f82670a754e236ef6d5e1a6e04f6-12s-base",
+        "model": "base",
+        "clipSeconds": 12,
+        "evidencePath": ".work/analysis/announcements-by-sha/5e7fa249d875141c3b5bae8b00bf4fd452a9f82670a754e236ef6d5e1a6e04f6-12s-base.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/5e7fa249d875141c3b5bae8b00bf4fd452a9f82670a754e236ef6d5e1a6e04f6-12s-base.evidence.json"
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-13": {
+      "title": "Lektion 6 · Aufgabe 4",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "4",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 4."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "6177a9f871ef085c0312028dbc8cd5ed214ebbe8c46dc6420c36b8785b69a5e9",
+        "sourceLocator": "audio SHA256 6177a9f871ef085c0312028dbc8cd5ed214ebbe8c46dc6420c36b8785b69a5e9 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/6177a9f871ef085c0312028dbc8cd5ed214ebbe8c46dc6420c36b8785b69a5e9.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/6177a9f871ef085c0312028dbc8cd5ed214ebbe8c46dc6420c36b8785b69a5e9.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-14": {
+      "title": "Lektion 7 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "2a",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 2a."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "3b0a7ddbb77a5ebb4bc1da3d5f8d627a0badc5da3a5abfc1f566aad8d2d70712",
+        "sourceLocator": "audio SHA256 3b0a7ddbb77a5ebb4bc1da3d5f8d627a0badc5da3a5abfc1f566aad8d2d70712 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/3b0a7ddbb77a5ebb4bc1da3d5f8d627a0badc5da3a5abfc1f566aad8d2d70712.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/3b0a7ddbb77a5ebb4bc1da3d5f8d627a0badc5da3a5abfc1f566aad8d2d70712.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-15": {
+      "title": "Lektion 7 · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "2b",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 2b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "4e31dd4a9a0b0294b10bb1cbb075ad953dba6e9098236440dcf18b5403416f7d",
+        "sourceLocator": "audio SHA256 4e31dd4a9a0b0294b10bb1cbb075ad953dba6e9098236440dcf18b5403416f7d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/4e31dd4a9a0b0294b10bb1cbb075ad953dba6e9098236440dcf18b5403416f7d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/4e31dd4a9a0b0294b10bb1cbb075ad953dba6e9098236440dcf18b5403416f7d.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-16": {
+      "title": "Lektion 7 · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "3a",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 3a."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "4a97e87d1c13adbba8ee53bab0f3417793420b9c0451e9609d3e9da1227f2ba0",
+        "sourceLocator": "audio SHA256 4a97e87d1c13adbba8ee53bab0f3417793420b9c0451e9609d3e9da1227f2ba0 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/4a97e87d1c13adbba8ee53bab0f3417793420b9c0451e9609d3e9da1227f2ba0.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/4a97e87d1c13adbba8ee53bab0f3417793420b9c0451e9609d3e9da1227f2ba0.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-17": {
+      "title": "Lektion 7 · Aufgabe 3c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 7,
+          "evidence": "Reviewed local base-model opening recovers: Lektion 7, Aufgabe 3c.",
+          "exercise": "3c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement-base-fallback",
+        "sourceSha256": "432243e6d56c71311fcb03809300ccf5af22007984e90cd020c2a2461c1e177a",
+        "sourceLocator": "audio SHA256 432243e6d56c71311fcb03809300ccf5af22007984e90cd020c2a2461c1e177a at 00:00–00:12; evidence cache 432243e6d56c71311fcb03809300ccf5af22007984e90cd020c2a2461c1e177a-12s-base",
+        "model": "base",
+        "clipSeconds": 12,
+        "evidencePath": ".work/analysis/announcements-by-sha/432243e6d56c71311fcb03809300ccf5af22007984e90cd020c2a2461c1e177a-12s-base.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/432243e6d56c71311fcb03809300ccf5af22007984e90cd020c2a2461c1e177a-12s-base.evidence.json"
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-18": {
+      "title": "Lektion 7 · Aufgabe 3d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 7,
+          "evidence": "Reviewed local base-model opening recovers: Lektion 7, Aufgabe 3d.",
+          "exercise": "3d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement-base-fallback",
+        "sourceSha256": "51d45e988d549d64c4ccbbf30ab1489f1ec942b14a29e8f7a1562709489179dd",
+        "sourceLocator": "audio SHA256 51d45e988d549d64c4ccbbf30ab1489f1ec942b14a29e8f7a1562709489179dd at 00:00–00:12; evidence cache 51d45e988d549d64c4ccbbf30ab1489f1ec942b14a29e8f7a1562709489179dd-12s-base",
+        "model": "base",
+        "clipSeconds": 12,
+        "evidencePath": ".work/analysis/announcements-by-sha/51d45e988d549d64c4ccbbf30ab1489f1ec942b14a29e8f7a1562709489179dd-12s-base.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/51d45e988d549d64c4ccbbf30ab1489f1ec942b14a29e8f7a1562709489179dd-12s-base.evidence.json"
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-100-track-19": {
+      "title": "Lektion 7 · Aufgabe 4",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "4",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 4."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "bfe209bd783b8b58f540cd25dfe185a69f2247b9e7f24deb066dde9c951ff432",
+        "sourceLocator": "audio SHA256 bfe209bd783b8b58f540cd25dfe185a69f2247b9e7f24deb066dde9c951ff432 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/bfe209bd783b8b58f540cd25dfe185a69f2247b9e7f24deb066dde9c951ff432.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/bfe209bd783b8b58f540cd25dfe185a69f2247b9e7f24deb066dde9c951ff432.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-101-track-20": {
+      "title": "Lektion 9 · Aufgabe 7 (Mündliche Prüfung, Teil 1)",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "7 (Mündliche Prüfung, Teil 1)",
+          "evidence": "Reviewed opening announcement: Lektion 9, Aufgabe 7 (Mündliche Prüfung, Teil 1)."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "2c4ae973b5d4adf809dbd6fdc1dacb2063d26eec152f2829a3202c64c6c8ff46",
+        "sourceLocator": "audio SHA256 2c4ae973b5d4adf809dbd6fdc1dacb2063d26eec152f2829a3202c64c6c8ff46 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/2c4ae973b5d4adf809dbd6fdc1dacb2063d26eec152f2829a3202c64c6c8ff46.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/2c4ae973b5d4adf809dbd6fdc1dacb2063d26eec152f2829a3202c64c6c8ff46.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-101-track-21": {
+      "title": "Lektion 10 · Aufgabe 4e (Mündliche Prüfung, Teil 2)",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "4e (Mündliche Prüfung, Teil 2)",
+          "evidence": "Reviewed opening announcement: Lektion 10, Aufgabe 4e (Mündliche Prüfung, Teil 2)."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "83ef63d11a5e762b8a1aa862cadd7999b88f611aa362263f4ac895d57f4d3ff0",
+        "sourceLocator": "audio SHA256 83ef63d11a5e762b8a1aa862cadd7999b88f611aa362263f4ac895d57f4d3ff0 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/83ef63d11a5e762b8a1aa862cadd7999b88f611aa362263f4ac895d57f4d3ff0.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/83ef63d11a5e762b8a1aa862cadd7999b88f611aa362263f4ac895d57f4d3ff0.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-101-track-22": {
+      "title": "Übungstest · Hörverstehen, Teil 1",
+      "references": [
+        {
+          "section": "Übungstest",
+          "status": "verified",
+          "exercise": "Hörverstehen, Teil 1",
+          "evidence": "Reviewed opening announcement: Übungstest, Hörverstehen, Teil 1."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "971696660ff5986af09b5aca4603e426d2d00210eecf688855feff87f21b28c0",
+        "sourceLocator": "audio SHA256 971696660ff5986af09b5aca4603e426d2d00210eecf688855feff87f21b28c0 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/971696660ff5986af09b5aca4603e426d2d00210eecf688855feff87f21b28c0.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/971696660ff5986af09b5aca4603e426d2d00210eecf688855feff87f21b28c0.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-101-track-23": {
+      "title": "Übungstest · Hörverstehen, Teil 2",
+      "references": [
+        {
+          "section": "Übungstest",
+          "status": "verified",
+          "exercise": "Hörverstehen, Teil 2",
+          "evidence": "Reviewed opening announcement: Übungstest, Hörverstehen, Teil 2."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "27610d1e91ef83de8ae89a3d40986ed6990de88ad159303741a72baa12f79a3b",
+        "sourceLocator": "audio SHA256 27610d1e91ef83de8ae89a3d40986ed6990de88ad159303741a72baa12f79a3b at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/27610d1e91ef83de8ae89a3d40986ed6990de88ad159303741a72baa12f79a3b.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/27610d1e91ef83de8ae89a3d40986ed6990de88ad159303741a72baa12f79a3b.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-c1-hochschule-pack-101-track-24": {
+      "title": "Übungstest · Hörverstehen, Teil 3",
+      "references": [
+        {
+          "section": "Übungstest",
+          "status": "verified",
+          "exercise": "Hörverstehen, Teil 3",
+          "evidence": "Reviewed opening announcement: Übungstest, Hörverstehen, Teil 3."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "2a6bc9cd891d404566f3b46045c1a49327b394f4c424173934dbcae94492eda6",
+        "sourceLocator": "audio SHA256 2a6bc9cd891d404566f3b46045c1a49327b394f4c424173934dbcae94492eda6 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/2a6bc9cd891d404566f3b46045c1a49327b394f4c424173934dbcae94492eda6.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/2a6bc9cd891d404566f3b46045c1a49327b394f4c424173934dbcae94492eda6.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    }
+  },
+  "documents": {},
+  "sources": []
+}

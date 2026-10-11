@@ -1,0 +1,1428 @@
+{
+  "bookId": "einfach-gut-international-a1-2",
+  "review": {
+    "author": "metadata_pipeline",
+    "reviewedAt": "2026-10-11T18:27:11.311398+00:00",
+    "reviewer": "app_architecture",
+    "independentlyReviewedAt": "2026-10-11T18:28:34.435311+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+      "sha256": "82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65",
+      "pageCount": 15
+    }
+  ],
+  "tracks": {
+    "einfach-gut-international-a1-2-pack-100-track-1": {
+      "title": "Einführung",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "4642ce2c95612b24c110c314e1bcf597f18a9c6667da559e9f2fabe37f1fb125",
+        "reason": "Introductory publisher and book announcement; no exercise reference applies.",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_01.mp3; opening evidence 4642ce2c95612b24c110c314e1bcf597f18a9c6667da559e9f2fabe37f1fb125.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-2": {
+      "title": "Lektion 7 · Aufgabe 1a/b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 7; heading 'Aufgabe 1a/b' lists Track 2. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "1a/b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "f0d39cb5510d89eff8e3a4aff3da4d9c8d6d0841647d3ec6be1aaa80c16ff54c",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_02.mp3; opening evidence f0d39cb5510d89eff8e3a4aff3da4d9c8d6d0841647d3ec6be1aaa80c16ff54c.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-3": {
+      "title": "Lektion 7 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 7; heading 'Aufgabe 2a' lists Track 3. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "2a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "9cdb0e0a20c9f5f10318025ebb31a92b2f7381ac2b7b3e4b1f10d35f58101a1f",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_03.mp3; opening evidence 9cdb0e0a20c9f5f10318025ebb31a92b2f7381ac2b7b3e4b1f10d35f58101a1f.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-4": {
+      "title": "Lektion 7 · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 7; heading 'Aufgabe 2c' lists Track 4. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "2c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "28942b315689795f1a7b89b4253631fd3bab284c9053b7b66d9de211d66feb13",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_04.mp3; opening evidence 28942b315689795f1a7b89b4253631fd3bab284c9053b7b66d9de211d66feb13.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-5": {
+      "title": "Lektion 7 · Aufgabe 3b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 7; heading 'Aufgabe 3b' lists Track 5. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "3b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "811b3c074e7e8f286863ed4215fda623414a27d704e1382521c472cf3cba825f",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_05.mp3; opening evidence 811b3c074e7e8f286863ed4215fda623414a27d704e1382521c472cf3cba825f.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-6": {
+      "title": "Lektion 7 · Aufgabe 7",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 7; heading 'Aufgabe 7' lists Track 6. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "7",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "3e835de027260a89807818957c9dbd3612b480a81f1144a1c67e15902a93374c",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_06.mp3; opening evidence 3e835de027260a89807818957c9dbd3612b480a81f1144a1c67e15902a93374c.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-7": {
+      "title": "Lektion 7 · Aufgabe 9a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 7; heading 'Aufgabe 9a' lists Track 7. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "9a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "84e04efc8d277c9a429444813b030f57a8b562f5283280cf07135c1ec2cfb80f",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_07.mp3; opening evidence 84e04efc8d277c9a429444813b030f57a8b562f5283280cf07135c1ec2cfb80f.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-8": {
+      "title": "Lektion 7 · Aufgabe 10a/b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 7; heading 'Aufgabe 10a/b' lists Track 8. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "10a/b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "d9eb0522f33235d4dc46e37014ea2011364a15cbace35117e3a85b97168cfa7b",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_08.mp3; opening evidence d9eb0522f33235d4dc46e37014ea2011364a15cbace35117e3a85b97168cfa7b.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-9": {
+      "title": "Lektion 8 · Aufgabe 2b/c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 7; heading 'Aufgabe 2b/c' lists Track 9. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "2b/c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "08faf04e52a3bacaa3a3bf040abcbc82d403165533e27491a4108ffa7244de36",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_09.mp3; opening evidence 08faf04e52a3bacaa3a3bf040abcbc82d403165533e27491a4108ffa7244de36.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-10": {
+      "title": "Lektion 8 · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 7; heading 'Aufgabe 4a' lists Track 10. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "4a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "9a2daf3a4e468f70833217ff8f31b57bb681bb7a82ddeb132c033994fc9100e9",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_10.mp3; opening evidence 9a2daf3a4e468f70833217ff8f31b57bb681bb7a82ddeb132c033994fc9100e9.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-11": {
+      "title": "Lektion 8 · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 8; heading 'Aufgabe 4b' lists Track 11. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "4b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "4e9b4a845a7bd5db6e6fe8c22b1f24199b6cb212968b0c9c099946102b07dd9e",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_11.mp3; opening evidence 4e9b4a845a7bd5db6e6fe8c22b1f24199b6cb212968b0c9c099946102b07dd9e.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-12": {
+      "title": "Lektion 8 · Aufgabe 7b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 8; heading 'Aufgabe 7b' lists Track 12. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "7b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "0bdbb84cd4c98c7838380dfe43b51428c68cf0bab31a337fcc7e1212af341a0a",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_12.mp3; opening evidence 0bdbb84cd4c98c7838380dfe43b51428c68cf0bab31a337fcc7e1212af341a0a.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-13": {
+      "title": "Lektion 8 · Aufgabe 9a/b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 8; heading 'Aufgabe 9a/b' lists Track 13. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "9a/b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "64adaff2f715645e22772f85501f129644d6a792463bfbcc6910cfa95c31c957",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_13.mp3; opening evidence 64adaff2f715645e22772f85501f129644d6a792463bfbcc6910cfa95c31c957.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-14": {
+      "title": "Lektion 9 · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 8; heading 'Aufgabe 6a' lists Track 14. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "6a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "15403e696a20f18e6a19240420f09430d00d60ecfd384934de2de1aad6d03e84",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_14.mp3; opening evidence 15403e696a20f18e6a19240420f09430d00d60ecfd384934de2de1aad6d03e84.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-15": {
+      "title": "Lektion 9 · Aufgabe 7b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 8; heading 'Aufgabe 7b' lists Track 15. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "7b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "3bf62617da734870b8f04a9b7a0118fbb6d57e3e14f064660e110e4c7b159c4c",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_15.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-16": {
+      "title": "Lektion 9 · Aufgabe 10a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 8; heading 'Aufgabe 10a' lists Track 16. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "10a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "31dcc8627ac64bc664bae4c3358d33ff23c43fe2a789ed6087646ae30a1d0926",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_16.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-17": {
+      "title": "Lektion 9 · Aufgabe 10b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 8; heading 'Aufgabe 10b' lists Track 17. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "10b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "e3f239d6a7794bacf21f8ce9b5cb29831ffe019b67ded4e78dd6919e7fa544b2",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_17.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-100-track-18": {
+      "title": "Lektion 9 · Aufgabe 11",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 8; heading 'Aufgabe 11' lists Track 18. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "11",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "ddd08f94956974ed47ec6d7fb29bd1daa7821a1e7a8b0126ec27926861169007",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_18.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-19": {
+      "title": "Lektion 10 · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 8; heading 'Aufgabe 1a' lists Track 19. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "1a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "a9830179f8a9f4753d21ad5c94a3eda66e933d6c90a10fd6a939024c9a934cc9",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_19.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-20": {
+      "title": "Lektion 10 · Aufgabe 3a/b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 9; heading 'Aufgabe 3a/b' lists Track 20. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "3a/b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "967f87cc6daa9c79ae4432ed7fcc98037c070724925fba5884a4f7cb2754f4f0",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_20.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-21": {
+      "title": "Lektion 10 · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 9; heading 'Aufgabe 6a' lists Track 21. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "6a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "b04282d136ebc8fb294f89ed247027d1e2b2aca899e3f1c30bdbe9be467c53ed",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_21.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-22": {
+      "title": "Lektion 10 · Aufgabe 7b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 9; heading 'Aufgabe 7b' lists Track 22. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "7b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "033de01a03982e391ad1c1bef2f243fe75d60b2727a996aee6fb2529119bd544",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_22.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-23": {
+      "title": "Lektion 10 · Aufgabe 8",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 9; heading 'Aufgabe 8' lists Track 23. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "8",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "3bebae1eb140654d661e618736d6ce77766b3414faf092edc97fdc8075a39d00",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_23.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-24": {
+      "title": "Lektion 10 · Aufgabe 10a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 9; heading 'Aufgabe 10a' lists Track 24. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "10a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "fe36794a1e0a5dd23e830bb157d9b8de9b5cd5e4983b7f396820884087c7b886",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_24.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-25": {
+      "title": "Lektion 10 · Aufgabe 11a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 9; heading 'Aufgabe 11a' lists Track 25. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "11a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "2d28e9c88fc17274131f6a6dd6e50874434cde2f5707215bc89325a4218811a7",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_25.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-26": {
+      "title": "Lektion 11 · Aufgabe 1b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 9; heading 'Aufgabe 1b' lists Track 26. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "1b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "e478140af08e7647dff4facd41eacd3892f8c57ef1621ee765abda2cf8b3828f",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_26.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-27": {
+      "title": "Lektion 11 · Aufgabe 1d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 9; heading 'Aufgabe 1d' lists Track 27. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "1d",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "1c7ff1df4a80d8a08cc200202c895697b45725b265eb24c1f19df581218750f4",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_27.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-28": {
+      "title": "Lektion 11 · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 9; heading 'Aufgabe 3a' lists Track 28. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "3a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "d95de73b04490d483ad18e8cdbcd0b559613dd18c1dcf7a8b610b59b09c59b38",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_28.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-29": {
+      "title": "Lektion 11 · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 9; heading 'Aufgabe 5a' lists Track 29. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "5a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "73b498ff3770c0f7f6184d4368875cbfcc28e2bf08d9133e9cdcd4c54761a78c",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_29.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-30": {
+      "title": "Lektion 11 · Aufgabe 6a/b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 10; heading 'Aufgabe 6a/b' lists Track 30. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "6a/b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "a4924dec06c9df41f3f343b4f313903481b827587f6e3d431abde93d9e5e146e",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_30.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-31": {
+      "title": "Lektion 11 · Aufgabe 8a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 10; heading 'Aufgabe 8a' lists Track 31. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "8a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "cdaca075154375fb3722085c9e02eb8708fcca552d8705ca699a06b1a1c0e934",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_31.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-32": {
+      "title": "Lektion 12 · Aufgabe 1b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 10; heading 'Aufgabe 1b' lists Track 32. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "1b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "2b940ab96b7cd34a92b9bdba05836980021c85a721b3fe85aaf4fc611a9760e8",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_32.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-33": {
+      "title": "Lektion 12 · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 10; heading 'Aufgabe 2c' lists Track 33. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "2c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "5c830350dabccef8be0d5042f8b8bed7f7a5e2bb32a5a2589ec1ff758d2c5fe4",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_33.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-34": {
+      "title": "Lektion 12 · Aufgabe 4",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 10; heading 'Aufgabe 4' lists Track 34. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "4",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "086a19fe5bdbd3f4a6469b002dede10268935c4f8a45bff2c0a8d72a8c99c170",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_34.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-35": {
+      "title": "Lektion 12 · Aufgabe 8a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 10; heading 'Aufgabe 8a' lists Track 35. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "8a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "462c8672bea84a56aa76c100f70f258b8c8a0e2aef1b0206a13974a91a35e43d",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_35.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-36": {
+      "title": "Lektion 12 · Aufgabe 9a/b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 10; heading 'Aufgabe 9a/b' lists Track 36. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "9a/b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "dd273d0fb60e3e75d7baffd92bd9fb05ac973b56fee2a636223da81ffd6af3cd",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_36.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-101-track-37": {
+      "title": "Lektion 12 · Aufgabe 10b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 10; heading 'Aufgabe 10b' lists Track 37. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "10b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "ccb8feed6366976cc622ca68f71d3130d71b2d1209a33fae6ceb10fe628bc4ae",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_37.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-38": {
+      "title": "Aussprachetraining · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (df393c2d6cdc59c68c23973cb59e2689cb9141feb5ac44811bfc7a4edc29b8b4.txt, original audio SHA-256 df393c2d6cdc59c68c23973cb59e2689cb9141feb5ac44811bfc7a4edc29b8b4): Aussprachetraining, Aufgabe 1a.",
+          "status": "verified",
+          "exercise": "1a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "df393c2d6cdc59c68c23973cb59e2689cb9141feb5ac44811bfc7a4edc29b8b4",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_38.mp3; opening evidence df393c2d6cdc59c68c23973cb59e2689cb9141feb5ac44811bfc7a4edc29b8b4.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-39": {
+      "title": "Aussprachetraining · Aufgabe 1d",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (90a21c860d02d05c96f981f39cef663eab71702afc196a4c541ea6c0ca5f6727.txt, original audio SHA-256 90a21c860d02d05c96f981f39cef663eab71702afc196a4c541ea6c0ca5f6727): Aussprachetraining, Aufgabe 1D.",
+          "status": "verified",
+          "exercise": "1d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "90a21c860d02d05c96f981f39cef663eab71702afc196a4c541ea6c0ca5f6727",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_39.mp3; opening evidence 90a21c860d02d05c96f981f39cef663eab71702afc196a4c541ea6c0ca5f6727.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-40": {
+      "title": "Aussprachetraining · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (600afccd885ce363d9e2146aad2f2e42adc9c4a801bca70715497e4ab4bc467f.txt, original audio SHA-256 600afccd885ce363d9e2146aad2f2e42adc9c4a801bca70715497e4ab4bc467f): Aussprachetraining, Aufgabe 2a",
+          "status": "verified",
+          "exercise": "2a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "600afccd885ce363d9e2146aad2f2e42adc9c4a801bca70715497e4ab4bc467f",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_40.mp3; opening evidence 600afccd885ce363d9e2146aad2f2e42adc9c4a801bca70715497e4ab4bc467f.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-41": {
+      "title": "Aussprachetraining · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (924695557e0feeacc277d4ae9fbd7d40866dea4719216b50d32f8bdc675b33b0.txt, original audio SHA-256 924695557e0feeacc277d4ae9fbd7d40866dea4719216b50d32f8bdc675b33b0): Aussprachetraining, Aufgabe 2-C",
+          "status": "verified",
+          "exercise": "2c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "924695557e0feeacc277d4ae9fbd7d40866dea4719216b50d32f8bdc675b33b0",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_41.mp3; opening evidence 924695557e0feeacc277d4ae9fbd7d40866dea4719216b50d32f8bdc675b33b0.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-42": {
+      "title": "Aussprachetraining · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (e2d09f1e112b21ef84d84b4d0fc3df6ec354a51294cc61014d44d09e01d75ef2.txt, original audio SHA-256 e2d09f1e112b21ef84d84b4d0fc3df6ec354a51294cc61014d44d09e01d75ef2): Aussprachetraining, Aufgabe 3a",
+          "status": "verified",
+          "exercise": "3a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e2d09f1e112b21ef84d84b4d0fc3df6ec354a51294cc61014d44d09e01d75ef2",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_42.mp3; opening evidence e2d09f1e112b21ef84d84b4d0fc3df6ec354a51294cc61014d44d09e01d75ef2.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-43": {
+      "title": "Lektion 7 · Aufgabe 2d",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 11; heading 'Aufgabe 2d' lists Track 43. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "2d",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "c6aa7e412daf7ea0174dc38d624cab901244ddb6ddd13a478b692c54a5aadc34",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_43.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-44": {
+      "title": "Lektion 7 · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 11; heading 'Aufgabe 3a' lists Track 44. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "3a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "39be885d7ab1a0b6e45f6600d42961f734e1f544c36a72913ba44a2c8efca47e",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_44.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-45": {
+      "title": "Lektion 7 · Aufgabe 9",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 11; heading 'Aufgabe 9' lists Track 45. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "9",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "dce926c546e36fb6cdbb961499b3a2181745bf0fb0be2e890600708c9f6c93c4",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_45.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-46": {
+      "title": "Lektion 7 · Aufgabe 11",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 11; heading 'Aufgabe 11' lists Track 46. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "11",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "361f7c277e00e19deaebc81f1bff8ea6d0ecdf0a733b4d4ae1c3795748661ca7",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_46.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-47": {
+      "title": "Lektion 8 · Aufgabe 8b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 11; heading 'Aufgabe 8b' lists Track 47. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "8b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "2f6057d92e40b969e47d7153355e610064ef14a98e24ff723909b14c000cfe30",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_47.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-48": {
+      "title": "Lektion 8 · Aufgabe 10",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 11; heading 'Aufgabe 10' lists Track 48. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "10",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "5784a141f8ac6c968e27f5400ab1872737c5118eb875f9b6fbcc104e8e9ca983",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_48.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-49": {
+      "title": "Lektion 8 · Aufgabe 11",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 11; heading 'Aufgabe 11' lists Track 49. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "11",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "1770f3e39fb40434641ee7d15813b452c91890f465504be8e8e3f3e7e694052d",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_49.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-50": {
+      "title": "Lektion 8 · Aufgabe 12",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 11; heading 'Aufgabe 12' lists Track 50. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "12",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "7d9bfebf4fd7c5c5d8b0b9585edb04e5104b02331552e6fab573309b27b59be6",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_50.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-51": {
+      "title": "Lektion 8 · Aufgabe 13",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 11; heading 'Aufgabe 13' lists Track 51. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "13",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "a2fa89db037cce0bc5d285213e850455fe0f50c848bb1d32ea45ea32713e22ed",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_51.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-52": {
+      "title": "Lektion 8 · Aufgabe 14",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 11; heading 'Aufgabe 14' lists Track 52. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "14",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "983769857e66dca1c9033aa95f6c896f3a38b4e0042a9a217619e97713370f82",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_52.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-53": {
+      "title": "Lektion 9 · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 11; heading 'Aufgabe 2b' lists Track 53. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "2b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "4fe0907e9d861c639b4eb1d4a6166b5d9e1c1ac05dc02c8aa84ba3d5fdfbea10",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_53.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-54": {
+      "title": "Lektion 9 · Aufgabe 6b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 12; heading 'Aufgabe 6b' lists Track 54. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "6b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "6ad1de1fd9b670bc89ab00d4061fe493e54d0e8497f0597d43101ef6cf90e8eb",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_54.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-55": {
+      "title": "Lektion 9 · Aufgabe 12",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 12; heading 'Aufgabe 12' lists Track 55. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "12",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "4bb661af55185370f758d492f8daabd70c28e17c6f57059f87317c841347f800",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_55.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-56": {
+      "title": "Lektion 9 · Aufgabe 13",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 12; heading 'Aufgabe 13' lists Track 56. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "13",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "d5b4787b07219ec02521b0db02c9b9e100f3130e645f44276035ea35002578f1",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_56.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-57": {
+      "title": "Lektion 10 · Aufgabe 13b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 12; heading 'Aufgabe 13b' lists Track 57. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "13b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "87e380eaae049cc3055e580ffc60f0f071bc1a6030885edd3b5707c1adcaabf7",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_57.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-58": {
+      "title": "Lektion 10 · Aufgabe 17",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 12; heading 'Aufgabe 17' lists Track 58. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "17",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "f296edd623d14787f36b9c380f5e0c906d602249fdcb676bef486d56440b57d4",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_58.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-59": {
+      "title": "Lektion 10 · Aufgabe 18",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 12; heading 'Aufgabe 18' lists Track 59. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "18",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "c273dc023ef0018d3b0c0fab3c44c9a7ce89e1ebfa38863c576b7e95269a8cb7",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_59.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-60": {
+      "title": "Lektion 11 · Aufgabe 6b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 12; heading 'Aufgabe 6b' lists Track 60. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "6b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "bb8e8fcb7880b870aed5b36e7e1b58d417a716479e547694936bf83d0c23e16f",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_60.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-61": {
+      "title": "Lektion 11 · Aufgabe 8",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 12; heading 'Aufgabe 8' lists Track 61. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "8",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "8c0e9046f8d7a186c400882b7433fc33fd9ee90ab0d83e3ccb34826d2ca88904",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_61.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-62": {
+      "title": "Lektion 11 · Aufgabe 9",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 12; heading 'Aufgabe 9' lists Track 62. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "9",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "fb0f81b1a897fef9966990b9d1b9d2509ebcc2cec4af07a8b823e47c8d80c467",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_62.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-102-track-63": {
+      "title": "Lektion 11 · Aufgabe 13b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 13; heading 'Aufgabe 13b' lists Track 63. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "13b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 13
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "fcb89ddcb76833007516b73248511fc59dacfc94bc1355e93d9b40ac3d9ee0ea",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_63.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-103-track-64": {
+      "title": "Lektion 12 · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 13; heading 'Aufgabe 2b' lists Track 64. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "2b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 13
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "ca9d82138035c74190d982dda2fce264cc8ced202b342c7e23acb8a7caebaf59",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_64.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-103-track-65": {
+      "title": "Lektion 12 · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 13; heading 'Aufgabe 2c' lists Track 65. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "2c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 13
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "285c51dd1b95c63f51c7d3dcaddd94c5649dc6a7b75d36bbdeceab0c8fdfd6ca",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_65.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-103-track-66": {
+      "title": "Lektion 12 · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 13; heading 'Aufgabe 4a' lists Track 66. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "4a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 13
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "f3f95ffb7a8187b6658f0ff8ff3c7dff7162aae6b90c10f9e5b2a63a11e491db",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_66.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-103-track-67": {
+      "title": "Lektion 12 · Aufgabe 9b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 13; heading 'Aufgabe 9b' lists Track 67. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "9b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 13
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "15941b59f10420f6ecf9f85e94278eea5c127aa1b4e03a792d14ddcb6499159d",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_67.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-103-track-68": {
+      "title": "Lektion 12 · Aufgabe 10",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 13; heading 'Aufgabe 10' lists Track 68. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "10",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 13
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "1eb00ac89ef6c8431ebba81ee30ff483748fa32ff5cc238ddeb5f9134579d890",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_68.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-103-track-69": {
+      "title": "Lektion 12 · Aufgabe 11c",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 13; heading 'Aufgabe 11c' lists Track 69. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "11c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 13
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "9d8215940ecde825ff100c7c0e06617d1c43c5f1b424d2d506ff61ff3d6074ef",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_69.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-103-track-70": {
+      "title": "Zwischentest zu den Lektionen 7–9",
+      "references": [
+        {
+          "section": "Zwischentest zu den Lektionen 7–9",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 14; heading 'zu den Lektionen 7–9' lists Track 70. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65.",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 14
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "c6045731ce0023ebad3f517bbe9f8c4c1fc993f9cc742380199227af17688b77",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_70.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-103-track-71": {
+      "title": "Zwischentest zu den Lektionen 10–12 · Hören, Teil 1",
+      "references": [
+        {
+          "section": "Zwischentest zu den Lektionen 10–12",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf; PDF p. 14; heading 'zu den Lektionen 10–12' lists Track 71. PDF SHA-256 82f23d0ad8c45727f03313add1449648dfa68ed08dcbd7614a9107b6b2bcab65. Listening part explicitly announced in original opening aa50d0fbd2b65497e22fd17c2b442adc0a4a6552186867e68eb23e47d17ea285.txt: A1 Zwischentest zu den Lektionen 10 bis 12 Hören Teil 1.",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_International/Loesungen_Hoertexte/Einfach_gut_International_Niveau_A1-2_Loesungen_Hoertexte.pdf",
+          "sourcePage": 14,
+          "exercise": "Hören, Teil 1"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf-and-opening-announcement",
+        "sourceSha256": "aa50d0fbd2b65497e22fd17c2b442adc0a4a6552186867e68eb23e47d17ea285",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_71.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-international-a1-2-pack-103-track-72": {
+      "title": "Übungstest",
+      "references": [
+        {
+          "section": "Übungstest",
+          "evidence": "Reviewed local opening transcript (f94dd068509de7e32d93ecdea2f7b93be9c49aaafb527e68c65d7f041663385c.txt, original audio SHA-256 f94dd068509de7e32d93ecdea2f7b93be9c49aaafb527e68c65d7f041663385c): Übungstest, Startdeutsch 1, hören.",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "f94dd068509de7e32d93ecdea2f7b93be9c49aaafb527e68c65d7f041663385c",
+        "sourceLocator": "Original ZIP member Einfach_gut_International_A1-2_Track_72.mp3; opening evidence f94dd068509de7e32d93ecdea2f7b93be9c49aaafb527e68c65d7f041663385c.txt from original audio beginning"
+      }
+    }
+  },
+  "documents": {}
+}

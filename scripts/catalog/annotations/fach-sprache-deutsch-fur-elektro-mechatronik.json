@@ -1,0 +1,638 @@
+{
+  "schemaVersion": 1,
+  "bookId": "fach-sprache-deutsch-fur-elektro-mechatronik",
+  "review": {
+    "author": "official_catalog",
+    "reviewedAt": "2026-10-11T18:07:50.999761+00:00",
+    "reviewer": "root",
+    "independentlyReviewedAt": "2026-10-11T18:17:12.341298+00:00",
+    "independentReviewMethod": "Every PDF page/track/exercise locator checked; original PDF hash verified; visual two-column chapter boundary reviewed on page1; corrected Sonderseite1 Elektro wording against audio4; representative lesson openings checked."
+  },
+  "tracks": {
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-1": {
+      "title": "Lektion 1 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2a",
+          "evidence": "Official telc Hörtexte: Lektion 1, Aufgabe 2a (Track 01).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 1,
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "9c996af92f732ee1c85900b76f6b546daad9058bdbf139eb8e1226012cc4b96c"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-2": {
+      "title": "Lektion 1 · Aufgabe 3b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "3b",
+          "evidence": "Official telc Hörtexte: Lektion 1, Aufgabe 3b (Track 02).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 1,
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "96ee1d4b132c6df0363e26d7ada1c4193a1644c0ce9286b08102728e9c8d2884"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-3": {
+      "title": "Lektion 1 · Aufgabe 5a+b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5a+b",
+          "evidence": "Official telc Hörtexte: Lektion 1, Aufgabe 5a+b (Track 03).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 1,
+          "chapter": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "7a7de445545ca3c2edd0a882e6b2cc1a1a04b0105825199bd3484534cd3b6188"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-4": {
+      "title": "Sonderseite 1 · Elektro · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Sonderseite 1 · Elektro",
+          "exercise": "2b",
+          "evidence": "Official Hörtexte PDF heading Arbeiten in Deutschland 1, Aufgabe 2b (Track 04); reviewed opening explicitly announces Sonderseite 1, Elektro, Aufgabe 2b.",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-and-opening-announcement",
+        "sourceSha256": "4bf3822abbe2d94e8a975e7e55a2d689f7d4b763e0312385bab2e8492662ea86",
+        "sourceLocator": "audio SHA256 4bf3822abbe2d94e8a975e7e55a2d689f7d4b763e0312385bab2e8492662ea86 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/4bf3822abbe2d94e8a975e7e55a2d689f7d4b763e0312385bab2e8492662ea86.txt"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-5": {
+      "title": "Lektion 2 · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4a",
+          "evidence": "Official telc Hörtexte: Lektion 2, Aufgabe 4a (Track 05).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 2,
+          "chapter": 2
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "0c866e580785f22e5f7de00a4ae50a6896853bcab194893bf6b13e3ec782468f"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-6": {
+      "title": "Lektion 2 · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5a",
+          "evidence": "Official telc Hörtexte: Lektion 2, Aufgabe 5a (Track 06).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 2,
+          "chapter": 2
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "9b1680d45e3d85c7c2ee58f1ac6a5a4609ff4f150994cd4f55f7dd8dc0ac6e38"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-7": {
+      "title": "Lektion 2 · Aufgabe 7b+c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "7b+c",
+          "evidence": "Official telc Hörtexte: Lektion 2, Aufgabe 7b+c (Track 07).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 2,
+          "chapter": 2
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "63298bd272776ba54036f6a2dc01a40871e3d2fff9ed2983a8e8773cb5cbc47e"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-8": {
+      "title": "Lektion 3 · Aufgabe 4",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4",
+          "evidence": "Official telc Hörtexte: Lektion 3, Aufgabe 4 (Track 08).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 2,
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "c6e73b93203be6602a2671aeba10975946ec2a5d15c48a8e988e66c4673527fa"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-9": {
+      "title": "Lektion 3 · Aufgabe 8b+c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8b+c",
+          "evidence": "Official telc Hörtexte: Lektion 3, Aufgabe 8b+c (Track 09).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 3,
+          "chapter": 3
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "5de9fa0e27db93e987aad25a08136e94e2797cb376c367b2e10f56a4d6ce362a"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-10": {
+      "title": "Lektion 4 · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2b",
+          "evidence": "Official telc Hörtexte: Lektion 4, Aufgabe 2b (Track 10).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "4ac447143cdd272b88f853ea72d1a423e191c8ae819b25c4f2e4040e135f7ae8"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-11": {
+      "title": "Lektion 4 · Aufgabe 6b+c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "6b+c",
+          "evidence": "Official telc Hörtexte: Lektion 4, Aufgabe 6b+c (Track 11).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "255999b387636bfd7046d526826153fb1ac6d4cab9e783ef3440f53af330b38f"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-12": {
+      "title": "Lektion 4 · Aufgabe 7",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "7",
+          "evidence": "Official telc Hörtexte: Lektion 4, Aufgabe 7 (Track 12).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 5,
+          "chapter": 4
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "5187a4442cb69d693149c076ba13d262e160a1c7f1869ab5bbb5a9d8f99429e3"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-13": {
+      "title": "Lektion 5 · Aufgabe 1a+b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1a+b",
+          "evidence": "Official telc Hörtexte: Lektion 5, Aufgabe 1a+b (Track 13).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "82ab79c09ef3b0f10a64cf4d2a89af099efb64b26a800fc6d80ae83938649327"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-14": {
+      "title": "Lektion 5 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2a",
+          "evidence": "Official telc Hörtexte: Lektion 5, Aufgabe 2a (Track 14).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "88c710605fc6a632a0fbab9999ef7b653764128048b18b56edd24bab3ebf589c"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-15": {
+      "title": "Lektion 5 · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "7a",
+          "evidence": "Official telc Hörtexte: Lektion 5, Aufgabe 7a (Track 15).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "49d7c186080174a3e83b7d4fbdc4b2f4d416f0f734b7397a75dbd022b1e144e8"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-100-track-16": {
+      "title": "Lektion 5 · Aufgabe 8a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8a",
+          "evidence": "Official telc Hörtexte: Lektion 5, Aufgabe 8a (Track 16).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapter": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "32b0601a38bc814401c1aa9e211caceff4d352e7364d45799fe598d44bb0ee01"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-17": {
+      "title": "Lektion 6 · Aufgabe 3a+b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "3a+b",
+          "evidence": "Official telc Hörtexte: Lektion 6, Aufgabe 3a+b (Track 17).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 7,
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "a2b7709b98533794a35b82f51ef6a259d442b83971b0d761311dd156143aeacf"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-18": {
+      "title": "Lektion 7 · Aufgabe 1c+d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1c+d",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 1c+d (Track 18).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 7,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "7d9f0238a749608500f0f5d270ae519027e0b7d496f8ff2a823d77a5fd0aafc3"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-19": {
+      "title": "Lektion 7 · Aufgabe 4b+c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4b+c",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 4b+c (Track 19).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 8,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "32665bb22fda1b291ba8d3dbe538842e0e73c79637814cc915c52ea55562e9f8"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-20": {
+      "title": "Lektion 7 · Aufgabe 5d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5d",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 5d (Track 20).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 8,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "9479b5b41a013ebb4a208f63ab9da6cf28d674ceaf82e962412e88713492e57a"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-21": {
+      "title": "Lektion 7 · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "7a",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 7a (Track 21).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 9,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "f1f84a4370cefd45374a79eb98e4b78414d3ff6304fea7ef4dff9496f4aa611b"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-22": {
+      "title": "Lektion 8 · Aufgabe 5b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5b",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 5b (Track 22).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 9,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "c1832f2fa33afa80be6f79a4d58c27319096970c8f862ea5f32303e13fd77f62"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-23": {
+      "title": "Lektion 8 · Aufgabe 7d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "7d",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 7d (Track 23).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 9,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "fc9722f6f81802dab28c4a288cec1a43d916915cae0781f4cdbf0b66ba53a892"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-24": {
+      "title": "Lektion 8 · Aufgabe 8a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8a",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 8a (Track 24).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 10,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "65dc6590a61c11ff5203473834547409e21bfe560c03ff1e21f12503daecdac2"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-25": {
+      "title": "Lektion 9 · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2b",
+          "evidence": "Official telc Hörtexte: Lektion 9, Aufgabe 2b (Track 25).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 10,
+          "chapter": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "39be2a8aa26792c30085403ad8c52b381654b897473634fe09efbc4853342190"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-26": {
+      "title": "Lektion 9 · Aufgabe 8a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8a",
+          "evidence": "Official telc Hörtexte: Lektion 9, Aufgabe 8a (Track 26).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 11,
+          "chapter": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "91f9c75662f334c6b438b31fcc5b6c1a98f795ad6a97629d06eba7bb5201ea2f"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-27": {
+      "title": "Lektion 10 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2a",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 2a (Track 27).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 11,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "c89589c13f2842aae4a8b37e3c22b4f7571e3f9c407ba6de52382ddd68888845"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-28": {
+      "title": "Lektion 10 · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2b",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 2b (Track 28).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 12,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "a881cf2e8ed5a6a3eb79d65d720fa2699275181fbf5fb5e1f73f140171fb093e"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-29": {
+      "title": "Lektion 10 · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "6a",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 6a (Track 29).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 12,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "aa88bc0827c648398c97fa01c53b69000bda56316120fca6ccf68b75c15822c5"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-30": {
+      "title": "Lektion 10 · Aufgabe 9b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "9b",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 9b (Track 30).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 13,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "7f63a6bd29fdabf9a425a5b9e75e386f2b25f9ebbeb1f9177021b15697059b07"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-31": {
+      "title": "Übungstest · Hören Teil 1",
+      "references": [
+        {
+          "section": "Übungstest",
+          "exercise": "Hören Teil 1",
+          "evidence": "Official telc Hörtexte: Übungstest, Hören Teil 1 (Track 31).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 14
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "ec3cb61cb787bccee938e6590b4277b43d04211e00a999e2eaaf5185ccdfad26"
+      }
+    },
+    "fach-sprache-deutsch-fur-elektro-mechatronik-pack-101-track-32": {
+      "title": "Übungstest · Hören Teil 2",
+      "references": [
+        {
+          "section": "Übungstest",
+          "exercise": "Hören Teil 2",
+          "evidence": "Official telc Hörtexte: Übungstest, Hören Teil 2 (Track 32).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+          "sourcePage": 14
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "8cb1f0c4f5641a522ee6633e1389d9e77e20db6915c48a793644822c3406c06d"
+      }
+    }
+  },
+  "documents": {},
+  "sources": [
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Fach.Sprache_Deutsch_fuer_Elektro_und_Mechatronik_B1-B2/Loesungen_Hoertexte/4018_BAA_Elektro_Hoertexte.pdf",
+      "sha256": "cafdd37d52be2a39fe490743d45f22272d198df4f75e1e25a74a334496e2f905",
+      "pageCount": 15,
+      "title": "Fach.Sprache Deutsch für Elektro und Mechatronik B1-B2 Hörtexte",
+      "cachePath": ".work/analysis/annotation-sources/b8746c9d9baf.pdf",
+      "orderedTextPath": ".work/analysis/annotation-sources/b8746c9d9baf-ordered.json"
+    }
+  ],
+  "sourceIssues": [
+    {
+      "sourcePage": 1,
+      "heading": "Arbeiten in Deutschland 1",
+      "reason": "Audio track 4 explicitly calls this Sonderseite 1, Elektro. All other PDF lesson headings checked; no other Sonderseite or Arbeiten in Deutschland section occurs."
+    }
+  ]
+}

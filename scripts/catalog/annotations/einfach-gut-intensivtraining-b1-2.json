@@ -1,0 +1,311 @@
+{
+  "bookId": "einfach-gut-intensivtraining-b1-2",
+  "review": {
+    "author": "metadata_pipeline",
+    "reviewedAt": "2026-10-11T18:16:13.825198+00:00",
+    "reviewer": "app_architecture",
+    "independentlyReviewedAt": "2026-10-11T18:24:06.527699+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf",
+      "sha256": "abe794fd3af6576382f63fec64931580e2afa0945703f757c7dae2c300e7760d",
+      "pageCount": 16
+    }
+  ],
+  "tracks": {
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-1": {
+      "title": "Einführung",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "9e2a088c3523fad314474ed181f52c99040c84cc4cd73f82ba6660e0844e0209",
+        "reason": "Introductory publisher and book announcement; no exercise reference applies.",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_01.mp3; opening evidence 9e2a088c3523fad314474ed181f52c99040c84cc4cd73f82ba6660e0844e0209.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-2": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (f436bc12540ba7a8dc4cd2751321008db2e5027faf8c4d5f8aff32cfe16ed4bc.txt, original audio SHA-256 f436bc12540ba7a8dc4cd2751321008db2e5027faf8c4d5f8aff32cfe16ed4bc): Lektion sieben, Aufgabe drei, A. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "3a",
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "f436bc12540ba7a8dc4cd2751321008db2e5027faf8c4d5f8aff32cfe16ed4bc",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_02.mp3; opening evidence f436bc12540ba7a8dc4cd2751321008db2e5027faf8c4d5f8aff32cfe16ed4bc.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-3": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (057c61549221c313d613e06af6c8c83d47b87866fa61e0a1f2139d57dae6b108.txt, original audio SHA-256 057c61549221c313d613e06af6c8c83d47b87866fa61e0a1f2139d57dae6b108): Lektion 7, Aufgabe 5 A. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "5a",
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "057c61549221c313d613e06af6c8c83d47b87866fa61e0a1f2139d57dae6b108",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_03.mp3; opening evidence 057c61549221c313d613e06af6c8c83d47b87866fa61e0a1f2139d57dae6b108.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-4": {
+      "title": "Ein neuer Arbeitsplatz · Aufgabe 1b",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (83a209ee2dab0c2da30751d2c00bf9232cc9c7ee6ab75be964db0a27297b88cb.txt, original audio SHA-256 83a209ee2dab0c2da30751d2c00bf9232cc9c7ee6ab75be964db0a27297b88cb): Lektion 8, Aufgabe 1B. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "1b",
+          "chapterTitle": "Ein neuer Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "83a209ee2dab0c2da30751d2c00bf9232cc9c7ee6ab75be964db0a27297b88cb",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_04.mp3; opening evidence 83a209ee2dab0c2da30751d2c00bf9232cc9c7ee6ab75be964db0a27297b88cb.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-5": {
+      "title": "Ein neuer Arbeitsplatz · Aufgabe 9a",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (a6800391ccfcea2c3c60779d72f95c8b501ef5b0267910062ff91a7243c8924c-40s-small.txt, original audio SHA-256 a6800391ccfcea2c3c60779d72f95c8b501ef5b0267910062ff91a7243c8924c): Lektion 8, Aufgabe 9 a. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "9a",
+          "chapterTitle": "Ein neuer Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "a6800391ccfcea2c3c60779d72f95c8b501ef5b0267910062ff91a7243c8924c",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_05.mp3; opening evidence a6800391ccfcea2c3c60779d72f95c8b501ef5b0267910062ff91a7243c8924c-40s-small.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-6": {
+      "title": "Büroalltag · Aufgabe 2",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (e41ace0d2c07bab966ecba1505ea3e38285ea108aa387c8ad7f29e4c34478acf.txt, original audio SHA-256 e41ace0d2c07bab966ecba1505ea3e38285ea108aa387c8ad7f29e4c34478acf): Lektion 9, Aufgabe 2. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "2",
+          "chapterTitle": "Büroalltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e41ace0d2c07bab966ecba1505ea3e38285ea108aa387c8ad7f29e4c34478acf",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_06.mp3; opening evidence e41ace0d2c07bab966ecba1505ea3e38285ea108aa387c8ad7f29e4c34478acf.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-7": {
+      "title": "Büroalltag · Aufgabe 8d",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (b5262c962ee92b22cb1227781d7f3ca2572aa7ecab442df09f3428cc766f795e.txt, original audio SHA-256 b5262c962ee92b22cb1227781d7f3ca2572aa7ecab442df09f3428cc766f795e): Lektion 9, Aufgabe 8 D. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "8d",
+          "chapterTitle": "Büroalltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b5262c962ee92b22cb1227781d7f3ca2572aa7ecab442df09f3428cc766f795e",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_07.mp3; opening evidence b5262c962ee92b22cb1227781d7f3ca2572aa7ecab442df09f3428cc766f795e.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-8": {
+      "title": "Büroalltag · Aufgabe 10",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (ed380b535adf1fa9c6d0ce8f1eb861e327e39d03710f629de9aabf552365fa57.txt, original audio SHA-256 ed380b535adf1fa9c6d0ce8f1eb861e327e39d03710f629de9aabf552365fa57): Lektion 9, Aufgabe 10, Hören, Teil 4. Sie hören Aussagen zu einem Thema, welcher der Sätze A ist. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "10",
+          "chapterTitle": "Büroalltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "ed380b535adf1fa9c6d0ce8f1eb861e327e39d03710f629de9aabf552365fa57",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_08.mp3; opening evidence ed380b535adf1fa9c6d0ce8f1eb861e327e39d03710f629de9aabf552365fa57.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-9": {
+      "title": "Gesunde Ernährung · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (6284a24261ad5a22a552649968cc3f7d5d78d1b3ed6898cceb94ef82468ed426.txt, original audio SHA-256 6284a24261ad5a22a552649968cc3f7d5d78d1b3ed6898cceb94ef82468ed426): Lektion 10, Aufgabe 7A. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "7a",
+          "chapterTitle": "Gesunde Ernährung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "6284a24261ad5a22a552649968cc3f7d5d78d1b3ed6898cceb94ef82468ed426",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_09.mp3; opening evidence 6284a24261ad5a22a552649968cc3f7d5d78d1b3ed6898cceb94ef82468ed426.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-10": {
+      "title": "Gesunde Ernährung · Aufgabe 9a",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (e147d459119971d540a1841fbc7d688cb47c3e6e012aed09dc8c555216a55820.txt, original audio SHA-256 e147d459119971d540a1841fbc7d688cb47c3e6e012aed09dc8c555216a55820): Lektion 10, Aufgabe 9 A Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "9a",
+          "chapterTitle": "Gesunde Ernährung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e147d459119971d540a1841fbc7d688cb47c3e6e012aed09dc8c555216a55820",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_10.mp3; opening evidence e147d459119971d540a1841fbc7d688cb47c3e6e012aed09dc8c555216a55820.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-11": {
+      "title": "Gut versichert! · Aufgabe 1d",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (ef668df86f9dbc25dad6e4417baaef1b7871b5475f3f59cb8bc5329e76ca489e-40s-small.txt, original audio SHA-256 ef668df86f9dbc25dad6e4417baaef1b7871b5475f3f59cb8bc5329e76ca489e): Lektion 11. Aufgabe 1d. Welche Versicherung ist denn jetzt die Beste für uns? Es gibt Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 13.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "1d",
+          "chapterTitle": "Gut versichert!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "ef668df86f9dbc25dad6e4417baaef1b7871b5475f3f59cb8bc5329e76ca489e",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_11.mp3; opening evidence ef668df86f9dbc25dad6e4417baaef1b7871b5475f3f59cb8bc5329e76ca489e-40s-small.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-12": {
+      "title": "Gut versichert! · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (788bd61cd36bb2f5280086f9ee160cfafe55e12b56f82d078e79e9b8c4716570.txt, original audio SHA-256 788bd61cd36bb2f5280086f9ee160cfafe55e12b56f82d078e79e9b8c4716570): Lektion 11, Aufgabe 7A. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 13.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "7a",
+          "chapterTitle": "Gut versichert!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "788bd61cd36bb2f5280086f9ee160cfafe55e12b56f82d078e79e9b8c4716570",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_12.mp3; opening evidence 788bd61cd36bb2f5280086f9ee160cfafe55e12b56f82d078e79e9b8c4716570.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-13": {
+      "title": "Lektion 12 · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (c22b16aed12df52641af3253170437feba313a8be1603e5b9bb1624de42841f2.txt, original audio SHA-256 c22b16aed12df52641af3253170437feba313a8be1603e5b9bb1624de42841f2): Lektion 12, Aufgabe 1a.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "1a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "c22b16aed12df52641af3253170437feba313a8be1603e5b9bb1624de42841f2",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_13.mp3; opening evidence c22b16aed12df52641af3253170437feba313a8be1603e5b9bb1624de42841f2.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-14": {
+      "title": "Lektion 12 · Aufgabe 1b",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (06288112a2aa8c1e140bde31fb33d0335ecb4fcf16b610ec9aa090ada99c1165.txt, original audio SHA-256 06288112a2aa8c1e140bde31fb33d0335ecb4fcf16b610ec9aa090ada99c1165): Lektion 12, Aufgabe 1b.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "1b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "06288112a2aa8c1e140bde31fb33d0335ecb4fcf16b610ec9aa090ada99c1165",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_14.mp3; opening evidence 06288112a2aa8c1e140bde31fb33d0335ecb4fcf16b610ec9aa090ada99c1165.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-15": {
+      "title": "Lektion 12 · Aufgabe 1c",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (03843712876d93712209727a8b1369ddbc6a3ab1a093bc932e2a0faf878bcaf0.txt, original audio SHA-256 03843712876d93712209727a8b1369ddbc6a3ab1a093bc932e2a0faf878bcaf0): Lektion 12, Aufgabe 1c.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "1c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "03843712876d93712209727a8b1369ddbc6a3ab1a093bc932e2a0faf878bcaf0",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_15.mp3; opening evidence 03843712876d93712209727a8b1369ddbc6a3ab1a093bc932e2a0faf878bcaf0.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-2-pack-100-track-16": {
+      "title": "Lektion 12 · Aufgabe 1d",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (bfbdb3b53324a1a884121005494113dee0b9fe8491c1907e4ce5c3b164f24cf2.txt, original audio SHA-256 bfbdb3b53324a1a884121005494113dee0b9fe8491c1907e4ce5c3b164f24cf2): Lektion 12, Aufgabe 1D.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "1d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "bfbdb3b53324a1a884121005494113dee0b9fe8491c1907e4ce5c3b164f24cf2",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.2_16.mp3; opening evidence bfbdb3b53324a1a884121005494113dee0b9fe8491c1907e4ce5c3b164f24cf2.txt from original audio beginning"
+      }
+    }
+  },
+  "documents": {}
+}

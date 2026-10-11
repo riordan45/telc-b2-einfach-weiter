@@ -1,0 +1,912 @@
+{
+  "bookId": "trainingseinheiten-deutsch-medizin",
+  "tracks": {
+    "trainingseinheiten-deutsch-medizin-pack-100-track-1": {
+      "title": "Einheit 1 – Mit Pflegepersonal über Medikamente sprechen – Aufgabe 3",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "3",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript medizin, PDF page 1: 'Aufgabe 3 (Track 1)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 1,
+          "chapterTitle": "Mit Pflegepersonal über Medikamente sprechen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "eac410eee7929adde8ffb27a3f981cbc46f5ce76735b9a3aa25c7348488cb1cc"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-100-track-2": {
+      "title": "Einheit 1 – Mit Pflegepersonal über Medikamente sprechen – Aufgabe 4",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "4",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript medizin, PDF page 1: 'Aufgabe 4 (Track 2)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 1,
+          "chapterTitle": "Mit Pflegepersonal über Medikamente sprechen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "8204fde32077be23d6217835bdd5793eff5879c0db87a6a84f9c38b1bc91e41c"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-100-track-3": {
+      "title": "Einheit 2 – Über Angst sprechen – Aufgabe 3a und b",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "3a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript medizin, PDF page 1: 'Aufgabe 3a und b (Track 3)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 2,
+          "chapterTitle": "Über Angst sprechen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "a47bbc896d09156adc94c523d0e43aecabd277a9e21da7d702280bf78d3cb5d6"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-100-track-5": {
+      "title": "Einheit 3 – Über Schmerzen sprechen – Aufgabe 2d",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "2d",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript medizin, PDF page 2: 'Aufgabe 2d (Track 5)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 3,
+          "chapterTitle": "Über Schmerzen sprechen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "2602917ff412ed7e0d639784402a51d3eb16de588274c0a297cbc19873b9d64d"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-100-track-6": {
+      "title": "Einheit 4 – Das Überbringen schlechter Nachrichten – Aufgabe 2b",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "2b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript medizin, PDF page 2: 'Aufgabe 2b (Track 6)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 4,
+          "chapterTitle": "Das Überbringen schlechter Nachrichten"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "020877094d5b94aa6a6b4c8756ded3751febbf71c43bb080834992ee9fecef87"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-100-track-7": {
+      "title": "Einheit 5 – Palliativmedizin – Aufgabe 5a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "5a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 3,
+          "evidence": "Official publisher transcript medizin, PDF page 3: 'Aufgabe 5a (Track 7)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 5,
+          "chapterTitle": "Palliativmedizin"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "8658a50e553d4726a37993882444ed0bff7c3234ed2491ff5aa2d354f23034f6"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-100-track-8": {
+      "title": "Einheit 6 – Kommunikation in schwierigen Kontexten – Aufgabe 1a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "1a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 3,
+          "evidence": "Official publisher transcript medizin, PDF page 3: 'Aufgabe 1a (Track 8)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 6,
+          "chapterTitle": "Kommunikation in schwierigen Kontexten"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "94129ff8842f9d5ddf495b36d2fb5d4feac338804ac075666860e894a02bc858"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-100-track-9": {
+      "title": "Einheit 6 – Kommunikation in schwierigen Kontexten – Aufgabe 5a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "5a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 4,
+          "evidence": "Official publisher transcript medizin, PDF page 4: 'Aufgabe 5a (Track 9)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 6,
+          "chapterTitle": "Kommunikation in schwierigen Kontexten"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "78cbd4fea471adf13148c26c989a2ef288694a937929d6266a27a95b0e59dbf8"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-100-track-10": {
+      "title": "Einheit 6 – Kommunikation in schwierigen Kontexten – Aufgabe 6b",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "6b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 5,
+          "evidence": "Official publisher transcript medizin, PDF page 5: 'Aufgabe 6b (Track 10)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 6,
+          "chapterTitle": "Kommunikation in schwierigen Kontexten"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "4db4747444b1ee8dd3d7bb4e68bdb6c8a3140e54851f43a02548b48ccafb63a2"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-101-track-12": {
+      "title": "Einheit 7 – Beratungsgespräche führen – Aufgabe 6a und b",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "6a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 5,
+          "evidence": "Official publisher transcript medizin, PDF page 5: 'Aufgabe 6a und b (Track 12)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 7,
+          "chapterTitle": "Beratungsgespräche führen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "5614b1f8faea7b4940d594319d6c38efe0c394462df16715ecd01db942ac2b0e"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-101-track-13": {
+      "title": "Einheit 8 – Das medizinische Aufklärungsgespräch – Aufgabe 2a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "2a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 5,
+          "evidence": "Official publisher transcript medizin, PDF page 5: 'Aufgabe 2a (Track 13)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 8,
+          "chapterTitle": "Das medizinische Aufklärungsgespräch"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "8979650211d43e8a669129c126e968d544b2ebd8256b8dbee4349f1dd4659ae0"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-101-track-14": {
+      "title": "Einheit 8 – Das medizinische Aufklärungsgespräch – Aufgabe 2c und d",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "2c und d",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 6,
+          "evidence": "Official publisher transcript medizin, PDF page 6: 'Aufgabe 2c und d (Track 14)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 8,
+          "chapterTitle": "Das medizinische Aufklärungsgespräch"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c42e97bb244223f5c177bfdb810e4859705c7728dd267fa2e256c2f8271ac71d"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-101-track-15": {
+      "title": "Einheit 9 – Mit Angehörigen über Krankheitsbilder sprechen – Aufgabe 3a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "3a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 6,
+          "evidence": "Official publisher transcript medizin, PDF page 6: 'Aufgabe 3a (Track 15)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 9,
+          "chapterTitle": "Mit Angehörigen über Krankheitsbilder sprechen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "f1b0f16877f00625309923a753b33f9e0728fa19fba12ce1d045f5c11c7c8e9e"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-101-track-16": {
+      "title": "Einheit 10 – Anamnese – Aufgabe 5b",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "5b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 6,
+          "evidence": "Official publisher transcript medizin, PDF page 6: 'Aufgabe 5b (Track 16)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 10,
+          "chapterTitle": "Anamnese"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c27f8d49b3a1e5204157e30b39b89ca3d2943327049c263f5c1bf7a0e9a6460c"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-101-track-17": {
+      "title": "Einheit 11 – Die körperliche Untersuchung – Aufgabe 3c",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "3c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 7,
+          "evidence": "Official publisher transcript medizin, PDF page 7: 'Aufgabe 3c (Track 17)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 11,
+          "chapterTitle": "Die körperliche Untersuchung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "9423fede738171a64c0d935f23179bb5a2ac2494e23ebe268437a627c3c76c51"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-101-track-19": {
+      "title": "Einheit 12 – Diagnostische Verfahren und Diagnosegespräch – Aufgabe 1a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "1a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 8,
+          "evidence": "Official publisher transcript medizin, PDF page 8: 'Aufgabe 1a (Track 19)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 12,
+          "chapterTitle": "Diagnostische Verfahren und Diagnosegespräch"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "f8677891bbcfa64cd357e718fa11c773e21678c637b947325fab1e438dbe6889"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-21": {
+      "title": "Einheit 13 – Bildgebende Verfahren – Aufgabe 3b",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "3b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 8,
+          "evidence": "Official publisher transcript medizin, PDF page 8: 'Aufgabe 3b (Track 21)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 13,
+          "chapterTitle": "Bildgebende Verfahren"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "319c79a47e8497759679194ce53c0bfeb2eec13b59fe73a5654659dbb274c5ec"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-22": {
+      "title": "Einheit 13 – Bildgebende Verfahren – Aufgabe 4a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "4a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 9,
+          "evidence": "Official publisher transcript medizin, PDF page 9: 'Aufgabe 4a (Track 22)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 13,
+          "chapterTitle": "Bildgebende Verfahren"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "b46c39ef5a77ff6ef7ebea3d9edb33f2b4bc01efddd72cf2ac3be64310bd8f5e"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-23": {
+      "title": "Einheit 13 – Bildgebende Verfahren – Aufgabe 4f",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "4f",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 9,
+          "evidence": "Official publisher transcript medizin, PDF page 9: 'Aufgabe 4f (Track 23)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 13,
+          "chapterTitle": "Bildgebende Verfahren"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "a27fab3a1528fb9dbc1af420bc85ef4c476b6f65e37e04fe0fab5ea8187ef7ff"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-24": {
+      "title": "Einheit 14 – Medizinische Dokumentation – Aufgabe 3a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "3a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 9,
+          "evidence": "Official publisher transcript medizin, PDF page 9: 'Aufgabe 3a (Track 24)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 14,
+          "chapterTitle": "Medizinische Dokumentation"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "b85d90dd9b0aa591d89af8c5dc0aaa54383e545d357d3a59c8e6fa3b3ed4b6ef"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-25": {
+      "title": "Einheit 15 – Arztbrief und Entlassungsgespräch – Aufgabe 6a und 7a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "6a und 7a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 10,
+          "evidence": "Official publisher transcript medizin, PDF page 10: 'Aufgabe 6a und 7a (Track 25)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 15,
+          "chapterTitle": "Arztbrief und Entlassungsgespräch"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "44674e88563045652a18c952124ca80e06eeebc07b0c4e70e0b02572b2b2773b"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-26": {
+      "title": "Einheit 16 – Über die Patientenversorgung sprechen – Aufgabe 6",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "6",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript medizin, PDF page 11: 'Aufgabe 6 (Track 26)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 16,
+          "chapterTitle": "Über die Patientenversorgung sprechen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "72f9ee6d585e6cb35cec56ac9e7aac617bdbf3f5beb36d0fc99d3479b1a354ca"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-27": {
+      "title": "Einheit 16 – Über die Patientenversorgung sprechen – Aufgabe 10",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "10",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript medizin, PDF page 11: 'Aufgabe 10 (Track 27)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 16,
+          "chapterTitle": "Über die Patientenversorgung sprechen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "d3d0f5653451c8ad348ba56b9c3a04a8dd977e9b3ccd1ee972352ea2b34097ef"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-28": {
+      "title": "Einheit 17 – Visite und Übergabe – Aufgabe 2b",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "2b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 12,
+          "evidence": "Official publisher transcript medizin, PDF page 12: 'Aufgabe 2b (Track 28)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 17,
+          "chapterTitle": "Visite und Übergabe"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "7fa82cad6559fc0cedb313e4b6ceac68716cea297a9b7c906a93b827acd6c44a"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-29": {
+      "title": "Einheit 18 – Kommunikation im OP – Aufgabe 7a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "7a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 12,
+          "evidence": "Official publisher transcript medizin, PDF page 12: 'Aufgabe 7a (Track 29)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 18,
+          "chapterTitle": "Kommunikation im OP"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "714c0d38583d370dd80ccb8be8d71ee31e451e0349d5a344fd55d77d80944959"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-30": {
+      "title": "Einheit 18 – Kommunikation im OP – Aufgabe 7b",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "7b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 13,
+          "evidence": "Official publisher transcript medizin, PDF page 13: 'Aufgabe 7b (Track 30)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 18,
+          "chapterTitle": "Kommunikation im OP"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "ee63f8a4c41c3c0c63bb5ed3412f7fd4009d37e5c5c9d2f8b3413446ce7a16ef"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-31": {
+      "title": "Einheit 19 – Fallvorstellung – Aufgabe 3a und b",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "3a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 13,
+          "evidence": "Official publisher transcript medizin, PDF page 13: 'Aufgabe 3a und b (Track 31)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 19,
+          "chapterTitle": "Fallvorstellung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "27b1cf38c0d3da2eb9587a8ae94c9c6d9d567a5496ede5b6a49a8c8c7899e7d3"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-32": {
+      "title": "Einheit 19 – Fallvorstellung – Aufgabe 3c",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "3c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 13,
+          "evidence": "Official publisher transcript medizin, PDF page 13: 'Aufgabe 3c (Track 32)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 19,
+          "chapterTitle": "Fallvorstellung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "8bdf65bc51e59b305acdded6abf2b7a3ba9507df972f1ac4ea1c6c731d59ec64"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-33": {
+      "title": "Einheit 20 – Konsil – Aufgabe 2a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "2a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 13,
+          "evidence": "Official publisher transcript medizin, PDF page 13: 'Aufgabe 2a (Track 33)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 20,
+          "chapterTitle": "Konsil"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "01c5fdd3b26fe8397ae34f4f3e5ea6e2e30e0ffc4674d82127e735c0a6bb0423"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-102-track-34": {
+      "title": "Einheit 20 – Konsil – Aufgabe 2c",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "2c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 14,
+          "evidence": "Official publisher transcript medizin, PDF page 14: 'Aufgabe 2c (Track 34)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 20,
+          "chapterTitle": "Konsil"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "740abe89303164420d14bf28171b5ae6274b86b8694dbb8917997df48730350e"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-103-track-35": {
+      "title": "Einheit 21 – Befunde und Therapien besprechen – Aufgabe 6a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "6a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 14,
+          "evidence": "Official publisher transcript medizin, PDF page 14: 'Aufgabe 6a (Track 35)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 21,
+          "chapterTitle": "Befunde und Therapien besprechen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "eef6715637c51858a2b3a0704d88c815dff6e98e00c124c205252ab3e4e1a63b"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-103-track-36": {
+      "title": "Einheit 21 – Befunde und Therapien besprechen – Aufgabe 6b",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "6b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 14,
+          "evidence": "Official publisher transcript medizin, PDF page 14: 'Aufgabe 6b (Track 36)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 21,
+          "chapterTitle": "Befunde und Therapien besprechen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "88094b3674b218398295acfd4232221cfd4e3aa11bbb256f4f353e4e136da8c0"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-103-track-37": {
+      "title": "Einheit 21 – Befunde und Therapien besprechen – Aufgabe 6c",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "6c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 14,
+          "evidence": "Official publisher transcript medizin, PDF page 14: 'Aufgabe 6c (Track 37)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 21,
+          "chapterTitle": "Befunde und Therapien besprechen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "6b0b95194b9e81815c3b71d2cec7d34c08955767c3e7d7ce576d73250b00f69f"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-103-track-38": {
+      "title": "Einheit 21 – Befunde und Therapien besprechen – Aufgabe 6g",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "6g",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 15,
+          "evidence": "Official publisher transcript medizin, PDF page 15: 'Aufgabe 6g (Track 38)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 21,
+          "chapterTitle": "Befunde und Therapien besprechen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "baaba4fb445e6171adfc428cfcdc07458bbd54880fd47dc32e655a2899c7ea0a"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-103-track-39": {
+      "title": "Einheit 22 – Hausärztliche Versorgung – Aufgabe 3b und c",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "3b und c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 15,
+          "evidence": "Official publisher transcript medizin, PDF page 15: 'Aufgabe 3b und c (Track 39)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 22,
+          "chapterTitle": "Hausärztliche Versorgung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "0609fa987b1fac5f3827070cecd1ab3fe6083ff33faac23ebd907898c24ce87f"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-103-track-40": {
+      "title": "Einheit 22 – Hausärztliche Versorgung – Aufgabe 4b",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "4b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 15,
+          "evidence": "Official publisher transcript medizin, PDF page 15: 'Aufgabe 4b (Track 40)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 22,
+          "chapterTitle": "Hausärztliche Versorgung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "0c114c7830b63ff816cd217a40e03316c861b536f3623c7e2d9d67843baa6629"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-103-track-41": {
+      "title": "Einheit 23 – Neurologie – Aufgabe 3a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "3a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 16,
+          "evidence": "Official publisher transcript medizin, PDF page 16: 'Aufgabe 3a (Track 41)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 23,
+          "chapterTitle": "Neurologie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "9de2506e1e12ed28008073dadee0b79c37c96faa7babdd148935990989e33b96"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-103-track-42": {
+      "title": "Einheit 23 – Neurologie – Aufgabe 3f",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "3f",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 16,
+          "evidence": "Official publisher transcript medizin, PDF page 16: 'Aufgabe 3f (Track 42)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 23,
+          "chapterTitle": "Neurologie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "9629c34bfaad9227d93b365e4bcf39b344ebb5b282a865b751bb729f932d8cad"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-103-track-43": {
+      "title": "Einheit 23 – Neurologie – Aufgabe 5c",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "5c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 16,
+          "evidence": "Official publisher transcript medizin, PDF page 16: 'Aufgabe 5c (Track 43)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 23,
+          "chapterTitle": "Neurologie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "bf7f1b57773b83487223e2ae7f2d1ecc29968937f52bf5987a186ca98bad2589"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-103-track-44": {
+      "title": "Einheit 24 – Notfälle und Notaufnahme – Aufgabe 3a",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "3a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 17,
+          "evidence": "Official publisher transcript medizin, PDF page 17: 'Aufgabe 3a (Track 44)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 24,
+          "chapterTitle": "Notfälle und Notaufnahme"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "e3244c165e86a65f219131831fbcac93521d9b8e940bbe7298ad44cac173ecb1"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-103-track-45": {
+      "title": "Einheit 24 – Notfälle und Notaufnahme – Aufgabe 7a und b",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "exercise": "7a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 17,
+          "evidence": "Official publisher transcript medizin, PDF page 17: 'Aufgabe 7a und b (Track 45)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "chapter": 24,
+          "chapterTitle": "Notfälle und Notaufnahme"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "4c3f27a21eda9b19997944b163d701a13e4a847d4943b127feaf3bb4758e0f15"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-100-track-4": {
+      "title": "Einheit 3 – Über Schmerzen sprechen",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "status": "verified",
+          "evidence": "Original audio Trainingseinheiten_Deutsch_Medizin_Track_04.mp3 (SHA256 5f39d80d9cae902d5e531b3ce22a035b51b36b89188c9e19a867a6cf4ac5ba84), opening announcement reviewed from local transcription: 'Trainings Einheit 3 über Schmerzenssprechen.'; 40-second review confirms explicitly announced Einheit3; no numeric exercise announced.",
+          "chapter": 3,
+          "chapterTitle": "Über Schmerzen sprechen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-40s-and-publisher-context",
+        "sourceSha256": "5f39d80d9cae902d5e531b3ce22a035b51b36b89188c9e19a867a6cf4ac5ba84",
+        "sourceLocator": "Original audio Trainingseinheiten_Deutsch_Medizin_Track_04.mp3 at00:00–00:40"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-101-track-11": {
+      "title": "Einheit 7 – Beratungsgespräche führen",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "status": "verified",
+          "evidence": "Original audio Trainingseinheiten_Deutsch_Medizin_Track_11.mp3 (SHA256 686868851cb81e890a4ebc2a7d99a10beff4ade56a28039197af408962cd3f01), opening announcement reviewed from local transcription: 'Trainings Einheit 7 - Beratungsgespräche führen'; 40-second review confirms explicitly announced Einheit7; original task is a gap-fill explanation about Kreuzbandriss, no numeric exercise announced.",
+          "chapter": 7,
+          "chapterTitle": "Beratungsgespräche führen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-40s-and-publisher-context",
+        "sourceSha256": "686868851cb81e890a4ebc2a7d99a10beff4ade56a28039197af408962cd3f01",
+        "sourceLocator": "Original audio Trainingseinheiten_Deutsch_Medizin_Track_11.mp3 at00:00–00:40"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-101-track-18": {
+      "title": "Einheit 11 – Die körperliche Untersuchung – a und b",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "status": "chapter-context",
+          "evidence": "Original audio Trainingseinheiten_Deutsch_Medizin_Track_18.mp3 (SHA256 cccad1272f26bd07ba679343d8288a2a053fa98a4d3a6e0a7a8e888b423061ea), opening announcement reviewed from local transcription: 'Der Allgemeinarzt, Herr Dr. Klein, bekommt Praxisbesuch von einer Patientin, Frau Rosenschmitt.'; 40-second introduction explicitly says physical examination and Aufgaben a und b. Context corresponds to publisher chapter11 physical examination; PDFTrack17 is Einheit11, following Track19 starts Einheit12. No numeric exercise is invented.",
+          "exercise": "a und b",
+          "chapter": 11,
+          "chapterTitle": "Die körperliche Untersuchung",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-40s-and-publisher-context",
+        "sourceSha256": "cccad1272f26bd07ba679343d8288a2a053fa98a4d3a6e0a7a8e888b423061ea"
+      }
+    },
+    "trainingseinheiten-deutsch-medizin-pack-101-track-20": {
+      "title": "Lückentext – Die menschliche Verdauung",
+      "references": [
+        {
+          "section": "Trainingseinheiten",
+          "status": "verified",
+          "evidence": "Original audio Trainingseinheiten_Deutsch_Medizin_Track_20.mp3 (SHA256 fc399498f5c47558c96180ad9f6e2281a5da0308a3ef8d0906c237289b72d500), opening announcement reviewed from local transcription: 'Schließen Sie die Lücken im Text. Sie finden die fehlenden Wörter im Kasten unter dem Text.'; 40-second review: gap-fill task about human digestion. No chapter or numbered exercise is announced; only the verified listening topic is shown."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-40s-and-publisher-context",
+        "sourceSha256": "fc399498f5c47558c96180ad9f6e2281a5da0308a3ef8d0906c237289b72d500",
+        "sourceLocator": "Original audio Trainingseinheiten_Deutsch_Medizin_Track_20.mp3 at00:00–00:40"
+      }
+    }
+  },
+  "documents": {},
+  "sources": [
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Trainingseinheiten_Medizin/Trainingseinheiten_Medizin_Hoertexte.pdf",
+      "sha256": "d41209155792638ff67cebff3c45c711b5fb722fc87fd82eed6028daf96d3620",
+      "pageCount": 18,
+      "title": "medizin"
+    }
+  ],
+  "review": {
+    "author": "app_architecture",
+    "reviewedAt": "2026-10-11T18:12:34.993229+00:00",
+    "reviewer": "metadata_pipeline",
+    "independentlyReviewedAt": "2026-10-11T18:14:34.306500+00:00"
+  }
+}

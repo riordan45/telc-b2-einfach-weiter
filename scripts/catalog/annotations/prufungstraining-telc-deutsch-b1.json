@@ -1,0 +1,564 @@
+{
+  "schemaVersion": 1,
+  "bookId": "prufungstraining-telc-deutsch-b1",
+  "review": {
+    "author": "official_catalog",
+    "reviewedAt": "2026-10-11T18:07:50.999761+00:00",
+    "reviewer": "root",
+    "independentlyReviewedAt": "2026-10-11T18:17:45.494581+00:00",
+    "independentReviewMethod": "Every direct PDF source-page track marker checked with original source hash; all seven PDF gaps checked against local openings; visual two-column layout and printed duplicate Track29 typo reviewed; exact exercise refs confirmed with alternate model where needed."
+  },
+  "tracks": {
+    "prufungstraining-telc-deutsch-b1-pack-100-track-1": {
+      "title": "Lektion 6 · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "2c",
+          "evidence": "Official telc Hörtexte: Lektion 6, Aufgabe 2c (Track 1).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 1,
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "bda2592a47514dee74444a58f661492132c569ce6198cb6f2c6bc12a68224cbb"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-100-track-2": {
+      "title": "Lektion 6 · Aufgabe 2d und e",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "2d und e",
+          "evidence": "Official telc Hörtexte: Lektion 6, Aufgabe 2d und e (Track 2).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 1,
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "b1f31b21b4d537167c2ecec37da82055ca4d180151588572ecc89ff825bd1b44"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-100-track-3": {
+      "title": "Lektion 6 · Aufgabe 4c und d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4c und d",
+          "evidence": "Official telc Hörtexte: Lektion 6, Aufgabe 4c und d (Track 3).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 1,
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "35badbe6a2cb9790d5adad5cc8a77691a7c0b772842e1452d9ff1e7dd2ac623a"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-100-track-4": {
+      "title": "Lektion 6 · Aufgabe 4e",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4e",
+          "evidence": "Official telc Hörtexte: Lektion 6, Aufgabe 4e (Track 4).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 1,
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "ae1bfcebecd4c2b0966f22a5c6fb05de4494e05d890aa6575fb5233570f6be86"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-100-track-5": {
+      "title": "Lektion 6 · Aufgabe 5",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "5",
+          "evidence": "Official telc Hörtexte: Lektion 6, Aufgabe 5 (Track 5).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 2,
+          "chapter": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "48a24422954e8a14b7ff7c1caf2b1c815172c87b08dbe2a7a480f15533f7f603"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-100-track-6": {
+      "title": "Lektion 7 · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "2c",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 2c.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "1b0f6dcfefd312fb3e8a2f3d9be183e5a057031c049eb15f6a9da27393c0eb7f",
+        "sourceLocator": "audio SHA256 1b0f6dcfefd312fb3e8a2f3d9be183e5a057031c049eb15f6a9da27393c0eb7f at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/1b0f6dcfefd312fb3e8a2f3d9be183e5a057031c049eb15f6a9da27393c0eb7f.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/1b0f6dcfefd312fb3e8a2f3d9be183e5a057031c049eb15f6a9da27393c0eb7f.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-100-track-7": {
+      "title": "Lektion 7 · Aufgabe 2e",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "2e",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 2e (Track 7).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 2,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "1624c55ec3f590a0cd6d385aec424f3b3960d191ac720df6ab64fa81ce2184f5"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-100-track-8": {
+      "title": "Lektion 7 · Aufgabe 3b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3b",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 3b (Track 8).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 2,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "7c88239f4c27f501921fb567e37b42f50210682d71605fb99eab17557ef0ffb3"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-100-track-9": {
+      "title": "Lektion 7 · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4a",
+          "evidence": "Reviewed opening announcement: Lektion 7, Aufgabe 4a.",
+          "status": "verified",
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "87b10de01a74ed51d4e40df3cdca3d4ee55a2f13b7ac0c0b51ff75a24a1ea2ba",
+        "sourceLocator": "audio SHA256 87b10de01a74ed51d4e40df3cdca3d4ee55a2f13b7ac0c0b51ff75a24a1ea2ba at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/87b10de01a74ed51d4e40df3cdca3d4ee55a2f13b7ac0c0b51ff75a24a1ea2ba.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/87b10de01a74ed51d4e40df3cdca3d4ee55a2f13b7ac0c0b51ff75a24a1ea2ba.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-100-track-10": {
+      "title": "Lektion 7 · Aufgabe 4c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4c",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 4c (Track 10).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 3,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "c90ea899c972a50115e0da2a91efee9976224a8860c9c78422127c51477fe84a"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-101-track-11": {
+      "title": "Lektion 7 · Aufgabe 5a und b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "5a und b",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 5a und b (Track 11).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 3,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "aef760c97eb43ef9657bd7721e9eff40d504e1d602f8955d2d8b5d69a1a45c3f"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-101-track-12": {
+      "title": "Lektion 7 · Aufgabe 6",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "6",
+          "evidence": "Official telc Hörtexte: Lektion 7, Aufgabe 6 (Track 12).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 3,
+          "chapter": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "456b577de35bc92125913e640d2c03cdbf1608a9f83b912f93802d5fa2d98f36"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-101-track-13": {
+      "title": "Lektion 8 · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "2b",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 2b (Track 13).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "2342c235cbb246873a2783cb641a1a079bf72127a904b43da11ad571eb40ee51"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-101-track-14": {
+      "title": "Lektion 8 · Aufgabe 3d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3d",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 3d (Track 14).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "4ce0dadbd7f73ab465cb299aa1ee223eb96a68455ef7f706884c57bab7b6ccfb"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-101-track-15": {
+      "title": "Lektion 8 · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4b",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 4b (Track 15).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "7be67412ff4027bc690e4db4baee336b5f945147d52344bb200f0871ff4bc4f1"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-101-track-16": {
+      "title": "Lektion 8 · Aufgabe 5b und c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "5b und c",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 5b und c (Track 16).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 5,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "af653081bd1c4643129f18a001f1b4fa62cfa3f04d2c7a9fd9ea82ff9fdb65b7"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-101-track-17": {
+      "title": "Lektion 8 · Aufgabe 6",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "6",
+          "evidence": "Official telc Hörtexte: Lektion 8, Aufgabe 6 (Track 17).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 5,
+          "chapter": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "70c50ac68587f1f6e4dc7f079de2f1e06ece29530c969c19b9037b0388bf3d3f"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-101-track-18": {
+      "title": "Lektion 10 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "2a",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 2a (Track 18).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "33a9d1a83cdf540f91521f2a7f473f0b9bf501c5d4c19553af9c47b74440d502"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-101-track-19": {
+      "title": "Lektion 10 · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3a",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 3a (Track 19).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "3f36cf954622b1d457222d31eac4991b45b47640582e4122ef368887def316ad"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-101-track-20": {
+      "title": "Lektion 10 · Aufgabe 3b und c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3b und c",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 3b und c (Track 20).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "4ed1c715423d62f82a0387bfc7ab72839e5031b95eb7c9f91fdc2ac61bd8ffc1"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-102-track-21": {
+      "title": "Lektion 10 · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4b",
+          "evidence": "Official telc Hörtexte: Lektion 10, Aufgabe 4b (Track 21).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 7,
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "548ff891e98ca6666a41cc2f5c51bdd50f4e06571f043f1551874f4f27724118"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-102-track-22": {
+      "title": "Lektion 10 · Aufgabe 4c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4c",
+          "evidence": "Reviewed local base-model opening announcement: Lektion 10, Aufgabe 4c.",
+          "status": "verified",
+          "chapter": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement-base-fallback",
+        "sourceSha256": "ed7d5378d5be75e825fce42f531716a3b39e003008e6028c73296e57246b6ed7",
+        "sourceLocator": "audio SHA256 ed7d5378d5be75e825fce42f531716a3b39e003008e6028c73296e57246b6ed7 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/ed7d5378d5be75e825fce42f531716a3b39e003008e6028c73296e57246b6ed7-12s-base.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/ed7d5378d5be75e825fce42f531716a3b39e003008e6028c73296e57246b6ed7-12s-base.evidence.json",
+        "model": "base",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-102-track-23": {
+      "title": "Lektion 11 · Aufgabe 3c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3c",
+          "evidence": "Official telc Hörtexte: Lektion 11, Aufgabe 3c (Track 23).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 7,
+          "chapter": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "098c06239fbf7fc1afba7a60343b672f0c9b40b28878dc9b2690230eb244be4d"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-102-track-24": {
+      "title": "Lektion 11 · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "4a",
+          "evidence": "Official telc Hörtexte: Lektion 11, Aufgabe 4a (Track 24).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 7,
+          "chapter": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "5ef67bc2ba094b0f7abaf395ac9d0f1c7ddcf0bacdb4d65d5684de6fc7d7ffeb"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-102-track-25": {
+      "title": "Lektion 12 · Aufgabe 1b und 2a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "1b und 2a",
+          "evidence": "Official telc Hörtexte: Lektion 12, Aufgabe 1b und 2a (Track 25).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 7,
+          "chapter": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "0f8a662af4c93a4673016e7eea9cc84604176635a82c7bc82c7753280a6a76c8"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-102-track-26": {
+      "title": "Lektion 12 · Aufgabe 3b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "exercise": "3b",
+          "evidence": "Official telc Hörtexte: Lektion 12, Aufgabe 3b (Track 26).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 8,
+          "chapter": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "cb7ceb766c2d4d9074fde0b11f33f81601749400eabccc6e4cf7d0546d9535e0"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-102-track-27": {
+      "title": "Übungstest 1 · Hören, Teile 1–3",
+      "references": [
+        {
+          "section": "Übungstest 1",
+          "exercise": "Hören, Teile 1–3",
+          "evidence": "Official telc Hörtexte: Übungstest 1, Hören Teil 1 (Track 27).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "1f38b20da66a6378abd53de10453f1e0a95ecd816b069ee428a5e2d044c75710"
+      }
+    },
+    "prufungstraining-telc-deutsch-b1-pack-102-track-28": {
+      "title": "Übungstest 2 · Hören, Teile 1–3",
+      "references": [
+        {
+          "section": "Übungstest 2",
+          "exercise": "Hören, Teile 1–3",
+          "evidence": "Official telc Hörtexte: Übungstest 2, Hören Teil 1 (Track 28).",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+          "sourcePage": 10
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-pdf-explicit-track-heading",
+        "sourceSha256": "04dbb419b8dd9482e652fa7ee05b5995c259c42c66294715deff9a73a77de62e"
+      }
+    }
+  },
+  "documents": {},
+  "sources": [
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Pruefungstraining_telc_Deutsch_B1/Loesungen_Hoertexte/Pruefungstraining_telc_Deutsch_B1_Hoertexte.pdf",
+      "sha256": "4b756cc4e4876b0b290f3489221a969e69f62e0f0f53af6d26949c00fae39cf5",
+      "pageCount": 12,
+      "title": "Prüfungstraining Zertifikat Deutsch / telc Deutsch B1 Hörtexte",
+      "cachePath": ".work/analysis/annotation-sources/180e003b626f.pdf",
+      "orderedTextPath": ".work/analysis/annotation-sources/180e003b626f-ordered.json"
+    }
+  ],
+  "sourceIssues": []
+}

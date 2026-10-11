@@ -1,0 +1,132 @@
+{
+  "bookId": "auf-jeden-fall-lehrerhandbuch-a1",
+  "review": {
+    "author": "metadata_pipeline",
+    "reviewedAt": "2026-10-11T18:16:08.459860+00:00",
+    "reviewer": "app_architecture",
+    "independentlyReviewedAt": "2026-10-11T18:24:06.527699+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/0_A1.1/other/Auf_jeden_Fall!_A1.1_Wortschatzliste_Englisch.pdf",
+      "sha256": "2ff16536b999f46edcd8ded98ebd63e95183a617c3e35b9bf787c10ac99d3509",
+      "pageCount": 17
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/1_A1.2/other/Auf_jeden_Fall!_A1.2_Wortschatzliste_Englisch.pdf",
+      "sha256": "ef9684f09a905da8422452ae585909804c7e6e050ec4e6d5fe4e7893e1452674",
+      "pageCount": 17
+    }
+  ],
+  "tracks": {
+    "auf-jeden-fall-lehrerhandbuch-a1-pack-100-track-1": {
+      "title": "Hallo Welt!",
+      "references": [
+        {
+          "section": "Lektionstests",
+          "chapter": 1,
+          "evidence": "Official ZIP member 'Auf_jeden_Fall_A1_LHB_Track 1_Lektionstest_1.mp3' explicitly names Lektionstest 1; original audio SHA-256 90ed2b6abbdb3108e81347bb5832b1ad41cfb5baa21d898a471fa303006544fc. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/0_A1.1/other/Auf_jeden_Fall!_A1.1_Wortschatzliste_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapterTitle": "Hallo Welt!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-archive-member",
+        "sourceSha256": "90ed2b6abbdb3108e81347bb5832b1ad41cfb5baa21d898a471fa303006544fc",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_A1_LHB_Track 1_Lektionstest_1.mp3; opening evidence 90ed2b6abbdb3108e81347bb5832b1ad41cfb5baa21d898a471fa303006544fc.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-lehrerhandbuch-a1-pack-100-track-3": {
+      "title": "Freizeit im Alltag",
+      "references": [
+        {
+          "section": "Lektionstests",
+          "chapter": 3,
+          "evidence": "Official ZIP member 'Auf_jeden_Fall_A1_LHB_Track 2_Lektionstest_3.mp3' explicitly names Lektionstest 3; original audio SHA-256 eea2b2536defcf4dc51179309c0f20086f349073400806b89b8466793365a7c2. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/0_A1.1/other/Auf_jeden_Fall!_A1.1_Wortschatzliste_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapterTitle": "Freizeit im Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-archive-member",
+        "sourceSha256": "eea2b2536defcf4dc51179309c0f20086f349073400806b89b8466793365a7c2",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_A1_LHB_Track 2_Lektionstest_3.mp3; opening evidence eea2b2536defcf4dc51179309c0f20086f349073400806b89b8466793365a7c2.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-lehrerhandbuch-a1-pack-100-track-5": {
+      "title": "Unterwegs",
+      "references": [
+        {
+          "section": "Lektionstests",
+          "chapter": 5,
+          "evidence": "Official ZIP member 'Auf_jeden_Fall_A1_LHB_Track 3_Lektionstest_5.mp3' explicitly names Lektionstest 5; original audio SHA-256 12a5b818ec3f3e30f48d3a1103c614dbf81c2f9c7c98f874f2cc0385120ef890. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/0_A1.1/other/Auf_jeden_Fall!_A1.1_Wortschatzliste_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapterTitle": "Unterwegs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-archive-member",
+        "sourceSha256": "12a5b818ec3f3e30f48d3a1103c614dbf81c2f9c7c98f874f2cc0385120ef890",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_A1_LHB_Track 3_Lektionstest_5.mp3; opening evidence 12a5b818ec3f3e30f48d3a1103c614dbf81c2f9c7c98f874f2cc0385120ef890.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-lehrerhandbuch-a1-pack-100-track-8": {
+      "title": "Berufswelten",
+      "references": [
+        {
+          "section": "Lektionstests",
+          "chapter": 8,
+          "evidence": "Official ZIP member 'Auf_jeden_Fall_A1_LHB_Track 4_Lektionstest_8.mp3' explicitly names Lektionstest 8; original audio SHA-256 3c79ba7fae9357a6887320c534084cd9965ef3a051a4b9ab0599f48b7b847563. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/1_A1.2/other/Auf_jeden_Fall!_A1.2_Wortschatzliste_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapterTitle": "Berufswelten"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-archive-member",
+        "sourceSha256": "3c79ba7fae9357a6887320c534084cd9965ef3a051a4b9ab0599f48b7b847563",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_A1_LHB_Track 4_Lektionstest_8.mp3; opening evidence 3c79ba7fae9357a6887320c534084cd9965ef3a051a4b9ab0599f48b7b847563.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-lehrerhandbuch-a1-pack-100-track-10": {
+      "title": "Rund ums Jahr",
+      "references": [
+        {
+          "section": "Lektionstests",
+          "chapter": 10,
+          "evidence": "Official ZIP member 'Auf_jeden_Fall_A1_LHB_Track 5_Lektionstest_10.mp3' explicitly names Lektionstest 10; original audio SHA-256 b6957e0e8a6801bd194660b31b91dafcb5ae03a4294b148aed8252f85ece29a2. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/1_A1.2/other/Auf_jeden_Fall!_A1.2_Wortschatzliste_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapterTitle": "Rund ums Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-archive-member",
+        "sourceSha256": "b6957e0e8a6801bd194660b31b91dafcb5ae03a4294b148aed8252f85ece29a2",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_A1_LHB_Track 5_Lektionstest_10.mp3; opening evidence b6957e0e8a6801bd194660b31b91dafcb5ae03a4294b148aed8252f85ece29a2.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-lehrerhandbuch-a1-pack-100-track-12": {
+      "title": "Persönlichkeiten",
+      "references": [
+        {
+          "section": "Lektionstests",
+          "chapter": 12,
+          "evidence": "Official ZIP member 'Auf_jeden_Fall_A1_LHB_Track 6_Lektionstest_12.mp3' explicitly names Lektionstest 12; original audio SHA-256 05d38f47225e0539ca8f7e09d58ce88e42ae587c082b321e7c76dd6149f7bbe4. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/1_A1.2/other/Auf_jeden_Fall!_A1.2_Wortschatzliste_Englisch.pdf, PDF p. 15.",
+          "status": "verified",
+          "chapterTitle": "Persönlichkeiten"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-archive-member",
+        "sourceSha256": "05d38f47225e0539ca8f7e09d58ce88e42ae587c082b321e7c76dd6149f7bbe4",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_A1_LHB_Track 6_Lektionstest_12.mp3; opening evidence 05d38f47225e0539ca8f7e09d58ce88e42ae587c082b321e7c76dd6149f7bbe4.txt from original audio beginning"
+      }
+    }
+  },
+  "documents": {}
+}

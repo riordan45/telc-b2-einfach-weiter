@@ -1,0 +1,356 @@
+{
+  "bookId": "einfach-gut-intensivtraining-b1-1",
+  "review": {
+    "author": "metadata_pipeline",
+    "reviewedAt": "2026-10-11T18:17:17.772011+00:00",
+    "reviewer": "app_architecture",
+    "independentlyReviewedAt": "2026-10-11T18:24:06.527699+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf",
+      "sha256": "072c23302a24f98c4a474dbda3cab8fe67789f3073245f3c40aa4c0bb8dafa6d",
+      "pageCount": 22
+    }
+  ],
+  "tracks": {
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-1": {
+      "title": "Einführung",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "71d930c60fef187b58fac8ded55d8ab7bfee5156001365c9b7aa6a66ff2d8a3f",
+        "reason": "Introductory publisher and book announcement; no exercise reference applies.",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/01_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence 71d930c60fef187b58fac8ded55d8ab7bfee5156001365c9b7aa6a66ff2d8a3f.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-2": {
+      "title": "Gute Reise! · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (54d858252e9ecf50f95c80da5b7f27fbf68c1760d8bae8c7d80b08f9176562da-12s-base.txt, original audio SHA-256 54d858252e9ecf50f95c80da5b7f27fbf68c1760d8bae8c7d80b08f9176562da): lektion 1 aufgabe 6a so hier ist ihr schlüssel danke schön müssen wir sonst noch etwas beachten Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "6a",
+          "chapterTitle": "Gute Reise!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "54d858252e9ecf50f95c80da5b7f27fbf68c1760d8bae8c7d80b08f9176562da",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/02_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence 54d858252e9ecf50f95c80da5b7f27fbf68c1760d8bae8c7d80b08f9176562da-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-3": {
+      "title": "Gute Reise! · Aufgabe 10c",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (b4a9ef60affb0988ac54e1a33d79e0a5c8619c313440443a64f45cc98565fb72.txt, original audio SHA-256 b4a9ef60affb0988ac54e1a33d79e0a5c8619c313440443a64f45cc98565fb72): Lektion 1, Aufgabe 10-C. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "10c",
+          "chapterTitle": "Gute Reise!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b4a9ef60affb0988ac54e1a33d79e0a5c8619c313440443a64f45cc98565fb72",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/03_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence b4a9ef60affb0988ac54e1a33d79e0a5c8619c313440443a64f45cc98565fb72.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-4": {
+      "title": "Gute Reise! · Aufgabe 11",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (ef7c377fb2ed6d2acde206079870380d9f7adcd7f46c94718277e93667c380a9.txt, original audio SHA-256 ef7c377fb2ed6d2acde206079870380d9f7adcd7f46c94718277e93667c380a9): Lektion 1, Aufgabe 11. Sie hören vier Ansagen. Zu jeder Ansage gibt es eine Aufgabe. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "11",
+          "chapterTitle": "Gute Reise!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "ef7c377fb2ed6d2acde206079870380d9f7adcd7f46c94718277e93667c380a9",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/04_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence ef7c377fb2ed6d2acde206079870380d9f7adcd7f46c94718277e93667c380a9.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-5": {
+      "title": "Liebe Nachbarn … · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (8969bec3ea56db0fbf089bc672cd53d56aa3ad5cf3deae554cb0445375eda002.txt, original audio SHA-256 8969bec3ea56db0fbf089bc672cd53d56aa3ad5cf3deae554cb0445375eda002): Lektion 2. Aufgabe 3a Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "3a",
+          "chapterTitle": "Liebe Nachbarn …"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8969bec3ea56db0fbf089bc672cd53d56aa3ad5cf3deae554cb0445375eda002",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/05_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence 8969bec3ea56db0fbf089bc672cd53d56aa3ad5cf3deae554cb0445375eda002.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-6": {
+      "title": "Liebe Nachbarn … · Aufgabe 7b",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (04c6f9acd3dbe2b5bc4987368ac56333d14bbbadfa62e8fb64357ce2609b2850-40s-small.txt, original audio SHA-256 04c6f9acd3dbe2b5bc4987368ac56333d14bbbadfa62e8fb64357ce2609b2850): Lektion 2, Aufgabe 7B Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "7b",
+          "chapterTitle": "Liebe Nachbarn …"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "04c6f9acd3dbe2b5bc4987368ac56333d14bbbadfa62e8fb64357ce2609b2850",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/06_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence 04c6f9acd3dbe2b5bc4987368ac56333d14bbbadfa62e8fb64357ce2609b2850-40s-small.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-7": {
+      "title": "Ein Schulprojekt zum Umweltschutz · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (024a5259219d74352eab534bb188ccc280d9c5f7f82638429cc527bee9d3424c-40s-small.txt, original audio SHA-256 024a5259219d74352eab534bb188ccc280d9c5f7f82638429cc527bee9d3424c): Lektion 3. Aufgabe 2 B Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "2b",
+          "chapterTitle": "Ein Schulprojekt zum Umweltschutz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "024a5259219d74352eab534bb188ccc280d9c5f7f82638429cc527bee9d3424c",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/07_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence 024a5259219d74352eab534bb188ccc280d9c5f7f82638429cc527bee9d3424c-40s-small.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-8": {
+      "title": "Ein Schulprojekt zum Umweltschutz · Aufgabe 6",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (f085f6df92769628e0b195640aad4c35d22183545832f84e4cb8a9848cb6f989-40s-small.txt, original audio SHA-256 f085f6df92769628e0b195640aad4c35d22183545832f84e4cb8a9848cb6f989): Lektion 3. Aufgabe 6. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "6",
+          "chapterTitle": "Ein Schulprojekt zum Umweltschutz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "f085f6df92769628e0b195640aad4c35d22183545832f84e4cb8a9848cb6f989",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/08_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence f085f6df92769628e0b195640aad4c35d22183545832f84e4cb8a9848cb6f989-40s-small.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-9": {
+      "title": "Online einkaufen · Aufgabe 1e",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (a06fce5bc9cb79f7d54754eaf2bba241787d2eff62539a7deb479e8eedf34d24.txt, original audio SHA-256 a06fce5bc9cb79f7d54754eaf2bba241787d2eff62539a7deb479e8eedf34d24): Lektion 4 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "1e",
+          "chapterTitle": "Online einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "a06fce5bc9cb79f7d54754eaf2bba241787d2eff62539a7deb479e8eedf34d24",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/09_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence a06fce5bc9cb79f7d54754eaf2bba241787d2eff62539a7deb479e8eedf34d24.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-10": {
+      "title": "Online einkaufen · Aufgabe 9",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (207b3353feda0679c49b72c993e961aa9c591c53295ba2fa2097c0f8c93c508e.txt, original audio SHA-256 207b3353feda0679c49b72c993e961aa9c591c53295ba2fa2097c0f8c93c508e): Lektion 4 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "9",
+          "chapterTitle": "Online einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "207b3353feda0679c49b72c993e961aa9c591c53295ba2fa2097c0f8c93c508e",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/10_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence 207b3353feda0679c49b72c993e961aa9c591c53295ba2fa2097c0f8c93c508e.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-11": {
+      "title": "Online einkaufen · Aufgabe 11",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (62c6ed707d26b6928be05c8eea1f03c1267a7d9deb872e8d41bd40000ed9c5da.txt, original audio SHA-256 62c6ed707d26b6928be05c8eea1f03c1267a7d9deb872e8d41bd40000ed9c5da): Lektion 4 - Aufgabe 11. Sie hören drei Gespräche. Zu jedem Gespräch gibt es zwei Aufgaben. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "11",
+          "chapterTitle": "Online einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "62c6ed707d26b6928be05c8eea1f03c1267a7d9deb872e8d41bd40000ed9c5da",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/11_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence 62c6ed707d26b6928be05c8eea1f03c1267a7d9deb872e8d41bd40000ed9c5da.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-12": {
+      "title": "Nachbarschaftshilfe beim Einkaufen",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-listened-via-local-transcript",
+        "sourceSha256": "fd441512f6da8108992e1fe10669fca83caa9d2baed19baceb7494a28b72f75f",
+        "reason": "The original opening and40-second transcript establish the listening topic; chapter and exercise are not reliably announced, so those fields are omitted.",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/12_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence fd441512f6da8108992e1fe10669fca83caa9d2baed19baceb7494a28b72f75f-12s-base.txt from original audio beginning; topic checked against fd441512f6da8108992e1fe10669fca83caa9d2baed19baceb7494a28b72f75f-40s-small.txt"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-13": {
+      "title": "Tomaten ohne Plastik",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-listened-via-local-transcript",
+        "sourceSha256": "58f0db74f974b5b27e86c761fd50dad0014eb84a6139dd305c5bf601eb63e916",
+        "reason": "The original opening and40-second transcript establish the listening topic; chapter and exercise are not reliably announced, so those fields are omitted.",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/13_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence 58f0db74f974b5b27e86c761fd50dad0014eb84a6139dd305c5bf601eb63e916-12s-base.txt from original audio beginning; topic checked against 58f0db74f974b5b27e86c761fd50dad0014eb84a6139dd305c5bf601eb63e916-40s-small.txt"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-14": {
+      "title": "Fernsehen und Unterhaltung · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (9e3617b4c6f5c51d09999a4e2eef08b53d1eb5520c3bdc1487d5cc9986cd2455-40s-small.txt, original audio SHA-256 9e3617b4c6f5c51d09999a4e2eef08b53d1eb5520c3bdc1487d5cc9986cd2455): Lektion 5 - Aufgabe 2a Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 15.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "2a",
+          "chapterTitle": "Fernsehen und Unterhaltung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "9e3617b4c6f5c51d09999a4e2eef08b53d1eb5520c3bdc1487d5cc9986cd2455",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/14_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence 9e3617b4c6f5c51d09999a4e2eef08b53d1eb5520c3bdc1487d5cc9986cd2455-40s-small.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-15": {
+      "title": "Fernsehen und Unterhaltung · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (6cbbccffe00a038e89aeb219cd119fa3d41efcef5db32e3cb79a2db37dd37ef1.txt, original audio SHA-256 6cbbccffe00a038e89aeb219cd119fa3d41efcef5db32e3cb79a2db37dd37ef1): Lektion 5. Aufgabe 4B Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 15.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "4b",
+          "chapterTitle": "Fernsehen und Unterhaltung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "6cbbccffe00a038e89aeb219cd119fa3d41efcef5db32e3cb79a2db37dd37ef1",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/15_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence 6cbbccffe00a038e89aeb219cd119fa3d41efcef5db32e3cb79a2db37dd37ef1.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-16": {
+      "title": "Fernsehen und Unterhaltung · Aufgabe 8c",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (faa2c4b05d2632189811315fc6850b80d717dbe413778c948878fcb5d8a0bb83.txt, original audio SHA-256 faa2c4b05d2632189811315fc6850b80d717dbe413778c948878fcb5d8a0bb83): Lektion 5, Aufgabe 8C. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 15.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "8c",
+          "chapterTitle": "Fernsehen und Unterhaltung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "faa2c4b05d2632189811315fc6850b80d717dbe413778c948878fcb5d8a0bb83",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/16_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence faa2c4b05d2632189811315fc6850b80d717dbe413778c948878fcb5d8a0bb83.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-17": {
+      "title": "Fernsehen und Unterhaltung · Aufgabe 11",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (faebbace6e64660c3fd83633469bb118234aca9f1e09f4a8e7941824bd2dc295.txt, original audio SHA-256 faebbace6e64660c3fd83633469bb118234aca9f1e09f4a8e7941824bd2dc295): Lektion 5 - Aufgabe 11. Sie hören fünf Ansagen aus dem Radio. Zu jeder Ansage gibt Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 15.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "11",
+          "chapterTitle": "Fernsehen und Unterhaltung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "faebbace6e64660c3fd83633469bb118234aca9f1e09f4a8e7941824bd2dc295",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/17_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence faebbace6e64660c3fd83633469bb118234aca9f1e09f4a8e7941824bd2dc295.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-18": {
+      "title": "So war das damals … · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (330bd0e2c0d9c7a273dcd2c2e7af7760d1c9eba4bb3251b6f097f6af1900b35a.txt, original audio SHA-256 330bd0e2c0d9c7a273dcd2c2e7af7760d1c9eba4bb3251b6f097f6af1900b35a): Lektion 6. Aufgabe 3a. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 19.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "3a",
+          "chapterTitle": "So war das damals …"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "330bd0e2c0d9c7a273dcd2c2e7af7760d1c9eba4bb3251b6f097f6af1900b35a",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/18_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence 330bd0e2c0d9c7a273dcd2c2e7af7760d1c9eba4bb3251b6f097f6af1900b35a.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-intensivtraining-b1-1-pack-100-track-19": {
+      "title": "So war das damals … · Aufgabe 6",
+      "references": [
+        {
+          "section": "Intensivtraining",
+          "evidence": "Reviewed local opening transcript (20d133305ee51e2e91ccd96877fd466c51759acc7d0cd5359612d39baf1c9ac4-40s-small.txt, original audio SHA-256 20d133305ee51e2e91ccd96877fd466c51759acc7d0cd5359612d39baf1c9ac4): Lektion 6 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/04_B1.1/other/Wortschatzliste_Einfach_gut_B1.1_Englisch.pdf, PDF p. 19.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "6",
+          "chapterTitle": "So war das damals …"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "20d133305ee51e2e91ccd96877fd466c51759acc7d0cd5359612d39baf1c9ac4",
+        "sourceLocator": "Original ZIP member Intensivtraining_B1.1_Audios/19_telc_Einfach_gut_Deutsch_fuer_die_Integration_B1-1_Intensivtraining.mp3; opening evidence 20d133305ee51e2e91ccd96877fd466c51759acc7d0cd5359612d39baf1c9ac4-40s-small.txt from original audio beginning"
+      }
+    }
+  },
+  "documents": {}
+}

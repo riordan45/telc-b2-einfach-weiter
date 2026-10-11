@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
-    <application android:name=".WeiterApplication" android:allowBackup="false" android:label="Weiter B2" android:icon="@drawable/ic_app" android:supportsRtl="true" android:theme="@style/Theme.Weiter">
+    <application android:name=".WeiterApplication" android:allowBackup="false" android:label="Weiter" android:icon="@drawable/ic_app" android:supportsRtl="true" android:theme="@style/Theme.Weiter">
         <activity android:name=".MainActivity" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -11,5 +12,8 @@
         <service android:name=".PlaybackService" android:foregroundServiceType="mediaPlayback" android:exported="true">
             <intent-filter><action android:name="androidx.media3.session.MediaSessionService" /></intent-filter>
         </service>
+        <receiver android:name=".DownloadCompleteReceiver" android:exported="true">
+            <intent-filter><action android:name="android.intent.action.DOWNLOAD_COMPLETE" /></intent-filter>
+        </receiver>
     </application>
 </manifest>

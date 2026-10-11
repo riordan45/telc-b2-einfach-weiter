@@ -38,4 +38,13 @@ class CoreTest {
         assertFalse(loop.shouldRepeat(3999))
         assertTrue(loop.shouldRepeat(4000))
     }
+    @Test fun `exercise search finds explicit members of joint exercise labels`() {
+        fun track(exercise: String) = Track("joint", 1, "Joint task", durationMs = 1000,
+            references = listOf(BookReference("Kursbuch", exercise = exercise)))
+        assertTrue(track("5a und b").matches("Aufgabe 5b"))
+        assertTrue(track("7a/b und Aufgabe 8a").matches("exercise 8a"))
+        assertTrue(track("9a,c und 10b").matches("exercise 9c"))
+        assertFalse(track("9a,c und 10b").matches("exercise 10c"))
+        assertFalse(track("Hören, Teil 3").matches("exercise 3"))
+    }
 }

@@ -37,6 +37,7 @@ import java.util.concurrent.TimeUnit
 @RunWith(AndroidJUnit4::class)
 class PlaybackDeviceTest {
     private val app = ApplicationProvider.getApplicationContext<WeiterApplication>()
+    private val playbackTracks get() = app.library.book("einfach-weiter-b2")!!.tracks
     private lateinit var controller: MediaController
     private val instrumentation = InstrumentationRegistry.getInstrumentation()
     private fun main(block: () -> Unit) = instrumentation.runOnMainSync(block)
@@ -51,16 +52,21 @@ class PlaybackDeviceTest {
         fail(message)
     }
     @Before fun connect() {
+        Assume.assumeTrue("Playback suite needs --bundle-book einfach-weiter-b2", playbackTracks.all { app.content.isReady(it) })
         val future = MediaController.Builder(app, SessionToken(app, ComponentName(app, PlaybackService::class.java))).buildAsync()
         controller = future.get(10, TimeUnit.SECONDS)
-        waitFor("playlist not loaded") { controller.mediaItemCount == 63 }
+        main {
+            controller.setMediaItems(playbackTracks.map { it.mediaItem(app.content.audioUri(it)!!, "Einfach weiter! B2") }, 0, 0)
+            controller.prepare()
+        }
+        waitFor("playlist not loaded") { controller.mediaItemCount == playbackTracks.size }
         main { controller.volume = 0f; controller.pause() }
         runBlocking { app.settings.setContinuous(false); app.settings.setRepeat(false); app.settings.setSpeed(1f) }
         Thread.sleep(300)
     }
-    @After fun release() { main { controller.pause(); controller.volume = 1f; controller.release() } }
+    @After fun release() { if (::controller.isInitialized) main { controller.pause(); controller.volume = 1f; controller.release() } }
     @Test fun allBundledTracksPrepareWithoutNetwork() {
-        for (track in app.catalog) {
+        for (track in playbackTracks) {
             main { controller.seekTo(track.number - 1, 0); controller.prepare() }
             waitFor("track ${track.number} not decodable on Android") { controller.currentMediaItem?.mediaId == track.id && controller.playbackState == Player.STATE_READY }
             main { assertEquals(track.durationMs.toDouble(), controller.duration.toDouble(), 1500.0) }
@@ -179,15 +185,29 @@ class PlaybackDeviceTest {
 @RunWith(AndroidJUnit4::class)
 class LibraryUiTest {
     @get:Rule val compose = createAndroidComposeRule<MainActivity>()
+    private val vm get() = androidx.lifecycle.ViewModelProvider(compose.activity)[StudyViewModel::class.java]
+    private fun openBook(book: BookVolume) {
+        compose.onNode(hasScrollToIndexAction()).performScrollToNode(hasText(book.familyTitle))
+        compose.onNodeWithText(book.familyTitle).performScrollTo().performClick()
+        if (vm.books.count { it.familyId == book.familyId } > 1) compose.onNodeWithText(book.title).performScrollTo().performClick()
+    }
+    private fun openB2Audio() {
+        val book = vm.books.first { book -> book.tracks.any { it.id == "b2-002" } }
+        openBook(book)
+        compose.onNodeWithText("Audio").performScrollTo().performClick()
+    }
     @Before fun showTestActivityOnLockedDevice() {
-        compose.activityRule.scenario.onActivity { it.setShowWhenLocked(true); it.setTurnScreenOn(true) }
+        compose.activityRule.scenario.onActivity {
+            if (Build.VERSION.SDK_INT >= 27) { it.setShowWhenLocked(true); it.setTurnScreenOn(true) }
+            it.window.addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
+        }
         compose.waitUntil(10000) { runCatching { compose.onAllNodesWithText("Library").fetchSemanticsNodes().isNotEmpty() }.getOrDefault(false) }
     }
     private fun capture(name: String) {
-        if (name == "player" && Build.VERSION.SDK_INT >= 29) {
+        if (name == "player") {
             // Only test-owned dialog windows inherit the test activity's lock-screen visibility.
             InstrumentationRegistry.getInstrumentation().runOnMainSync {
-                WindowInspector.getGlobalWindowViews().filter { it !== compose.activity.window.decorView }.forEach { view ->
+                if (Build.VERSION.SDK_INT >= 29) WindowInspector.getGlobalWindowViews().filter { it !== compose.activity.window.decorView }.forEach { view ->
                     val params = view.layoutParams as? WindowManager.LayoutParams
                     if (params != null) {
                         params.flags = params.flags or WindowManager.LayoutParams.FLAG_SHOW_WHEN_LOCKED
@@ -220,10 +240,15 @@ class LibraryUiTest {
                 }
             }
         }
-        compose.onNodeWithText("Chapters").performScrollTo().assertIsDisplayed()
+        compose.onNodeWithText("Search books").performScrollTo().assertIsDisplayed()
+        val book = vm.books.first { it.tracks.isNotEmpty() }
+        openBook(book)
+        compose.onNodeWithText("Audio").performScrollTo().assertIsDisplayed()
         capture("large-text")
     }
     @Test fun playerCanSaveNoteBookmarkAndCompletion() {
+        org.junit.Assume.assumeTrue("This test requires a downloaded B2 audio fixture", vm.tracks.any { it.id == "b2-002" && vm.content.isReady(it) })
+        openB2Audio()
         val app = compose.activity.application as WeiterApplication
         val future = MediaController.Builder(app, SessionToken(app, ComponentName(app, PlaybackService::class.java))).buildAsync()
         val controller = future.get(10, TimeUnit.SECONDS)
@@ -234,15 +259,19 @@ class LibraryUiTest {
             compose.waitUntil(5000) { runCatching { compose.onAllNodesWithText("Practice a passage").fetchSemanticsNodes().isNotEmpty() }.getOrDefault(false) }
             InstrumentationRegistry.getInstrumentation().runOnMainSync { controller.pause() }
             capture("player")
-            compose.onNodeWithText("Mark as completed").performScrollTo()
+            fun scrollPlayer(text: String) { compose.onAllNodes(hasScrollToIndexAction()).onLast().performScrollToNode(hasText(text)) }
+            scrollPlayer("Mark as completed")
             compose.onNode(isToggleable()).performClick()
-            compose.onNodeWithText("Notes").performScrollTo().performClick()
+            scrollPlayer("Notes")
+            compose.onNodeWithText("Notes").performClick()
             compose.onNodeWithText("Your note").performTextInput("Device test note")
             compose.onNodeWithText("Save").performClick()
-            compose.onNodeWithText("Bookmark").performScrollTo().performClick()
+            scrollPlayer("Bookmark")
+            compose.onNodeWithText("Bookmark").performClick()
             compose.onNodeWithText("Your note").performTextInput("Device test bookmark")
             compose.onNodeWithText("Save").performClick()
             compose.waitUntil(5000) { runBlocking { app.database.study().getProgress("b2-002")?.note == "Device test note" } }
+            compose.waitUntil(5000) { runBlocking { app.database.study().bookmarks().first().any { it.note == "Device test bookmark" } } }
             runBlocking {
                 assertTrue(app.database.study().getProgress("b2-002")!!.completed)
                 assertTrue(app.database.study().bookmarks().first().any { it.note == "Device test bookmark" })
@@ -257,10 +286,21 @@ class LibraryUiTest {
         }
     }
     @Test fun searchFindsVerifiedPrintedPage() {
+        openB2Audio()
         compose.onNodeWithText("Search audio").performTextInput("page 9")
         compose.onNodeWithText("Freizeit · Aufgabe 2b").assertExists()
         compose.onNodeWithText("Freizeit · Aufgabe 6b, 6c").assertDoesNotExist()
         capture("page-search")
+    }
+    @Test fun documentsOfferIndividualDownloads() {
+        val book = vm.books.firstOrNull { it.documents.isNotEmpty() }
+        org.junit.Assume.assumeTrue("Catalog must include a document fixture", book != null)
+        openBook(book!!)
+        compose.onNodeWithText("Documents").performScrollTo().performClick()
+        compose.onNodeWithText("Search documents").assertExists()
+        compose.onNodeWithText(book.documents.first().title).performScrollTo().assertIsDisplayed()
+        compose.onNodeWithContentDescription("Back to book").performScrollTo().performClick()
+        compose.onNodeWithText("Documents").assertExists()
     }
     @Test fun savedAndSettingsHaveClearEmptyStates() {
         compose.onNodeWithText("Saved").performClick()

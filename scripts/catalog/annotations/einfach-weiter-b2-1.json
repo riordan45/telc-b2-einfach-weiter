@@ -1,0 +1,681 @@
+{
+  "schemaVersion": 1,
+  "bookId": "einfach-weiter-b2-1",
+  "review": {
+    "author": "official_catalog",
+    "reviewedAt": "2026-10-11T18:07:13.149066+00:00",
+    "reviewer": "root",
+    "independentlyReviewedAt": "2026-10-11T18:12:31.059189+00:00",
+    "independentReviewMethod": "All legacy recording fingerprints and references compared; every changed intro/pronunciation opening checked, including 40-second B2.2 opening and section boundaries."
+  },
+  "tracks": {
+    "einfach-weiter-b2-1-pack-100-track-1": {
+      "title": "Einführung · Einfach weiter! B2.1",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "97f45432f110b059efdd129e174a72247d5aae3806164a6b051637ad5bf9c9f7",
+        "method": "opening-announcement",
+        "sourceLocator": "audio SHA256 97f45432f110b059efdd129e174a72247d5aae3806164a6b051637ad5bf9c9f7 at 00:00–00:12",
+        "reason": "Publisher/book introduction; no lesson or exercise announcement."
+      }
+    },
+    "einfach-weiter-b2-1-pack-100-track-2": {
+      "title": "Freizeit · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 1,
+          "chapterTitle": "Freizeit",
+          "evidence": "Opening announcement: Lektion 1, Aufgabe 2b; explicit track marker in full-B2 sample, printed p. 9",
+          "status": "verified",
+          "exercise": "2b",
+          "page": 9
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "e59b1bc7462a42f761585f24b4b10027e224693224580c73475069d058b61782",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-002"
+      }
+    },
+    "einfach-weiter-b2-1-pack-100-track-3": {
+      "title": "Freizeit · Aufgabe 6b, 6c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 1,
+          "chapterTitle": "Freizeit",
+          "evidence": "Opening announcement: Aufgabe 6b, 6c; explicit track marker in full-B2 sample, printed p. 15",
+          "status": "verified",
+          "exercise": "6b",
+          "page": 15
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 1,
+          "chapterTitle": "Freizeit",
+          "evidence": "Opening announcement: Aufgabe 6b, 6c; explicit track marker in full-B2 sample, printed p. 15",
+          "status": "verified",
+          "exercise": "6c",
+          "page": 15
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "7ae50bd48cb5f3482c36397fd43b57d00d54c681e2e7151297b6f284808464ac",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-003"
+      }
+    },
+    "einfach-weiter-b2-1-pack-100-track-4": {
+      "title": "Arbeit und Beruf · Aufgabe 2b, 2c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 2,
+          "chapterTitle": "Arbeit und Beruf",
+          "evidence": "Opening announcement: Lektion 2, Aufgabe 2b, 2c",
+          "status": "verified",
+          "exercise": "2b"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 2,
+          "chapterTitle": "Arbeit und Beruf",
+          "evidence": "Opening announcement: Lektion 2, Aufgabe 2b, 2c",
+          "status": "verified",
+          "exercise": "2c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "4dc3e76e3831f75409acb37f2672d22f9e270e4b9748a5b9219000a7ebcf1a32",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-004"
+      }
+    },
+    "einfach-weiter-b2-1-pack-100-track-5": {
+      "title": "Arbeit und Beruf · Aufgabe 4c, 4d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 2,
+          "chapterTitle": "Arbeit und Beruf",
+          "evidence": "Opening announcement: Aufgabe 4c, 4d; chapter follows the announced lesson 2 sequence",
+          "status": "chapter-context",
+          "exercise": "4c"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 2,
+          "chapterTitle": "Arbeit und Beruf",
+          "evidence": "Opening announcement: Aufgabe 4c, 4d; chapter follows the announced lesson 2 sequence",
+          "status": "chapter-context",
+          "exercise": "4d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "e79c06832afed9a4be935f090c82058b989daa27346ea767f987764e782a65e3",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-005"
+      }
+    },
+    "einfach-weiter-b2-1-pack-100-track-6": {
+      "title": "Lebenswege · Aufgabe 1b, 1e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 3,
+          "chapterTitle": "Lebenswege",
+          "evidence": "Opening announcement: Lektion 3, Aufgabe 1b, 1e",
+          "status": "verified",
+          "exercise": "1b"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 3,
+          "chapterTitle": "Lebenswege",
+          "evidence": "Opening announcement: Lektion 3, Aufgabe 1b, 1e",
+          "status": "verified",
+          "exercise": "1e"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "daec50e1fbce7202c3543f028b61c87d0b57f9a7d21c851755f0e3634b16bab9",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-006"
+      }
+    },
+    "einfach-weiter-b2-1-pack-100-track-7": {
+      "title": "Lebenswege · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 3,
+          "chapterTitle": "Lebenswege",
+          "evidence": "Opening announcement: Aufgabe 6a; chapter follows the announced lesson 3 sequence",
+          "status": "chapter-context",
+          "exercise": "6a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "9ba47eabb6a38defe837859280836c67bc13a4d0b3ab211d331519f4620ba07b",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-007"
+      }
+    },
+    "einfach-weiter-b2-1-pack-100-track-8": {
+      "title": "Unterwegs · Aufgabe 3a, 3c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Lektion 4, Aufgabe 3a, 3c",
+          "status": "verified",
+          "exercise": "3a"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Lektion 4, Aufgabe 3a, 3c",
+          "status": "verified",
+          "exercise": "3c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "66e7aea89d44e2080300b082e1f69e426b85ac98ee167b17084eab05c6d9b01c",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-008"
+      }
+    },
+    "einfach-weiter-b2-1-pack-100-track-9": {
+      "title": "Unterwegs · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Aufgabe 6a; chapter follows the announced lesson 4 sequence",
+          "status": "chapter-context",
+          "exercise": "6a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "9fbc9f8df541ae908f4016d89831d4562fbb93aa31ca0ad076998cb0e9c054d3",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-009"
+      }
+    },
+    "einfach-weiter-b2-1-pack-100-track-10": {
+      "title": "Unterwegs · Aufgabe 6c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Aufgabe 6c; chapter follows the announced lesson 4 sequence",
+          "status": "chapter-context",
+          "exercise": "6c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "e16893848d3d7853f9d1eb5fd43cafb26a72cdd1302f08312d8f144bf1a10290",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-010"
+      }
+    },
+    "einfach-weiter-b2-1-pack-101-track-11": {
+      "title": "Klima und Natur · Aufgabe 2a, 2c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 5,
+          "chapterTitle": "Klima und Natur",
+          "evidence": "Opening announcement: Lektion 5, Aufgabe 2a, 2c; lesson/exercise recovered by base-model cross-check of first 12 seconds",
+          "status": "verified",
+          "exercise": "2a"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 5,
+          "chapterTitle": "Klima und Natur",
+          "evidence": "Opening announcement: Lektion 5, Aufgabe 2a, 2c; lesson/exercise recovered by base-model cross-check of first 12 seconds",
+          "status": "verified",
+          "exercise": "2c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "e2dda24d219550072cd50f498f886ec5638181253a8b9c9c72611cf5331bdecf",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-011"
+      }
+    },
+    "einfach-weiter-b2-1-pack-101-track-12": {
+      "title": "Klima und Natur · Aufgabe 2e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 5,
+          "chapterTitle": "Klima und Natur",
+          "evidence": "Opening announcement: Aufgabe 2e; chapter follows the announced lesson 5 sequence",
+          "status": "chapter-context",
+          "exercise": "2e"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "2d43434fa891c2cb99aa45d41439096e1150a00a0e2f6389082db3236dfa8edf",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-012"
+      }
+    },
+    "einfach-weiter-b2-1-pack-101-track-13": {
+      "title": "Klima und Natur · Aufgabe 5a, 5c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 5,
+          "chapterTitle": "Klima und Natur",
+          "evidence": "Opening announcement: Aufgabe 5a, 5c; chapter follows the announced lesson 5 sequence",
+          "status": "chapter-context",
+          "exercise": "5a"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 5,
+          "chapterTitle": "Klima und Natur",
+          "evidence": "Opening announcement: Aufgabe 5a, 5c; chapter follows the announced lesson 5 sequence",
+          "status": "chapter-context",
+          "exercise": "5c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "d914ddca54f3de6d3ef28300c6e61e7492e6838dba094e4273cc649e42889978",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-013"
+      }
+    },
+    "einfach-weiter-b2-1-pack-101-track-14": {
+      "title": "Globalisierung · Aufgabe 1d, 1e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 6,
+          "chapterTitle": "Globalisierung",
+          "evidence": "Opening announcement: Lektion 6, Aufgabe 1d, 1e",
+          "status": "verified",
+          "exercise": "1d"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 6,
+          "chapterTitle": "Globalisierung",
+          "evidence": "Opening announcement: Lektion 6, Aufgabe 1d, 1e",
+          "status": "verified",
+          "exercise": "1e"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "74be744d68d5ee662e9c6c44912608a6a59e5027f05a8514f4252db3db901b9c",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-014"
+      }
+    },
+    "einfach-weiter-b2-1-pack-101-track-15": {
+      "title": "Globalisierung · Aufgabe 5b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 6,
+          "chapterTitle": "Globalisierung",
+          "evidence": "Opening announcement: Aufgabe 5b; chapter follows the announced lesson 6 sequence",
+          "status": "chapter-context",
+          "exercise": "5b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "11e4d7d7fcdc38c336995392ed32d2285fcb67bb1a61c3b1c5110648d9f461b3",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-015"
+      }
+    },
+    "einfach-weiter-b2-1-pack-101-track-16": {
+      "title": "Globalisierung · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 6,
+          "chapterTitle": "Globalisierung",
+          "evidence": "Opening announcement: Aufgabe 6a; chapter follows the announced lesson 6 sequence",
+          "status": "chapter-context",
+          "exercise": "6a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "31ad58d4a0e8ff5e1383bf201162f4bedbe7fafd12efb2eb399b2133eb57b92d",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-016"
+      }
+    },
+    "einfach-weiter-b2-1-pack-101-track-17": {
+      "title": "Aussprache · Aufgabe 1a, 1b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "1a",
+          "evidence": "Opening announcement: Aufgabe 1a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "verified"
+        },
+        {
+          "section": "Aussprachetraining",
+          "exercise": "1b",
+          "evidence": "Opening announcement: Aufgabe 1b; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "4d5b51a9933faa62e89aa56fbc7bf61b9fe0aa9d6bb6bfb2f76eedf8467c20da",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-032"
+      }
+    },
+    "einfach-weiter-b2-1-pack-101-track-18": {
+      "title": "Aussprache · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "2a",
+          "evidence": "Opening announcement: Aufgabe 2a; pronunciation section explicitly starts at track 32 and ends before Arbeitsbuch at track 44",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "e5c6c431ba09b3d17e9b1f5228e9cb71fc16bb72af1ec345b1e5350dedff5614",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-033"
+      }
+    },
+    "einfach-weiter-b2-1-pack-101-track-19": {
+      "title": "Aussprache · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "3a",
+          "evidence": "Reviewed opening: Aufgabe 3a. Aussprachetraining is announced at track 17; the section ends before the next Arbeitsbuch sequence at track 23.",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "7c0f5f2708d04519ad1840813cba6970e048f6f17bfce02cd09939df9117998f",
+        "method": "opening-and-reviewed-section-boundary",
+        "sourceLocator": "audio SHA256 7c0f5f2708d04519ad1840813cba6970e048f6f17bfce02cd09939df9117998f at 00:00–00:12"
+      }
+    },
+    "einfach-weiter-b2-1-pack-101-track-20": {
+      "title": "Aussprache · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "4a",
+          "evidence": "Reviewed opening: Aufgabe 4a. Aussprachetraining is announced at track 17; the section ends before the next Arbeitsbuch sequence at track 23.",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "d17d91032d1ce18b7bbf95e45fd1390f4c07f4020f4d3014f26d0d1d4012fa55",
+        "method": "opening-and-reviewed-section-boundary",
+        "sourceLocator": "audio SHA256 d17d91032d1ce18b7bbf95e45fd1390f4c07f4020f4d3014f26d0d1d4012fa55 at 00:00–00:12"
+      }
+    },
+    "einfach-weiter-b2-1-pack-101-track-21": {
+      "title": "Aussprache · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "4b",
+          "evidence": "Reviewed opening: Aufgabe 4b. Aussprachetraining is announced at track 17; the section ends before the next Arbeitsbuch sequence at track 23.",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "df980773361581c9fb75ed925b0d46dd806e6717eb9514e5a8573497016cd2ba",
+        "method": "opening-and-reviewed-section-boundary",
+        "sourceLocator": "audio SHA256 df980773361581c9fb75ed925b0d46dd806e6717eb9514e5a8573497016cd2ba at 00:00–00:12"
+      }
+    },
+    "einfach-weiter-b2-1-pack-102-track-22": {
+      "title": "Aussprache · Aufgabe 4c",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "4c",
+          "evidence": "Reviewed opening: Aufgabe 4c. Aussprachetraining is announced at track 17; the section ends before the next Arbeitsbuch sequence at track 23.",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "472123d3e961954d5883ff362c28b12eb2dbab2183ea30471af5f748d49897a0",
+        "method": "opening-and-reviewed-section-boundary",
+        "sourceLocator": "audio SHA256 472123d3e961954d5883ff362c28b12eb2dbab2183ea30471af5f748d49897a0 at 00:00–00:12"
+      }
+    },
+    "einfach-weiter-b2-1-pack-102-track-23": {
+      "title": "Freizeit · Aufgabe 1b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 1,
+          "chapterTitle": "Freizeit",
+          "evidence": "Opening announcement: Lektion 1, Aufgabe 1b; explicit track marker in full-B2 sample, printed p. 133",
+          "status": "verified",
+          "exercise": "1b",
+          "page": 133
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "637e3f3fc82be2f0ec89a3c5647bce142dfc521b8bee631de149543653b0835a",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-044"
+      }
+    },
+    "einfach-weiter-b2-1-pack-102-track-24": {
+      "title": "Freizeit · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 1,
+          "chapterTitle": "Freizeit",
+          "evidence": "Opening announcement: Aufgabe 4a; explicit track marker in full-B2 sample, printed p. 136",
+          "status": "verified",
+          "exercise": "4a",
+          "page": 136
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "fc1322f3f234feeae063c0ec018edbf82612e3f57a6fb54905feec36a684c034",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-045"
+      }
+    },
+    "einfach-weiter-b2-1-pack-102-track-25": {
+      "title": "Lebenswege · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 3,
+          "chapterTitle": "Lebenswege",
+          "evidence": "Opening announcement: Lektion 3, Aufgabe 6a",
+          "status": "verified",
+          "exercise": "6a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "eae6399eef9a2e00015507208fb512a717ecc06f359b6a82acb17ac29aaf2885",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-046"
+      }
+    },
+    "einfach-weiter-b2-1-pack-102-track-26": {
+      "title": "1. Etappe · Hörverstehen Teil 2",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "1. Etappe, Teil 2",
+          "evidence": "Opening announcement: 1. Etappe, Zwischentest, Hörverstehen Teil 2",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "9092a5f0955af35d7e68371f96d9b0cde3a6bd9ac04c501da50571bb4895b640",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-047"
+      }
+    },
+    "einfach-weiter-b2-1-pack-102-track-27": {
+      "title": "Unterwegs · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Lektion 4, Aufgabe 2b; explicit track marker in full-B2 sample, printed p. 161",
+          "status": "verified",
+          "exercise": "2b",
+          "page": 161
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "be98416e374363acf5dd5480db2a116b82c1c1b5190301804f9686daff428a1f",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-048"
+      }
+    },
+    "einfach-weiter-b2-1-pack-102-track-28": {
+      "title": "Unterwegs · Aufgabe 5c",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Aufgabe 5c; chapter follows the announced lesson 4 sequence",
+          "status": "chapter-context",
+          "exercise": "5c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "a7a914e1d1d65c710d368f70de0bb254e8dd55bb3cb9ef9d7982ec0be7bc9fec",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-049"
+      }
+    },
+    "einfach-weiter-b2-1-pack-102-track-29": {
+      "title": "Unterwegs · Aufgabe 5d",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 4,
+          "chapterTitle": "Unterwegs",
+          "evidence": "Opening announcement: Aufgabe 5d; chapter follows the announced lesson 4 sequence",
+          "status": "chapter-context",
+          "exercise": "5d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "b5854b2f8b5d5efa0e1bd6e2946a3cc6603e3c2ab703d3e9b9bff72b2282e1f4",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-050"
+      }
+    },
+    "einfach-weiter-b2-1-pack-102-track-30": {
+      "title": "Klima und Natur · Aufgabe 2",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 5,
+          "chapterTitle": "Klima und Natur",
+          "evidence": "Opening announcement: Lektion 5, Aufgabe 2",
+          "status": "verified",
+          "exercise": "2"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "5745f8bf579f6725c4ca4c1c3ce8452c9ddb0062c28ff234a471b6650b4161f3",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-051"
+      }
+    },
+    "einfach-weiter-b2-1-pack-102-track-31": {
+      "title": "Globalisierung · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 6,
+          "chapterTitle": "Globalisierung",
+          "evidence": "Opening announcement: Lektion 6, Aufgabe 1a",
+          "status": "verified",
+          "exercise": "1a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "6537b3b2ce8cf5174d61deafc756999bf4ed3a298fab46dd2cd33505e71d84ae",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-052"
+      }
+    },
+    "einfach-weiter-b2-1-pack-102-track-32": {
+      "title": "2. Etappe · Hörverstehen Teil 1",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "2. Etappe, Teil 1",
+          "evidence": "Opening announcement: 2. Etappe, Zwischentest, Hörverstehen Teil 1",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "8c57f427c9ec3f1e5903c6cf4e2374e975c37b5e838adf2d51430364c29955e0",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-053"
+      }
+    }
+  },
+  "documents": {},
+  "sources": [
+    {
+      "kind": "preserved-reviewed-legacy",
+      "path": "scripts/catalog/legacy-b2-catalog.json",
+      "sha256": "d1bad58bcb03c0de818f29e18abc43e0f1aa6e1e9aa068cd82a2629851718a22"
+    }
+  ]
+}

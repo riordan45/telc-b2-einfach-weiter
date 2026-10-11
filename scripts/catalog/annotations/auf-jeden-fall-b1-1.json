@@ -1,0 +1,1409 @@
+{
+  "bookId": "auf-jeden-fall-b1-1",
+  "review": {
+    "author": "metadata_pipeline",
+    "reviewedAt": "2026-10-11T18:16:07.868741+00:00",
+    "reviewer": "app_architecture",
+    "independentlyReviewedAt": "2026-10-11T18:24:06.527699+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+      "sha256": "06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f",
+      "pageCount": 26
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf",
+      "sha256": "0c3017c15a4ca2a62133f597d920f21977f46acceec79722625a2bb3163e1fae",
+      "pageCount": 16
+    }
+  ],
+  "tracks": {
+    "auf-jeden-fall-b1-1-pack-100-track-1": {
+      "title": "Ankommen · Aufgabe 3 und 4",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 1; heading 'Aufgabe 3 und 4' lists Track 1. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "3 und 4",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 1,
+          "chapterTitle": "Ankommen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "4251b44afabf113edf26f4744e14d50202ff657e3154348a7c67754b45517aad",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_001_neu.mp3; opening evidence 4251b44afabf113edf26f4744e14d50202ff657e3154348a7c67754b45517aad.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-100-track-2": {
+      "title": "Ankommen · Aufgabe 2a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 1; heading 'Aufgabe 2a und b' lists Track 2. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "2a und b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 1,
+          "chapterTitle": "Ankommen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "1a48e7fe82c8c2baba9225493bb0c397d19ddb85d12f77e344cd5aeb164f4367",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_002.mp3; opening evidence 1a48e7fe82c8c2baba9225493bb0c397d19ddb85d12f77e344cd5aeb164f4367.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-100-track-3": {
+      "title": "Ankommen · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 2; heading 'Aufgabe 7a' lists Track 3. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "7a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 2,
+          "chapterTitle": "Ankommen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "04ab69fb72a1a255eb45e8f84568aac045c53f2b1084bc39b63a7209ccbb7fe5",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_003.mp3; opening evidence 04ab69fb72a1a255eb45e8f84568aac045c53f2b1084bc39b63a7209ccbb7fe5.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-100-track-4": {
+      "title": "Ankommen · Aufgabe 7c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 2; heading 'Aufgabe 7c' lists Track 4. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "7c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 2,
+          "chapterTitle": "Ankommen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "e88673c15305c9e366bfdae7050fd0013e234c1f26ad1c3b83674fddb1990901",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_004.mp3; opening evidence e88673c15305c9e366bfdae7050fd0013e234c1f26ad1c3b83674fddb1990901.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-100-track-5": {
+      "title": "Arbeiten, um zu leben · Aufgabe 1c und d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 3; heading 'Aufgabe 1c und d' lists Track 5. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "1c und d",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 3,
+          "chapterTitle": "Arbeiten, um zu leben"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "e7ef7f60f47f4710a1f7b95ce7e63a718f947a805cac5a6923a919aa23fe0c0f",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_005.mp3; opening evidence e7ef7f60f47f4710a1f7b95ce7e63a718f947a805cac5a6923a919aa23fe0c0f.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-100-track-6": {
+      "title": "Arbeiten, um zu leben · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 3; heading 'Aufgabe 4b' lists Track 6. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "4b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 3,
+          "chapterTitle": "Arbeiten, um zu leben"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "026d969bad353076757a65840ec4c747f89902a3fc74a3781bfd477043ef969f",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_006.mp3; opening evidence 026d969bad353076757a65840ec4c747f89902a3fc74a3781bfd477043ef969f.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-100-track-7": {
+      "title": "Arbeiten, um zu leben · Aufgabe 5f und g",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 4; heading 'Aufgabe 5f und g' lists Track 7. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "5f und g",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "Arbeiten, um zu leben"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "c77a84b688fd130162255b937f65f5cb8785c6c092e8388b61a2de16af5fe1d6",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_007.mp3; opening evidence c77a84b688fd130162255b937f65f5cb8785c6c092e8388b61a2de16af5fe1d6.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-100-track-8": {
+      "title": "Arbeiten, um zu leben · Aufgabe 6c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 5; heading 'Aufgabe 6c' lists Track 8. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "6c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 5,
+          "chapterTitle": "Arbeiten, um zu leben"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "b33b14a1400c7a05478f1cf6ea668a367759980a59cbc34010d1c8b48c561700",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_008.mp3; opening evidence b33b14a1400c7a05478f1cf6ea668a367759980a59cbc34010d1c8b48c561700.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-100-track-9": {
+      "title": "Lebensräume · Aufgabe 2",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 5; heading 'Aufgabe 2' lists Track 9. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "2",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 5,
+          "chapterTitle": "Lebensräume"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "5153306b4c8a650743a7387d76b730df2537d5475b7f9424705559528d916f00",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_009.mp3; opening evidence 5153306b4c8a650743a7387d76b730df2537d5475b7f9424705559528d916f00.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-100-track-10": {
+      "title": "Lebensräume · Aufgabe 1b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 6; heading 'Aufgabe 1b' lists Track 10. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "1b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 6,
+          "chapterTitle": "Lebensräume"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "3ab44d9d3453a7119edd2645aa2a32250774a8a7cddc666ad84b34b8ec5c5869",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_010.mp3; opening evidence 3ab44d9d3453a7119edd2645aa2a32250774a8a7cddc666ad84b34b8ec5c5869.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-100-track-11": {
+      "title": "Lebensräume · Aufgabe 5e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 7; heading 'Aufgabe 5e' lists Track 11. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "5e",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 7,
+          "chapterTitle": "Lebensräume"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "6ac9c38343b1bfd271fa1720dbf13c05c1e43530226005cdc440bac909b4478e",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_011.mp3; opening evidence 6ac9c38343b1bfd271fa1720dbf13c05c1e43530226005cdc440bac909b4478e.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-101-track-12": {
+      "title": "Lebensräume · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 7; heading 'Aufgabe 6a' lists Track 12. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "6a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 7,
+          "chapterTitle": "Lebensräume"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "bff0b3352c39885a24b82e0364e39f1f8c5adca996907dfce189fd4131b12558",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_012.mp3; opening evidence bff0b3352c39885a24b82e0364e39f1f8c5adca996907dfce189fd4131b12558.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-101-track-13": {
+      "title": "Methodencheck A · Aufgabe 1c",
+      "references": [
+        {
+          "section": "Methodencheck A",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 7; heading 'Aufgabe 1c' lists Track 13. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f.",
+          "status": "verified",
+          "exercise": "1c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "745837a1e493415bf6148f06cd9b345961b6143a86daae594c6b84ac674d760e",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_013.mp3; opening evidence 745837a1e493415bf6148f06cd9b345961b6143a86daae594c6b84ac674d760e.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-101-track-14": {
+      "title": "Methodencheck A · Aufgabe 2d",
+      "references": [
+        {
+          "section": "Methodencheck A",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 8; heading 'Aufgabe 2d' lists Track 14. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f.",
+          "status": "verified",
+          "exercise": "2d",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "46e851cb182a3138e6997803cfa3311cfd314510ddba2b9555dcf5987f815684",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_014.mp3; opening evidence 46e851cb182a3138e6997803cfa3311cfd314510ddba2b9555dcf5987f815684.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-101-track-15": {
+      "title": "Methodencheck A · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Methodencheck A",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 8; heading 'Aufgabe 3a' lists Track 15. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f.",
+          "status": "verified",
+          "exercise": "3a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 8
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "6d6bd9bb8672ea01b45f758a7d8afc36c769a91f3302d26e906475c567447cc8",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_015.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-101-track-16": {
+      "title": "Migration · Aufgabe 3",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 9; heading 'Aufgabe 3' lists Track 16. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "3",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 9,
+          "chapterTitle": "Migration"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "431b4d70b81cf342a6a2efb2336d903ae0ebbd57d4d315ce650950b3440c477c",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_016.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-101-track-17": {
+      "title": "Migration · Aufgabe 2a und c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 9; heading 'Aufgabe 2a und c' lists Track 17. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "2a und c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 9,
+          "chapterTitle": "Migration"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "1c81e0660d18c6d96bdc1a939922f639b27dc17d2b1899277e669edecfed8762",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_017.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-101-track-18": {
+      "title": "Migration · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 10; heading 'Aufgabe 4a' lists Track 18. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "4a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 10,
+          "chapterTitle": "Migration"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "f2208508470a415533e04ed065f6d3f5898392d11698f70bdd829f1143e6c570",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_018.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-101-track-19": {
+      "title": "Migration · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 10; heading 'Aufgabe 7a' lists Track 19. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "7a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 10,
+          "chapterTitle": "Migration"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "8b759fc12b03ce45bc6cb1060c80f96e29f893512fe293d45e1436311ac65852",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_019.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-101-track-9": {
+      "title": "Auf die Gesundheit · Aufgabe 3",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 11; heading 'Aufgabe 3' lists Track 20. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "3",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 11,
+          "chapterTitle": "Auf die Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "78ef310083cf3a41175215294cbca236e19805b79e5200406c708ae339bc2620",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_020_neu.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-101-track-21": {
+      "title": "Auf die Gesundheit · Aufgabe 1b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 12; heading 'Aufgabe 1b' lists Track 21. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "1b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 12,
+          "chapterTitle": "Auf die Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "33c79b0c283673077e8c72fe433e57197916c0757fc819d073354d466c2afb4d",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_021.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-101-track-22": {
+      "title": "Auf die Gesundheit · Aufgabe 1h",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 12; heading 'Aufgabe 1h' lists Track 22. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "1h",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 12,
+          "chapterTitle": "Auf die Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "02170af3e459150054e8789f3e54a55efaf149b9eb865aca47e993928bbe8114",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_022.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-101-track-23": {
+      "title": "Auf die Gesundheit · Aufgabe 2d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 12; heading 'Aufgabe 2d' lists Track 23. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "2d",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 12,
+          "chapterTitle": "Auf die Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "ecbd503e9eb79e6b50dee04610fa394b7afa824c013a0b4c0b5cd49d5ff26e07",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_023.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-102-track-24": {
+      "title": "Auf die Gesundheit · Aufgabe 4d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 13; heading 'Aufgabe 4d' lists Track 24. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "4d",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 13,
+          "chapterTitle": "Auf die Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "f665195524e09aefb9d9e0ddd8f3844321c44dcb1aaa54237f5c59b04922f6f1",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_024.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-102-track-25": {
+      "title": "Auf die Gesundheit · Aufgabe 4f",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 5,
+          "status": "chapter-context",
+          "evidence": "Chapter 5 is explicitly announced; section follows the reviewed same-chapter reference at track 24. Original audio SHA-256 9a60eefbe7288adfa8f75f5fc9303809e181b1f9e59ff8b267640cfa6b20619d. Reviewed opening transcript 9a60eefbe7288adfa8f75f5fc9303809e181b1f9e59ff8b267640cfa6b20619d.txt. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 11.",
+          "exercise": "4f",
+          "chapterTitle": "Auf die Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "reviewed-sequence-context",
+        "sourceSha256": "9a60eefbe7288adfa8f75f5fc9303809e181b1f9e59ff8b267640cfa6b20619d",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_025.mp3; opening evidence 9a60eefbe7288adfa8f75f5fc9303809e181b1f9e59ff8b267640cfa6b20619d.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-102-track-26": {
+      "title": "Kaufen, kaufen, kaufen · Aufgabe 3b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 14; heading 'Aufgabe 3b' lists Track 26. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 14.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "3b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 14,
+          "chapterTitle": "Kaufen, kaufen, kaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "3955bd47d46dd845c761bee81c45da59edaa395f6d1b40587e24f720b3b45f39",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_026.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-102-track-27": {
+      "title": "Kaufen, kaufen, kaufen · Aufgabe 5e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 14; heading 'Aufgabe 5e' lists Track 27. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 14.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "5e",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 14,
+          "chapterTitle": "Kaufen, kaufen, kaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "a6a52df0d97babb44ff38d11c01365610ec30870a61428a379176a4c1240d45b",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_027.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-102-track-28": {
+      "title": "Kaufen, kaufen, kaufen · Aufgabe 6c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 15; heading 'Aufgabe 6c' lists Track 28. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 14.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "6c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 15,
+          "chapterTitle": "Kaufen, kaufen, kaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "0df6de1b30e2e009be12931bc1dcc494571ea445d310f8dbedd3686d02450fbf",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_028.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-102-track-29": {
+      "title": "Kaufen, kaufen, kaufen · Aufgabe 6d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 6,
+          "status": "chapter-context",
+          "evidence": "Chapter 6 is explicitly announced; section follows the reviewed same-chapter reference at track 28. Original audio SHA-256 d72d9202f0cc0471325c35d61ea6da461e335add3921230ca5b6ea331a92841e. Reviewed opening transcript d72d9202f0cc0471325c35d61ea6da461e335add3921230ca5b6ea331a92841e.txt. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 14.",
+          "exercise": "6d",
+          "chapterTitle": "Kaufen, kaufen, kaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "reviewed-sequence-context",
+        "sourceSha256": "d72d9202f0cc0471325c35d61ea6da461e335add3921230ca5b6ea331a92841e",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_029.mp3; opening evidence d72d9202f0cc0471325c35d61ea6da461e335add3921230ca5b6ea331a92841e.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-102-track-30": {
+      "title": "Methodencheck B · Aufgabe 1c und d",
+      "references": [
+        {
+          "section": "Methodencheck B",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 15; heading 'Aufgabe 1c und d' lists Track 30. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f.",
+          "status": "verified",
+          "exercise": "1c und d",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 15
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "61e48c7054a6d18b6018de54d41617a263aa99d0d2755a4f6a749566e418a814",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_030.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-102-track-31": {
+      "title": "Methodencheck B · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Methodencheck B",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 16; heading 'Aufgabe 2a' lists Track 31. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f.",
+          "status": "verified",
+          "exercise": "2a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 16
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "472c9335e13d5342a2396787671fbfe26c326fca96cd87daf960cc02734867b8",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_031.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-102-track-32": {
+      "title": "Aussprachetraining · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (978ce00bb5a44ab16a19e88da22d293a2de1af607379fd259c9fd4d871ff0a6f.txt, original audio SHA-256 978ce00bb5a44ab16a19e88da22d293a2de1af607379fd259c9fd4d871ff0a6f): Aussprache Training - Aufgabe 1A",
+          "status": "verified",
+          "exercise": "1a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "978ce00bb5a44ab16a19e88da22d293a2de1af607379fd259c9fd4d871ff0a6f",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_032.mp3; opening evidence 978ce00bb5a44ab16a19e88da22d293a2de1af607379fd259c9fd4d871ff0a6f.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-102-track-33": {
+      "title": "Aussprachetraining · Aufgabe 1b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (de8ebc040bf80bd760be447d1f3b46e614418dec094570ebf7171ee7de4890b9.txt, original audio SHA-256 de8ebc040bf80bd760be447d1f3b46e614418dec094570ebf7171ee7de4890b9): Aussprache Training. Aufgabe 1B. Ich habe ein Jahr lang in Frankreich gelebt und viele",
+          "status": "verified",
+          "exercise": "1b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "de8ebc040bf80bd760be447d1f3b46e614418dec094570ebf7171ee7de4890b9",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_033.mp3; opening evidence de8ebc040bf80bd760be447d1f3b46e614418dec094570ebf7171ee7de4890b9.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-102-track-34": {
+      "title": "Aussprachetraining · Aufgabe 2a, 2b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (b6b0ee1bbb42c0fa30658833aa7acce6d29390b953af45685fdd494ae34b5468.txt, original audio SHA-256 b6b0ee1bbb42c0fa30658833aa7acce6d29390b953af45685fdd494ae34b5468): Aussprachetraining - Aufgabe 2a und b",
+          "status": "verified",
+          "exercise": "2a"
+        },
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (b6b0ee1bbb42c0fa30658833aa7acce6d29390b953af45685fdd494ae34b5468.txt, original audio SHA-256 b6b0ee1bbb42c0fa30658833aa7acce6d29390b953af45685fdd494ae34b5468): Aussprachetraining - Aufgabe 2a und b",
+          "status": "verified",
+          "exercise": "2b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b6b0ee1bbb42c0fa30658833aa7acce6d29390b953af45685fdd494ae34b5468",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_034.mp3; opening evidence b6b0ee1bbb42c0fa30658833aa7acce6d29390b953af45685fdd494ae34b5468.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-102-track-35": {
+      "title": "Aussprachetraining · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (976952dd5605e6ede31ea2212cf64e06542b7af5a774941e2ef0278864e6b5e6.txt, original audio SHA-256 976952dd5605e6ede31ea2212cf64e06542b7af5a774941e2ef0278864e6b5e6): Aussprachetraining - Aufgabe 3a",
+          "status": "verified",
+          "exercise": "3a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "976952dd5605e6ede31ea2212cf64e06542b7af5a774941e2ef0278864e6b5e6",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_035.mp3; opening evidence 976952dd5605e6ede31ea2212cf64e06542b7af5a774941e2ef0278864e6b5e6.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-103-track-36": {
+      "title": "Aussprachetraining · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (e107e160ae971ee1b51a0df8ce32ef403e05c6ccca39d90caecda926ea42ee45.txt, original audio SHA-256 e107e160ae971ee1b51a0df8ce32ef403e05c6ccca39d90caecda926ea42ee45): Aussprachetraining, Aufgabe 4 A",
+          "status": "verified",
+          "exercise": "4a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e107e160ae971ee1b51a0df8ce32ef403e05c6ccca39d90caecda926ea42ee45",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_036.mp3; opening evidence e107e160ae971ee1b51a0df8ce32ef403e05c6ccca39d90caecda926ea42ee45.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-103-track-37": {
+      "title": "Aussprachetraining · Aufgabe 4b, 4e",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (53b918c4ddefb724fd1a4138725f029ecf710dd53dbe74164e0d9dfd9315d21c.txt, original audio SHA-256 53b918c4ddefb724fd1a4138725f029ecf710dd53dbe74164e0d9dfd9315d21c): Aussprachetraining, Aufgabe 4B und E",
+          "status": "verified",
+          "exercise": "4b"
+        },
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (53b918c4ddefb724fd1a4138725f029ecf710dd53dbe74164e0d9dfd9315d21c.txt, original audio SHA-256 53b918c4ddefb724fd1a4138725f029ecf710dd53dbe74164e0d9dfd9315d21c): Aussprachetraining, Aufgabe 4B und E",
+          "status": "verified",
+          "exercise": "4e"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "53b918c4ddefb724fd1a4138725f029ecf710dd53dbe74164e0d9dfd9315d21c",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_037.mp3; opening evidence 53b918c4ddefb724fd1a4138725f029ecf710dd53dbe74164e0d9dfd9315d21c.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-103-track-38": {
+      "title": "Aussprachetraining · Aufgabe 4d",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (05bbc815be3e0ab0e8f52352a448f75cad21f627e66519bcf4e164dcdf324025.txt, original audio SHA-256 05bbc815be3e0ab0e8f52352a448f75cad21f627e66519bcf4e164dcdf324025): Aussprachetraining",
+          "status": "verified",
+          "exercise": "4d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "05bbc815be3e0ab0e8f52352a448f75cad21f627e66519bcf4e164dcdf324025",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_038.mp3; opening evidence 05bbc815be3e0ab0e8f52352a448f75cad21f627e66519bcf4e164dcdf324025.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-103-track-39": {
+      "title": "Aussprachetraining · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (dff2ec80d2ef00b8df529b59b54930ee4d4feb7bef1c7c53f4813f16ea2e737a.txt, original audio SHA-256 dff2ec80d2ef00b8df529b59b54930ee4d4feb7bef1c7c53f4813f16ea2e737a): Aussprachetraining - Aufgabe 5a",
+          "status": "verified",
+          "exercise": "5a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "dff2ec80d2ef00b8df529b59b54930ee4d4feb7bef1c7c53f4813f16ea2e737a",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_039.mp3; opening evidence dff2ec80d2ef00b8df529b59b54930ee4d4feb7bef1c7c53f4813f16ea2e737a.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-103-track-40": {
+      "title": "Aussprachetraining · Aufgabe 5b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (8f1fd719fef9bae9549dd4dfa8cc985c48f0244eb2ebac1da3288611030a0442.txt, original audio SHA-256 8f1fd719fef9bae9549dd4dfa8cc985c48f0244eb2ebac1da3288611030a0442): Aussprachetraining - Aufgabe 5B",
+          "status": "verified",
+          "exercise": "5b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8f1fd719fef9bae9549dd4dfa8cc985c48f0244eb2ebac1da3288611030a0442",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_040.mp3; opening evidence 8f1fd719fef9bae9549dd4dfa8cc985c48f0244eb2ebac1da3288611030a0442.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-103-track-41": {
+      "title": "Aussprachetraining · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (34b5f6372fad88e0d84ae6561bdef7f41898a7f7b903d9454ed39b40486ff52e.txt, original audio SHA-256 34b5f6372fad88e0d84ae6561bdef7f41898a7f7b903d9454ed39b40486ff52e): Aussprachetraining - Aufgabe 6a",
+          "status": "verified",
+          "exercise": "6a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "34b5f6372fad88e0d84ae6561bdef7f41898a7f7b903d9454ed39b40486ff52e",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_041.mp3; opening evidence 34b5f6372fad88e0d84ae6561bdef7f41898a7f7b903d9454ed39b40486ff52e.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-103-track-42": {
+      "title": "Aussprachetraining · Aufgabe 6b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (d435d4872778a365cd1a7ee8e2e219ecaad1370b64c50a6b5cc4a82d5e3ff028.txt, original audio SHA-256 d435d4872778a365cd1a7ee8e2e219ecaad1370b64c50a6b5cc4a82d5e3ff028): Aussprachetraining - Aufgabe 6b",
+          "status": "verified",
+          "exercise": "6b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "d435d4872778a365cd1a7ee8e2e219ecaad1370b64c50a6b5cc4a82d5e3ff028",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_042.mp3; opening evidence d435d4872778a365cd1a7ee8e2e219ecaad1370b64c50a6b5cc4a82d5e3ff028.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-103-track-43": {
+      "title": "Aussprachetraining · Aufgabe 6c, 6d",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (e5ac2ba579afbcb78212f23c14c992f5838e52b583ca7b5bac02629db28fe47c.txt, original audio SHA-256 e5ac2ba579afbcb78212f23c14c992f5838e52b583ca7b5bac02629db28fe47c): Aussprachetraining, Aufgabe 6 C und D.",
+          "status": "verified",
+          "exercise": "6c"
+        },
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (e5ac2ba579afbcb78212f23c14c992f5838e52b583ca7b5bac02629db28fe47c.txt, original audio SHA-256 e5ac2ba579afbcb78212f23c14c992f5838e52b583ca7b5bac02629db28fe47c): Aussprachetraining, Aufgabe 6 C und D.",
+          "status": "verified",
+          "exercise": "6d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e5ac2ba579afbcb78212f23c14c992f5838e52b583ca7b5bac02629db28fe47c",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_043.mp3; opening evidence e5ac2ba579afbcb78212f23c14c992f5838e52b583ca7b5bac02629db28fe47c.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-103-track-44": {
+      "title": "Ankommen · Aufgabe 4c und d",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 17; heading 'Aufgabe 4c und d' lists Track 44. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "4c und d",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 17,
+          "chapterTitle": "Ankommen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "649c439687fea298f0548c44685e07a4055a83540c05f27a658b61fdf8636b5e",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_044.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-103-track-45": {
+      "title": "Ankommen · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 1,
+          "status": "chapter-context",
+          "evidence": "Assignment follows surrounding reviewed references at tracks 44 and 46 in the same audio series. Original audio SHA-256 7592d9a78c5857df1b6f25603c1364c272d72de34c600c76c26f158af3b82ebc. Reviewed opening transcript 7592d9a78c5857df1b6f25603c1364c272d72de34c600c76c26f158af3b82ebc.txt. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 1.",
+          "exercise": "6a",
+          "chapterTitle": "Ankommen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "reviewed-sequence-context",
+        "sourceSha256": "7592d9a78c5857df1b6f25603c1364c272d72de34c600c76c26f158af3b82ebc",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_045.mp3; opening evidence 7592d9a78c5857df1b6f25603c1364c272d72de34c600c76c26f158af3b82ebc.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-103-track-46": {
+      "title": "Ankommen · Aufgabe 7d",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 17; heading 'Aufgabe 7d' lists Track 46. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "7d",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 17,
+          "chapterTitle": "Ankommen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "8825b6b0d0aee632353a787f0224cfc89df7cc298e47b2f997d73e1a1f00e925",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_046.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-103-track-47": {
+      "title": "Ankommen · Aufgabe 7e",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 1,
+          "status": "chapter-context",
+          "evidence": "Assignment follows surrounding reviewed references at tracks 46 and 48 in the same audio series. Original audio SHA-256 c8e51c5874ace1c7cda4df25b192ed4a9beec02d5ac7116771234713a80fa5f3. Reviewed opening transcript c8e51c5874ace1c7cda4df25b192ed4a9beec02d5ac7116771234713a80fa5f3.txt. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 1.",
+          "exercise": "7e",
+          "chapterTitle": "Ankommen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "reviewed-sequence-context",
+        "sourceSha256": "c8e51c5874ace1c7cda4df25b192ed4a9beec02d5ac7116771234713a80fa5f3",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_047.mp3; opening evidence c8e51c5874ace1c7cda4df25b192ed4a9beec02d5ac7116771234713a80fa5f3.txt from original audio beginning"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-104-track-48": {
+      "title": "Ankommen · Aufgabe 8",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 17; heading 'Aufgabe 8' lists Track 48. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "8",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 17,
+          "chapterTitle": "Ankommen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "c268c676110abbf4b885ccba803b91ce0b908ff19296099d5556c2ba905de5f6",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_048.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-104-track-49": {
+      "title": "Arbeiten, um zu leben · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 18; heading 'Aufgabe 1a' lists Track 49. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "1a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 18,
+          "chapterTitle": "Arbeiten, um zu leben"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "01ce8eecf4773e12fda8d7f2cfcf1fdd39a72a9dc0b3d36d8987b43f1f5f26fe",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_049.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-104-track-50": {
+      "title": "Arbeiten, um zu leben · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 18; heading 'Aufgabe 5a' lists Track 50. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "5a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 18,
+          "chapterTitle": "Arbeiten, um zu leben"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "c559b3a3b7a9d720b8eecec27a92e3331f954e2c2c1e14cc9d5d03bed64b244c",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_050.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-104-track-51": {
+      "title": "Arbeiten, um zu leben · Aufgabe 9a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 19; heading 'Aufgabe 9a' lists Track 51. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "9a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 19,
+          "chapterTitle": "Arbeiten, um zu leben"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "34eb9a2bf3baba5f0f3f787883605c1649a41ed0030f99293da32b80a8a7575f",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_051.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-104-track-52": {
+      "title": "Lebensräume · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 19; heading 'Aufgabe 2a' lists Track 52. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "2a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 19,
+          "chapterTitle": "Lebensräume"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "3d955c793067166fafa6bd6a12daa7cae86d9aa5e685c253aafc93fb9e5dd870",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_052.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-104-track-53": {
+      "title": "Lebensräume · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 20; heading 'Aufgabe 4a' lists Track 53. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "4a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 20,
+          "chapterTitle": "Lebensräume"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "19579c68fa3549df36c10aaff36e69a8fe53d41a8098d3c27da6fca48b827363",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_053.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-104-track-54": {
+      "title": "Lebensräume · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 20; heading 'Aufgabe 5a' lists Track 54. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "5a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 20,
+          "chapterTitle": "Lebensräume"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "b0c1d7b73c507f762b6d56ffb1d64419e7600dd986811c139ea255d3c6ff1bee",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_054.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-104-track-55": {
+      "title": "Lebensräume · Aufgabe 9",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 20; heading 'Aufgabe 9' lists Track 55. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "9",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 20,
+          "chapterTitle": "Lebensräume"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "97c5dab35c511758b809d1ac0dd67be10cc7fdd5aad3bbb48681470bae7d090a",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_055.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-104-track-56": {
+      "title": "Zwischentest zu den Lektionen 1 bis 3 · Hören, Teil 1",
+      "references": [
+        {
+          "section": "Zwischentest zu den Lektionen 1 bis 3",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 21; heading 'Hören, Teil 1' lists Track 56. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f.",
+          "status": "verified",
+          "exercise": "Hören, Teil 1",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 21
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "b2f341ccf887fa4b662fb76a7851857695ca105b1666fb183d8fff18d8f5d0f2",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_056.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-104-track-57": {
+      "title": "Zwischentest zu den Lektionen 1 bis 3 · Hören, Teil 3",
+      "references": [
+        {
+          "section": "Zwischentest zu den Lektionen 1 bis 3",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 21; heading 'Hören, Teil 3' lists Track 57. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f.",
+          "status": "verified",
+          "exercise": "Hören, Teil 3",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 21
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "f9b2e608c705617436eb8213d9046a72bf40c1483a14a8a8b71ac3c62a5b9b08",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_057.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-104-track-58": {
+      "title": "Migration · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 22; heading 'Aufgabe 2a' lists Track 58. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "2a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 22,
+          "chapterTitle": "Migration"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "5eb8dc517ee52760312e8b43fca6666c3ed54aea51583cd646e3a68b7e383001",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_058.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-105-track-59": {
+      "title": "Migration · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 22; heading 'Aufgabe 4a' lists Track 59. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "4a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 22,
+          "chapterTitle": "Migration"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "206cb2d13cb12b66f714f7bd7d3d6416bc21c1d6d86ac4d3cced949b79fa783f",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_059.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-105-track-60": {
+      "title": "Migration · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 23; heading 'Aufgabe 7a' lists Track 60. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "7a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 23,
+          "chapterTitle": "Migration"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "3bc36b345050bb482de50c1a6c98c3b53deb9cb1ee96927f2118bbde08ff4633",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_060.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-105-track-61": {
+      "title": "Migration · Aufgabe 9",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 24; heading 'Aufgabe 9' lists Track 61. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "9",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 24,
+          "chapterTitle": "Migration"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "a81c12e267ffbc2b1841dcbfc90acad15e1794f43e74112d0bb5aca26f9598ee",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_061.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-105-track-62": {
+      "title": "Auf die Gesundheit · Aufgabe 2",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 24; heading 'Aufgabe 2' lists Track 62. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "2",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 24,
+          "chapterTitle": "Auf die Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "32c9e1ca20c0ab1baa2fa14e3362bb91e30fa701569b5d5dd1ade4d9e3a3ad83",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_062.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-105-track-63": {
+      "title": "Auf die Gesundheit · Aufgabe 7b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 24; heading 'Aufgabe 7b' lists Track 63. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "7b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 24,
+          "chapterTitle": "Auf die Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "fb02032876ab5f45456f6acf0a8836f8283e51488ea3244d077d39e6cdde15e0",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_063.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-105-track-64": {
+      "title": "Kaufen, kaufen, kaufen · Aufgabe 1b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 25; heading 'Aufgabe 1b' lists Track 64. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 14.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "1b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 25,
+          "chapterTitle": "Kaufen, kaufen, kaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "f5a8df22db4331078777b5ce04bd957d2bfca5ef520bfeb11f414503db970de1",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_064.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-105-track-65": {
+      "title": "Kaufen, kaufen, kaufen · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 25; heading 'Aufgabe 3a' lists Track 65. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 14.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "3a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 25,
+          "chapterTitle": "Kaufen, kaufen, kaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "0e5b83c08facb66a7618afae147237d992dfb14fb60d8b9bec527bfdfa0088aa",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_065.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-105-track-66": {
+      "title": "Kaufen, kaufen, kaufen · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 26; heading 'Aufgabe 5a' lists Track 66. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 14.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "5a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 26,
+          "chapterTitle": "Kaufen, kaufen, kaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "e6cdcc7856379c2e147bf2d045dfa14b85c44e9de60b8105cdc2c156a1cba141",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_066.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-105-track-67": {
+      "title": "Kaufen, kaufen, kaufen · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf; PDF p. 26; heading 'Aufgabe 7a' lists Track 67. PDF SHA-256 06f57168560046e64b17ffba8199bd465547d429c71dde8785ea73bfb603ee9f. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 14.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "7a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Auf_jeden_Fall/Loesungen_Hoertexte/Auf_jeden_Fall_B1.1_Hoertexte_KB_AB.pdf",
+          "sourcePage": 26,
+          "chapterTitle": "Kaufen, kaufen, kaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "fdfa60ddf127514c7f3663834648a6e8f7c4520e4337055b3d864ad7869cf5c0",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_067.mp3; reviewed official source context"
+      }
+    },
+    "auf-jeden-fall-b1-1-pack-105-track-68": {
+      "title": "Kaufen, kaufen, kaufen · Aufgabe 7b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 6,
+          "status": "chapter-context",
+          "evidence": "Chapter 6 is explicitly announced; section follows the reviewed same-chapter reference at track 67. Original audio SHA-256 86dccae213273b2227249190e1e53865ffac4a9f37fab7454dc432eca1e1d732. Reviewed opening transcript 86dccae213273b2227249190e1e53865ffac4a9f37fab7454dc432eca1e1d732-12s-base.txt. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/00_Auf jeden Fall!/4_B1.1/other/Auf_jeden_Fall!_B1.1_Wortschatzliste_Englisch.pdf, PDF p. 14.",
+          "exercise": "7b",
+          "chapterTitle": "Kaufen, kaufen, kaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "reviewed-sequence-context",
+        "sourceSha256": "86dccae213273b2227249190e1e53865ffac4a9f37fab7454dc432eca1e1d732",
+        "sourceLocator": "Original ZIP member Auf_jeden_Fall_B1_1_Track_068.mp3; opening evidence 86dccae213273b2227249190e1e53865ffac4a9f37fab7454dc432eca1e1d732-12s-base.txt from original audio beginning"
+      }
+    }
+  },
+  "documents": {
+    "auf-jeden-fall-b1-1-doc-102": {
+      "title": "Auf jeden Fall! B1.1 Wortschatzliste Englisch",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "0c3017c15a4ca2a62133f597d920f21977f46acceec79722625a2bb3163e1fae",
+        "reason": "Original German or English vocabulary/listening document retained intact; no per-word or printed-page annotations are introduced."
+      }
+    }
+  }
+}

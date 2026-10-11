@@ -1,0 +1,3027 @@
+{
+  "bookId": "einfach-gut-alpha",
+  "review": {
+    "author": "metadata_pipeline",
+    "reviewedAt": "2026-10-11T18:16:16.697477+00:00",
+    "reviewer": "app_architecture",
+    "independentlyReviewedAt": "2026-10-11T18:24:06.527699+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+      "sha256": "efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911",
+      "pageCount": 20
+    },
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte_Abschlusstest.pdf",
+      "sha256": "ac2f4e7a8035542dabad956faa4f22d364780e0f82a07ca7c319a68a51cf7dc1",
+      "pageCount": 1
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf",
+      "sha256": "68e3dffb0a2e8f612506fd804a07cc4f8802334462089508a65dfa68766a10c2",
+      "pageCount": 13
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/01_Hörtexte_Lektion 2.pdf",
+      "sha256": "a8cf096df66e906b98fe19efc57d21ee0e75ce24b3d2c98ebf01e0158c7e7829",
+      "pageCount": 2
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/02_Hörtexte_Lektion 3.pdf",
+      "sha256": "ec9078815c2aa38255afb4533c32d7570781c2504f6a6c33ddc046285c96a194",
+      "pageCount": 1
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/03_Hörtexte_Lektion 4.pdf",
+      "sha256": "474d47d1bd4f8152bfe8b483519128475ddd04a3619c4d2dca33ccdfc71bc639",
+      "pageCount": 2
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/04_Hörtexte_Lektion 5.pdf",
+      "sha256": "fbb11b091bd0876796f961434e73be4babfb9026040fa3f893defcc35201b9df",
+      "pageCount": 2
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/05_Hörtexte_Lektion 6.pdf",
+      "sha256": "736002c0d76b4a9dee39becec902399140eb824d587917b302953ae5f2cdd5a1",
+      "pageCount": 1
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/06_Hörtexte_Lektion 7.pdf",
+      "sha256": "9a7d7f8a285cdfbe65988a6bb90029928f780d6507b707d37530fc23176aefd4",
+      "pageCount": 1
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/07_Hörtexte_Lektion 8.pdf",
+      "sha256": "eac89cf3d0b67bf77c7875f99b052b143718f949dbe1ae075d75770720af69b3",
+      "pageCount": 1
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/08_Hörtexte_Lektion 9.pdf",
+      "sha256": "fef2eb07a3e0cc1750cc86660202337e964b03e01575737cd0ac153038b95f5e",
+      "pageCount": 2
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/09_Hörtexte_Lektion 10.pdf",
+      "sha256": "8bc41d7278670e454b49d54fa9d31e784efaafe113f7cac7c61b1fe97094113e",
+      "pageCount": 2
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/10_Hörtexte_Lektion 11.pdf",
+      "sha256": "bed2c3c4682c68ab479df048388138097742f9ae0c66e1b79e44a818585fc2cb",
+      "pageCount": 3
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/11_Hörtexte_Lektion 12.pdf",
+      "sha256": "994f37ab9b0120db9d246616bc49af6d4687d8069d920531d3437478ed04ead3",
+      "pageCount": 3
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/12_Hörtexte_Abschlusstest.pdf",
+      "sha256": "ac2f4e7a8035542dabad956faa4f22d364780e0f82a07ca7c319a68a51cf7dc1",
+      "pageCount": 1
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/14_Wortschatzliste_Einfach_gut_Alpha_Deutsch.pdf",
+      "sha256": "b210abaf6abdbffcdf2ab4e3bfc19b052ec8ce13a084a6f570df1a113fa2c5a0",
+      "pageCount": 13
+    }
+  ],
+  "tracks": {
+    "einfach-gut-alpha-pack-100-track-1": {
+      "title": "Einführung",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "d72e0a3468ec1be121e0ae985631578bee0744acb1ec0681d718822cfa9e5041",
+        "reason": "Introductory publisher and book announcement; no exercise reference applies.",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/001 Einfach gut Alpha!.mp3; opening evidence d72e0a3468ec1be121e0ae985631578bee0744acb1ec0681d718822cfa9e5041.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-2": {
+      "title": "Willkommen! · Aufgabe 1",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (39f911d5fa931db79f38e143f0180f8d80357a8a019e33628b65904ad49648f8.txt, original audio SHA-256 39f911d5fa931db79f38e143f0180f8d80357a8a019e33628b65904ad49648f8): Lektion 1, Aufgabe 1. Hören Sie und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "1",
+          "chapterTitle": "Willkommen!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "39f911d5fa931db79f38e143f0180f8d80357a8a019e33628b65904ad49648f8",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/002 Einfach gut Alpha!.mp3; opening evidence 39f911d5fa931db79f38e143f0180f8d80357a8a019e33628b65904ad49648f8.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-3": {
+      "title": "Willkommen! · Aufgabe 6",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (058305feaf866959aa5fc39461e9c800274868fee02dca5479ebb8af0e827b01.txt, original audio SHA-256 058305feaf866959aa5fc39461e9c800274868fee02dca5479ebb8af0e827b01): Lektion 1, Aufgabe 6, hören Sie und zeigen Sie auf das Bild. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "6",
+          "chapterTitle": "Willkommen!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "058305feaf866959aa5fc39461e9c800274868fee02dca5479ebb8af0e827b01",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/003 Einfach gut Alpha!.mp3; opening evidence 058305feaf866959aa5fc39461e9c800274868fee02dca5479ebb8af0e827b01.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-4": {
+      "title": "Willkommen! · Aufgabe 7",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (83998a2392021fac22ba06d1802e2f378d7761ad0342d87d0d1b66d287b5cb51.txt, original audio SHA-256 83998a2392021fac22ba06d1802e2f378d7761ad0342d87d0d1b66d287b5cb51): Lektion 1, Aufgabe 7. Was hören Sie am Anfang? Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "7",
+          "chapterTitle": "Willkommen!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "83998a2392021fac22ba06d1802e2f378d7761ad0342d87d0d1b66d287b5cb51",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/004 Einfach gut Alpha!.mp3; opening evidence 83998a2392021fac22ba06d1802e2f378d7761ad0342d87d0d1b66d287b5cb51.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-5": {
+      "title": "Willkommen! · Aufgabe 10",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (f6dc8a02b4806e7c7659a550b0c1ac442835cca0b6db198c5e6ef7eac79038eb.txt, original audio SHA-256 f6dc8a02b4806e7c7659a550b0c1ac442835cca0b6db198c5e6ef7eac79038eb): Lektion eins, Aufgabe zehn. Wie heißen die Personen? Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "10",
+          "chapterTitle": "Willkommen!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "f6dc8a02b4806e7c7659a550b0c1ac442835cca0b6db198c5e6ef7eac79038eb",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/005 Einfach gut Alpha!.mp3; opening evidence f6dc8a02b4806e7c7659a550b0c1ac442835cca0b6db198c5e6ef7eac79038eb.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-6": {
+      "title": "Willkommen! · Aufgabe 13",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (f87c9ae0dc82f7c666a52f09fd765caa66948bce292205dcc021ab3080c7b123.txt, original audio SHA-256 f87c9ae0dc82f7c666a52f09fd765caa66948bce292205dcc021ab3080c7b123): Lektion 1, Aufgabe 13. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "13",
+          "chapterTitle": "Willkommen!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "f87c9ae0dc82f7c666a52f09fd765caa66948bce292205dcc021ab3080c7b123",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/006 Einfach gut Alpha!.mp3; opening evidence f87c9ae0dc82f7c666a52f09fd765caa66948bce292205dcc021ab3080c7b123.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-7": {
+      "title": "Willkommen! · Aufgabe 15",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (9ac848a6818791a795900c11bce072b5f2f9fa69605c5741c31f3f039aa15394.txt, original audio SHA-256 9ac848a6818791a795900c11bce072b5f2f9fa69605c5741c31f3f039aa15394): Lektion 1, Aufgabe 15. Wo hören Sie \"e\"? Kreuzen Sie an! Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "15",
+          "chapterTitle": "Willkommen!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "9ac848a6818791a795900c11bce072b5f2f9fa69605c5741c31f3f039aa15394",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/007 Einfach gut Alpha!.mp3; opening evidence 9ac848a6818791a795900c11bce072b5f2f9fa69605c5741c31f3f039aa15394.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-8": {
+      "title": "Das bin ich! · Aufgabe 1",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (dd868e4a1d021b707b98f3f9bd885b4b9a50242c8999c39b6c21a48eff6efed8.txt, original audio SHA-256 dd868e4a1d021b707b98f3f9bd885b4b9a50242c8999c39b6c21a48eff6efed8): Lektion 2, Aufgabe 1, hören Sie und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 2.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "1",
+          "chapterTitle": "Das bin ich!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "dd868e4a1d021b707b98f3f9bd885b4b9a50242c8999c39b6c21a48eff6efed8",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/008 Einfach gut Alpha!.mp3; opening evidence dd868e4a1d021b707b98f3f9bd885b4b9a50242c8999c39b6c21a48eff6efed8.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-9": {
+      "title": "Das bin ich! · Aufgabe 5",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (fdee24fe58ac1c0c87d5ba5046854d3bf0ff5bc57b5f37c90598af0c7b91d518.txt, original audio SHA-256 fdee24fe58ac1c0c87d5ba5046854d3bf0ff5bc57b5f37c90598af0c7b91d518): Lektion 2, Aufgabe 5, hören sie und sprechen sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 2.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "5",
+          "chapterTitle": "Das bin ich!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "fdee24fe58ac1c0c87d5ba5046854d3bf0ff5bc57b5f37c90598af0c7b91d518",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/009 Einfach gut Alpha!.mp3; opening evidence fdee24fe58ac1c0c87d5ba5046854d3bf0ff5bc57b5f37c90598af0c7b91d518.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-10": {
+      "title": "Das bin ich! · Aufgabe 9",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (c29efa4918503fcd5f0fe711dabdfbde81f564cfe9ece534dd606e37b1c556c7.txt, original audio SHA-256 c29efa4918503fcd5f0fe711dabdfbde81f564cfe9ece534dd606e37b1c556c7): Lektion 2, Aufgabe 9. Hören Sie und sprechen Sie nach! Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 2.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "9",
+          "chapterTitle": "Das bin ich!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "c29efa4918503fcd5f0fe711dabdfbde81f564cfe9ece534dd606e37b1c556c7",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/010 Einfach gut Alpha!.mp3; opening evidence c29efa4918503fcd5f0fe711dabdfbde81f564cfe9ece534dd606e37b1c556c7.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-11": {
+      "title": "Das bin ich! · Aufgabe 13",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (be11be63e2d9f8231b1a152e6d4d7b6c47d9ac072a527bb33a9771bc32175ba8.txt, original audio SHA-256 be11be63e2d9f8231b1a152e6d4d7b6c47d9ac072a527bb33a9771bc32175ba8): Lektion 2, Aufgabe 13. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 2.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "13",
+          "chapterTitle": "Das bin ich!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "be11be63e2d9f8231b1a152e6d4d7b6c47d9ac072a527bb33a9771bc32175ba8",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/011 Einfach gut Alpha!.mp3; opening evidence be11be63e2d9f8231b1a152e6d4d7b6c47d9ac072a527bb33a9771bc32175ba8.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-12": {
+      "title": "Das bin ich! · Aufgabe 17",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (5fb6a46bf2cf24dc57e38cc701a192cc711613c42381e7fd4f6a6b55063e348e.txt, original audio SHA-256 5fb6a46bf2cf24dc57e38cc701a192cc711613c42381e7fd4f6a6b55063e348e): Lektion 2, Aufgabe 17. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 2.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "17",
+          "chapterTitle": "Das bin ich!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "5fb6a46bf2cf24dc57e38cc701a192cc711613c42381e7fd4f6a6b55063e348e",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/012 Einfach gut Alpha!.mp3; opening evidence 5fb6a46bf2cf24dc57e38cc701a192cc711613c42381e7fd4f6a6b55063e348e.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-13": {
+      "title": "Das bin ich! · Aufgabe 22",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (d508fa49417344afd2dffc8520e1379ffe1f7e6fb0b82a7f53ed02c48c8b53fd.txt, original audio SHA-256 d508fa49417344afd2dffc8520e1379ffe1f7e6fb0b82a7f53ed02c48c8b53fd): Lektion 2, Aufgabe 22 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 2.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "22",
+          "chapterTitle": "Das bin ich!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "d508fa49417344afd2dffc8520e1379ffe1f7e6fb0b82a7f53ed02c48c8b53fd",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/013 Einfach gut Alpha!.mp3; opening evidence d508fa49417344afd2dffc8520e1379ffe1f7e6fb0b82a7f53ed02c48c8b53fd.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-14": {
+      "title": "Das bin ich! · Aufgabe 23",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (77b2c942ba73d2a684ad94e20a3ce90abd691616bd432025e1dcfc8ce0056565.txt, original audio SHA-256 77b2c942ba73d2a684ad94e20a3ce90abd691616bd432025e1dcfc8ce0056565): Lektion 2, Aufgabe 23 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 2.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "23",
+          "chapterTitle": "Das bin ich!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "77b2c942ba73d2a684ad94e20a3ce90abd691616bd432025e1dcfc8ce0056565",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/014 Einfach gut Alpha!.mp3; opening evidence 77b2c942ba73d2a684ad94e20a3ce90abd691616bd432025e1dcfc8ce0056565.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-15": {
+      "title": "Das bin ich! · Aufgabe 24",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (1c1d76702f65f195fc01cddb7608bb83dca8967916576785c518a4af5cd7b86c.txt, original audio SHA-256 1c1d76702f65f195fc01cddb7608bb83dca8967916576785c518a4af5cd7b86c): Lektion 2, Aufgabe 24. Was hören Sie? Kreuzen Sie an. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 2.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "24",
+          "chapterTitle": "Das bin ich!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "1c1d76702f65f195fc01cddb7608bb83dca8967916576785c518a4af5cd7b86c",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/015 Einfach gut Alpha!.mp3; opening evidence 1c1d76702f65f195fc01cddb7608bb83dca8967916576785c518a4af5cd7b86c.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-16": {
+      "title": "Das bin ich! · Aufgabe 26",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (0a7425b5079c261256d1200d72472ff03beede7fa33d11b5324cfee136af27f2.txt, original audio SHA-256 0a7425b5079c261256d1200d72472ff03beede7fa33d11b5324cfee136af27f2): Lektion 2, Aufgabe 26. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 2.",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "26",
+          "chapterTitle": "Das bin ich!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "0a7425b5079c261256d1200d72472ff03beede7fa33d11b5324cfee136af27f2",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/016 Einfach gut Alpha!.mp3; opening evidence 0a7425b5079c261256d1200d72472ff03beede7fa33d11b5324cfee136af27f2.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-17": {
+      "title": "Das bin ich! · Aufgabe 28/29",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "28/29",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 1; heading 'Lektion 2: Aufgabe 28/29', speaker icon Track 17/18. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 2.",
+          "status": "verified",
+          "chapter": 2,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 1,
+          "chapterTitle": "Das bin ich!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "13f6142ddc4a02287fd7088304e633d2d2359cdd476100618c4e95578cec55ad",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/017 Einfach gut Alpha!.mp3; opening evidence 13f6142ddc4a02287fd7088304e633d2d2359cdd476100618c4e95578cec55ad.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-18": {
+      "title": "Das bin ich! · Aufgabe 28/29",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "28/29",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 1; heading 'Lektion 2: Aufgabe 28/29', speaker icon Track 17/18. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 2.",
+          "status": "verified",
+          "chapter": 2,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 1,
+          "chapterTitle": "Das bin ich!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "9017f2a23ee702c7df1e0713899ee18014536dcfd1c749e1cd9dd8c0a61dc8f2",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/018 Einfach gut Alpha!.mp3; opening evidence 9017f2a23ee702c7df1e0713899ee18014536dcfd1c749e1cd9dd8c0a61dc8f2.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-19": {
+      "title": "Das bin ich! · Aufgabe 31",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "31",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 2; heading 'Lektion 2: Aufgabe 31', speaker icon Track 19. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 2.",
+          "status": "verified",
+          "chapter": 2,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 2,
+          "chapterTitle": "Das bin ich!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "61e1cb3ae6b0ef00ae2368839981b9bf80801e0e5b002d67ee3dd302233594f7",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/019 Einfach gut Alpha!.mp3; opening evidence 61e1cb3ae6b0ef00ae2368839981b9bf80801e0e5b002d67ee3dd302233594f7.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-20": {
+      "title": "Guten Tag! · Aufgabe 1",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (39377d5556ed5bdb33f6fdeb811a49daba81200331e3db84c60510d65b9a7f13.txt, original audio SHA-256 39377d5556ed5bdb33f6fdeb811a49daba81200331e3db84c60510d65b9a7f13): Lektion 3, Aufgabe 1. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "1",
+          "chapterTitle": "Guten Tag!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "39377d5556ed5bdb33f6fdeb811a49daba81200331e3db84c60510d65b9a7f13",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/020 Einfach gut Alpha!.mp3; opening evidence 39377d5556ed5bdb33f6fdeb811a49daba81200331e3db84c60510d65b9a7f13.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-21": {
+      "title": "Guten Tag! · Aufgabe 4",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (00893e7e75cddbe1dc921f860089e781e95148b8e5648abfbb3b0ea99413e585.txt, original audio SHA-256 00893e7e75cddbe1dc921f860089e781e95148b8e5648abfbb3b0ea99413e585): Lektion 3, Aufgabe 4. Wo hören Sie 'm'? Am Anfang, in der Mitte oder ... Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "4",
+          "chapterTitle": "Guten Tag!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "00893e7e75cddbe1dc921f860089e781e95148b8e5648abfbb3b0ea99413e585",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/021 Einfach gut Alpha!.mp3; opening evidence 00893e7e75cddbe1dc921f860089e781e95148b8e5648abfbb3b0ea99413e585.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-22": {
+      "title": "Guten Tag! · Aufgabe 5",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (198a1020822f1582eddb3fdeea601f8f07c944c13510c7d36f5d69f4b09e8aa3.txt, original audio SHA-256 198a1020822f1582eddb3fdeea601f8f07c944c13510c7d36f5d69f4b09e8aa3): Lektion 3, Aufgabe 5, hören Sie und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "5",
+          "chapterTitle": "Guten Tag!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "198a1020822f1582eddb3fdeea601f8f07c944c13510c7d36f5d69f4b09e8aa3",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/022 Einfach gut Alpha!.mp3; opening evidence 198a1020822f1582eddb3fdeea601f8f07c944c13510c7d36f5d69f4b09e8aa3.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-23": {
+      "title": "Guten Tag! · Aufgabe 9",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (e227711172522a9feaab8ee861d9bfd933b00052845b892cb5d1fc565f9187f6.txt, original audio SHA-256 e227711172522a9feaab8ee861d9bfd933b00052845b892cb5d1fc565f9187f6): Lektion 3, Aufgabe 9. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "9",
+          "chapterTitle": "Guten Tag!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e227711172522a9feaab8ee861d9bfd933b00052845b892cb5d1fc565f9187f6",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/023 Einfach gut Alpha!.mp3; opening evidence e227711172522a9feaab8ee861d9bfd933b00052845b892cb5d1fc565f9187f6.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-24": {
+      "title": "Guten Tag! · Aufgabe 13",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (79755d63bc136250efc29a329585325483208971a41a60e93e03552663363fc0.txt, original audio SHA-256 79755d63bc136250efc29a329585325483208971a41a60e93e03552663363fc0): Lektion 3, Aufgabe 13. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "13",
+          "chapterTitle": "Guten Tag!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "79755d63bc136250efc29a329585325483208971a41a60e93e03552663363fc0",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/024 Einfach gut Alpha!.mp3; opening evidence 79755d63bc136250efc29a329585325483208971a41a60e93e03552663363fc0.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-25": {
+      "title": "Guten Tag! · Aufgabe 18",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (8ced8ad74b5916b5a0c32e06d2b84ad4ae501ec9ddeaa7322916c7e5051c801e.txt, original audio SHA-256 8ced8ad74b5916b5a0c32e06d2b84ad4ae501ec9ddeaa7322916c7e5051c801e): Lektion 3, Aufgabe 18 Hören Sie und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "18",
+          "chapterTitle": "Guten Tag!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8ced8ad74b5916b5a0c32e06d2b84ad4ae501ec9ddeaa7322916c7e5051c801e",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/025 Einfach gut Alpha!.mp3; opening evidence 8ced8ad74b5916b5a0c32e06d2b84ad4ae501ec9ddeaa7322916c7e5051c801e.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-26": {
+      "title": "Guten Tag! · Aufgabe 22",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (1340f4fce39d2f3e13349fd6ba17b4f4761761f15927c5493c1ffd1e2b24d495.txt, original audio SHA-256 1340f4fce39d2f3e13349fd6ba17b4f4761761f15927c5493c1ffd1e2b24d495): Lektion 3, Aufgabe 22. Was hören Sie am Anfang? Schreiben Sie! Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "22",
+          "chapterTitle": "Guten Tag!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "1340f4fce39d2f3e13349fd6ba17b4f4761761f15927c5493c1ffd1e2b24d495",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/026 Einfach gut Alpha!.mp3; opening evidence 1340f4fce39d2f3e13349fd6ba17b4f4761761f15927c5493c1ffd1e2b24d495.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-27": {
+      "title": "Guten Tag! · Aufgabe 23",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (8bb2ee9b02072ad70c689ed36f1887c263368e5b01fe85952df7bdfd9947ed71.txt, original audio SHA-256 8bb2ee9b02072ad70c689ed36f1887c263368e5b01fe85952df7bdfd9947ed71): Lektion 3, Aufgabe 23. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "23",
+          "chapterTitle": "Guten Tag!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8bb2ee9b02072ad70c689ed36f1887c263368e5b01fe85952df7bdfd9947ed71",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/027 Einfach gut Alpha!.mp3; opening evidence 8bb2ee9b02072ad70c689ed36f1887c263368e5b01fe85952df7bdfd9947ed71.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-28": {
+      "title": "Guten Tag! · Aufgabe 27",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (34e2067c2b908138ed97ef9dfa132ba2a796700a4e1837d438bd2e2af0386501.txt, original audio SHA-256 34e2067c2b908138ed97ef9dfa132ba2a796700a4e1837d438bd2e2af0386501): Lektion 3. Aufgabe 27. Diktat. Hören Sie und schreiben Sie in Ihr Heft. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "27",
+          "chapterTitle": "Guten Tag!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "34e2067c2b908138ed97ef9dfa132ba2a796700a4e1837d438bd2e2af0386501",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/028 Einfach gut Alpha!.mp3; opening evidence 34e2067c2b908138ed97ef9dfa132ba2a796700a4e1837d438bd2e2af0386501.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-29": {
+      "title": "Guten Tag! · Aufgabe 29",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (fe4c634881f0031d53c589de9b21441ce07e804135786e22ad3081dcbfbad7a1.txt, original audio SHA-256 fe4c634881f0031d53c589de9b21441ce07e804135786e22ad3081dcbfbad7a1): Lektion 3, Aufgabe 29. Was sagen die Personen? Hören sie und zeigen sie auf! Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "29",
+          "chapterTitle": "Guten Tag!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "fe4c634881f0031d53c589de9b21441ce07e804135786e22ad3081dcbfbad7a1",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/029 Einfach gut Alpha!.mp3; opening evidence fe4c634881f0031d53c589de9b21441ce07e804135786e22ad3081dcbfbad7a1.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-30": {
+      "title": "Guten Tag! · Aufgabe 31",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (4803834765f51ba28633645843aff9be6973967bf5ca55b55a5bd3be6f289ebc.txt, original audio SHA-256 4803834765f51ba28633645843aff9be6973967bf5ca55b55a5bd3be6f289ebc): Lektion 3, Aufgabe 31. Was sagt man wann? Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "31",
+          "chapterTitle": "Guten Tag!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "4803834765f51ba28633645843aff9be6973967bf5ca55b55a5bd3be6f289ebc",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/030 Einfach gut Alpha!.mp3; opening evidence 4803834765f51ba28633645843aff9be6973967bf5ca55b55a5bd3be6f289ebc.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-31": {
+      "title": "Guten Tag! · Aufgabe 35",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "35",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 3; heading 'Lektion 3: Aufgabe 35', speaker icon Track 31. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 3,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 3,
+          "chapterTitle": "Guten Tag!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "678f4562135b9fd9d91cd6b525f7ca57d76e4903adcb89ac4f1c5521d0054eb1",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/031 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-32": {
+      "title": "Guten Tag! · Aufgabe 36",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "36",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 3; heading 'Lektion 3: Aufgabe 36', speaker icon Track 32. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 3,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 3,
+          "chapterTitle": "Guten Tag!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "8e8449667630738a8fc3c17f55f3b36d36d4c8224b8a965ef6b58ce207e1bba7",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/032 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-33": {
+      "title": "Zwischentest Lektion 1 bis 3 · Aufgabe 1",
+      "references": [
+        {
+          "section": "Zwischentest Lektion 1 bis 3",
+          "evidence": "Reviewed local opening transcript (e08b48036e2d521c4d9e60af0953ffee127a6896da028ea22fbad5bcb868671a.txt, original audio SHA-256 e08b48036e2d521c4d9e60af0953ffee127a6896da028ea22fbad5bcb868671a): Zwischen-Test – Lektion 1 bis 3, Aufgabe 1 – Was hören Sie am Anfang?",
+          "status": "verified",
+          "exercise": "1"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e08b48036e2d521c4d9e60af0953ffee127a6896da028ea22fbad5bcb868671a",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/033 Einfach gut Alpha!.mp3; opening evidence e08b48036e2d521c4d9e60af0953ffee127a6896da028ea22fbad5bcb868671a.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-34": {
+      "title": "Meine Familie · Aufgabe 1",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (dc48a70f1ed32ee27097e9f6ad746ee89a7781ad7ea551b22179ebd18ba88dec.txt, original audio SHA-256 dc48a70f1ed32ee27097e9f6ad746ee89a7781ad7ea551b22179ebd18ba88dec): Lektion 4, Aufgabe 1. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "1",
+          "chapterTitle": "Meine Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "dc48a70f1ed32ee27097e9f6ad746ee89a7781ad7ea551b22179ebd18ba88dec",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/034 Einfach gut Alpha!.mp3; opening evidence dc48a70f1ed32ee27097e9f6ad746ee89a7781ad7ea551b22179ebd18ba88dec.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-35": {
+      "title": "Meine Familie · Aufgabe 5",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (91af4ff5b2ae502c38a16bc7d00274d44f85b1cb3301346f751bec12c9b86ed1.txt, original audio SHA-256 91af4ff5b2ae502c38a16bc7d00274d44f85b1cb3301346f751bec12c9b86ed1): Lektion 4, Aufgabe 5. Hören Sie und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "5",
+          "chapterTitle": "Meine Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "91af4ff5b2ae502c38a16bc7d00274d44f85b1cb3301346f751bec12c9b86ed1",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/035 Einfach gut Alpha!.mp3; opening evidence 91af4ff5b2ae502c38a16bc7d00274d44f85b1cb3301346f751bec12c9b86ed1.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-36": {
+      "title": "Meine Familie · Aufgabe 8",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (0692c8efe2029dd3bf6d809c9281811012a9aaba53d0725eb9703a7e38d1e39b.txt, original audio SHA-256 0692c8efe2029dd3bf6d809c9281811012a9aaba53d0725eb9703a7e38d1e39b): Lektion 4, Aufgabe 8. Wo hören Sie \"l\" am Anfang, in der Mitte? Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "8",
+          "chapterTitle": "Meine Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "0692c8efe2029dd3bf6d809c9281811012a9aaba53d0725eb9703a7e38d1e39b",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/036 Einfach gut Alpha!.mp3; opening evidence 0692c8efe2029dd3bf6d809c9281811012a9aaba53d0725eb9703a7e38d1e39b.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-37": {
+      "title": "Meine Familie · Aufgabe 9",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (53ac6b6083eac21adff1f55f09f855e2f9ebd6e2b8aaf1d6808ef323a7bd95a8.txt, original audio SHA-256 53ac6b6083eac21adff1f55f09f855e2f9ebd6e2b8aaf1d6808ef323a7bd95a8): Lektion 4, Aufgabe 9. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "9",
+          "chapterTitle": "Meine Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "53ac6b6083eac21adff1f55f09f855e2f9ebd6e2b8aaf1d6808ef323a7bd95a8",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/037 Einfach gut Alpha!.mp3; opening evidence 53ac6b6083eac21adff1f55f09f855e2f9ebd6e2b8aaf1d6808ef323a7bd95a8.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-38": {
+      "title": "Meine Familie · Aufgabe 13",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (787f55b7e919f01f19d135b999dde6665db687027b8672a179e4a44fffc66000.txt, original audio SHA-256 787f55b7e919f01f19d135b999dde6665db687027b8672a179e4a44fffc66000): Lektion 4, Aufgabe 13. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "13",
+          "chapterTitle": "Meine Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "787f55b7e919f01f19d135b999dde6665db687027b8672a179e4a44fffc66000",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/038 Einfach gut Alpha!.mp3; opening evidence 787f55b7e919f01f19d135b999dde6665db687027b8672a179e4a44fffc66000.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-39": {
+      "title": "Meine Familie · Aufgabe 16",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (3f8c720e0285288080418770ae2fd4da8875fa9f7b00aa02f106cdd356ee934c.txt, original audio SHA-256 3f8c720e0285288080418770ae2fd4da8875fa9f7b00aa02f106cdd356ee934c): Lektion 4, Aufgabe 16 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "16",
+          "chapterTitle": "Meine Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "3f8c720e0285288080418770ae2fd4da8875fa9f7b00aa02f106cdd356ee934c",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/039 Einfach gut Alpha!.mp3; opening evidence 3f8c720e0285288080418770ae2fd4da8875fa9f7b00aa02f106cdd356ee934c.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-40": {
+      "title": "Meine Familie · Aufgabe 17",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (f4e3d441ce2544e4e7ad491873dcf4e4fe86c70e8e72da1584edb763fbb93186.txt, original audio SHA-256 f4e3d441ce2544e4e7ad491873dcf4e4fe86c70e8e72da1584edb763fbb93186): Lektion 4, Aufgabe 17 Hören Sie und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "17",
+          "chapterTitle": "Meine Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "f4e3d441ce2544e4e7ad491873dcf4e4fe86c70e8e72da1584edb763fbb93186",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/040 Einfach gut Alpha!.mp3; opening evidence f4e3d441ce2544e4e7ad491873dcf4e4fe86c70e8e72da1584edb763fbb93186.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-41": {
+      "title": "Meine Familie · Aufgabe 26",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (3bd34d35056814412bd8e8bae5483eedc5483d41f375bf36f29c7245b410de0d.txt, original audio SHA-256 3bd34d35056814412bd8e8bae5483eedc5483d41f375bf36f29c7245b410de0d): Lektion 4. Aufgabe 26. Hören Sie die Zahlen und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "26",
+          "chapterTitle": "Meine Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "3bd34d35056814412bd8e8bae5483eedc5483d41f375bf36f29c7245b410de0d",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/041 Einfach gut Alpha!.mp3; opening evidence 3bd34d35056814412bd8e8bae5483eedc5483d41f375bf36f29c7245b410de0d.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-42": {
+      "title": "Meine Familie · Aufgabe 28",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (dfc120b27455862957618e5ec13b588cf3ea85d011fe11e6db23d621c52f0cf0.txt, original audio SHA-256 dfc120b27455862957618e5ec13b588cf3ea85d011fe11e6db23d621c52f0cf0): Lektion 4, Aufgabe 28, hören Sie und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "28",
+          "chapterTitle": "Meine Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "dfc120b27455862957618e5ec13b588cf3ea85d011fe11e6db23d621c52f0cf0",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/042 Einfach gut Alpha!.mp3; opening evidence dfc120b27455862957618e5ec13b588cf3ea85d011fe11e6db23d621c52f0cf0.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-43": {
+      "title": "Meine Familie · Aufgabe 29",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (b930d954cde1f83ae96ae97b911b142bfb858e7935885c2895daee89df223576.txt, original audio SHA-256 b930d954cde1f83ae96ae97b911b142bfb858e7935885c2895daee89df223576): Lektion 4, Aufgabe 29. Was ist richtig? Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "29",
+          "chapterTitle": "Meine Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b930d954cde1f83ae96ae97b911b142bfb858e7935885c2895daee89df223576",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/043 Einfach gut Alpha!.mp3; opening evidence b930d954cde1f83ae96ae97b911b142bfb858e7935885c2895daee89df223576.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-44": {
+      "title": "Meine Familie · Aufgabe 30/31",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "30/31",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 4; heading 'Lektion 4: Aufgabe 30/31', speaker icon Track 44/45. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 4,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "Meine Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "b83d67153b283fe4af46a9dcc41defc95ea68db9445f1ffbb61b18f3b2e17963",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/044 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-45": {
+      "title": "Meine Familie · Aufgabe 30/31",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "30/31",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 4; heading 'Lektion 4: Aufgabe 30/31', speaker icon Track 44/45. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 4.",
+          "status": "verified",
+          "chapter": 4,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 4,
+          "chapterTitle": "Meine Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "358dccbe40366190208e8c43db8b95971d63541a81f9eca271f07904285aa011",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/045 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-46": {
+      "title": "Projekt: Das ist meine Familie · Aufgabe 1",
+      "references": [
+        {
+          "section": "Projekt: Das ist meine Familie",
+          "exercise": "1",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 5; heading 'Projekt: Das ist meine Familie. Aufgabe 1', speaker icon Track 46. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911.",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 5
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "b95e5544caebdf5463b807dc479b10f56a67b0b6a7c9eb5b2bf54194e986cf16",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/046 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-47": {
+      "title": "Im Supermarkt · Aufgabe 1",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (efe5a84695f94c12953cb40a7e0d0d554c25c58e72d1b5a18b00596d77d2ab75.txt, original audio SHA-256 efe5a84695f94c12953cb40a7e0d0d554c25c58e72d1b5a18b00596d77d2ab75): Lektion 5, Aufgabe 1. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "1",
+          "chapterTitle": "Im Supermarkt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "efe5a84695f94c12953cb40a7e0d0d554c25c58e72d1b5a18b00596d77d2ab75",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/047 Einfach gut Alpha!.mp3; opening evidence efe5a84695f94c12953cb40a7e0d0d554c25c58e72d1b5a18b00596d77d2ab75.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-48": {
+      "title": "Im Supermarkt · Aufgabe 5",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (82a7f024ab35c9453b34a222835ae4098df80bf7ad93be136141e4fe9c840da8.txt, original audio SHA-256 82a7f024ab35c9453b34a222835ae4098df80bf7ad93be136141e4fe9c840da8): Lektion 5, Aufgabe 5. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "5",
+          "chapterTitle": "Im Supermarkt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "82a7f024ab35c9453b34a222835ae4098df80bf7ad93be136141e4fe9c840da8",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/048 Einfach gut Alpha!.mp3; opening evidence 82a7f024ab35c9453b34a222835ae4098df80bf7ad93be136141e4fe9c840da8.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-49": {
+      "title": "Im Supermarkt · Aufgabe 9",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (caff682a331514059f815909c92c9f3891f4a046f831b3b6ee1171912e56e800.txt, original audio SHA-256 caff682a331514059f815909c92c9f3891f4a046f831b3b6ee1171912e56e800): Lektion 5 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "9",
+          "chapterTitle": "Im Supermarkt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "caff682a331514059f815909c92c9f3891f4a046f831b3b6ee1171912e56e800",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/049 Einfach gut Alpha!.mp3; opening evidence caff682a331514059f815909c92c9f3891f4a046f831b3b6ee1171912e56e800.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-50": {
+      "title": "Im Supermarkt · Aufgabe 12",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (40133155656a5a0cba0e4cf555cf39207da0324f241ace939477478cff413414.txt, original audio SHA-256 40133155656a5a0cba0e4cf555cf39207da0324f241ace939477478cff413414): Lektion fünf, Aufgabe zwölf. Wo hören Sie \"hä\"? Wo hören Sie \"kein\" \"hä\"? Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "12",
+          "chapterTitle": "Im Supermarkt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "40133155656a5a0cba0e4cf555cf39207da0324f241ace939477478cff413414",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/050 Einfach gut Alpha!.mp3; opening evidence 40133155656a5a0cba0e4cf555cf39207da0324f241ace939477478cff413414.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-51": {
+      "title": "Im Supermarkt · Aufgabe 13",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (470410c42b3a268ff437e19713e121d041b8d7b095d52becdf651b62663aa80d.txt, original audio SHA-256 470410c42b3a268ff437e19713e121d041b8d7b095d52becdf651b62663aa80d): Lektion 5, Aufgabe 13. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "13",
+          "chapterTitle": "Im Supermarkt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "470410c42b3a268ff437e19713e121d041b8d7b095d52becdf651b62663aa80d",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/051 Einfach gut Alpha!.mp3; opening evidence 470410c42b3a268ff437e19713e121d041b8d7b095d52becdf651b62663aa80d.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-52": {
+      "title": "Im Supermarkt · Aufgabe 17",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (69c11a89784228e4fab884a0edb38a058afa24da37e910f1def8a417927115fb.txt, original audio SHA-256 69c11a89784228e4fab884a0edb38a058afa24da37e910f1def8a417927115fb): Lektion 5, Aufgabe 17. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "17",
+          "chapterTitle": "Im Supermarkt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "69c11a89784228e4fab884a0edb38a058afa24da37e910f1def8a417927115fb",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/052 Einfach gut Alpha!.mp3; opening evidence 69c11a89784228e4fab884a0edb38a058afa24da37e910f1def8a417927115fb.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-53": {
+      "title": "Im Supermarkt · Aufgabe 26",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (3392a68ed9bc21c9cc99da71e5433065b7b0430934cb28c06401d6f1641b2962.txt, original audio SHA-256 3392a68ed9bc21c9cc99da71e5433065b7b0430934cb28c06401d6f1641b2962): Lektion 5, Aufgabe 26. Hören Sie und lesen Sie. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "26",
+          "chapterTitle": "Im Supermarkt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "3392a68ed9bc21c9cc99da71e5433065b7b0430934cb28c06401d6f1641b2962",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/053 Einfach gut Alpha!.mp3; opening evidence 3392a68ed9bc21c9cc99da71e5433065b7b0430934cb28c06401d6f1641b2962.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-54": {
+      "title": "Im Supermarkt · Aufgabe 29",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (73dab4f81abc5baa7d5987dc2293b08d2eca9792699f0a16a39e254cd5efc0ce.txt, original audio SHA-256 73dab4f81abc5baa7d5987dc2293b08d2eca9792699f0a16a39e254cd5efc0ce): Lektion 5, Aufgabe 29. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "29",
+          "chapterTitle": "Im Supermarkt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "73dab4f81abc5baa7d5987dc2293b08d2eca9792699f0a16a39e254cd5efc0ce",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/054 Einfach gut Alpha!.mp3; opening evidence 73dab4f81abc5baa7d5987dc2293b08d2eca9792699f0a16a39e254cd5efc0ce.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-55": {
+      "title": "Im Supermarkt · Aufgabe 31",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (65b12fb4ade4d48e556591e7b43933d04fc0cd5deebe403c47cbcab5d476e4d8.txt, original audio SHA-256 65b12fb4ade4d48e556591e7b43933d04fc0cd5deebe403c47cbcab5d476e4d8): Lektion 5, Aufgabe 31. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "31",
+          "chapterTitle": "Im Supermarkt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "65b12fb4ade4d48e556591e7b43933d04fc0cd5deebe403c47cbcab5d476e4d8",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/055 Einfach gut Alpha!.mp3; opening evidence 65b12fb4ade4d48e556591e7b43933d04fc0cd5deebe403c47cbcab5d476e4d8.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-56": {
+      "title": "Im Supermarkt · Aufgabe 32",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (58129972d07e65592043450d3fd2130afaf14c2a2367d3485c635ead9d44e65c.txt, original audio SHA-256 58129972d07e65592043450d3fd2130afaf14c2a2367d3485c635ead9d44e65c): Lektion 5, Aufgabe 32. Was ist richtig? Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "32",
+          "chapterTitle": "Im Supermarkt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "58129972d07e65592043450d3fd2130afaf14c2a2367d3485c635ead9d44e65c",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/056 Einfach gut Alpha!.mp3; opening evidence 58129972d07e65592043450d3fd2130afaf14c2a2367d3485c635ead9d44e65c.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-57": {
+      "title": "Im Supermarkt · Aufgabe 33",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "33",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 6; heading 'Lektion 5: Aufgabe 33', speaker icon Track 57. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapter": 5,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 6,
+          "chapterTitle": "Im Supermarkt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "35e690dfcb8de578aca36bb15cdaf8ee6cfa4e7dfde67e98d98c856ada2e33c3",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/057 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-58": {
+      "title": "Im Supermarkt · Aufgabe 34",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "34",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 7; heading 'Lektion 5: Aufgabe 34', speaker icon Track 58. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapter": 5,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 7,
+          "chapterTitle": "Im Supermarkt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "859a17e4f20898ddf0021cc7e6df5a52c693c4964e1e1650d173cf0946cebbd0",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/058 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-59": {
+      "title": "Im Supermarkt · Aufgabe 36",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (8c344f115352a7f8b491a4a0cc6cfc4d3d80969fa164cd43ebc4f21c468f6646.txt, original audio SHA-256 8c344f115352a7f8b491a4a0cc6cfc4d3d80969fa164cd43ebc4f21c468f6646): Lektion 5, Aufgabe 36. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 5.",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "36",
+          "chapterTitle": "Im Supermarkt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8c344f115352a7f8b491a4a0cc6cfc4d3d80969fa164cd43ebc4f21c468f6646",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/059 Einfach gut Alpha!.mp3; opening evidence 8c344f115352a7f8b491a4a0cc6cfc4d3d80969fa164cd43ebc4f21c468f6646.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-60": {
+      "title": "Projekt: Auf dem Markt · Aufgabe 1",
+      "references": [
+        {
+          "section": "Projekt: Auf dem Markt",
+          "exercise": "1",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 7; heading 'Projekt: Auf dem Markt. Aufgabe 1', speaker icon Track 60. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911.",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "98cea0c862864116cc6b2a28dcd71f7fecccca7ca490ca5b10d266234988c2d7",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/060 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-61": {
+      "title": "Das Jahr · Aufgabe 1",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (b8bd6b2b71c88037780e8f668dd6dc831137b07c15959e327d56899e38e618cd.txt, original audio SHA-256 b8bd6b2b71c88037780e8f668dd6dc831137b07c15959e327d56899e38e618cd): Lektion 6, Aufgabe 1. Hören Sie und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "1",
+          "chapterTitle": "Das Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b8bd6b2b71c88037780e8f668dd6dc831137b07c15959e327d56899e38e618cd",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/061 Einfach gut Alpha!.mp3; opening evidence b8bd6b2b71c88037780e8f668dd6dc831137b07c15959e327d56899e38e618cd.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-62": {
+      "title": "Das Jahr · Aufgabe 4",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (0504c905816d27490f881cdbe58dcd465c9204d49a4746741e8ca70dc42e86bc.txt, original audio SHA-256 0504c905816d27490f881cdbe58dcd465c9204d49a4746741e8ca70dc42e86bc): Lektion 6, Aufgabe 4. Wo hören Sie \"k\" am Anfang, in der Mitte oder am Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "4",
+          "chapterTitle": "Das Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "0504c905816d27490f881cdbe58dcd465c9204d49a4746741e8ca70dc42e86bc",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/062 Einfach gut Alpha!.mp3; opening evidence 0504c905816d27490f881cdbe58dcd465c9204d49a4746741e8ca70dc42e86bc.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-63": {
+      "title": "Das Jahr · Aufgabe 5",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (8eea0d22291d659e3b0b59e2c766a9f91c669696ce5992baab65a2086f2384ff.txt, original audio SHA-256 8eea0d22291d659e3b0b59e2c766a9f91c669696ce5992baab65a2086f2384ff): Lektion 6, Aufgabe 5 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "5",
+          "chapterTitle": "Das Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8eea0d22291d659e3b0b59e2c766a9f91c669696ce5992baab65a2086f2384ff",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/063 Einfach gut Alpha!.mp3; opening evidence 8eea0d22291d659e3b0b59e2c766a9f91c669696ce5992baab65a2086f2384ff.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-64": {
+      "title": "Das Jahr · Aufgabe 9",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (8d919af0fd3906b88dc23a74da35965fd80a05aa5d625517f5f9c1080e7db18d.txt, original audio SHA-256 8d919af0fd3906b88dc23a74da35965fd80a05aa5d625517f5f9c1080e7db18d): Lektion 6, Aufgabe 9. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "9",
+          "chapterTitle": "Das Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8d919af0fd3906b88dc23a74da35965fd80a05aa5d625517f5f9c1080e7db18d",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/064 Einfach gut Alpha!.mp3; opening evidence 8d919af0fd3906b88dc23a74da35965fd80a05aa5d625517f5f9c1080e7db18d.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-65": {
+      "title": "Das Jahr · Aufgabe 12",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (63b7cd5e64c3513cf27824acf727a617c6d2f19bf088d58083594587302c5266-12s-base.txt, original audio SHA-256 63b7cd5e64c3513cf27824acf727a617c6d2f19bf088d58083594587302c5266): Lektion 6, Aufgabe 12, wo hören Sie euch? Kräuzern Sie an. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "12",
+          "chapterTitle": "Das Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "63b7cd5e64c3513cf27824acf727a617c6d2f19bf088d58083594587302c5266",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/065 Einfach gut Alpha!.mp3; opening evidence 63b7cd5e64c3513cf27824acf727a617c6d2f19bf088d58083594587302c5266-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-66": {
+      "title": "Das Jahr · Aufgabe 13",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (0b1c170b6d376dd4ec5a10e239cc71239efc614f21fe83255ff5eb41b430a507-12s-base.txt, original audio SHA-256 0b1c170b6d376dd4ec5a10e239cc71239efc614f21fe83255ff5eb41b430a507): Lektion 6 - Aufgabe 13 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "13",
+          "chapterTitle": "Das Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "0b1c170b6d376dd4ec5a10e239cc71239efc614f21fe83255ff5eb41b430a507",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/066 Einfach gut Alpha!.mp3; opening evidence 0b1c170b6d376dd4ec5a10e239cc71239efc614f21fe83255ff5eb41b430a507-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-67": {
+      "title": "Das Jahr · Aufgabe 16",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (77dec3b1404259b2a78defb2ea92b0cab44c4a71881c1d65b6f87758af7be369-12s-base.txt, original audio SHA-256 77dec3b1404259b2a78defb2ea92b0cab44c4a71881c1d65b6f87758af7be369): Lektion 6 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "16",
+          "chapterTitle": "Das Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "77dec3b1404259b2a78defb2ea92b0cab44c4a71881c1d65b6f87758af7be369",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/067 Einfach gut Alpha!.mp3; opening evidence 77dec3b1404259b2a78defb2ea92b0cab44c4a71881c1d65b6f87758af7be369-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-68": {
+      "title": "Das Jahr · Aufgabe 18",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (e42cc805c749deb619a7a562d80a55cf26d53ea085c5f572a8861bcb2f80cb99-12s-base.txt, original audio SHA-256 e42cc805c749deb619a7a562d80a55cf26d53ea085c5f572a8861bcb2f80cb99): Lektion 6 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "18",
+          "chapterTitle": "Das Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e42cc805c749deb619a7a562d80a55cf26d53ea085c5f572a8861bcb2f80cb99",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/068 Einfach gut Alpha!.mp3; opening evidence e42cc805c749deb619a7a562d80a55cf26d53ea085c5f572a8861bcb2f80cb99-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-69": {
+      "title": "Das Jahr · Aufgabe 23",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (915de7f7581d5488d543f1dadeb33e77a0725970e4154fe79a132270606636e6-12s-base.txt, original audio SHA-256 915de7f7581d5488d543f1dadeb33e77a0725970e4154fe79a132270606636e6): Lektion 6 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "23",
+          "chapterTitle": "Das Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "915de7f7581d5488d543f1dadeb33e77a0725970e4154fe79a132270606636e6",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/069 Einfach gut Alpha!.mp3; opening evidence 915de7f7581d5488d543f1dadeb33e77a0725970e4154fe79a132270606636e6-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-70": {
+      "title": "Das Jahr · Aufgabe 28",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (3582cfff5c55482a5a8593c9d5e8cac0f9fffa3c00bc6cc417d0d0d355c935d7-12s-base.txt, original audio SHA-256 3582cfff5c55482a5a8593c9d5e8cac0f9fffa3c00bc6cc417d0d0d355c935d7): lektion 6 aufgabe 28 welches bild passt hören sie und sprechen sie nach Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "28",
+          "chapterTitle": "Das Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "3582cfff5c55482a5a8593c9d5e8cac0f9fffa3c00bc6cc417d0d0d355c935d7",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/070 Einfach gut Alpha!.mp3; opening evidence 3582cfff5c55482a5a8593c9d5e8cac0f9fffa3c00bc6cc417d0d0d355c935d7-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-71": {
+      "title": "Das Jahr · Aufgabe 30",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "30",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 8; heading 'Lektion 6: Aufgabe 30', speaker icon Track 71. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 6,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 8,
+          "chapterTitle": "Das Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "cc3f56f2bd3aaeaf367503a1838cf7eccaa978be3ac9930c42783bada4bf40e7",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/071 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-72": {
+      "title": "Das Jahr · Aufgabe 33",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (9ad312d9f9df6eedd040ee6f550eb5121dbf89b4a1952b326decc5d14e53c2b1-12s-base.txt, original audio SHA-256 9ad312d9f9df6eedd040ee6f550eb5121dbf89b4a1952b326decc5d14e53c2b1): Lektion 6, Aufgabe 33, hören Sie und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "33",
+          "chapterTitle": "Das Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "9ad312d9f9df6eedd040ee6f550eb5121dbf89b4a1952b326decc5d14e53c2b1",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/072 Einfach gut Alpha!.mp3; opening evidence 9ad312d9f9df6eedd040ee6f550eb5121dbf89b4a1952b326decc5d14e53c2b1-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-73": {
+      "title": "Das Jahr · Aufgabe 36",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (508c0390e455e15f2a9f469f50a2d09f1d4d408e741d82f1170f881e810f9c0f-12s-base.txt, original audio SHA-256 508c0390e455e15f2a9f469f50a2d09f1d4d408e741d82f1170f881e810f9c0f): Lektion 6 Aufgabe 36 Wie spät ist es? Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 6.",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "36",
+          "chapterTitle": "Das Jahr"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "508c0390e455e15f2a9f469f50a2d09f1d4d408e741d82f1170f881e810f9c0f",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/073 Einfach gut Alpha!.mp3; opening evidence 508c0390e455e15f2a9f469f50a2d09f1d4d408e741d82f1170f881e810f9c0f-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-74": {
+      "title": "Zwischentest Lektion 4 bis 6 · Aufgabe 1",
+      "references": [
+        {
+          "section": "Zwischentest Lektion 4 bis 6",
+          "evidence": "Reviewed local opening transcript (62587c38ceeb0c8e58e67120204d9e3d75060f8c0b2151200ccba584cc7d5df5-12s-base.txt, original audio SHA-256 62587c38ceeb0c8e58e67120204d9e3d75060f8c0b2151200ccba584cc7d5df5): Zwischen-Test - Lektion 4 bis 6 - Aufgabe 1",
+          "status": "verified",
+          "exercise": "1"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "62587c38ceeb0c8e58e67120204d9e3d75060f8c0b2151200ccba584cc7d5df5",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/074 Einfach gut Alpha!.mp3; opening evidence 62587c38ceeb0c8e58e67120204d9e3d75060f8c0b2151200ccba584cc7d5df5-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-100-track-75": {
+      "title": "Zwischentest Lektion 4 bis 6 · Aufgabe 4",
+      "references": [
+        {
+          "section": "Zwischentest Lektion 4 bis 6",
+          "evidence": "Reviewed local opening transcript (a9033815b712e8b7947ad1b24e7d88112c530d7a4ebc44af5b430d1436214d42-12s-base.txt, original audio SHA-256 a9033815b712e8b7947ad1b24e7d88112c530d7a4ebc44af5b430d1436214d42): Zwischentest",
+          "status": "verified",
+          "exercise": "4"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "a9033815b712e8b7947ad1b24e7d88112c530d7a4ebc44af5b430d1436214d42",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_1-6/075 Einfach gut Alpha!.mp3; opening evidence a9033815b712e8b7947ad1b24e7d88112c530d7a4ebc44af5b430d1436214d42-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-1": {
+      "title": "Mein Beruf · Aufgabe 1",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (86b5a568b2d0c3745c65e85d18f6b6446e24d957a19f942ed751258b49235b22-12s-base.txt, original audio SHA-256 86b5a568b2d0c3745c65e85d18f6b6446e24d957a19f942ed751258b49235b22): Lektion 7 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "1",
+          "chapterTitle": "Mein Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "86b5a568b2d0c3745c65e85d18f6b6446e24d957a19f942ed751258b49235b22",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/076 Einfach gut Alpha!.mp3; opening evidence 86b5a568b2d0c3745c65e85d18f6b6446e24d957a19f942ed751258b49235b22-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-2": {
+      "title": "Mein Beruf · Aufgabe 5",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (bbfb533224b6d72295c3f3419138b4c7dca5893035db469985276b9e1002b0dc-12s-base.txt, original audio SHA-256 bbfb533224b6d72295c3f3419138b4c7dca5893035db469985276b9e1002b0dc): lektion sieben aufgabe fünff hören sie und sprechen sie nach rock Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "5",
+          "chapterTitle": "Mein Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "bbfb533224b6d72295c3f3419138b4c7dca5893035db469985276b9e1002b0dc",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/077 Einfach gut Alpha!.mp3; opening evidence bbfb533224b6d72295c3f3419138b4c7dca5893035db469985276b9e1002b0dc-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-3": {
+      "title": "Mein Beruf · Aufgabe 10",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (77e77cd4cbaa05c43fad7ac4d3384ac8c528624a881633528da6ecdbeb08ac08-12s-base.txt, original audio SHA-256 77e77cd4cbaa05c43fad7ac4d3384ac8c528624a881633528da6ecdbeb08ac08): Lektion sieben, Aufgabe 10. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "10",
+          "chapterTitle": "Mein Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "77e77cd4cbaa05c43fad7ac4d3384ac8c528624a881633528da6ecdbeb08ac08",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/078 Einfach gut Alpha!.mp3; opening evidence 77e77cd4cbaa05c43fad7ac4d3384ac8c528624a881633528da6ecdbeb08ac08-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-4": {
+      "title": "Mein Beruf · Aufgabe 13",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (7a4687815b8a988ec8ea45cbfc02f1e5710aaf71ffd8ab832df7bff15596c2b2-12s-base.txt, original audio SHA-256 7a4687815b8a988ec8ea45cbfc02f1e5710aaf71ffd8ab832df7bff15596c2b2): Lektion 7 Aufgabe 13 Wo hören Sie \"f\" Wie Frau? Wo? Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "13",
+          "chapterTitle": "Mein Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "7a4687815b8a988ec8ea45cbfc02f1e5710aaf71ffd8ab832df7bff15596c2b2",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/079 Einfach gut Alpha!.mp3; opening evidence 7a4687815b8a988ec8ea45cbfc02f1e5710aaf71ffd8ab832df7bff15596c2b2-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-5": {
+      "title": "Mein Beruf · Aufgabe 14",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (9dd0ff128139a2f68a6ffd3e6eaf6cf0e3d3eeca48e8526fe5856c7319727ac0-12s-base.txt, original audio SHA-256 9dd0ff128139a2f68a6ffd3e6eaf6cf0e3d3eeca48e8526fe5856c7319727ac0): Lektion sieben, Aufgabe 14. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "14",
+          "chapterTitle": "Mein Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "9dd0ff128139a2f68a6ffd3e6eaf6cf0e3d3eeca48e8526fe5856c7319727ac0",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/080 Einfach gut Alpha!.mp3; opening evidence 9dd0ff128139a2f68a6ffd3e6eaf6cf0e3d3eeca48e8526fe5856c7319727ac0-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-6": {
+      "title": "Mein Beruf · Aufgabe 18",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (81a5358b0860dd4fcf26987ce08c6361c73c312ec7cf0ba904db9b0ae4582003-12s-base.txt, original audio SHA-256 81a5358b0860dd4fcf26987ce08c6361c73c312ec7cf0ba904db9b0ae4582003): Lektion 7 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "18",
+          "chapterTitle": "Mein Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "81a5358b0860dd4fcf26987ce08c6361c73c312ec7cf0ba904db9b0ae4582003",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/081 Einfach gut Alpha!.mp3; opening evidence 81a5358b0860dd4fcf26987ce08c6361c73c312ec7cf0ba904db9b0ae4582003-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-7": {
+      "title": "Mein Beruf · Aufgabe 23",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (e5e383c1bbea9747d3967cfc8f5e02f2d2438bb26d313e4a9de86228dccc8a3a-12s-base.txt, original audio SHA-256 e5e383c1bbea9747d3967cfc8f5e02f2d2438bb26d313e4a9de86228dccc8a3a): Lektion 7 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "23",
+          "chapterTitle": "Mein Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e5e383c1bbea9747d3967cfc8f5e02f2d2438bb26d313e4a9de86228dccc8a3a",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/082 Einfach gut Alpha!.mp3; opening evidence e5e383c1bbea9747d3967cfc8f5e02f2d2438bb26d313e4a9de86228dccc8a3a-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-8": {
+      "title": "Mein Beruf · Aufgabe 25",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "25",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 9; heading 'Lektion 7: Aufgabe 25', speaker icon Track 83. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 7,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 9,
+          "chapterTitle": "Mein Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "1742f126b1e6e7442196ec3c170fad2de12cc82ec1af2586191ec2fe5e7a6179",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/083 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-9": {
+      "title": "Mein Beruf · Aufgabe 29/30",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "29/30",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 9; heading 'Lektion 7: Aufgabe 29/30', speaker icon Track 84/85. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 7,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 9,
+          "chapterTitle": "Mein Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "0cddc989810e76ee451d82d5e61484214e6a5296951b3bf98a327e198527312c",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/084 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-10": {
+      "title": "Mein Beruf · Aufgabe 29/30",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "29/30",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 9; heading 'Lektion 7: Aufgabe 29/30', speaker icon Track 84/85. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 7,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 9,
+          "chapterTitle": "Mein Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "6a9f038df643393920d7268695c556722b7c84be65468b6cfcb15e2d6c25d833",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/085 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-11": {
+      "title": "Mein Tag · Aufgabe 1",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (b0fcd48dcdcc727c1c2780e1321382904e7052255071460b8e32aa7a80a9cfe9-12s-base.txt, original audio SHA-256 b0fcd48dcdcc727c1c2780e1321382904e7052255071460b8e32aa7a80a9cfe9): Lektion 8 - Aufgabe 1 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "1",
+          "chapterTitle": "Mein Tag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b0fcd48dcdcc727c1c2780e1321382904e7052255071460b8e32aa7a80a9cfe9",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/086 Einfach gut Alpha!.mp3; opening evidence b0fcd48dcdcc727c1c2780e1321382904e7052255071460b8e32aa7a80a9cfe9-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-12": {
+      "title": "Mein Tag · Aufgabe 6",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (4d977d2bfe0a224f6527069068403c472266a0d8e322a296ac65a77d075b9bcc-12s-base.txt, original audio SHA-256 4d977d2bfe0a224f6527069068403c472266a0d8e322a296ac65a77d075b9bcc): lektion acht, Aufgabe sechs, hören sie und sprechen sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "6",
+          "chapterTitle": "Mein Tag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "4d977d2bfe0a224f6527069068403c472266a0d8e322a296ac65a77d075b9bcc",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/087 Einfach gut Alpha!.mp3; opening evidence 4d977d2bfe0a224f6527069068403c472266a0d8e322a296ac65a77d075b9bcc-12s-base.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-13": {
+      "title": "Mein Tag · Aufgabe 10",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (c9d1ec59ccf84a32ee4e388ffb21cb70c1519a0114343d7756c8e5e10e330663.txt, original audio SHA-256 c9d1ec59ccf84a32ee4e388ffb21cb70c1519a0114343d7756c8e5e10e330663): Lektion 8, Aufgabe 10. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "10",
+          "chapterTitle": "Mein Tag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "c9d1ec59ccf84a32ee4e388ffb21cb70c1519a0114343d7756c8e5e10e330663",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/088 Einfach gut Alpha!.mp3; opening evidence c9d1ec59ccf84a32ee4e388ffb21cb70c1519a0114343d7756c8e5e10e330663.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-14": {
+      "title": "Mein Tag · Aufgabe 16",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (8031c342659823336c73b2f2a0beb287d95f02dff89cf17d6d323168ca67dede.txt, original audio SHA-256 8031c342659823336c73b2f2a0beb287d95f02dff89cf17d6d323168ca67dede): Lektion 8, Aufgabe 16 Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "16",
+          "chapterTitle": "Mein Tag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8031c342659823336c73b2f2a0beb287d95f02dff89cf17d6d323168ca67dede",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/089 Einfach gut Alpha!.mp3; opening evidence 8031c342659823336c73b2f2a0beb287d95f02dff89cf17d6d323168ca67dede.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-15": {
+      "title": "Mein Tag · Aufgabe 25",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "25",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 10; heading 'Lektion 8: Aufgabe 25', speaker icon Track 90. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 8,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 10,
+          "chapterTitle": "Mein Tag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "36ce1f59b3ba9d796a7f23e460e3df6ad9c5816255988855bd2e203a3f2f852e",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/090 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-16": {
+      "title": "Mein Tag · Aufgabe 28",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (df0833c3e66eab3b593e1f7e759fe40c86bb9a81c21c706a3d27c74ac8b6a39a.txt, original audio SHA-256 df0833c3e66eab3b593e1f7e759fe40c86bb9a81c21c706a3d27c74ac8b6a39a): Lektion 8, Aufgabe 28, hören Sie und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "28",
+          "chapterTitle": "Mein Tag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "df0833c3e66eab3b593e1f7e759fe40c86bb9a81c21c706a3d27c74ac8b6a39a",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/091 Einfach gut Alpha!.mp3; opening evidence df0833c3e66eab3b593e1f7e759fe40c86bb9a81c21c706a3d27c74ac8b6a39a.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-17": {
+      "title": "Mein Tag · Aufgabe 30",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "30",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 10; heading 'Lektion 8: Aufgabe 30', speaker icon Track 92. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 8,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 10,
+          "chapterTitle": "Mein Tag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "e1af07012d1deb18b8c6a565b6b2be562bae925bca7c2cc2294e65521c656aaf",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/092 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-18": {
+      "title": "Mein Tag · Aufgabe 34",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (6271cc09a1e31b92824c2648dab48ab3166c94e3452a608c0baca9dc6cde07a2.txt, original audio SHA-256 6271cc09a1e31b92824c2648dab48ab3166c94e3452a608c0baca9dc6cde07a2): Lektion 8, Aufgabe 34. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 9.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "34",
+          "chapterTitle": "Mein Tag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "6271cc09a1e31b92824c2648dab48ab3166c94e3452a608c0baca9dc6cde07a2",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/093 Einfach gut Alpha!.mp3; opening evidence 6271cc09a1e31b92824c2648dab48ab3166c94e3452a608c0baca9dc6cde07a2.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-19": {
+      "title": "Meine Wohnung · Aufgabe 1",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (940c51442b558534fd310b4377743811c3a34c7f571440460db50ef754913cc6.txt, original audio SHA-256 940c51442b558534fd310b4377743811c3a34c7f571440460db50ef754913cc6): Lektion 9, Aufgabe 1. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "1",
+          "chapterTitle": "Meine Wohnung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "940c51442b558534fd310b4377743811c3a34c7f571440460db50ef754913cc6",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/094 Einfach gut Alpha!.mp3; opening evidence 940c51442b558534fd310b4377743811c3a34c7f571440460db50ef754913cc6.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-20": {
+      "title": "Meine Wohnung · Aufgabe 4",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (32b4440587f1bc94201aebe72540cd627581aee3767718f63502923b40e5638f.txt, original audio SHA-256 32b4440587f1bc94201aebe72540cd627581aee3767718f63502923b40e5638f): Lektion 9, Aufgabe 4. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "4",
+          "chapterTitle": "Meine Wohnung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "32b4440587f1bc94201aebe72540cd627581aee3767718f63502923b40e5638f",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/095 Einfach gut Alpha!.mp3; opening evidence 32b4440587f1bc94201aebe72540cd627581aee3767718f63502923b40e5638f.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-21": {
+      "title": "Meine Wohnung · Aufgabe 5",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (e00fde6ef61cbcdd31f4e164d406e27bcce1149352e180378e44a0c8e6308cef.txt, original audio SHA-256 e00fde6ef61cbcdd31f4e164d406e27bcce1149352e180378e44a0c8e6308cef): Lektion 9, Aufgabe 5. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "5",
+          "chapterTitle": "Meine Wohnung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e00fde6ef61cbcdd31f4e164d406e27bcce1149352e180378e44a0c8e6308cef",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/096 Einfach gut Alpha!.mp3; opening evidence e00fde6ef61cbcdd31f4e164d406e27bcce1149352e180378e44a0c8e6308cef.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-22": {
+      "title": "Meine Wohnung · Aufgabe 10",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (85aa28a69f5802a160d6988fa744781539fb59964d0fb2db61bc340cd92e97bc.txt, original audio SHA-256 85aa28a69f5802a160d6988fa744781539fb59964d0fb2db61bc340cd92e97bc): Lektion 9, Aufgabe 10. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "10",
+          "chapterTitle": "Meine Wohnung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "85aa28a69f5802a160d6988fa744781539fb59964d0fb2db61bc340cd92e97bc",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/097 Einfach gut Alpha!.mp3; opening evidence 85aa28a69f5802a160d6988fa744781539fb59964d0fb2db61bc340cd92e97bc.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-23": {
+      "title": "Meine Wohnung · Aufgabe 14",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (28c1b832be1428e1171f21f449bef57e637f657867c1523c3cc0d91ab354d2a0.txt, original audio SHA-256 28c1b832be1428e1171f21f449bef57e637f657867c1523c3cc0d91ab354d2a0): Lektion 9. Aufgabe 14. Diktat. Hören Sie und schreiben Sie in Ihr Heft. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "14",
+          "chapterTitle": "Meine Wohnung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "28c1b832be1428e1171f21f449bef57e637f657867c1523c3cc0d91ab354d2a0",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/098 Einfach gut Alpha!.mp3; opening evidence 28c1b832be1428e1171f21f449bef57e637f657867c1523c3cc0d91ab354d2a0.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-24": {
+      "title": "Meine Wohnung · Aufgabe 15",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (09c83495dcdc4676fd1488b210fc496c237e9e03f197d3f8a1793fa46e17ab35.txt, original audio SHA-256 09c83495dcdc4676fd1488b210fc496c237e9e03f197d3f8a1793fa46e17ab35): Lektion 9, Aufgabe 15. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "15",
+          "chapterTitle": "Meine Wohnung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "09c83495dcdc4676fd1488b210fc496c237e9e03f197d3f8a1793fa46e17ab35",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/099 Einfach gut Alpha!.mp3; opening evidence 09c83495dcdc4676fd1488b210fc496c237e9e03f197d3f8a1793fa46e17ab35.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-25": {
+      "title": "Meine Wohnung · Aufgabe 20",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (90a6ba3d5c9ec6286a8a2c08aac675ac5a5ee95819b674857f32cfb66868a27a.txt, original audio SHA-256 90a6ba3d5c9ec6286a8a2c08aac675ac5a5ee95819b674857f32cfb66868a27a): Lektion 9, Aufgabe 20. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "20",
+          "chapterTitle": "Meine Wohnung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "90a6ba3d5c9ec6286a8a2c08aac675ac5a5ee95819b674857f32cfb66868a27a",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/100 Einfach gut Alpha!.mp3; opening evidence 90a6ba3d5c9ec6286a8a2c08aac675ac5a5ee95819b674857f32cfb66868a27a.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-26": {
+      "title": "Meine Wohnung · Aufgabe 29",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "29",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 11; heading 'Lektion 9: Aufgabe 29', speaker icon Track 101. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 9,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 11,
+          "chapterTitle": "Meine Wohnung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "71eb6948d85761d0ab3c8296ab159656f143691661c6b6e65b57f1f3ae66d43c",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/101 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-27": {
+      "title": "Meine Wohnung · Aufgabe 32",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (ccd39d83014a0828d0bdf302e2562915dabafd8258ad4a33d68f7a98366cbd4c.txt, original audio SHA-256 ccd39d83014a0828d0bdf302e2562915dabafd8258ad4a33d68f7a98366cbd4c): Lektion 9, Aufgabe 32. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "32",
+          "chapterTitle": "Meine Wohnung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "ccd39d83014a0828d0bdf302e2562915dabafd8258ad4a33d68f7a98366cbd4c",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/102 Einfach gut Alpha!.mp3; opening evidence ccd39d83014a0828d0bdf302e2562915dabafd8258ad4a33d68f7a98366cbd4c.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-28": {
+      "title": "Meine Wohnung · Aufgabe 34",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (04dd17da6be92db24c681f49bfd20a1908eaec6663c2a0870c12e4687d615696.txt, original audio SHA-256 04dd17da6be92db24c681f49bfd20a1908eaec6663c2a0870c12e4687d615696): Lektion 9, Aufgabe 34. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "34",
+          "chapterTitle": "Meine Wohnung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "04dd17da6be92db24c681f49bfd20a1908eaec6663c2a0870c12e4687d615696",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/103 Einfach gut Alpha!.mp3; opening evidence 04dd17da6be92db24c681f49bfd20a1908eaec6663c2a0870c12e4687d615696.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-29": {
+      "title": "Meine Wohnung · Aufgabe 35",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "35",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 12; heading 'Lektion 9: Aufgabe 35', speaker icon Track 104. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 9,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 12,
+          "chapterTitle": "Meine Wohnung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "91a95434b628be6afef3f5d522aa6fb19a3ecc502d62366828ef032ec505a345",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/104 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-30": {
+      "title": "Zwischentest: Lektion 7–9 · Aufgabe 1",
+      "references": [
+        {
+          "section": "Zwischentest: Lektion 7–9",
+          "exercise": "1",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 12; heading 'Zwischentest: Lektion 7–9, Aufgabe 1', speaker icon Track 105. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911.",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "284b6a0152a5973a8345fdacdbe7be1240856d166c15c9899da089bb1596a36b",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/105 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-31": {
+      "title": "In der Stadt · Aufgabe 1",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (5830d2e5a99282a3aafb6208582328e6ec3ce0302cef30adcd22725b17a6dde4.txt, original audio SHA-256 5830d2e5a99282a3aafb6208582328e6ec3ce0302cef30adcd22725b17a6dde4): Lektion 10, Aufgabe 1. Hören Sie und sprechen Sie nach! Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "1",
+          "chapterTitle": "In der Stadt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "5830d2e5a99282a3aafb6208582328e6ec3ce0302cef30adcd22725b17a6dde4",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/106 Einfach gut Alpha!.mp3; opening evidence 5830d2e5a99282a3aafb6208582328e6ec3ce0302cef30adcd22725b17a6dde4.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-32": {
+      "title": "In der Stadt · Aufgabe 4",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (48a0c41a0c3e31b504a29bd94e15ec74031c755bf5e9fc28a4bf6f749af98418.txt, original audio SHA-256 48a0c41a0c3e31b504a29bd94e15ec74031c755bf5e9fc28a4bf6f749af98418): Lektion 10, Aufgabe 4. Hören Sie und schreiben Sie. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "4",
+          "chapterTitle": "In der Stadt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "48a0c41a0c3e31b504a29bd94e15ec74031c755bf5e9fc28a4bf6f749af98418",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/107 Einfach gut Alpha!.mp3; opening evidence 48a0c41a0c3e31b504a29bd94e15ec74031c755bf5e9fc28a4bf6f749af98418.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-33": {
+      "title": "In der Stadt · Aufgabe 5",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (fa16ec4f08e2f50c8d8cb7fc3a1a811a2b704f26b13bd98bfa79f3a98b5c30eb.txt, original audio SHA-256 fa16ec4f08e2f50c8d8cb7fc3a1a811a2b704f26b13bd98bfa79f3a98b5c30eb): Lektion 10, Aufgabe 5, Diktat. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "5",
+          "chapterTitle": "In der Stadt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "fa16ec4f08e2f50c8d8cb7fc3a1a811a2b704f26b13bd98bfa79f3a98b5c30eb",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/108 Einfach gut Alpha!.mp3; opening evidence fa16ec4f08e2f50c8d8cb7fc3a1a811a2b704f26b13bd98bfa79f3a98b5c30eb.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-34": {
+      "title": "In der Stadt · Aufgabe 6",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (113dce2bd85265b9c22411f7c53a7d5a289b1361c77e9745edcd351cc23bfffe.txt, original audio SHA-256 113dce2bd85265b9c22411f7c53a7d5a289b1361c77e9745edcd351cc23bfffe): Lektion 10, Aufgabe 6, hören Sie und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "6",
+          "chapterTitle": "In der Stadt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "113dce2bd85265b9c22411f7c53a7d5a289b1361c77e9745edcd351cc23bfffe",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/109 Einfach gut Alpha!.mp3; opening evidence 113dce2bd85265b9c22411f7c53a7d5a289b1361c77e9745edcd351cc23bfffe.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-35": {
+      "title": "In der Stadt · Aufgabe 11",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (dc4e7648c990ab3fee71bf1476ce825cbc6dd2a41485b6028d0dd9a9935a4262.txt, original audio SHA-256 dc4e7648c990ab3fee71bf1476ce825cbc6dd2a41485b6028d0dd9a9935a4262): Lektion 10, Aufgabe 11. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "11",
+          "chapterTitle": "In der Stadt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "dc4e7648c990ab3fee71bf1476ce825cbc6dd2a41485b6028d0dd9a9935a4262",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/110 Einfach gut Alpha!.mp3; opening evidence dc4e7648c990ab3fee71bf1476ce825cbc6dd2a41485b6028d0dd9a9935a4262.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-36": {
+      "title": "In der Stadt · Aufgabe 21/22",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "21/22",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 13; heading 'Lektion 10: Aufgabe 21/22', speaker icon Track 111/112. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 10,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 13,
+          "chapterTitle": "In der Stadt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "e07a3d3940c7a78bf4228eb4a83c6e6d08a30f569c3b29e024dfe291e49efabc",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/111 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-37": {
+      "title": "In der Stadt · Aufgabe 21/22",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "21/22",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 13; heading 'Lektion 10: Aufgabe 21/22', speaker icon Track 111/112. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 10,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 13,
+          "chapterTitle": "In der Stadt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "fd29603cfb39c30c3685ca8de7e937459389bfcb9be015ede170cf50f0447dd7",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/112 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-38": {
+      "title": "In der Stadt · Aufgabe 25",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "25",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 13; heading 'Lektion 10: Aufgabe 25', speaker icon Track 113. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 10,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 13,
+          "chapterTitle": "In der Stadt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "4343a59912f14f03d7f008203e35cf1d49bfd8906828a8b86733fbf45d1c5aed",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/113 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-39": {
+      "title": "In der Stadt · Aufgabe 27",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "27",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 14; heading 'Lektion 10: Aufgabe 27', speaker icon Track 114. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 10,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 14,
+          "chapterTitle": "In der Stadt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "69919ff95460fd61d55137e2b84df1b6bcbf2deb4f5997e35f0b3704385be7a7",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/114 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-40": {
+      "title": "In der Stadt · Aufgabe 33",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "33",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 14; heading 'Lektion 10: Aufgabe 33', speaker icon Track 115. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 11.",
+          "status": "verified",
+          "chapter": 10,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 14,
+          "chapterTitle": "In der Stadt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "d506e6e9807ca9c0e84763f11e766ae4d137e5f5c3708347b56a294dc194b2ab",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/115 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-41": {
+      "title": "Beim Arzt · Aufgabe 1",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (34a0fb8272924ec2fd3e13c53dcd8ec2a3f687940cb0d2cff87ce17f9de3d2aa.txt, original audio SHA-256 34a0fb8272924ec2fd3e13c53dcd8ec2a3f687940cb0d2cff87ce17f9de3d2aa): Lektion 11, Aufgabe 1. Hören Sie und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "1",
+          "chapterTitle": "Beim Arzt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "34a0fb8272924ec2fd3e13c53dcd8ec2a3f687940cb0d2cff87ce17f9de3d2aa",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/116 Einfach gut Alpha!.mp3; opening evidence 34a0fb8272924ec2fd3e13c53dcd8ec2a3f687940cb0d2cff87ce17f9de3d2aa.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-42": {
+      "title": "Beim Arzt · Aufgabe 4",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (97adef4b984c5b957ed982b915a07717baf8c892e51339ffff90759b25d3f830.txt, original audio SHA-256 97adef4b984c5b957ed982b915a07717baf8c892e51339ffff90759b25d3f830): Lektion 11, Aufgabe 4. Hören Sie und schreiben Sie. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "4",
+          "chapterTitle": "Beim Arzt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "97adef4b984c5b957ed982b915a07717baf8c892e51339ffff90759b25d3f830",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/117 Einfach gut Alpha!.mp3; opening evidence 97adef4b984c5b957ed982b915a07717baf8c892e51339ffff90759b25d3f830.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-43": {
+      "title": "Beim Arzt · Aufgabe 11",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (50d977472963a6d7f6acd8eb41b4cc4477c163d067e0ebac59b856373aca2e5a.txt, original audio SHA-256 50d977472963a6d7f6acd8eb41b4cc4477c163d067e0ebac59b856373aca2e5a): Lektion 11, Aufgabe 11. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "11",
+          "chapterTitle": "Beim Arzt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "50d977472963a6d7f6acd8eb41b4cc4477c163d067e0ebac59b856373aca2e5a",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/118 Einfach gut Alpha!.mp3; opening evidence 50d977472963a6d7f6acd8eb41b4cc4477c163d067e0ebac59b856373aca2e5a.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-44": {
+      "title": "Beim Arzt · Aufgabe 12",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (413532b47c29c0fc8fd0e1932198f912b4cb88851e4857dc513169adf3b159ef.txt, original audio SHA-256 413532b47c29c0fc8fd0e1932198f912b4cb88851e4857dc513169adf3b159ef): Lektion elf, Aufgabe zwölf. Lesen Sie, hören Sie dann und sprechen Sie nach. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "12",
+          "chapterTitle": "Beim Arzt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "413532b47c29c0fc8fd0e1932198f912b4cb88851e4857dc513169adf3b159ef",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/119 Einfach gut Alpha!.mp3; opening evidence 413532b47c29c0fc8fd0e1932198f912b4cb88851e4857dc513169adf3b159ef.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-45": {
+      "title": "Beim Arzt · Aufgabe 18",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "18",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 15; heading 'Lektion 11: Aufgabe 18', speaker icon Track 120. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 11,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 15,
+          "chapterTitle": "Beim Arzt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "7a0a834034698e58e636249aa61a19ce06cb13a2ab008635540bf8025bd4f56c",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/120 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-46": {
+      "title": "Beim Arzt · Aufgabe 21/22",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "21/22",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 16; heading 'Lektion 11: Aufgabe 21/22', speaker icon Track 121/122. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 11,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 16,
+          "chapterTitle": "Beim Arzt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "dafee9c873554366f5be61d54a709ee1730d563b381b24b6b53f83786bad75e8",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/121 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-47": {
+      "title": "Beim Arzt · Aufgabe 21/22",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "21/22",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 16; heading 'Lektion 11: Aufgabe 21/22', speaker icon Track 121/122. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 11,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 16,
+          "chapterTitle": "Beim Arzt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "e44885cd4575120771fb780b61ab90a03851d8e49012c4c0b23e3790a311d508",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/122 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-48": {
+      "title": "Beim Arzt · Aufgabe 24",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (977733314e56ff0973daa9517854f1a10e227da78326309b790319f4ed24ebb8.txt, original audio SHA-256 977733314e56ff0973daa9517854f1a10e227da78326309b790319f4ed24ebb8): Lektion 11, Aufgabe 24. Diktat. Hören Sie und schreiben Sie in Ihr Heft. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "24",
+          "chapterTitle": "Beim Arzt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "977733314e56ff0973daa9517854f1a10e227da78326309b790319f4ed24ebb8",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/123 Einfach gut Alpha!.mp3; opening evidence 977733314e56ff0973daa9517854f1a10e227da78326309b790319f4ed24ebb8.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-49": {
+      "title": "Beim Arzt · Aufgabe 26",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "26",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 17; heading 'Lektion 11: Aufgabe 26', speaker icon Track 124. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 11,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 17,
+          "chapterTitle": "Beim Arzt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "4501e92022410601b911d25cefb9122f4470745bdcce31ed676ee8994782bb70",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/124 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-50": {
+      "title": "Beim Arzt · Aufgabe 29",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "29",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 17; heading 'Lektion 11: Aufgabe 29', speaker icon Track 125. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 11,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 17,
+          "chapterTitle": "Beim Arzt"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "8b134e42ea0d44ff7d3af6b3e3a866e6430423675d9e31502182f642402dc6a1",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/125 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-51": {
+      "title": "Ämter und Behörden · Aufgabe 1",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (bcca26477bc1b07734b3c5c58ab97b71dae8bd111f0887dcb15dd468b39f13d4.txt, original audio SHA-256 bcca26477bc1b07734b3c5c58ab97b71dae8bd111f0887dcb15dd468b39f13d4): Lektion 12, Aufgabe 1. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "1",
+          "chapterTitle": "Ämter und Behörden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "bcca26477bc1b07734b3c5c58ab97b71dae8bd111f0887dcb15dd468b39f13d4",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/126 Einfach gut Alpha!.mp3; opening evidence bcca26477bc1b07734b3c5c58ab97b71dae8bd111f0887dcb15dd468b39f13d4.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-52": {
+      "title": "Ämter und Behörden · Aufgabe 10",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (78879982941ac5a7e085df975abafcfa0984b021581613927f67a784ba3ebadd.txt, original audio SHA-256 78879982941ac5a7e085df975abafcfa0984b021581613927f67a784ba3ebadd): Lektion zwölf, Aufgabe zehn. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "10",
+          "chapterTitle": "Ämter und Behörden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "78879982941ac5a7e085df975abafcfa0984b021581613927f67a784ba3ebadd",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/127 Einfach gut Alpha!.mp3; opening evidence 78879982941ac5a7e085df975abafcfa0984b021581613927f67a784ba3ebadd.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-53": {
+      "title": "Ämter und Behörden · Aufgabe 13",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (688159fd54956d9f23adb48f6e55abc1548ac48de6decc9fdbf29b0f1976a955.txt, original audio SHA-256 688159fd54956d9f23adb48f6e55abc1548ac48de6decc9fdbf29b0f1976a955): Lektion zwölf, Aufgabe 13. Wie heißt die Frau? Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "13",
+          "chapterTitle": "Ämter und Behörden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "688159fd54956d9f23adb48f6e55abc1548ac48de6decc9fdbf29b0f1976a955",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/128 Einfach gut Alpha!.mp3; opening evidence 688159fd54956d9f23adb48f6e55abc1548ac48de6decc9fdbf29b0f1976a955.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-54": {
+      "title": "Ämter und Behörden · Aufgabe 14",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (02be608e938c244ebe55e22f20f4be9ce2196ddc87ad92dc25b5dffe65b51832.txt, original audio SHA-256 02be608e938c244ebe55e22f20f4be9ce2196ddc87ad92dc25b5dffe65b51832): Lektion 12, Aufgabe 14. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "14",
+          "chapterTitle": "Ämter und Behörden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "02be608e938c244ebe55e22f20f4be9ce2196ddc87ad92dc25b5dffe65b51832",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/129 Einfach gut Alpha!.mp3; opening evidence 02be608e938c244ebe55e22f20f4be9ce2196ddc87ad92dc25b5dffe65b51832.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-55": {
+      "title": "Ämter und Behörden · Aufgabe 17/18",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "17/18",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 18; heading 'Lektion 12: Aufgabe 17/18', speaker icon Track 130/131. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 12,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 18,
+          "chapterTitle": "Ämter und Behörden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "00e86cec0342a0b4a58700c8b799e23f9172d3e300071e7dd40635dc1ec684d8",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/130 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-56": {
+      "title": "Ämter und Behörden · Aufgabe 17/18",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "17/18",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 18; heading 'Lektion 12: Aufgabe 17/18', speaker icon Track 130/131. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 12,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 18,
+          "chapterTitle": "Ämter und Behörden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "8d92dd69587b8edf60697618a56db69ca8f179b0d6192924c13f991071583395",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/131 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-57": {
+      "title": "Ämter und Behörden · Aufgabe 22",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "22",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 19; heading 'Lektion 12: Aufgabe 22', speaker icon Track 132. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 12,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 19,
+          "chapterTitle": "Ämter und Behörden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "43338a094272c15038da8c54f80b16daa653b20b8d3e976a49b2c5bd2bb07370",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/132 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-58": {
+      "title": "Ämter und Behörden · Aufgabe 23",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "evidence": "Reviewed local opening transcript (4145aa0572c24a16dfb273e3b8f0b3e97b07c04a7a6a704b1775f26deedf57e3.txt, original audio SHA-256 4145aa0572c24a16dfb273e3b8f0b3e97b07c04a7a6a704b1775f26deedf57e3): Lektion zwölf, Aufgabe 23. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "23",
+          "chapterTitle": "Ämter und Behörden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "4145aa0572c24a16dfb273e3b8f0b3e97b07c04a7a6a704b1775f26deedf57e3",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/133 Einfach gut Alpha!.mp3; opening evidence 4145aa0572c24a16dfb273e3b8f0b3e97b07c04a7a6a704b1775f26deedf57e3.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-59": {
+      "title": "Ämter und Behörden · Aufgabe 28/29",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "28/29",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 20; heading 'Lektion 12: Aufgabe 28/29', speaker icon Track 134/135. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 12,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 20,
+          "chapterTitle": "Ämter und Behörden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "c2dbdb73711f57416a915baa508d1e996a20969ea619828f97fe43842a168dfa",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/134 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-60": {
+      "title": "Ämter und Behörden · Aufgabe 28/29",
+      "references": [
+        {
+          "section": "Lehrbuch",
+          "exercise": "28/29",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf; PDF p. 20; heading 'Lektion 12: Aufgabe 28/29', speaker icon Track 134/135. PDF SHA-256 efd253b65ed4730805686401f28718c1bb7de8686ad005d8c79475bbc7c85911. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/15_Wortschatzliste_Einfach gut_Alpha_Englisch.pdf, PDF p. 12.",
+          "status": "verified",
+          "chapter": 12,
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte.pdf",
+          "sourcePage": 20,
+          "chapterTitle": "Ämter und Behörden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "5cff0ccbf23ef08e1660d43c99dfb658cf45e73f47522e85f8b7f2e1ca552f20",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/135 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-61": {
+      "title": "Abschlusstest: Hören · Aufgabe 1",
+      "references": [
+        {
+          "section": "Abschlusstest: Hören",
+          "evidence": "Reviewed local opening transcript (174ec2268ed4646b11eaff1270a86893f0ba6d58c56c5d16a08bc207cbb6c213.txt, original audio SHA-256 174ec2268ed4646b11eaff1270a86893f0ba6d58c56c5d16a08bc207cbb6c213): Abschlusstest. Hören Aufgabe 1. Was hören Sie am Anfang?",
+          "status": "verified",
+          "exercise": "1"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "174ec2268ed4646b11eaff1270a86893f0ba6d58c56c5d16a08bc207cbb6c213",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/136 Einfach gut Alpha!.mp3; opening evidence 174ec2268ed4646b11eaff1270a86893f0ba6d58c56c5d16a08bc207cbb6c213.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-62": {
+      "title": "Abschlusstest: Hören · Aufgabe 2",
+      "references": [
+        {
+          "section": "Abschlusstest: Hören",
+          "evidence": "Reviewed local opening transcript (a8fb55221b738636f5d8b69c3446c547b13daa30615f61bd9f01cf4c2dba5ec5.txt, original audio SHA-256 a8fb55221b738636f5d8b69c3446c547b13daa30615f61bd9f01cf4c2dba5ec5): Abschlusstest, hören, Aufgabe 2.",
+          "status": "verified",
+          "exercise": "2"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "a8fb55221b738636f5d8b69c3446c547b13daa30615f61bd9f01cf4c2dba5ec5",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/137 Einfach gut Alpha!.mp3; opening evidence a8fb55221b738636f5d8b69c3446c547b13daa30615f61bd9f01cf4c2dba5ec5.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-63": {
+      "title": "Abschlusstest: Hören · Aufgabe 3",
+      "references": [
+        {
+          "section": "Abschlusstest: Hören",
+          "evidence": "Reviewed local opening transcript (7688051714157af2ccf8366878d69e1ab1d89a77f2054506c1b0d29ba8f515f9.txt, original audio SHA-256 7688051714157af2ccf8366878d69e1ab1d89a77f2054506c1b0d29ba8f515f9): Abschlusstest",
+          "status": "verified",
+          "exercise": "3"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "7688051714157af2ccf8366878d69e1ab1d89a77f2054506c1b0d29ba8f515f9",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/138 Einfach gut Alpha!.mp3; opening evidence 7688051714157af2ccf8366878d69e1ab1d89a77f2054506c1b0d29ba8f515f9.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-64": {
+      "title": "Abschlusstest: Hören · Aufgabe 4",
+      "references": [
+        {
+          "section": "Abschlusstest: Hören",
+          "exercise": "4",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte_Abschlusstest.pdf; PDF p. 1; heading 'Abschlusstest: Hören, Aufgabe 4', speaker icon Track 139. PDF SHA-256 ac2f4e7a8035542dabad956faa4f22d364780e0f82a07ca7c319a68a51cf7dc1.",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte_Abschlusstest.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "f8bfdc8466c832aab18ac7585efb10f7eabeb67601ab7d84c1bc6182a415d85d",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/139 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-alpha-pack-101-track-65": {
+      "title": "Abschlusstest: Hören · Aufgabe 5",
+      "references": [
+        {
+          "section": "Abschlusstest: Hören",
+          "exercise": "5",
+          "evidence": "Official telc Alpha Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte_Abschlusstest.pdf; PDF p. 1; heading 'Abschlusstest: Hören, Aufgabe 5', speaker icon Track 140. PDF SHA-256 ac2f4e7a8035542dabad956faa4f22d364780e0f82a07ca7c319a68a51cf7dc1.",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut_Alpha/Loesungen_Hoertexte/KV_Alpha_Hoertexte_Abschlusstest.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "1e2460fc69581cd1b658649226927bbcff615ba417a6ab84e9cd80a39db6214f",
+        "sourceLocator": "Original ZIP member Einfach_gut_Alpha!_Lektion_7-12/140 Einfach gut Alpha!.mp3; reviewed official source context"
+      }
+    }
+  },
+  "documents": {
+    "einfach-gut-alpha-doc-1": {
+      "title": "Hörtexte Lektion 2",
+      "references": [
+        {
+          "section": "Hörtexte",
+          "chapter": 2,
+          "evidence": "Official app document title 'Hörtexte Lektion 2' and original PDF header identify this chapter.",
+          "status": "verified",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/01_Hörtexte_Lektion 2.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "a8cf096df66e906b98fe19efc57d21ee0e75ce24b3d2c98ebf01e0158c7e7829"
+      }
+    },
+    "einfach-gut-alpha-doc-2": {
+      "title": "Hörtexte Lektion 3",
+      "references": [
+        {
+          "section": "Hörtexte",
+          "chapter": 3,
+          "evidence": "Official app document title 'Hörtexte Lektion 3' and original PDF header identify this chapter.",
+          "status": "verified",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/02_Hörtexte_Lektion 3.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "ec9078815c2aa38255afb4533c32d7570781c2504f6a6c33ddc046285c96a194"
+      }
+    },
+    "einfach-gut-alpha-doc-3": {
+      "title": "Hörtexte Lektion 4",
+      "references": [
+        {
+          "section": "Hörtexte",
+          "chapter": 4,
+          "evidence": "Official app document title 'Hörtexte Lektion 4' and original PDF header identify this chapter.",
+          "status": "verified",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/03_Hörtexte_Lektion 4.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "474d47d1bd4f8152bfe8b483519128475ddd04a3619c4d2dca33ccdfc71bc639"
+      }
+    },
+    "einfach-gut-alpha-doc-4": {
+      "title": "Hörtexte Lektion 5",
+      "references": [
+        {
+          "section": "Hörtexte",
+          "chapter": 5,
+          "evidence": "Official app document title 'Hörtexte Lektion 5' and original PDF header identify this chapter.",
+          "status": "verified",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/04_Hörtexte_Lektion 5.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "fbb11b091bd0876796f961434e73be4babfb9026040fa3f893defcc35201b9df"
+      }
+    },
+    "einfach-gut-alpha-doc-5": {
+      "title": "Hörtexte Lektion 6",
+      "references": [
+        {
+          "section": "Hörtexte",
+          "chapter": 6,
+          "evidence": "Official app document title 'Hörtexte Lektion 6' and original PDF header identify this chapter.",
+          "status": "verified",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/05_Hörtexte_Lektion 6.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "736002c0d76b4a9dee39becec902399140eb824d587917b302953ae5f2cdd5a1"
+      }
+    },
+    "einfach-gut-alpha-doc-6": {
+      "title": "Hörtexte Lektion 7",
+      "references": [
+        {
+          "section": "Hörtexte",
+          "chapter": 7,
+          "evidence": "Official app document title 'Hörtexte Lektion 7' and original PDF header identify this chapter.",
+          "status": "verified",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/06_Hörtexte_Lektion 7.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "9a7d7f8a285cdfbe65988a6bb90029928f780d6507b707d37530fc23176aefd4"
+      }
+    },
+    "einfach-gut-alpha-doc-7": {
+      "title": "Hörtexte Lektion 8",
+      "references": [
+        {
+          "section": "Hörtexte",
+          "chapter": 8,
+          "evidence": "Official app document title 'Hörtexte Lektion 8' and original PDF header identify this chapter.",
+          "status": "verified",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/07_Hörtexte_Lektion 8.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "eac89cf3d0b67bf77c7875f99b052b143718f949dbe1ae075d75770720af69b3"
+      }
+    },
+    "einfach-gut-alpha-doc-8": {
+      "title": "Hörtexte Lektion 9",
+      "references": [
+        {
+          "section": "Hörtexte",
+          "chapter": 9,
+          "evidence": "Official app document title 'Hörtexte Lektion 9' and original PDF header identify this chapter.",
+          "status": "verified",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/08_Hörtexte_Lektion 9.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "fef2eb07a3e0cc1750cc86660202337e964b03e01575737cd0ac153038b95f5e"
+      }
+    },
+    "einfach-gut-alpha-doc-9": {
+      "title": "Hörtexte Lektion 10",
+      "references": [
+        {
+          "section": "Hörtexte",
+          "chapter": 10,
+          "evidence": "Official app document title 'Hörtexte Lektion 10' and original PDF header identify this chapter.",
+          "status": "verified",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/09_Hörtexte_Lektion 10.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "8bc41d7278670e454b49d54fa9d31e784efaafe113f7cac7c61b1fe97094113e"
+      }
+    },
+    "einfach-gut-alpha-doc-10": {
+      "title": "Hörtexte Lektion 11",
+      "references": [
+        {
+          "section": "Hörtexte",
+          "chapter": 11,
+          "evidence": "Official app document title 'Hörtexte Lektion 11' and original PDF header identify this chapter.",
+          "status": "verified",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/10_Hörtexte_Lektion 11.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "bed2c3c4682c68ab479df048388138097742f9ae0c66e1b79e44a818585fc2cb"
+      }
+    },
+    "einfach-gut-alpha-doc-11": {
+      "title": "Hörtexte Lektion 12",
+      "references": [
+        {
+          "section": "Hörtexte",
+          "chapter": 12,
+          "evidence": "Official app document title 'Hörtexte Lektion 12' and original PDF header identify this chapter.",
+          "status": "verified",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/10_Einfach_gut_Alpha!/HiddenFolder/other/11_Hörtexte_Lektion 12.pdf",
+          "sourcePage": 1
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "994f37ab9b0120db9d246616bc49af6d4687d8069d920531d3437478ed04ead3"
+      }
+    },
+    "einfach-gut-alpha-doc-12": {
+      "title": "Hörtexte Abschlusstest",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "ac2f4e7a8035542dabad956faa4f22d364780e0f82a07ca7c319a68a51cf7dc1",
+        "reason": "Original German or English vocabulary/listening document retained intact; no per-word or printed-page annotations are introduced."
+      }
+    },
+    "einfach-gut-alpha-doc-14": {
+      "title": "Wortschatzliste Einfach gut Alpha Deutsch",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "b210abaf6abdbffcdf2ab4e3bfc19b052ec8ce13a084a6f570df1a113fa2c5a0",
+        "reason": "Original German or English vocabulary/listening document retained intact; no per-word or printed-page annotations are introduced."
+      }
+    },
+    "einfach-gut-alpha-doc-15": {
+      "title": "Wortschatzliste Einfach gut Alpha Englisch",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "68e3dffb0a2e8f612506fd804a07cc4f8802334462089508a65dfa68766a10c2",
+        "reason": "Original German or English vocabulary/listening document retained intact; no per-word or printed-page annotations are introduced."
+      }
+    }
+  }
+}

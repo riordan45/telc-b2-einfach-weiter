@@ -1,0 +1,1003 @@
+{
+  "bookId": "einfach-gut-b1-2",
+  "review": {
+    "author": "metadata_pipeline",
+    "reviewedAt": "2026-10-11T18:27:11.308344+00:00",
+    "reviewer": "app_architecture",
+    "independentlyReviewedAt": "2026-10-11T18:28:34.435311+00:00"
+  },
+  "sources": [
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+      "sha256": "760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb",
+      "pageCount": 19
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf",
+      "sha256": "abe794fd3af6576382f63fec64931580e2afa0945703f757c7dae2c300e7760d",
+      "pageCount": 16
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Alphabetische_Wortschatzliste_Einfach_gut_B1.pdf",
+      "sha256": "758007fdc3e15bd731ba87a5d0680349d98c7bb34f034fe0b903f131d6cecd4d",
+      "pageCount": 8
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Deutsch.pdf",
+      "sha256": "f2469d1c7b8d2b606681cc4829fb8eb206506ef5667ef097ab461c0ebc86db1e",
+      "pageCount": 16
+    }
+  ],
+  "tracks": {
+    "einfach-gut-b1-2-pack-100-track-1": {
+      "title": "Einführung",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "83aea7debe04318e812c8bcd58e8906d89093cb134dabae57be721e86d1cd344",
+        "reason": "Introductory publisher and book announcement; no exercise reference applies.",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_1.mp3; opening evidence 83aea7debe04318e812c8bcd58e8906d89093cb134dabae57be721e86d1cd344.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-2": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 8; heading 'Aufgabe 1a' lists Track 2. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "1a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 8,
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "a8d3a03d0e4393932aa64958db33a278a477ad96c90416c3d0b6e580094c48b4",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_2.mp3; opening evidence a8d3a03d0e4393932aa64958db33a278a477ad96c90416c3d0b6e580094c48b4.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-3": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe 1b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 8; heading 'Aufgabe 1b' lists Track 3. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "1b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 8,
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "dc4ac69a0da3b238f1373217f37e686d86a26d25ca2f7430bde5a1b4a02dbf16",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_3.mp3; opening evidence dc4ac69a0da3b238f1373217f37e686d86a26d25ca2f7430bde5a1b4a02dbf16.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-4": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 8; heading 'Aufgabe 4a' lists Track 4. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "4a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 8,
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "ff35f890afe32fc79abb4a20c828bc69286632becbaffe92cbab0f355b38f4a8",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_4.mp3; opening evidence ff35f890afe32fc79abb4a20c828bc69286632becbaffe92cbab0f355b38f4a8.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-5": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 8; heading 'Aufgabe 5a' lists Track 5. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "5a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 8,
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "49fe938b61e340f3087f8295fb71b6e845ed713906618efb8659a4fbe5c59ade",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_5.mp3; opening evidence 49fe938b61e340f3087f8295fb71b6e845ed713906618efb8659a4fbe5c59ade.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-6": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe 8a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 8; heading 'Aufgabe 8a' lists Track 6. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "8a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 8,
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "683d6a86d7339702a6e5a29c9c03aaf6c0c7c1619c38d1ce381d43ade9af506a",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_6.mp3; opening evidence 683d6a86d7339702a6e5a29c9c03aaf6c0c7c1619c38d1ce381d43ade9af506a.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-7": {
+      "title": "Ein neuer Arbeitsplatz · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 8; heading 'Aufgabe 1a' lists Track 7. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "1a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 8,
+          "chapterTitle": "Ein neuer Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "1d55e4ee8cce121a7f6217fbbb2333fcde7ae0465ecdb401fddbbeb2c61a19b3",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_7.mp3; opening evidence 1d55e4ee8cce121a7f6217fbbb2333fcde7ae0465ecdb401fddbbeb2c61a19b3.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-8": {
+      "title": "Ein neuer Arbeitsplatz · Aufgabe 4a/b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 9; heading 'Aufgabe 4a/b' lists Track 8. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "4a/b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 9,
+          "chapterTitle": "Ein neuer Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "949f9d23c2be2d5a904d07b3eb594eacc78c2afd44dea38a6568c467802c440f",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_8.mp3; opening evidence 949f9d23c2be2d5a904d07b3eb594eacc78c2afd44dea38a6568c467802c440f.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-9": {
+      "title": "Ein neuer Arbeitsplatz · Aufgabe 9a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 9; heading 'Aufgabe 9a' lists Track 9. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "9a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 9,
+          "chapterTitle": "Ein neuer Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "afe9222816e293526141858924433b4ba6f911352689f8f824ac1b4f475a590d",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_9.mp3; opening evidence afe9222816e293526141858924433b4ba6f911352689f8f824ac1b4f475a590d.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-10": {
+      "title": "Büroalltag · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 9; heading 'Aufgabe 2a' lists Track 10. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "2a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 9,
+          "chapterTitle": "Büroalltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "5b57c824a8a14943fc4be326cbedf04c15055aab7b93592889210471d6bc774e",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_10.mp3; opening evidence 5b57c824a8a14943fc4be326cbedf04c15055aab7b93592889210471d6bc774e.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-11": {
+      "title": "Büroalltag · Aufgabe 2b/c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 9; heading 'Aufgabe 2b/c' lists Track 11. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "2b/c",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 9,
+          "chapterTitle": "Büroalltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "2a379e5f56d54d4fa7532656ec712d794b16de5f29041780c069b30702e1ebb2",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_11.mp3; opening evidence 2a379e5f56d54d4fa7532656ec712d794b16de5f29041780c069b30702e1ebb2.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-12": {
+      "title": "Büroalltag · Aufgabe 4a/b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 9; heading 'Aufgabe 4a/b' lists Track 12. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "4a/b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 9,
+          "chapterTitle": "Büroalltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "439b673f0b94a9048637be54cb6bae9098c288ae2f8793ff8e938270ff3a968f",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_12.mp3; opening evidence 439b673f0b94a9048637be54cb6bae9098c288ae2f8793ff8e938270ff3a968f.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-13": {
+      "title": "Büroalltag · Aufgabe 5a/b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 9; heading 'Aufgabe 5a/b' lists Track 13. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "5a/b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 9,
+          "chapterTitle": "Büroalltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "e8f8d8655083139e65d2fdb3af05a5efcb89e432e971a87137e9ef8f7712145d",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_13.mp3; opening evidence e8f8d8655083139e65d2fdb3af05a5efcb89e432e971a87137e9ef8f7712145d.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-14": {
+      "title": "Büroalltag · Aufgabe 7a/b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 10; heading 'Aufgabe 7a/b' lists Track 14. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "7a/b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 10,
+          "chapterTitle": "Büroalltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "d3cd9b4fb70946600578e726739dd6f63a9fc425a314a24cf277d3ccb7c493a5",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_14.mp3; opening evidence d3cd9b4fb70946600578e726739dd6f63a9fc425a314a24cf277d3ccb7c493a5.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-100-track-15": {
+      "title": "Gesunde Ernährung · Aufgabe 1a/b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 10; heading 'Aufgabe 1a/b' lists Track 15. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "1a/b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 10,
+          "chapterTitle": "Gesunde Ernährung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "687908c601047cf3ff7327b79b4bbecdaa188fb612218e24a032e98e95392b42",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_15.mp3; opening evidence 687908c601047cf3ff7327b79b4bbecdaa188fb612218e24a032e98e95392b42.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-16": {
+      "title": "Gesunde Ernährung · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 10; heading 'Aufgabe 3a' lists Track 16. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "3a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 10,
+          "chapterTitle": "Gesunde Ernährung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "55863e0733c59cc5057713d14f865db7f9b967db087d21afc114d81c737fae11",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_16.mp3; opening evidence 55863e0733c59cc5057713d14f865db7f9b967db087d21afc114d81c737fae11.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-17": {
+      "title": "Gesunde Ernährung · Aufgabe 7b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 10; heading 'Aufgabe 7b' lists Track 17. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "7b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 10,
+          "chapterTitle": "Gesunde Ernährung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "3be202d10cf5fc5619818c71c4e5d9d7e260b7e78c7d864aa2b23078400b52d7",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_17.mp3; opening evidence 3be202d10cf5fc5619818c71c4e5d9d7e260b7e78c7d864aa2b23078400b52d7.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-18": {
+      "title": "Gut versichert! · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 11; heading 'Aufgabe 2a' lists Track 18. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 13.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "2a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 11,
+          "chapterTitle": "Gut versichert!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "8126afe6196ce170b6f5054f9e04b3ca6d75062be9052a740d22a82cace17c07",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_18.mp3; opening evidence 8126afe6196ce170b6f5054f9e04b3ca6d75062be9052a740d22a82cace17c07.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-19": {
+      "title": "Gut versichert! · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 11; heading 'Aufgabe 4a' lists Track 19. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 13.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "4a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 11,
+          "chapterTitle": "Gut versichert!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "f6a8ebed5805264b63994ee6a35e083e048fe865bc99f6219f0dc2e5af8c9702",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_19.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-20": {
+      "title": "Gut versichert! · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 11; heading 'Aufgabe 5a' lists Track 20. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 13.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "5a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 11,
+          "chapterTitle": "Gut versichert!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "b8bd1db373d0aa68efddd2a3aa7540d5d67874c85bbb887e805c8f85a66cd559",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_20.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-21": {
+      "title": "Gut versichert! · Aufgabe 5b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 11; heading 'Aufgabe 5b' lists Track 21. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 13.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "5b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 11,
+          "chapterTitle": "Gut versichert!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "589c52db9f7d99333ba9cf88dc23149017be0d067ce74b312a764e964b768ea1",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_21.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-22": {
+      "title": "Gut versichert! · Aufgabe 9b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 11; heading 'Aufgabe 9b' lists Track 22. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 13.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "9b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 11,
+          "chapterTitle": "Gut versichert!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "ffbaf9540c0571b46f0809bbef05f81e1dccd2a39f5f34acc557c0febf7f3b2d",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_22.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-23": {
+      "title": "Lektion 12 · Aufgabe 1",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 11; heading 'Aufgabe 1' lists Track 23. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "1",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 11
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "112a01d373c00250aa970da4ddc8cdaabbf72342d1e63e1c587b4b9ba060f329",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_23.mp3; opening evidence 112a01d373c00250aa970da4ddc8cdaabbf72342d1e63e1c587b4b9ba060f329.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-24": {
+      "title": "Lektion 12 · Aufgabe 2",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 12; heading 'Aufgabe 2' lists Track 24. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "2",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "191eda69706b45fcb49f357234b962bc06fb49844e49f6380094b19a8a43c7e8",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_24.mp3; opening evidence 191eda69706b45fcb49f357234b962bc06fb49844e49f6380094b19a8a43c7e8.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-25": {
+      "title": "Lektion 12 · Aufgabe 3",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 12; heading 'Aufgabe 3' lists Track 25. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "3",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "d13bb3fcd2c25aa442ba01aad66259d0fcc421b4cea9e4dd3a0b2b0939f26491",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_25.mp3; opening evidence d13bb3fcd2c25aa442ba01aad66259d0fcc421b4cea9e4dd3a0b2b0939f26491.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-26": {
+      "title": "Lektion 12 · Aufgabe 4",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 12; heading 'Aufgabe 4' lists Track 26. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb.",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "4",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 12
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "d1ee84ddfd07a146a177cb7dff2d6929d7edecdb1bf789ba81cabfcd86b57e39",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_26.mp3; opening evidence d1ee84ddfd07a146a177cb7dff2d6929d7edecdb1bf789ba81cabfcd86b57e39.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-27": {
+      "title": "Aussprachetraining · Aufgabe 1a, 1b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (4b835ea65a8ad5b56b6f2f6bdb06a9e88de540b57481dadc2463a294999d62fb.txt, original audio SHA-256 4b835ea65a8ad5b56b6f2f6bdb06a9e88de540b57481dadc2463a294999d62fb): Aussprachetraining, Aufgabe 1a und 1b",
+          "status": "verified",
+          "exercise": "1a"
+        },
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (4b835ea65a8ad5b56b6f2f6bdb06a9e88de540b57481dadc2463a294999d62fb.txt, original audio SHA-256 4b835ea65a8ad5b56b6f2f6bdb06a9e88de540b57481dadc2463a294999d62fb): Aussprachetraining, Aufgabe 1a und 1b",
+          "status": "verified",
+          "exercise": "1b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "4b835ea65a8ad5b56b6f2f6bdb06a9e88de540b57481dadc2463a294999d62fb",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_27.mp3; opening evidence 4b835ea65a8ad5b56b6f2f6bdb06a9e88de540b57481dadc2463a294999d62fb.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-28": {
+      "title": "Aussprachetraining · Aufgabe 1e",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (75b62f161dad6b2cfea07e64b43e48c48a3d6106e3ff7a37b35a6393626bdaab.txt, original audio SHA-256 75b62f161dad6b2cfea07e64b43e48c48a3d6106e3ff7a37b35a6393626bdaab): Aussprachetraining, Aufgabe 1-E",
+          "status": "verified",
+          "exercise": "1e"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "75b62f161dad6b2cfea07e64b43e48c48a3d6106e3ff7a37b35a6393626bdaab",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_28.mp3; opening evidence 75b62f161dad6b2cfea07e64b43e48c48a3d6106e3ff7a37b35a6393626bdaab.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-29": {
+      "title": "Aussprachetraining · Aufgabe 1h",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (0f6136d67a6a70415a0a0298ad593cbf2b5eefc37bface0b5bfc0f170c0cdfd0.txt, original audio SHA-256 0f6136d67a6a70415a0a0298ad593cbf2b5eefc37bface0b5bfc0f170c0cdfd0): Aussprachetraining, Aufgabe 1-H.",
+          "status": "verified",
+          "exercise": "1h"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "0f6136d67a6a70415a0a0298ad593cbf2b5eefc37bface0b5bfc0f170c0cdfd0",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_29.mp3; opening evidence 0f6136d67a6a70415a0a0298ad593cbf2b5eefc37bface0b5bfc0f170c0cdfd0.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-101-track-30": {
+      "title": "Aussprachetraining · Aufgabe 1j",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (6a85150b56ada5dbbd819b726fa7287fc2def46d79118aa9f02d5fa74ce5518c.txt, original audio SHA-256 6a85150b56ada5dbbd819b726fa7287fc2def46d79118aa9f02d5fa74ce5518c): Aussprachetraining. Aufgabe 1 J",
+          "status": "verified",
+          "exercise": "1j"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "6a85150b56ada5dbbd819b726fa7287fc2def46d79118aa9f02d5fa74ce5518c",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_30.mp3; opening evidence 6a85150b56ada5dbbd819b726fa7287fc2def46d79118aa9f02d5fa74ce5518c.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-31": {
+      "title": "Aussprachetraining · Aufgabe 2a, 2b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (6bb9afff09921ddbf0ab01a0897d7ad8c0071000130d50e0600ff00bc615100e.txt, original audio SHA-256 6bb9afff09921ddbf0ab01a0897d7ad8c0071000130d50e0600ff00bc615100e): Aussprachetraining, Aufgabe, 2a und b",
+          "status": "verified",
+          "exercise": "2a"
+        },
+        {
+          "section": "Aussprachetraining",
+          "evidence": "Reviewed local opening transcript (6bb9afff09921ddbf0ab01a0897d7ad8c0071000130d50e0600ff00bc615100e.txt, original audio SHA-256 6bb9afff09921ddbf0ab01a0897d7ad8c0071000130d50e0600ff00bc615100e): Aussprachetraining, Aufgabe, 2a und b",
+          "status": "verified",
+          "exercise": "2b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "6bb9afff09921ddbf0ab01a0897d7ad8c0071000130d50e0600ff00bc615100e",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_31.mp3; opening evidence 6bb9afff09921ddbf0ab01a0897d7ad8c0071000130d50e0600ff00bc615100e.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-32": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 13; heading 'Aufgabe 6a' lists Track 32. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "6a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 13,
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "c44993f7ce43753e003664d9432a0b4f8f1865ed6313eba592da56b2f148db18",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_32.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-33": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe 6b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 13; heading 'Aufgabe 6b' lists Track 33. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "6b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 13,
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "870a2e79ca552e525c6a0263c9f49a29179b82300393a196b92303aa1cad1aff",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_33.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-34": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe 7a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 13; heading 'Aufgabe 7a' lists Track 34. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "7a",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 13,
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "0811143de2d4f79858fb02b8fc633e6761f8a25ab168b40de78ea1a3f3b55ae5",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_34.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-35": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe 7b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 13; heading 'Aufgabe 7b' lists Track 35. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "7b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 13,
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "48ba4069acee8114ca6b90d6b45d9cbd66feb8c05eae28701b925d9c624e0825",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_35.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-36": {
+      "title": "Deutschland – zweite Heimat? · Aufgabe 10",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 13; heading 'Aufgabe 10' lists Track 36. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 1.",
+          "status": "verified",
+          "chapter": 7,
+          "exercise": "10",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 13,
+          "chapterTitle": "Deutschland – zweite Heimat?"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "9c4f9f75bc198593521ec1bb3a721ab02a2d0672571373cdf31b8150bb6e96cd",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_36.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-37": {
+      "title": "Ein neuer Arbeitsplatz · Aufgabe 10a/b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 13; heading 'Aufgabe 10a/b' lists Track 37. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "10a/b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 13,
+          "chapterTitle": "Ein neuer Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "a0808efd09c2b7c0fc8055d5533ff7f7126aea387690b632866b95bad4d35917",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_37.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-38": {
+      "title": "Ein neuer Arbeitsplatz · Aufgabe 15",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 13; heading 'Aufgabe 15' lists Track 38. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 3.",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "15",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 13,
+          "chapterTitle": "Ein neuer Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "08fea41e3e175410712bacc455b09292df8b6d850d0310de3cae487937c1557b",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_38.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-39": {
+      "title": "Büroalltag · Aufgabe 2a/b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 14; heading 'Aufgabe 2a/b' lists Track 39. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 8.",
+          "status": "verified",
+          "chapter": 9,
+          "exercise": "2a/b",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 14,
+          "chapterTitle": "Büroalltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "703aa7f25cd6de3f7a1159f063d75adf9057235445ad0fa69d24430cd06f1de8",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_39.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-40": {
+      "title": "Gesunde Ernährung · Aufgabe 8",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 14; heading 'Aufgabe 8' lists Track 40. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "8",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 14,
+          "chapterTitle": "Gesunde Ernährung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "19188d1b3d4285477218a2757cf955a84fe9178109f1eb4329c7993b1bbc1b0e",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_40.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-41": {
+      "title": "Gesunde Ernährung · Aufgabe 10",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 14; heading 'Aufgabe 10' lists Track 41. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 10.",
+          "status": "verified",
+          "chapter": 10,
+          "exercise": "10",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 14,
+          "chapterTitle": "Gesunde Ernährung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "d4ab93b4b9646fa1b6ffebfb083e3bd6eb62089a8a6bdaa796f2af593351b268",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_41.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-42": {
+      "title": "Gut versichert! · Aufgabe 11",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 14; heading 'Aufgabe 11' lists Track 42. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 13.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "11",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 14,
+          "chapterTitle": "Gut versichert!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "0617711caf33f65bd3af01bd6ad1ba571c05923fe569849488ff26729bb5e874",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_42.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-43": {
+      "title": "Gut versichert! · Aufgabe 12",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 14; heading 'Aufgabe 12' lists Track 43. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Chapter title from official vocabulary PDF https://telc.container.adrodev.de/produktiv/ftp/02_Einfach_gut!/5_B1.2/other/Wortschatzliste_Einfach_gut_B1.2_Englisch.pdf, PDF p. 13.",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "12",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 14,
+          "chapterTitle": "Gut versichert!"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "78a4f3f4ac74f6feb0ec48cf8cfd6c3cc45824383d821f7a03e0e8286c6f3477",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_43.mp3; reviewed official source context"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-44": {
+      "title": "Zwischentest zu den Lektionen 7–9 · Hören, Teil 1",
+      "references": [
+        {
+          "section": "Zwischentest zu den Lektionen 7–9",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 16; heading 'zu den Lektionen 7–9' lists Track 44. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Listening part explicitly announced in original opening 8a2155bcad4f6a29be799b05a20338f4a1e00ae079bc6b45e17bbc1d4efacfc6.txt: W1 Zwischentest zu den Lektionen 7 bis 9..",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 16,
+          "exercise": "Hören, Teil 1"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf-and-opening-announcement",
+        "sourceSha256": "8a2155bcad4f6a29be799b05a20338f4a1e00ae079bc6b45e17bbc1d4efacfc6",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_44.mp3; opening evidence 8a2155bcad4f6a29be799b05a20338f4a1e00ae079bc6b45e17bbc1d4efacfc6.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-45": {
+      "title": "Zwischentest zu den Lektionen 10–12 · Hören, Teil 1",
+      "references": [
+        {
+          "section": "Zwischentest zu den Lektionen 10–12",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 17; heading 'zu den Lektionen 10–12' lists Track 45. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb. Listening part explicitly announced in original opening 26384cc9f649ca634cf5ba53d85dc550a25d9407e1e3b70b405979d10d6d8ea3.txt: W1. Zwischentest zu den Lektionen 10 bis 12. Hören Teil 1..",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 17,
+          "exercise": "Hören, Teil 1"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf-and-opening-announcement",
+        "sourceSha256": "26384cc9f649ca634cf5ba53d85dc550a25d9407e1e3b70b405979d10d6d8ea3",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_45.mp3; opening evidence 26384cc9f649ca634cf5ba53d85dc550a25d9407e1e3b70b405979d10d6d8ea3.txt from original audio beginning"
+      }
+    },
+    "einfach-gut-b1-2-pack-102-track-46": {
+      "title": "Übungstest Deutsch-Test · Aufgabe für Zuwanderer",
+      "references": [
+        {
+          "section": "Übungstest Deutsch-Test",
+          "evidence": "Official telc Hörtexte: https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf; PDF p. 18; heading 'für Zuwanderer' lists Track 46. PDF SHA-256 760de24fd7f1d72adf0ef411ccffed95681f7239f74dda92ff0e074d02c7bfdb.",
+          "status": "verified",
+          "exercise": "für Zuwanderer",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_gut/Loesungen_Hoertexte/Einfach_gut_B1.2_Loesungen_Hoertexte_KB_AB.pdf",
+          "sourcePage": 18
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "official-transcript-pdf",
+        "sourceSha256": "a471d3b998b9e9a077e69698ae299cd467a0ecd63333b07377aea4f523bf1150",
+        "sourceLocator": "Original ZIP member EINFACH_GUT_B1-2_Track_46.mp3; reviewed official source context"
+      }
+    }
+  },
+  "documents": {
+    "einfach-gut-b1-2-doc-100": {
+      "title": "Alphabetische Wortschatzliste Einfach gut B1",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "758007fdc3e15bd731ba87a5d0680349d98c7bb34f034fe0b903f131d6cecd4d",
+        "reason": "Original German or English vocabulary/listening document retained intact; no per-word or printed-page annotations are introduced."
+      }
+    },
+    "einfach-gut-b1-2-doc-102": {
+      "title": "Wortschatzliste Einfach gut B1.2 Deutsch",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "f2469d1c7b8d2b606681cc4829fb8eb206506ef5667ef097ab461c0ebc86db1e",
+        "reason": "Original German or English vocabulary/listening document retained intact; no per-word or printed-page annotations are introduced."
+      }
+    },
+    "einfach-gut-b1-2-doc-103": {
+      "title": "Wortschatzliste Einfach gut B1.2 Englisch",
+      "references": [],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-and-official-feed",
+        "sourceSha256": "abe794fd3af6576382f63fec64931580e2afa0945703f757c7dae2c300e7760d",
+        "reason": "Original German or English vocabulary/listening document retained intact; no per-word or printed-page annotations are introduced."
+      }
+    }
+  }
+}

@@ -1,0 +1,3306 @@
+{
+  "bookId": "einfach-besser-500-2021",
+  "tracks": {
+    "einfach-besser-500-2021-pack-100-track-1": {
+      "title": "zu den Lektionen 4–6 – Hören Teil 3",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "Hören Teil 3",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Zwischentests.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb500-zwischen, PDF page 1: 'Hören Teil 3 (Track 1)', zu den Lektionen 4–6; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Zwischentests.pdf",
+          "chapterTitle": "zu den Lektionen 4–6"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "1f7b5250e19b9d3f6a49a6e72d9dfd7b41cf481d964c9305396a46cdd354f1a1"
+      }
+    },
+    "einfach-besser-500-2021-pack-100-track-2": {
+      "title": "zu den Lektionen 7–9 – Hören Teil 1",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "Hören Teil 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Zwischentests.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb500-zwischen, PDF page 1: 'Hören Teil 1 (Track 2)', zu den Lektionen 7–9; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Zwischentests.pdf",
+          "chapterTitle": "zu den Lektionen 7–9"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "88052ed785e78e17289cf964f5fe4cafca96675d32cc0be083a7b6ea7b084af3"
+      }
+    },
+    "einfach-besser-500-2021-pack-100-track-3": {
+      "title": "zu den Lektionen 10–12 – Hören und Schreiben",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "Hören und Schreiben",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Zwischentests.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb500-zwischen, PDF page 2: 'Hören und Schreiben (Track 3)', zu den Lektionen 10–12; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Zwischentests.pdf",
+          "chapterTitle": "zu den Lektionen 10–12"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "60a685b10bec5a6bbfb363bcab57d52118caeeb4cf653bd48288480f953ae3c9"
+      }
+    },
+    "einfach-besser-500-2021-pack-100-track-4": {
+      "title": "Zwischentest zu den Lektionen 10–12 – Hören Teil 3",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "Hören Teil 3",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Zwischentests.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb500-zwischen, PDF page 2: 'Hören Teil 3 (Track 4)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Zwischentests.pdf; test range explicitly corroborated by official solutions PDFpage1: Zwischentest zu den Lektionen 10–12 includes Hören Teil3; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Loesungen_Zwischentests.pdf",
+          "chapterTitle": "zu den Lektionen 10–12"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c12a0254cc67ed3dedbdf442159d40456792fbab29b2a1521f31609fe8c13caf"
+      }
+    },
+    "einfach-besser-500-2021-pack-100-track-5": {
+      "title": "zu den Lektionen 16–18 – Hören Teil 2",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "Hören Teil 2",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Zwischentests.pdf",
+          "sourcePage": 3,
+          "evidence": "Official publisher transcript eb500-zwischen, PDF page 3: 'Hören Teil 2 (Track 5)', zu den Lektionen 16–18; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Zwischentests.pdf",
+          "chapterTitle": "zu den Lektionen 16–18"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c73517151f1e4d96bd11a0c2967bfd5d3b181e2d012c2bd375b75f31fade0e7a"
+      }
+    },
+    "einfach-besser-500-2021-pack-100-track-6": {
+      "title": "zu den Lektionen 16–18 – Hören Teil 4",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "Hören Teil 4",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Zwischentests.pdf",
+          "sourcePage": 4,
+          "evidence": "Official publisher transcript eb500-zwischen, PDF page 4: 'Hören Teil 4 (Track 6)', zu den Lektionen 16–18; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Zwischentests.pdf",
+          "chapterTitle": "zu den Lektionen 16–18"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "112c22b4a8d59de46646ed64db5d60717f7fb480bbbb204976620e5e7ff50539"
+      }
+    },
+    "einfach-besser-500-2021-pack-100-track-7": {
+      "title": "Hören Teil 1",
+      "references": [
+        {
+          "section": "Übungstest",
+          "exercise": "Hören Teil 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Uebungstest_Deutsch_Test_fuer_den_Beruf_B2.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb500-test, PDF page 1: 'Hören Teil 1 (Track 7)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Uebungstest_Deutsch_Test_fuer_den_Beruf_B2.pdf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "38739ffffea16e4cb8cf946ca7ec1512f6be12fad79c447d51aa4d15523a95ba"
+      }
+    },
+    "einfach-besser-500-2021-pack-100-track-8": {
+      "title": "Hören Teil 2",
+      "references": [
+        {
+          "section": "Übungstest",
+          "exercise": "Hören Teil 2",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Uebungstest_Deutsch_Test_fuer_den_Beruf_B2.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb500-test, PDF page 2: 'Hören Teil 2 (Track 8)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Uebungstest_Deutsch_Test_fuer_den_Beruf_B2.pdf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "4c0f67fd8693d8681f28d50e575b7ab75b675b483cf6b5e0e1d4c10d6239bb16"
+      }
+    },
+    "einfach-besser-500-2021-pack-100-track-9": {
+      "title": "Hören Teil 3",
+      "references": [
+        {
+          "section": "Übungstest",
+          "exercise": "Hören Teil 3",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Uebungstest_Deutsch_Test_fuer_den_Beruf_B2.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb500-test, PDF page 2: 'Hören Teil 3 (Track 9)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Uebungstest_Deutsch_Test_fuer_den_Beruf_B2.pdf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "5a633845cc680656b2e50d35600c9e413951688794626680fe6063eea8d0def6"
+      }
+    },
+    "einfach-besser-500-2021-pack-100-track-10": {
+      "title": "Hören Teil 4",
+      "references": [
+        {
+          "section": "Übungstest",
+          "exercise": "Hören Teil 4",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Uebungstest_Deutsch_Test_fuer_den_Beruf_B2.pdf",
+          "sourcePage": 3,
+          "evidence": "Official publisher transcript eb500-test, PDF page 3: 'Hören Teil 4 (Track 10)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Uebungstest_Deutsch_Test_fuer_den_Beruf_B2.pdf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "9c350d6a0820bd8d038fcec7929c83fecc9945e8f8b5ba61879b8274629bf805"
+      }
+    },
+    "einfach-besser-500-2021-pack-100-track-11": {
+      "title": "Hören und Schreiben",
+      "references": [
+        {
+          "section": "Übungstest",
+          "exercise": "Hören und Schreiben",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Uebungstest_Deutsch_Test_fuer_den_Beruf_B2.pdf",
+          "sourcePage": 4,
+          "evidence": "Official publisher transcript eb500-test, PDF page 4: 'Hören und Schreiben (Track 11)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Uebungstest_Deutsch_Test_fuer_den_Beruf_B2.pdf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "125b6e853a8dcea21830c740adf8aee4dc33982dac8689012d6e7950501bbb1c"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-2": {
+      "title": "Lektion 1 – Ein neuer Beruf – Aufgabe 5a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb500, PDF page 1: 'Aufgabe 5a und b (Track 2)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "a6a9121089d9fd4588ef2cb18e2e5e1472b2fb60ec5ec21f7ed6ea6d59e87800"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-3": {
+      "title": "Lektion 1 – Ein neuer Beruf – Aufgabe 7a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "7a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb500, PDF page 1: 'Aufgabe 7a (Track 3)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "273810b61891d7f731afa254573a19ec0321783d58238af9c3ccc32aed0eebd8"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-4": {
+      "title": "Lektion 1 – Ein neuer Beruf – Aufgabe 8c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb500, PDF page 1: 'Aufgabe 8c (Track 4)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "b80d68f0a314a1b9ad5439d76ca3b19cd46d6c04f1fec7e41d656d6522c0047e"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-5": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 1c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb500, PDF page 1: 'Aufgabe 1c (Track 5)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "f9eb7c05206e341fb394b7971d5c65f16a64b3ee3b6e6867a9d07b0282bd6d01"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-6": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 2a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb500, PDF page 1: 'Aufgabe 2a und b (Track 6)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "f33dd0d730b3b0e73a2c4ee58a8e185d722b5a0eb17be2599d3f37e19b1695b8"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-7": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 5b und c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5b und c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 1,
+          "evidence": "Official publisher transcript eb500, PDF page 1: 'Aufgabe 5b und c (Track 7)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "a1518526ebb896f4968f5fb22a80c43c15c1f0912766a89bf04a1f30a6061fad"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-8": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "6a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb500, PDF page 2: 'Aufgabe 6a (Track 8)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "65d32e13be7046822bd49b394d47f708e8888fca5fd61382ca9e627251474676"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-9": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 8b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb500, PDF page 2: 'Aufgabe 8b (Track 9)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "ada40bc4fc58563043abe51c808d80840861a2963824d80653ee087cc82c7ecd"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-10": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 1b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb500, PDF page 2: 'Aufgabe 1b (Track 10)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c81cf6a229355164ebd30b790605dfd8bc52f3dfa5a62e859d02c708b6015dcf"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-11": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 4b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb500, PDF page 2: 'Aufgabe 4b (Track 11)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "a1a5bcdd72af9ad919a6123e93c3f8ea8ce78f15c8c2592686173ae84dd07689"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-12": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "6a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 2,
+          "evidence": "Official publisher transcript eb500, PDF page 2: 'Aufgabe 6a (Track 12)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "8445923a972fa5ca479c114a7df5b0e6ab5f7ba335ed0ac7fd9d44e0d201ca46"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-13": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 9a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "9a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 3,
+          "evidence": "Official publisher transcript eb500, PDF page 3: 'Aufgabe 9a (Track 13)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "3b092fc8405a38bed274b31b333ebb01c95d730ebf8a958bdcda5d2be2198370"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-14": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 11a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "11a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 3,
+          "evidence": "Official publisher transcript eb500, PDF page 3: 'Aufgabe 11a (Track 14)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "5c3d351afa6a4ebeded1062d8f48f56b28c9f724a8646ffac5842908c1e6c1ef"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-15": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 1b und c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1b und c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 3,
+          "evidence": "Official publisher transcript eb500, PDF page 3: 'Aufgabe 1b und c (Track 15)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "6625680ef043e9677d83993552d3887c474721cbb19123ec83918136cc9750b9"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-16": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 4a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 4,
+          "evidence": "Official publisher transcript eb500, PDF page 4: 'Aufgabe 4a (Track 16)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "5dbc9934969fc670be593609144f4de2c2093ca6668d551737db63778524556b"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-17": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 4b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 4,
+          "evidence": "Official publisher transcript eb500, PDF page 4: 'Aufgabe 4b (Track 17)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "38253171101e513de8c3060ac919f69c407f39cd31c762220f48404b58f6e813"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-18": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "6a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 4,
+          "evidence": "Official publisher transcript eb500, PDF page 4: 'Aufgabe 6a (Track 18)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "f3b2583649ea31d6114faacb6736316e0d6b8212f7af0dfb50e16bff763afc2d"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-19": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 9a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "9a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 5,
+          "evidence": "Official publisher transcript eb500, PDF page 5: 'Aufgabe 9a und b (Track 19)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c38115ae00d2dab990e535ab3889e1d1c2725af8636594ebdd45ae06ee08fa50"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-20": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Aufgabe 1b und c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1b und c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 5,
+          "evidence": "Official publisher transcript eb500, PDF page 5: 'Aufgabe 1b und c (Track 20)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "9df3d9e226a6847bcf5755dcbd93ddafff39deac00c34faef396022da2126113"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-21": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Aufgabe 2",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 5,
+          "evidence": "Official publisher transcript eb500, PDF page 5: 'Aufgabe 2 (Track 21)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "338efa212a7b9c397a6f951c038cc635c781cb6f4465d8b85440fc728bdde13a"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-22": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Aufgabe 5a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 5,
+          "evidence": "Official publisher transcript eb500, PDF page 5: 'Aufgabe 5a und b (Track 22)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "61226bdd16b4f033481cd5f3bec011321aba5f8b32c8c1510ae8b92c55695478"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-23": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Aufgabe 8a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 5,
+          "evidence": "Official publisher transcript eb500, PDF page 5: 'Aufgabe 8a (Track 23)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "cd3eb752288d804583d42e45d2aa9930276ca45d6307119596c0d0f6fa26f65b"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-24": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Aufgabe 1b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 6,
+          "evidence": "Official publisher transcript eb500, PDF page 6: 'Aufgabe 1b (Track 24)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "b1262984d1f6d5a467adccb548395841da48c491e19eeecfa8030cf4f543afeb"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-25": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 6,
+          "evidence": "Official publisher transcript eb500, PDF page 6: 'Aufgabe 2a (Track 25)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "fa027b1dbb45773aac0e1314e027fcd5e2325bafb78ab6bae7bfeb4445051ff9"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-26": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Aufgabe 4a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 6,
+          "evidence": "Official publisher transcript eb500, PDF page 6: 'Aufgabe 4a und b (Track 26)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "fafc777e5003093787af513951de62e2ea187967fe195e25095a52c3604af2bb"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-27": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Aufgabe 9",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "9",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 7,
+          "evidence": "Official publisher transcript eb500, PDF page 7: 'Aufgabe 9 (Track 27)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "d9fba4f594a338a85842d50920831f4f8fff91a3c6bee5798e05ffd6be950bbb"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-28": {
+      "title": "Lektion 7 – Berufsalltag in Deutschland – Aufgabe 1a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 7,
+          "evidence": "Official publisher transcript eb500, PDF page 7: 'Aufgabe 1a und b (Track 28)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 7,
+          "chapterTitle": "Berufsalltag in Deutschland"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "db2021ca774b444ee92aba85fbccb1cd0a3a98230f30a077de4bc5a5fc6dc5fc"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-29": {
+      "title": "Lektion 7 – Berufsalltag in Deutschland – Aufgabe 4a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 7,
+          "evidence": "Official publisher transcript eb500, PDF page 7: 'Aufgabe 4a (Track 29)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 7,
+          "chapterTitle": "Berufsalltag in Deutschland"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c3f73fae6a9d3febd11733d57e8799fa8a45fd6557542a64051774d59a280321"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-30": {
+      "title": "Lektion 7 – Berufsalltag in Deutschland – Aufgabe 5a und 6",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5a und 6",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 7,
+          "evidence": "Official publisher transcript eb500, PDF page 7: 'Aufgabe 5a und 6 (Track 30)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 7,
+          "chapterTitle": "Berufsalltag in Deutschland"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "14c5603427f925e1214d5cd2ee4377fee88fa4711e7ac27b9e4674f761945cdc"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-31": {
+      "title": "Lektion 7 – Berufsalltag in Deutschland – Aufgabe 9c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "9c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 7,
+          "evidence": "Official publisher transcript eb500, PDF page 7: 'Aufgabe 9c (Track 31)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 7,
+          "chapterTitle": "Berufsalltag in Deutschland"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "8d838633c2238f02066b220b56c628212d5359ad74515b9872abf8d79c75d642"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-32": {
+      "title": "Lektion 8 – Bewerbungsunterlagen – Aufgabe 2a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 8,
+          "evidence": "Official publisher transcript eb500, PDF page 8: 'Aufgabe 2a und b (Track 32)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 8,
+          "chapterTitle": "Bewerbungsunterlagen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "a66acb091193801b89aa6da6749c0433588d0c407ee336876cd1badf4ed6a14e"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-33": {
+      "title": "Lektion 8 – Bewerbungsunterlagen – Aufgabe 5a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 8,
+          "evidence": "Official publisher transcript eb500, PDF page 8: 'Aufgabe 5a (Track 33)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 8,
+          "chapterTitle": "Bewerbungsunterlagen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "73fe2327fccb908631dcc7a0403c13ae4362a6c73b782855d906b36b43701da8"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-34": {
+      "title": "Lektion 8 – Bewerbungsunterlagen – Aufgabe 8a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 8,
+          "evidence": "Official publisher transcript eb500, PDF page 8: 'Aufgabe 8a (Track 34)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 8,
+          "chapterTitle": "Bewerbungsunterlagen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "2685b3f827b119e9e14b7e407163855e2391b0e47cd9f49ab1add2fc9032dca2"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-35": {
+      "title": "Lektion 9 – Arbeit und Familie – Aufgabe 1b und 2a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1b und 2a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 9,
+          "evidence": "Official publisher transcript eb500, PDF page 9: 'Aufgabe 1b und 2a (Track 35)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 9,
+          "chapterTitle": "Arbeit und Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "ba2bab18c25814929becb2307ba0aa2c126951b77bdd5d1a133f10e06688ec0d"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-36": {
+      "title": "Lektion 9 – Arbeit und Familie – Aufgabe 5c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 9,
+          "evidence": "Official publisher transcript eb500, PDF page 9: 'Aufgabe 5c (Track 36)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 9,
+          "chapterTitle": "Arbeit und Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "84c7b7c47e4a2cc3521bf97675f25e709ae4e6c2b00972b5dfe137c0fc5cf8c9"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-37": {
+      "title": "Lektion 9 – Arbeit und Familie – Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "6a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 9,
+          "evidence": "Official publisher transcript eb500, PDF page 9: 'Aufgabe 6a (Track 37)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 9,
+          "chapterTitle": "Arbeit und Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "6f25fed63f7bd3755bb10895b8156a92df1bd34aa5c95684e32c37dabf9e07af"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-38": {
+      "title": "Lektion 9 – Arbeit und Familie – Aufgabe 10a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "10a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 10,
+          "evidence": "Official publisher transcript eb500, PDF page 10: 'Aufgabe 10a (Track 38)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 9,
+          "chapterTitle": "Arbeit und Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "4f905a52e64e549dd833036624250afbc6eb557f65e7f4d1e5b56e3c90b019f8"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-39": {
+      "title": "Lektion 10 – Beruflich unterwegs – Aufgabe 1a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 10,
+          "evidence": "Official publisher transcript eb500, PDF page 10: 'Aufgabe 1a (Track 39)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 10,
+          "chapterTitle": "Beruflich unterwegs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "94692a225a3128c944fe2ed6cb04cc056fd4b78418ee543890964a8f36b73b8d"
+      }
+    },
+    "einfach-besser-500-2021-pack-102-track-40": {
+      "title": "Lektion 10 – Beruflich unterwegs – Aufgabe 1b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 10,
+          "evidence": "Official publisher transcript eb500, PDF page 10: 'Aufgabe 1b (Track 40)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 10,
+          "chapterTitle": "Beruflich unterwegs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c8261a016a18a88d9a21b1829ec3772ea97ae75ae8a54f10f40c7b3f76860252"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-41": {
+      "title": "Lektion 10 – Beruflich unterwegs – Aufgabe 3a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "3a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 10,
+          "evidence": "Official publisher transcript eb500, PDF page 10: 'Aufgabe 3a (Track 41)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 10,
+          "chapterTitle": "Beruflich unterwegs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "8473c93761b6c937e0112c7f5b9940ed396a8f265892f6005890428f16f8d570"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-42": {
+      "title": "Lektion 10 – Beruflich unterwegs – Aufgabe 4c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 10,
+          "evidence": "Official publisher transcript eb500, PDF page 10: 'Aufgabe 4c (Track 42)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 10,
+          "chapterTitle": "Beruflich unterwegs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "41dfcdc4c577773ba919888e9b828f36fc39f60843153bee252cf21e6ce9a7db"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-43": {
+      "title": "Lektion 10 – Beruflich unterwegs – Aufgabe 7a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "7a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript eb500, PDF page 11: 'Aufgabe 7a (Track 43)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 10,
+          "chapterTitle": "Beruflich unterwegs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "b47e21bb9547066cda7ca59502273f142b2b7d1f33519a0e61e9203e63c7e9e5"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-44": {
+      "title": "Lektion 10 – Beruflich unterwegs – Aufgabe 8a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript eb500, PDF page 11: 'Aufgabe 8a (Track 44)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 10,
+          "chapterTitle": "Beruflich unterwegs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "dd1e1574d2a4095a0edc3d98d0f1d823c73238620f49bccb1642be512c22a910"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-45": {
+      "title": "Lektion 11 – Verkaufsgespräche und Small Talk – Aufgabe 2b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript eb500, PDF page 11: 'Aufgabe 2b (Track 45)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 11,
+          "chapterTitle": "Verkaufsgespräche und Small Talk"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "276088657868372ed1c3cafa57ad83d4d77b1ebc74d573e6de1a2adeaf3d5004"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-46": {
+      "title": "Lektion 11 – Verkaufsgespräche und Small Talk – Aufgabe 3d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "3d",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript eb500, PDF page 11: 'Aufgabe 3d (Track 46)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 11,
+          "chapterTitle": "Verkaufsgespräche und Small Talk"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "710ecd547cb2caddcbd0b44c1feba6cc896ba6c406db41c52f8beaa55ec0a18f"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-47": {
+      "title": "Lektion 11 – Verkaufsgespräche und Small Talk – Aufgabe 4a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 11,
+          "evidence": "Official publisher transcript eb500, PDF page 11: 'Aufgabe 4a (Track 47)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 11,
+          "chapterTitle": "Verkaufsgespräche und Small Talk"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "ab6e252f6ec95fff362ef261a94c28943120fe4ffe2a23e05f33de1d6ff4e12b"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-48": {
+      "title": "Lektion 11 – Verkaufsgespräche und Small Talk – Aufgabe 5",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 12,
+          "evidence": "Official publisher transcript eb500, PDF page 12: 'Aufgabe 5 (Track 48)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 11,
+          "chapterTitle": "Verkaufsgespräche und Small Talk"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "d869d9893af29bb8f097b1eb5947a8248c16c083d181dbdd3dc71107adbd507c"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-49": {
+      "title": "Lektion 11 – Verkaufsgespräche und Small Talk – Aufgabe 7",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "7",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 12,
+          "evidence": "Official publisher transcript eb500, PDF page 12: 'Aufgabe 7 (Track 49)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 11,
+          "chapterTitle": "Verkaufsgespräche und Small Talk"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "275a7a9397835f9c4e71e4fc5e858c9209af73315a81ce0db23d109dbf1c0456"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-50": {
+      "title": "Lektion 11 – Verkaufsgespräche und Small Talk – Aufgabe 8",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 12,
+          "evidence": "Official publisher transcript eb500, PDF page 12: 'Aufgabe 8 (Track 50)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 11,
+          "chapterTitle": "Verkaufsgespräche und Small Talk"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "ad444ed4dcf0203aae442011ad42882c2f66db1d3638f820691bd43782f6292f"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-51": {
+      "title": "Lektion 12 – Angebote und Verhandlungen – Aufgabe 4b und c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4b und c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 12,
+          "evidence": "Official publisher transcript eb500, PDF page 12: 'Aufgabe 4b und c (Track 51)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 12,
+          "chapterTitle": "Angebote und Verhandlungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "8c3ca1d4c8af8106f000a49cb542a9def98a4ac69e7fc47ebcaf25cfed743858"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-52": {
+      "title": "Lektion 12 – Angebote und Verhandlungen – Aufgabe 7a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "7a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 13,
+          "evidence": "Official publisher transcript eb500, PDF page 13: 'Aufgabe 7a und b (Track 52)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 12,
+          "chapterTitle": "Angebote und Verhandlungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "e146ee1f73cffc86441fab705ae2f6d25a356a5c84188ab481160808d3bc9486"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-53": {
+      "title": "Lektion 13 – Bestellen und bezahlen – Aufgabe 1a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 13,
+          "evidence": "Official publisher transcript eb500, PDF page 13: 'Aufgabe 1a und b (Track 53)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 13,
+          "chapterTitle": "Bestellen und bezahlen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "644ef592f90908ce8434dab35d9f8a9273acad25481aff138310d653989a46b8"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-54": {
+      "title": "Lektion 13 – Bestellen und bezahlen – Aufgabe 3a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "3a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 13,
+          "evidence": "Official publisher transcript eb500, PDF page 13: 'Aufgabe 3a und b (Track 54)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 13,
+          "chapterTitle": "Bestellen und bezahlen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "144664f7f44d526c4d81a781df978bcdf2530d037c56a39aa28e9fe9d670d260"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-55": {
+      "title": "Lektion 13 – Bestellen und bezahlen – Aufgabe 4c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 14,
+          "evidence": "Official publisher transcript eb500, PDF page 14: 'Aufgabe 4c (Track 55)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 13,
+          "chapterTitle": "Bestellen und bezahlen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "0d102566ca968db6cdcb30b8e8bf8bc4f2c36bc44e04d117d15905c4f0c5e8b4"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-56": {
+      "title": "Lektion 13 – Bestellen und bezahlen – Aufgabe 5a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "5a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 14,
+          "evidence": "Official publisher transcript eb500, PDF page 14: 'Aufgabe 5a (Track 56)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 13,
+          "chapterTitle": "Bestellen und bezahlen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "f6f9ad526c2d2272869e90d3cae8986d90ab98c66356610cbcde6f9c86c310eb"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-57": {
+      "title": "Lektion 13 – Bestellen und bezahlen – Aufgabe 6a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "6a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 14,
+          "evidence": "Official publisher transcript eb500, PDF page 14: 'Aufgabe 6a (Track 57)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 13,
+          "chapterTitle": "Bestellen und bezahlen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "ac556d17d33757aa68cd09ef1dcf86669df4e0e2895851356a50a2059cf0a4bd"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-58": {
+      "title": "Lektion 14 – Konflikte und Beschwerden – Aufgabe 1a und b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 14,
+          "evidence": "Official publisher transcript eb500, PDF page 14: 'Aufgabe 1a und b (Track 58)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 14,
+          "chapterTitle": "Konflikte und Beschwerden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "adaac02788d29828413d69327420b4b5d23b12b7d63e7e5a56813c1c933cbb32"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-59": {
+      "title": "Lektion 14 – Konflikte und Beschwerden – Aufgabe 4b und c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4b und c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 15,
+          "evidence": "Official publisher transcript eb500, PDF page 15: 'Aufgabe 4b und c (Track 59)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 14,
+          "chapterTitle": "Konflikte und Beschwerden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "118486cd27b01837f11b991c2b3dcb71be896b150cdce7cfae8afac7365e4d52"
+      }
+    },
+    "einfach-besser-500-2021-pack-103-track-60": {
+      "title": "Lektion 15 – Eine Besprechung planen – Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 15,
+          "evidence": "Official publisher transcript eb500, PDF page 15: 'Aufgabe 2a (Track 60)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 15,
+          "chapterTitle": "Eine Besprechung planen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "13b027a424b682dcec7a4c677f8ffd56153a9890b6b084a9324fa359d51d94ef"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-61": {
+      "title": "Lektion 15 – Eine Besprechung planen – Aufgabe 3b und c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "3b und c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 15,
+          "evidence": "Official publisher transcript eb500, PDF page 15: 'Aufgabe 3b und c (Track 61)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 15,
+          "chapterTitle": "Eine Besprechung planen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "1a1e66d85345cf369f25c8dc000d452b4bf10eda0f132bfd1b20c6b0ab15dd01"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-62": {
+      "title": "Lektion 15 – Eine Besprechung planen – Aufgabe 4b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "4b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 16,
+          "evidence": "Official publisher transcript eb500, PDF page 16: 'Aufgabe 4b (Track 62)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 15,
+          "chapterTitle": "Eine Besprechung planen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c9d6a08bfd0966222511406608f959ddf97fd2d77f6088f8d13ce42102b66d7b"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-63": {
+      "title": "Lektion 16 – Bestimmungen am Arbeitsplatz – Aufgabe 1a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "1a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 16,
+          "evidence": "Official publisher transcript eb500, PDF page 16: 'Aufgabe 1a (Track 63)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 16,
+          "chapterTitle": "Bestimmungen am Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "dc2cfc81d2031899fc3a5fd45ce3acd557f4619a08978a54110f8d44641e09d5"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-64": {
+      "title": "Lektion 16 – Bestimmungen am Arbeitsplatz – Aufgabe 6c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "6c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 16,
+          "evidence": "Official publisher transcript eb500, PDF page 16: 'Aufgabe 6c (Track 64)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 16,
+          "chapterTitle": "Bestimmungen am Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "beb39e3542fa8204c35b4c21952d8b0eb847eb82b16a89f4a83317345689353b"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-65": {
+      "title": "Lektion 16 – Bestimmungen am Arbeitsplatz – Aufgabe 8c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 16,
+          "evidence": "Official publisher transcript eb500, PDF page 16: 'Aufgabe 8c (Track 65)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 16,
+          "chapterTitle": "Bestimmungen am Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "1e6892402395f0c514d8a336cce37f183b3a456e9a0da76a940d263dcd055bc1"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-66": {
+      "title": "Lektion 17 – Rund um den Arbeitsvertrag – Aufgabe 2b (Teil 1)",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2b (Teil 1)",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 17,
+          "evidence": "Official publisher transcript eb500, PDF page 17: 'Aufgabe 2b (Teil 1) (Track 66)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 17,
+          "chapterTitle": "Rund um den Arbeitsvertrag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "52d531da2ddbff37386f8e1ef50b9e1975f1e74df1334726acb8c6a7973ffb0b"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-67": {
+      "title": "Lektion 17 – Rund um den Arbeitsvertrag – Aufgabe 2c (Teil 2)",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "2c (Teil 2)",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 17,
+          "evidence": "Official publisher transcript eb500, PDF page 17: 'Aufgabe 2c (Teil 2) (Track 67)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 17,
+          "chapterTitle": "Rund um den Arbeitsvertrag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "9c418e94cbe68f417d4205afc0578ebec9df8dbacba297cfda936744bf226ec6"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-68": {
+      "title": "Lektion 17 – Rund um den Arbeitsvertrag – Aufgabe 3a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "3a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 17,
+          "evidence": "Official publisher transcript eb500, PDF page 17: 'Aufgabe 3a (Track 68)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 17,
+          "chapterTitle": "Rund um den Arbeitsvertrag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "12bde1134ae5a581fb7c33d3708ccd6f0e4c1dc70544a3e7a437d3a76f8946f9"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-69": {
+      "title": "Lektion 17 – Rund um den Arbeitsvertrag – Aufgabe 6b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "6b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 18,
+          "evidence": "Official publisher transcript eb500, PDF page 18: 'Aufgabe 6b (Track 69)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 17,
+          "chapterTitle": "Rund um den Arbeitsvertrag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "657fce27dade5313cf7d469294ba7249dbb1431eeadc1301f58dde488c145ea5"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-70": {
+      "title": "Lektion 18 – Aufgabe 6: Hören Teil 1",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "6: Hören Teil 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 18,
+          "evidence": "Official publisher transcript eb500, PDF page 18: 'Aufgabe 6: Hören Teil 1 (Track 70)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "chapter": 18
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "b8622bb3a5c3295e95569a5aa024dbc7beed6dbf51148a00e1c1285bb4cbd404"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-71": {
+      "title": "Lektion 18 – Aufgabe 7: Hören Teil 2",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "7: Hören Teil 2",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 18,
+          "evidence": "Official publisher transcript eb500, PDF page 18: 'Aufgabe 7: Hören Teil 2 (Track 71)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "chapter": 18
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "746cdff18056b0b3468d9624ce144f370671cb6d00fae7bc160e6d36b3c324df"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-72": {
+      "title": "Lektion 18 – Aufgabe 8: Hören Teil 3",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "8: Hören Teil 3",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 18,
+          "evidence": "Official publisher transcript eb500, PDF page 18: 'Aufgabe 8: Hören Teil 3 (Track 72)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "chapter": 18
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "e1c651ea4502ee95248b94ee40413dc447ad20a4c2aceec953327643caf8fc7f"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-73": {
+      "title": "Lektion 18 – Aufgabe 9: Hören Teil 4",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "9: Hören Teil 4",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 18,
+          "evidence": "Official publisher transcript eb500, PDF page 18: 'Aufgabe 9: Hören Teil 4 (Track 73)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "chapter": 18
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "bf702d50fb6eea0ee4dcb33d049745b464aad95ff2ef8378bffac49ad032fc0a"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-74": {
+      "title": "Lektion 18 – Aufgabe 10: Hören und Schreiben",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "exercise": "10: Hören und Schreiben",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 19,
+          "evidence": "Official publisher transcript eb500, PDF page 19: 'Aufgabe 10: Hören und Schreiben (Track 74)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "chapter": 18
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "660d23e27229754c078dfa104f718205e99945f4a83686bc94842992eb726ae8"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-83": {
+      "title": "Lektion 1 – Ein neuer Beruf – Aufgabe 1b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "1b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 19,
+          "evidence": "Official publisher transcript eb500, PDF page 19: 'Aufgabe 1b (Track 83)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "b48c269d0676ab1712ec6a18cc3d9bf130d2526726b9328294bfe9d06a41d37e"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-84": {
+      "title": "Lektion 1 – Ein neuer Beruf – Aufgabe 9a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "9a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 19,
+          "evidence": "Official publisher transcript eb500, PDF page 19: 'Aufgabe 9a (Track 84)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "8d56211bee85d109a1fb1b8499ab90e25f5d636afd044b7cfa1f41d5bc56e7cf"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-85": {
+      "title": "Lektion 1 – Ein neuer Beruf – Aufgabe 17",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "17",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 19,
+          "evidence": "Official publisher transcript eb500, PDF page 19: 'Aufgabe 17 (Track 85)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "d8802d17381d0809094a838187b634c43adbe21bda6da789609ab245deabc8a6"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-86": {
+      "title": "Lektion 1 – Ein neuer Beruf – Lernzielkontrolle 1, Aufgabe 2",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 1, Aufgabe 2",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 19,
+          "evidence": "Official publisher transcript eb500, PDF page 19: 'Lernzielkontrolle 1, Aufgabe 2 (Track 86)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "47d01f69511c22d3506a83559624a56f7813192ee6c6b4b93239000d24feb2ac"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-87": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 3b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "3b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 19,
+          "evidence": "Official publisher transcript eb500, PDF page 19: 'Aufgabe 3b (Track 87)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "cc0d40eb34d35bd87a62beacb5873c9660ed0b3c14cb8d757335b406146dc127"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-88": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 9",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "9",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 20,
+          "evidence": "Official publisher transcript eb500, PDF page 20: 'Aufgabe 9 (Track 88)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "8e7fe4523051b0d15c6e3e60a2693f879c9fd805866015065221d079f3bfa01a"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-89": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Aufgabe 11a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "11a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 20,
+          "evidence": "Official publisher transcript eb500, PDF page 20: 'Aufgabe 11a (Track 89)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "ab308e1a51c56d489863774954c889a6c23ce55c95f378cfd3f4c72c04682935"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-90": {
+      "title": "Lektion 2 – Bei der Berufsberatung – Lernzielkontrolle 2, Aufgabe 2",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 2, Aufgabe 2",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 20,
+          "evidence": "Official publisher transcript eb500, PDF page 20: 'Lernzielkontrolle 2, Aufgabe 2 (Track 90)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "feba5f79d294fe72b8b7d8d674b332ca5b21b3097dcadaafc8bcd2faaaf90a44"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-91": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 6",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "6",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 21,
+          "evidence": "Official publisher transcript eb500, PDF page 21: 'Aufgabe 6 (Track 91)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "bd87f588af86c5fd84878bfb94d6b78e8ff50b7f6b1343ce705b7ecb7cd12adb"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-92": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 12a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "12a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 21,
+          "evidence": "Official publisher transcript eb500, PDF page 21: 'Aufgabe 12a (Track 92)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "9b8edd0da651547da1d1b6b235790841ab8b80e4052a57b9dddc0f398c1f0e26"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-93": {
+      "title": "Lektion 3 – Auf Jobsuche – Aufgabe 13b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "13b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 21,
+          "evidence": "Official publisher transcript eb500, PDF page 21: 'Aufgabe 13b (Track 93)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "6cd61687e76ad8e581c771ff6962c62d7e2e821c3f3d328d03662d316d8ceada"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-94": {
+      "title": "Lektion 3 – Auf Jobsuche – Lernzielkontrolle 3, Aufgabe 2",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 3, Aufgabe 2",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 21,
+          "evidence": "Official publisher transcript eb500, PDF page 21: 'Lernzielkontrolle 3, Aufgabe 2 (Track 94)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "b53835bee20b3ca19e82e95feb15aec568de74c2c309d1cb75521c38d3a4d769"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-95": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 6a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "6a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 21,
+          "evidence": "Official publisher transcript eb500, PDF page 21: 'Aufgabe 6a (Track 95)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "f2dbd8c91f8d7a89c2477df4b34aedbabb49a6012f8b2c62302a272e2046b43d"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-96": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 6c",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "6c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 22,
+          "evidence": "Official publisher transcript eb500, PDF page 22: 'Aufgabe 6c (Track 96)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "88521e8b8b46e3bb28bee1f326726bbe272d3c56d98e65e8a6528cf60073514e"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-97": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 8a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "8a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 22,
+          "evidence": "Official publisher transcript eb500, PDF page 22: 'Aufgabe 8a (Track 97)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "ffb907c1b5ec5de04b714bbc8f5997fc8354feb54afb83360dd76dbde5f6563c"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-98": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 8b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "8b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 22,
+          "evidence": "Official publisher transcript eb500, PDF page 22: 'Aufgabe 8b (Track 98)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "f47fd6449dbfecaecc7de719cc31b25183c778de2106e4ee8b033c68193132a1"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-99": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 8c",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "8c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 22,
+          "evidence": "Official publisher transcript eb500, PDF page 22: 'Aufgabe 8c (Track 99)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "7dfe7a8e7e1357523b9bca71ebcb390b11b280a2f3dc854ed82042d83dcf5857"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-100": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Aufgabe 13b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "13b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 22,
+          "evidence": "Official publisher transcript eb500, PDF page 22: 'Aufgabe 13b (Track 100)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "0cc74c0327a1f8372eff38f7ef506fa1a2688399268cb4818ecb670867e74ced"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-101": {
+      "title": "Lektion 4 – Stellenangebote und Bewerbungen – Lernzielkontrolle 4, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 4, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 22,
+          "evidence": "Official publisher transcript eb500, PDF page 22: 'Lernzielkontrolle 4, Aufgabe 1 (Track 101)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "63bb19dfd0fb5ff52df4934059e55bef556114104760363ff99d119554998de1"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-102": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Aufgabe 5a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "5a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 22,
+          "evidence": "Official publisher transcript eb500, PDF page 22: 'Aufgabe 5a (Track 102)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "edaf2537e3d5eca5e2e32546a7dc7c585a3ab5622d001691294dbcc1503e8575"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-103": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Aufgabe 8a und b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "8a und b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 22,
+          "evidence": "Official publisher transcript eb500, PDF page 22: 'Aufgabe 8a und b (Track 103)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "9e687fbbbc0264044352cf7b54bb914d36e7ebfc0fa6c785b5cdd789df85e3cd"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-104": {
+      "title": "Lektion 5 – Im Gespräch mit Kollegen – Lernzielkontrolle 5, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 5, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 23,
+          "evidence": "Official publisher transcript eb500, PDF page 23: 'Lernzielkontrolle 5, Aufgabe 1 (Track 104)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "5d79d3ab662c3efe5a5f45f8053e50c420284c202ffa2fcf62914cab17ceedf5"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-105": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Aufgabe 3f",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "3f",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 23,
+          "evidence": "Official publisher transcript eb500, PDF page 23: 'Aufgabe 3f (Track 105)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "b34198e6cc7f322b612c2d52c343410a795a23fa9ec914462d166157c3f4981f"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-106": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Aufgabe 5d",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "5d",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 23,
+          "evidence": "Official publisher transcript eb500, PDF page 23: 'Aufgabe 5d (Track 106)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "4463d4d24d537f3e0996a504a2ba34af272af687f5c712be1d5316198ea17de2"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-107": {
+      "title": "Lektion 6 – Kontakte mit Kunden – Lernzielkontrolle 6, Aufgabe 3",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 6, Aufgabe 3",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 23,
+          "evidence": "Official publisher transcript eb500, PDF page 23: 'Lernzielkontrolle 6, Aufgabe 3 (Track 107)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c756198fc266e7bf4a69aa5f0233f2110fb5e2c90a579d56c3b5c56fccb9f961"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-108": {
+      "title": "Lektion 7 – Berufsalltag in Deutschland – Aufgabe 3",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "3",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 24,
+          "evidence": "Official publisher transcript eb500, PDF page 24: 'Aufgabe 3 (Track 108)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 7,
+          "chapterTitle": "Berufsalltag in Deutschland"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c074ac5e4ace52e61efffc1b2cc234d1c250a1120c4a4f7a783ff6224dd62042"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-109": {
+      "title": "Lektion 7 – Berufsalltag in Deutschland – Aufgabe 18",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "18",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 24,
+          "evidence": "Official publisher transcript eb500, PDF page 24: 'Aufgabe 18 (Track 109)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 7,
+          "chapterTitle": "Berufsalltag in Deutschland"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "56792c20533ec619e507b635804e5bdb1cdc0a31ace42f8aaf97de0acc372758"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-110": {
+      "title": "Lektion 7 – Berufsalltag in Deutschland – Lernzielkontrolle 7, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 7, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 24,
+          "evidence": "Official publisher transcript eb500, PDF page 24: 'Lernzielkontrolle 7, Aufgabe 1 (Track 110)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 7,
+          "chapterTitle": "Berufsalltag in Deutschland"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "362c3ea2a047fc0fc5bbb86a35404590bdd7a08bb7f744a69e5f2a414ff90d29"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-111": {
+      "title": "Lektion 8 – Bewerbungsunterlagen – Aufgabe 11",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "11",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 24,
+          "evidence": "Official publisher transcript eb500, PDF page 24: 'Aufgabe 11 (Track 111)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 8,
+          "chapterTitle": "Bewerbungsunterlagen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "47ba50a7903e1a47871474ef6c3b15d4d0252ba7f7582cb0238a5d3cf196ac70"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-112": {
+      "title": "Lektion 8 – Bewerbungsunterlagen – Lernzielkontrolle 8, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 8, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 25,
+          "evidence": "Official publisher transcript eb500, PDF page 25: 'Lernzielkontrolle 8, Aufgabe 1 (Track 112)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 8,
+          "chapterTitle": "Bewerbungsunterlagen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "6bb7815fcf806bca52970935c150cf2b30549e6344a58abe1c8eb853696476ab"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-113": {
+      "title": "Lektion 9 – Arbeit und Familie – Aufgabe 3",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "3",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 25,
+          "evidence": "Official publisher transcript eb500, PDF page 25: 'Aufgabe 3 (Track 113)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 9,
+          "chapterTitle": "Arbeit und Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "e2008c8257702ade19eb93f944f8047293b628df8e6458bfeb4f07302b8cddcd"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-114": {
+      "title": "Lektion 9 – Arbeit und Familie – Aufgabe 5",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "5",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 25,
+          "evidence": "Official publisher transcript eb500, PDF page 25: 'Aufgabe 5 (Track 114)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 9,
+          "chapterTitle": "Arbeit und Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "2b7e0b7692eb5509eedc70aedebf8feb4f0a59b136c5685df24ba6244236a980"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-115": {
+      "title": "Lektion 9 – Arbeit und Familie – Lernzielkontrolle 9, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 9, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 26,
+          "evidence": "Official publisher transcript eb500, PDF page 26: 'Lernzielkontrolle 9, Aufgabe 1 (Track 115)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 9,
+          "chapterTitle": "Arbeit und Familie"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "655e4227264f3cf8604325f585cf759eb842ab8f6e59007462deb0673d60ec2a"
+      }
+    },
+    "einfach-besser-500-2021-pack-105-track-116": {
+      "title": "Lektion 10 – Beruflich unterwegs – Aufgabe 2",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "2",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 26,
+          "evidence": "Official publisher transcript eb500, PDF page 26: 'Aufgabe 2 (Track 116)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 10,
+          "chapterTitle": "Beruflich unterwegs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "fde681e270b09419d1fd9b2adaddc8db73e18990bfb2a549992ec643c31d7c43"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-117": {
+      "title": "Lektion 10 – Beruflich unterwegs – Aufgabe 5",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "5",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 26,
+          "evidence": "Official publisher transcript eb500, PDF page 26: 'Aufgabe 5 (Track 117)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 10,
+          "chapterTitle": "Beruflich unterwegs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c74b4e37f7d06e3c61399146cb4fea9639e55a2d31b95d6ea027f17714fc83aa"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-118": {
+      "title": "Lektion 10 – Beruflich unterwegs – Aufgabe 7",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "7",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 26,
+          "evidence": "Official publisher transcript eb500, PDF page 26: 'Aufgabe 7 (Track 118)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 10,
+          "chapterTitle": "Beruflich unterwegs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "67d46d73570c629e22031f1fc4bee5d5c2a6829406e1bc5386bbd901cc13032c"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-119": {
+      "title": "Lektion 10 – Beruflich unterwegs – Aufgabe 16a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "16a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 27,
+          "evidence": "Official publisher transcript eb500, PDF page 27: 'Aufgabe 16a (Track 119)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 10,
+          "chapterTitle": "Beruflich unterwegs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "ee3cee57b763f65f57e99bb28821c75afd729742ffdb7e36a1818adf3878a1e5"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-120": {
+      "title": "Lektion 10 – Beruflich unterwegs – Lernzielkontrolle 10, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 10, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 27,
+          "evidence": "Official publisher transcript eb500, PDF page 27: 'Lernzielkontrolle 10, Aufgabe 1 (Track 120)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 10,
+          "chapterTitle": "Beruflich unterwegs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "d91913067d6a8cf5f16c1305d9fc85f3d267f93a61d1bce4e8952b708d664ae5"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-121": {
+      "title": "Lektion 11 – Verkaufsgespräche und Small Talk – Aufgabe 3a und c",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "3a und c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 27,
+          "evidence": "Official publisher transcript eb500, PDF page 27: 'Aufgabe 3a und c (Track 121)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 11,
+          "chapterTitle": "Verkaufsgespräche und Small Talk"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "aa8ff67d18a472fd69a5a5d87aedc129322bba4c849c7f2ad30c5f3be1ef8beb"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-122": {
+      "title": "Lektion 11 – Verkaufsgespräche und Small Talk – Lernzielkontrolle 11, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 11, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 28,
+          "evidence": "Official publisher transcript eb500, PDF page 28: 'Lernzielkontrolle 11, Aufgabe 1 (Track 122)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 11,
+          "chapterTitle": "Verkaufsgespräche und Small Talk"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "4e3829234758a9c18ba0299dcdf7f440aff9dcefa5b6c79cd3e97ad432753fda"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-123": {
+      "title": "Lektion 12 – Angebote und Verhandlungen – Aufgabe 15",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "15",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 28,
+          "evidence": "Official publisher transcript eb500, PDF page 28: 'Aufgabe 15 (Track 123)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 12,
+          "chapterTitle": "Angebote und Verhandlungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "2b2ea306b1589dfd33de5b5636d6c5ad59ce9e4ffb9158902474a4d5b60288d1"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-124": {
+      "title": "Lektion 12 – Angebote und Verhandlungen – Lernzielkontrolle 12, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 12, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 28,
+          "evidence": "Official publisher transcript eb500, PDF page 28: 'Lernzielkontrolle 12, Aufgabe 1 (Track 124)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 12,
+          "chapterTitle": "Angebote und Verhandlungen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "856c4314553e336c6fdf1823ccf2645ce21b5621f648d174388a60004817b547"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-125": {
+      "title": "Lektion 13 – Bestellen und bezahlen – Aufgabe 9b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "9b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 29,
+          "evidence": "Official publisher transcript eb500, PDF page 29: 'Aufgabe 9b (Track 125)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 13,
+          "chapterTitle": "Bestellen und bezahlen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "919938b813b0d3b315a4a8294a9f7dfca4f6fd4f19dbbb6919fecc1e34b8828f"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-126": {
+      "title": "Lektion 13 – Bestellen und bezahlen – Aufgabe 12",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "12",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 29,
+          "evidence": "Official publisher transcript eb500, PDF page 29: 'Aufgabe 12 (Track 126)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 13,
+          "chapterTitle": "Bestellen und bezahlen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "f938e4d43ccd43c4bedb99df617980396073161ede0c7b73834c94cfac8f9e1e"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-127": {
+      "title": "Lektion 13 – Bestellen und bezahlen – Lernzielkontrolle 13, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 13, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 29,
+          "evidence": "Official publisher transcript eb500, PDF page 29: 'Lernzielkontrolle 13, Aufgabe 1 (Track 127)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 13,
+          "chapterTitle": "Bestellen und bezahlen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "f5a00904fae67535d69a026654bc94e78fdfe1dbba76fea86e6987fff2a756e5"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-128": {
+      "title": "Lektion 14 – Konflikte und Beschwerden – Aufgabe 11",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "11",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 29,
+          "evidence": "Official publisher transcript eb500, PDF page 29: 'Aufgabe 11 (Track 128)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 14,
+          "chapterTitle": "Konflikte und Beschwerden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "5c57d386fb3ac9c8941af490a235670e3f7ff41d61d2413216c72dca8d6d4304"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-129": {
+      "title": "Lektion 14 – Konflikte und Beschwerden – Aufgabe 16a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "16a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 30,
+          "evidence": "Official publisher transcript eb500, PDF page 30: 'Aufgabe 16a (Track 129)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 14,
+          "chapterTitle": "Konflikte und Beschwerden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "3c563b7ec2ede3c46cf8dac40b1ff9ca0eb2de47f7aa3898c15ab3b60be591c6"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-130": {
+      "title": "Lektion 14 – Konflikte und Beschwerden – Lernzielkontrolle 14, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 14, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 30,
+          "evidence": "Official publisher transcript eb500, PDF page 30: 'Lernzielkontrolle 14, Aufgabe 1 (Track 130)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 14,
+          "chapterTitle": "Konflikte und Beschwerden"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c3f27387059a595b99132c683ae530fff8693c05e84b6558882424a2ff93765a"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-131": {
+      "title": "Lektion 15 – Eine Besprechung planen – Aufgabe 6b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "6b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 30,
+          "evidence": "Official publisher transcript eb500, PDF page 30: 'Aufgabe 6b (Track 131)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 15,
+          "chapterTitle": "Eine Besprechung planen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "b1f5f2caa2bd27603da033d28f4ed5e1616a607dbadafcee3b4290ed0d92ca2d"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-132": {
+      "title": "Lektion 15 – Eine Besprechung planen – Aufgabe 10c",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "10c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 30,
+          "evidence": "Official publisher transcript eb500, PDF page 30: 'Aufgabe 10c (Track 132)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 15,
+          "chapterTitle": "Eine Besprechung planen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "67bdbad1cb81c78cb54df9bd9f964d6b2f3b2e3c5f96d561dd5ae782872974a7"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-133": {
+      "title": "Lektion 15 – Eine Besprechung planen – Lernzielkontrolle 15, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 15, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 30,
+          "evidence": "Official publisher transcript eb500, PDF page 30: 'Lernzielkontrolle 15, Aufgabe 1 (Track 133)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 15,
+          "chapterTitle": "Eine Besprechung planen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "fd826c686ece9f0cd2d1b466090c2687f776b408ea24c6f8771b173f30f3bb78"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-134": {
+      "title": "Lektion 16 – Bestimmungen am Arbeitsplatz – Aufgabe 5b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "5b",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 31,
+          "evidence": "Official publisher transcript eb500, PDF page 31: 'Aufgabe 5b (Track 134)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 16,
+          "chapterTitle": "Bestimmungen am Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "97f392cdff8202ef6650e3b1ae9f46d86bf615a379b1fe8ff5ea0cac76262e12"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-135": {
+      "title": "Lektion 16 – Bestimmungen am Arbeitsplatz – Lernzielkontrolle 16, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 16, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 31,
+          "evidence": "Official publisher transcript eb500, PDF page 31: 'Lernzielkontrolle 16, Aufgabe 1 (Track 135)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 16,
+          "chapterTitle": "Bestimmungen am Arbeitsplatz"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "0b41dbf4dfd331a11aab8803da95c93e4568ba3abde3bf3720b349e16a42ba34"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-136": {
+      "title": "Lektion 17 – Rund um den Arbeitsvertrag – Aufgabe 3a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "3a",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 31,
+          "evidence": "Official publisher transcript eb500, PDF page 31: 'Aufgabe 3a (Track 136)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 17,
+          "chapterTitle": "Rund um den Arbeitsvertrag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "73876b851381d19a4d362460bd6de305d3285b43046c9ffa2612b76fc7df402c"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-137": {
+      "title": "Lektion 17 – Rund um den Arbeitsvertrag – Aufgabe 9c",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "9c",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 31,
+          "evidence": "Official publisher transcript eb500, PDF page 31: 'Aufgabe 9c (Track 137)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 17,
+          "chapterTitle": "Rund um den Arbeitsvertrag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "c54d21c0b2afdc621d8b373d33204885b178ce7087b9911bda52d970fb79333f"
+      }
+    },
+    "einfach-besser-500-2021-pack-106-track-138": {
+      "title": "Lektion 17 – Rund um den Arbeitsvertrag – Lernzielkontrolle 17, Aufgabe 1",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "exercise": "Lernzielkontrolle 17, Aufgabe 1",
+          "status": "verified",
+          "sourceUrl": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+          "sourcePage": 32,
+          "evidence": "Official publisher transcript eb500, PDF page 32: 'Lernzielkontrolle 17, Aufgabe 1 (Track 138)'; https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf; chapter title corroborated in original vocabulary PDF",
+          "chapter": 17,
+          "chapterTitle": "Rund um den Arbeitsvertrag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-transcript-and-original-resource",
+        "sourceSha256": "d0a4d10fdbbd12d8bf8fdca5df2cc0b150d1fb9e9cf8cf7a5803acbfe98801d8"
+      }
+    },
+    "einfach-besser-500-2021-pack-101-track-1": {
+      "title": "Einführung – Track 1",
+      "references": [
+        {
+          "section": "Einführung",
+          "status": "verified",
+          "evidence": "Original audio Einfach_besser!_500_Track_001.mp3 (SHA256 f3a12283c8572d2e270eb35adbd71337b9d4047c3658f52d71fa62d9d4cbc556), opening announcement reviewed from local transcription: 'Telk, einfach besser 500. Deutsch für Berufssprachkurse W2. Kurs und Arbeitsbuch.'; Title announcement only; no exercise reference."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement",
+        "sourceSha256": "f3a12283c8572d2e270eb35adbd71337b9d4047c3658f52d71fa62d9d4cbc556",
+        "sourceLocator": "Original audio Einfach_besser!_500_Track_001.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-75": {
+      "title": "Aufgabe 1a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio Einfach_besser!_500_Track_075.mp3 (SHA256 1fa3e590ba7aaa671d72d6923e2e1c33b89a451d8bff1fa5e62fabc09fbc73ec), opening announcement reviewed from local transcription: 'Aussprache Training'",
+          "exercise": "1a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement-and-verified-peer-audio",
+        "sourceSha256": "1fa3e590ba7aaa671d72d6923e2e1c33b89a451d8bff1fa5e62fabc09fbc73ec",
+        "sourceLocator": "Original audio Einfach_besser!_500_Track_075.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-76": {
+      "title": "Aufgabe 1c",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio Einfach_besser!_500_Track_076.mp3 (SHA256 8f7672aef9111467c8f526dca05ca64f038ab32ae27f73347f49d484c181f34b), opening announcement reviewed from local transcription: 'Aufgabe 1c. Zeitarbeit, Arbeitsverträge, Information,'",
+          "exercise": "1c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement-and-verified-peer-audio",
+        "sourceSha256": "8f7672aef9111467c8f526dca05ca64f038ab32ae27f73347f49d484c181f34b",
+        "sourceLocator": "Original audio Einfach_besser!_500_Track_076.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-77": {
+      "title": "Aufgabe 2a und b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio Einfach_besser!_500_Track_077.mp3 (SHA256 938e858ccee04b44c2adbc46d97335b784d464557e52f224fe38a2cedcd578b2), opening announcement reviewed from local transcription: 'Aufgabe 2a und b'",
+          "exercise": "2a und b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement-and-verified-peer-audio",
+        "sourceSha256": "938e858ccee04b44c2adbc46d97335b784d464557e52f224fe38a2cedcd578b2",
+        "sourceLocator": "Original audio Einfach_besser!_500_Track_077.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-78": {
+      "title": "Aufgabe 3a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio Einfach_besser!_500_Track_078.mp3 (SHA256 c3a69876fd78c609f4f11d2b0c4d98043471577c1a4a42424f968f622c33f6c1), opening announcement reviewed from local transcription: 'Aufgabe 3a'",
+          "exercise": "3a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement-and-verified-peer-audio",
+        "sourceSha256": "c3a69876fd78c609f4f11d2b0c4d98043471577c1a4a42424f968f622c33f6c1",
+        "sourceLocator": "Original audio Einfach_besser!_500_Track_078.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-79": {
+      "title": "Aufgabe 3b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio Einfach_besser!_500_Track_079.mp3 (SHA256 23cbd7e611e3b1e429482885a10aca97f10a0fd2ca82e3e53aeceb6a7d95ada7), opening announcement reviewed from local transcription: 'Aufgabe 3 B'",
+          "exercise": "3b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement-and-verified-peer-audio",
+        "sourceSha256": "23cbd7e611e3b1e429482885a10aca97f10a0fd2ca82e3e53aeceb6a7d95ada7",
+        "sourceLocator": "Original audio Einfach_besser!_500_Track_079.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-80": {
+      "title": "Aufgabe 4b und c",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio Einfach_besser!_500_Track_080.mp3 (SHA256 0a3ae104fe95dcdba84494e213ea79b9e471c2a1e1515d6ce928e10eb95a8a41), opening announcement reviewed from local transcription: 'Fachmesse, Berufserfahrung, Industrie'; Whole original audio corresponds to EB400Track53, complete amplitude-envelope correlation 0.999576, sourceSHA256 c3a46d141e279c3adbe741267ee1e63c9bc67bdf13b6a72495ab3a7963db7625; peer original announcement explicitly says Aufgabe4b undc.",
+          "exercise": "4b und c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement-and-verified-peer-audio",
+        "sourceSha256": "0a3ae104fe95dcdba84494e213ea79b9e471c2a1e1515d6ce928e10eb95a8a41",
+        "sourceLocator": "Original audio Einfach_besser!_500_Track_080.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-81": {
+      "title": "Aufgabe 5a und b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio Einfach_besser!_500_Track_081.mp3 (SHA256 cd0316035b3d424e8936fc62d8a53331a239906e7c79960f735fe4026dfeca68), opening announcement reviewed from local transcription: 'Aufgabe 5A und B'",
+          "exercise": "5a und b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement-and-verified-peer-audio",
+        "sourceSha256": "cd0316035b3d424e8936fc62d8a53331a239906e7c79960f735fe4026dfeca68",
+        "sourceLocator": "Original audio Einfach_besser!_500_Track_081.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-besser-500-2021-pack-104-track-82": {
+      "title": "Aufgabe 5d",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "status": "verified",
+          "evidence": "Original audio Einfach_besser!_500_Track_082.mp3 (SHA256 ca0620c2819d6452cce12d303265186e0b40cf08db1c8e7b16ea7318e67e6681), opening announcement reviewed from local transcription: 'Aufgabe 5 D'",
+          "exercise": "5d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-announcement-and-verified-peer-audio",
+        "sourceSha256": "ca0620c2819d6452cce12d303265186e0b40cf08db1c8e7b16ea7318e67e6681",
+        "sourceLocator": "Original audio Einfach_besser!_500_Track_082.mp3 at00:00–00:12"
+      }
+    }
+  },
+  "documents": {
+    "einfach-besser-500-2021-doc-101": {
+      "references": [
+        {
+          "section": "Wortschatz",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 1, heading 'Wortschatz zu Lektion 1: Ein neuer Beruf'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 1
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 3, heading 'Wortschatz zu Lektion 2: Bei der Berufsberatung'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 3
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 5, heading 'Wortschatz zu Lektion 3: Auf Jobsuche'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 5
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 7, heading 'Wortschatz zu Lektion 4: Stellenangebote und Bewerbungen'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 7
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 9, heading 'Wortschatz zu Lektion 5: Im Gespräch mit Kollegen'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 9
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 11, heading 'Wortschatz zu Lektion 6: Kontakte mit Kunden'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 11
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 7,
+          "chapterTitle": "Berufsalltag in Deutschland",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 13, heading 'Wortschatz zu Lektion 7: Berufsalltag in Deutschland'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 13
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 8,
+          "chapterTitle": "Bewerbungsunterlagen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 15, heading 'Wortschatz zu Lektion 8: Bewerbungsunterlagen'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 15
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 9,
+          "chapterTitle": "Arbeit und Familie",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 17, heading 'Wortschatz zu Lektion 9: Arbeit und Familie'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 17
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 10,
+          "chapterTitle": "Beruflich unterwegs",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 19, heading 'Wortschatz zu Lektion 10: Beruflich unterwegs'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 19
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 11,
+          "chapterTitle": "Verkaufsgespräche und Small Talk",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 21, heading 'Wortschatz zu Lektion 11: Verkaufsgespräche und Small Talk'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 21
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 12,
+          "chapterTitle": "Angebote und Verhandlungen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 23, heading 'Wortschatz zu Lektion 12: Angebote und Verhandlungen'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 23
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 13,
+          "chapterTitle": "Bestellen und bezahlen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 25, heading 'Wortschatz zu Lektion 13: Bestellen und bezahlen'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 25
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 14,
+          "chapterTitle": "Konflikte und Beschwerden",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 27, heading 'Wortschatz zu Lektion 14: Konflikte und Beschwerden'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 27
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 15,
+          "chapterTitle": "Eine Besprechung planen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 29, heading 'Wortschatz zu Lektion 15: Eine Besprechung planen'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 29
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 16,
+          "chapterTitle": "Bestimmungen am Arbeitsplatz",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 31, heading 'Wortschatz zu Lektion 16: Bestimmungen am Arbeitsplatz'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 31
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 17,
+          "chapterTitle": "Rund um den Arbeitsvertrag",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-101, PDF page 33, heading 'Wortschatz zu Lektion 17: Rund um den Arbeitsvertrag'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+          "sourcePage": 33
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-chapter-headings",
+        "sourceSha256": "f1cc9fb4eec859eb6ddf9c41a1251440cb5ac43a76cec91e60c8ee2d2df4ddb4"
+      }
+    },
+    "einfach-besser-500-2021-doc-102": {
+      "references": [
+        {
+          "section": "Wortschatz",
+          "chapter": 1,
+          "chapterTitle": "Ein neuer Beruf",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 1, heading 'Wortschatz zu Lektion 1: Ein neuer Beruf'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 1
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 2,
+          "chapterTitle": "Bei der Berufsberatung",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 3, heading 'Wortschatz zu Lektion 2: Bei der Berufsberatung'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 3
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 3,
+          "chapterTitle": "Auf Jobsuche",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 5, heading 'Wortschatz zu Lektion 3: Auf Jobsuche'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 5
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 4,
+          "chapterTitle": "Stellenangebote und Bewerbungen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 7, heading 'Wortschatz zu Lektion 4: Stellenangebote und Bewerbungen'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 7
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 5,
+          "chapterTitle": "Im Gespräch mit Kollegen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 9, heading 'Wortschatz zu Lektion 5: Im Gespräch mit Kollegen'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 9
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 6,
+          "chapterTitle": "Kontakte mit Kunden",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 11, heading 'Wortschatz zu Lektion 6: Kontakte mit Kunden'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 11
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 7,
+          "chapterTitle": "Berufsalltag in Deutschland",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 13, heading 'Wortschatz zu Lektion 7: Berufsalltag in Deutschland'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 13
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 8,
+          "chapterTitle": "Bewerbungsunterlagen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 15, heading 'Wortschatz zu Lektion 8: Bewerbungsunterlagen'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 15
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 9,
+          "chapterTitle": "Arbeit und Familie",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 17, heading 'Wortschatz zu Lektion 9: Arbeit und Familie'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 17
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 10,
+          "chapterTitle": "Beruflich unterwegs",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 19, heading 'Wortschatz zu Lektion 10: Beruflich unterwegs'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 19
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 11,
+          "chapterTitle": "Verkaufsgespräche und Small Talk",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 21, heading 'Wortschatz zu Lektion 11: Verkaufsgespräche und Small Talk'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 21
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 12,
+          "chapterTitle": "Angebote und Verhandlungen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 24, heading 'Wortschatz zu Lektion 12: Angebote und Verhandlungen'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 24
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 13,
+          "chapterTitle": "Bestellen und bezahlen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 26, heading 'Wortschatz zu Lektion 13: Bestellen und bezahlen'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 26
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 14,
+          "chapterTitle": "Konflikte und Beschwerden",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 28, heading 'Wortschatz zu Lektion 14: Konflikte und Beschwerden'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 28
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 15,
+          "chapterTitle": "Eine Besprechung planen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 30, heading 'Wortschatz zu Lektion 15: Eine Besprechung planen'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 30
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 16,
+          "chapterTitle": "Bestimmungen am Arbeitsplatz",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 32, heading 'Wortschatz zu Lektion 16: Bestimmungen am Arbeitsplatz'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 32
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 17,
+          "chapterTitle": "Rund um den Arbeitsvertrag",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-besser-500-2021-doc-102, PDF page 34, heading 'Wortschatz zu Lektion 17: Rund um den Arbeitsvertrag'; https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+          "sourcePage": 34
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-chapter-headings",
+        "sourceSha256": "09afb7685482df9e1c3dc00264426c847a29fa10b53fe5b56398880e161d7c7a"
+      }
+    }
+  },
+  "sources": [
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Deutsch.pdf",
+      "sha256": "f1cc9fb4eec859eb6ddf9c41a1251440cb5ac43a76cec91e60c8ee2d2df4ddb4",
+      "pageCount": 35,
+      "title": "Wortschatzliste Einfach besser 500 Deutsch"
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/01_Einfach_besser!/00_Einfach_besser!_500_2021/other/Wortschatzliste_Einfach_besser_500_Englisch.pdf",
+      "sha256": "09afb7685482df9e1c3dc00264426c847a29fa10b53fe5b56398880e161d7c7a",
+      "pageCount": 36,
+      "title": "Wortschatzliste Einfach besser 500 Englisch"
+    },
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Loesungen_Hoertexte/Einfach_besser_500_Hoertexte_Kurs-_und_Arbeitsbuch.pdf",
+      "sha256": "8774c8d9cd3a2b6511797b5556e72c96598f298f1d3d80eed860da235c893d27",
+      "pageCount": 32,
+      "title": "eb500"
+    },
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Uebungstest_Deutsch_Test_fuer_den_Beruf_B2.pdf",
+      "sha256": "61ad613f79bc2a1cbe2a273f52de46505bed7536ecda43042b22f207e378aa56",
+      "pageCount": 4,
+      "title": "eb500-test"
+    },
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Hoertexte_Zwischentests.pdf",
+      "sha256": "bdf3576d82feb19f9651bae00cc08713c8915897d3508018367c7284d0ce1410",
+      "pageCount": 4,
+      "title": "eb500-zwischen"
+    },
+    {
+      "url": "https://www.telc.net/fileadmin/user_upload/Downloads_Verlag/Einfach_besser_100_400_500/Zwischentests_Uebungstests/Einfach_besser_500_Loesungen_Zwischentests.pdf",
+      "sha256": "1ed5cc6101cc01548ca4621c8b5b0d1195e937d7e9649d9926f18f2ca29752fe",
+      "pageCount": 1,
+      "title": "eb500-zwischen-solutions"
+    }
+  ],
+  "review": {
+    "author": "app_architecture",
+    "reviewedAt": "2026-10-11T18:20:16.976016+00:00",
+    "reviewer": "metadata_pipeline",
+    "independentlyReviewedAt": "2026-10-11T18:21:14.129176+00:00"
+  }
+}

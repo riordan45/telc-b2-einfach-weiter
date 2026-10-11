@@ -1,38 +1,27 @@
-"""Verify the built APK's offline content and copy the personal install artifact."""
-import hashlib
+"""Verify and copy a Gradle-built metadata-only or explicitly bundled APK."""
 import json
 import shutil
 import zipfile
 from pathlib import Path
-
-from validate_catalog import ROOT, validate
-
+from build_app import ROOT, CATALOG, digest, verify_apk, verify_reviewed_snapshot
 
 def main():
-    validate()
+    verify_reviewed_snapshot()
+    catalog = json.loads(CATALOG.read_text())
     source = ROOT / 'app/build/outputs/apk/debug/app-debug.apk'
-    catalog_path = ROOT / 'app/src/main/assets/catalog.json'
-    catalog = json.loads(catalog_path.read_text())
     with zipfile.ZipFile(source) as apk:
-        names = apk.namelist()
-        assert len(names) == len(set(names)), 'Duplicate APK entries'
-        assert apk.read('assets/catalog.json') == catalog_path.read_bytes()
-        expected = {f"assets/{track['asset']}" for track in catalog['tracks']}
-        assert {name for name in names if name.startswith('assets/audio/')} == expected
-        for track in catalog['tracks']:
-            data = apk.read(f"assets/{track['asset']}")
-            assert len(data) == track['bytes']
-            assert hashlib.sha256(data).hexdigest() == track['sha256']
-        assert not any(name.startswith('assets/') and name.endswith(('.bin', '.wav', '.txt')) for name in names), 'Preparation files in APK'
+        try:
+            bundled = json.loads(apk.read('assets/bundled.json'))
+        except KeyError:
+            bundled = {'resources': {}, 'books': []}
+    verify_apk(source, catalog, bundled['resources'])
     output = ROOT / 'output'
     output.mkdir(exist_ok=True)
-    target = output / 'Weiter-B2-1.0.0.apk'
+    label = '-bundled' if bundled['books'] else ''
+    target = output / ('Weiter-2.0.0' + label + '.apk')
     shutil.copyfile(source, target)
-    digest = hashlib.sha256(target.read_bytes()).hexdigest()
-    target.with_suffix('.apk.sha256').write_text(f'{digest}  {target.name}\n')
-    print(f'PASS: APK contains exactly 63 unchanged MP3s; {target.stat().st_size:,} bytes')
-    print(f'SHA-256: {digest}')
-
+    target.with_suffix('.apk.sha256').write_text(digest(target) + '  ' + target.name + '\n')
+    print(f"Verified {target}: {target.stat().st_size / 1024**2:.1f} MiB, {len(bundled['resources'])} bundled resources")
 
 if __name__ == '__main__':
     main()

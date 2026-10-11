@@ -1,0 +1,956 @@
+{
+  "schemaVersion": 1,
+  "bookId": "prufungstraining-deutsch-test-fur-zuwanderer",
+  "review": {
+    "author": "official_catalog",
+    "reviewedAt": "2026-10-11T18:10:12.216508+00:00",
+    "reviewer": "root",
+    "independentlyReviewedAt": "2026-10-11T18:14:07.435115+00:00",
+    "independentReviewMethod": "Every cited first-pass or alternative-model transcript read and compared to lesson/module/exercise; intros left without references; test series boundaries checked."
+  },
+  "tracks": {
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-1": {
+      "title": "Lektion 1 · Aufgabe 1f",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "1f",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 1f."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "73834504b2528f65c85ee0ee3b9af0c9558332deeaf35b1781c9244693152db9",
+        "sourceLocator": "audio SHA256 73834504b2528f65c85ee0ee3b9af0c9558332deeaf35b1781c9244693152db9 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/73834504b2528f65c85ee0ee3b9af0c9558332deeaf35b1781c9244693152db9.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/73834504b2528f65c85ee0ee3b9af0c9558332deeaf35b1781c9244693152db9.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-2": {
+      "title": "Lektion 1 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "2a",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 2a."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "39a7295c37d1ddeb12eeeb77b67f225435790162c5c9ac9bbc25b0839adf5e24",
+        "sourceLocator": "audio SHA256 39a7295c37d1ddeb12eeeb77b67f225435790162c5c9ac9bbc25b0839adf5e24 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/39a7295c37d1ddeb12eeeb77b67f225435790162c5c9ac9bbc25b0839adf5e24.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/39a7295c37d1ddeb12eeeb77b67f225435790162c5c9ac9bbc25b0839adf5e24.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-3": {
+      "title": "Lektion 1 · Aufgabe 3d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "3d",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 3d."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "5c741f58336a58027d97cf0db01705a6597b5bce668685e1c54c1b464ab881c3",
+        "sourceLocator": "audio SHA256 5c741f58336a58027d97cf0db01705a6597b5bce668685e1c54c1b464ab881c3 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/5c741f58336a58027d97cf0db01705a6597b5bce668685e1c54c1b464ab881c3.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/5c741f58336a58027d97cf0db01705a6597b5bce668685e1c54c1b464ab881c3.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-4": {
+      "title": "Lektion 1 · Aufgabe 4d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "4d",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 4d."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "637c8acd6d0e8d49b0a61295bea26c7afd78a2a6be061dc31150ba2f35e6849f",
+        "sourceLocator": "audio SHA256 637c8acd6d0e8d49b0a61295bea26c7afd78a2a6be061dc31150ba2f35e6849f at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/637c8acd6d0e8d49b0a61295bea26c7afd78a2a6be061dc31150ba2f35e6849f.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/637c8acd6d0e8d49b0a61295bea26c7afd78a2a6be061dc31150ba2f35e6849f.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-5": {
+      "title": "Lektion 1 · Aufgabe 5a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "5a",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 5a."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b7fb420e271b65479ff3ac71b545a9c1f0eb9ceb06754ed1ee3b55b680563546",
+        "sourceLocator": "audio SHA256 b7fb420e271b65479ff3ac71b545a9c1f0eb9ceb06754ed1ee3b55b680563546 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/b7fb420e271b65479ff3ac71b545a9c1f0eb9ceb06754ed1ee3b55b680563546.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/b7fb420e271b65479ff3ac71b545a9c1f0eb9ceb06754ed1ee3b55b680563546.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-6": {
+      "title": "Lektion 1 · Aufgabe 5b, 6b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "5b, 6b",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 5b, 6b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "2325012c623d17cffdb710054530f37347a1aa3cf9892d1c0d812c7490c1898b",
+        "sourceLocator": "audio SHA256 2325012c623d17cffdb710054530f37347a1aa3cf9892d1c0d812c7490c1898b at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/2325012c623d17cffdb710054530f37347a1aa3cf9892d1c0d812c7490c1898b.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/2325012c623d17cffdb710054530f37347a1aa3cf9892d1c0d812c7490c1898b.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-7": {
+      "title": "Lektion 1 · Aufgabe 7b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "7b",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 7b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8bbb525b23c3fdb2ece18623ecb489fde082ae25361d576fbd1c760445687550",
+        "sourceLocator": "audio SHA256 8bbb525b23c3fdb2ece18623ecb489fde082ae25361d576fbd1c760445687550 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/8bbb525b23c3fdb2ece18623ecb489fde082ae25361d576fbd1c760445687550.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/8bbb525b23c3fdb2ece18623ecb489fde082ae25361d576fbd1c760445687550.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-8": {
+      "title": "Lektion 1 · Aufgabe 8",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 1,
+          "exercise": "8",
+          "evidence": "Reviewed opening announcement: Lektion 1, Aufgabe 8."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "395c54bc30b7659f59d408fd74c3bc86339a65fc982bcde04d9523bfeb3be78d",
+        "sourceLocator": "audio SHA256 395c54bc30b7659f59d408fd74c3bc86339a65fc982bcde04d9523bfeb3be78d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/395c54bc30b7659f59d408fd74c3bc86339a65fc982bcde04d9523bfeb3be78d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/395c54bc30b7659f59d408fd74c3bc86339a65fc982bcde04d9523bfeb3be78d.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-9": {
+      "title": "Lektion 2 · Aufgabe 1c, 1d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "1c, 1d",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 1c, 1d."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "050b6a4b025ad896adff29fb2deea1d449ed812de44edf410d971710f4ab84cf",
+        "sourceLocator": "audio SHA256 050b6a4b025ad896adff29fb2deea1d449ed812de44edf410d971710f4ab84cf at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/050b6a4b025ad896adff29fb2deea1d449ed812de44edf410d971710f4ab84cf.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/050b6a4b025ad896adff29fb2deea1d449ed812de44edf410d971710f4ab84cf.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-10": {
+      "title": "Lektion 2 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 2,
+          "evidence": "Reviewed local base-model opening recovers: Lektion 2, Aufgabe 2a.",
+          "exercise": "2a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement-base-fallback",
+        "sourceSha256": "c44b036a2f91aeac5719f3c75f56b02244d7c1dc0edeece8cdf0e2fd657cb9c5",
+        "sourceLocator": "audio SHA256 c44b036a2f91aeac5719f3c75f56b02244d7c1dc0edeece8cdf0e2fd657cb9c5 at 00:00–00:12; evidence cache c44b036a2f91aeac5719f3c75f56b02244d7c1dc0edeece8cdf0e2fd657cb9c5-12s-base",
+        "model": "base",
+        "clipSeconds": 12,
+        "evidencePath": ".work/analysis/announcements-by-sha/c44b036a2f91aeac5719f3c75f56b02244d7c1dc0edeece8cdf0e2fd657cb9c5-12s-base.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/c44b036a2f91aeac5719f3c75f56b02244d7c1dc0edeece8cdf0e2fd657cb9c5-12s-base.evidence.json"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-11": {
+      "title": "Lektion 2 · Aufgabe 3a, 3b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "3a, 3b",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 3a, 3b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "28e7538a1788bf35ce830d167c0293507d651f721a108ac41482a03d2e5a99c8",
+        "sourceLocator": "audio SHA256 28e7538a1788bf35ce830d167c0293507d651f721a108ac41482a03d2e5a99c8 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/28e7538a1788bf35ce830d167c0293507d651f721a108ac41482a03d2e5a99c8.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/28e7538a1788bf35ce830d167c0293507d651f721a108ac41482a03d2e5a99c8.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-12": {
+      "title": "Lektion 2 · Aufgabe 3d, 3e",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "3d, 3e",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 3d, 3e."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "ce351dc38a2f78242754e1078faaec42c77850f50487e3b14047b236f5676937",
+        "sourceLocator": "audio SHA256 ce351dc38a2f78242754e1078faaec42c77850f50487e3b14047b236f5676937 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/ce351dc38a2f78242754e1078faaec42c77850f50487e3b14047b236f5676937.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/ce351dc38a2f78242754e1078faaec42c77850f50487e3b14047b236f5676937.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-13": {
+      "title": "Lektion 2 · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "4b",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 4b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "08af7123292bd5d2757a5c70d25f0bf1ce446f75a202a160be02b9c67f51a4de",
+        "sourceLocator": "audio SHA256 08af7123292bd5d2757a5c70d25f0bf1ce446f75a202a160be02b9c67f51a4de at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/08af7123292bd5d2757a5c70d25f0bf1ce446f75a202a160be02b9c67f51a4de.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/08af7123292bd5d2757a5c70d25f0bf1ce446f75a202a160be02b9c67f51a4de.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-14": {
+      "title": "Lektion 2 · Aufgabe 5b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "5b",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 5b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "b3b096eaeca745f14bdf0d3648506331ea67a4c327711571b4cdf5b1719098b5",
+        "sourceLocator": "audio SHA256 b3b096eaeca745f14bdf0d3648506331ea67a4c327711571b4cdf5b1719098b5 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/b3b096eaeca745f14bdf0d3648506331ea67a4c327711571b4cdf5b1719098b5.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/b3b096eaeca745f14bdf0d3648506331ea67a4c327711571b4cdf5b1719098b5.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-15": {
+      "title": "Lektion 2 · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "6a",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 6a."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "1356f4bcd5f36c13658b27e376eab75942b38003d1af0125c41644a2d4805c47",
+        "sourceLocator": "audio SHA256 1356f4bcd5f36c13658b27e376eab75942b38003d1af0125c41644a2d4805c47 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/1356f4bcd5f36c13658b27e376eab75942b38003d1af0125c41644a2d4805c47.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/1356f4bcd5f36c13658b27e376eab75942b38003d1af0125c41644a2d4805c47.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-16": {
+      "title": "Lektion 2 · Aufgabe 6b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "6b",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 6b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "bfa95645f45febf8327d0e0eae591afccf171fbde1979d7cf791ab39ef104812",
+        "sourceLocator": "audio SHA256 bfa95645f45febf8327d0e0eae591afccf171fbde1979d7cf791ab39ef104812 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/bfa95645f45febf8327d0e0eae591afccf171fbde1979d7cf791ab39ef104812.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/bfa95645f45febf8327d0e0eae591afccf171fbde1979d7cf791ab39ef104812.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-100-track-17": {
+      "title": "Lektion 2 · Aufgabe 8",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 2,
+          "exercise": "8",
+          "evidence": "Reviewed opening announcement: Lektion 2, Aufgabe 8."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "a28ff95875e4172ae72e5b90bcdd904caf30d8e04790a6e8c997c7fabd20776e",
+        "sourceLocator": "audio SHA256 a28ff95875e4172ae72e5b90bcdd904caf30d8e04790a6e8c997c7fabd20776e at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/a28ff95875e4172ae72e5b90bcdd904caf30d8e04790a6e8c997c7fabd20776e.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/a28ff95875e4172ae72e5b90bcdd904caf30d8e04790a6e8c997c7fabd20776e.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-18": {
+      "title": "Lektion 3 · Aufgabe 2d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "2d",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 2d."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "036b5bff8be7b9cf064e4ab17c978e978cf66316e6d9a3b8204f14f492679926",
+        "sourceLocator": "audio SHA256 036b5bff8be7b9cf064e4ab17c978e978cf66316e6d9a3b8204f14f492679926 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/036b5bff8be7b9cf064e4ab17c978e978cf66316e6d9a3b8204f14f492679926.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/036b5bff8be7b9cf064e4ab17c978e978cf66316e6d9a3b8204f14f492679926.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-19": {
+      "title": "Lektion 3 · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "3a",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 3a."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "419d235567085ad701ad9af23ec10044cb8cc3c6fb1a37310c6bdb654c3f650f",
+        "sourceLocator": "audio SHA256 419d235567085ad701ad9af23ec10044cb8cc3c6fb1a37310c6bdb654c3f650f at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/419d235567085ad701ad9af23ec10044cb8cc3c6fb1a37310c6bdb654c3f650f.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/419d235567085ad701ad9af23ec10044cb8cc3c6fb1a37310c6bdb654c3f650f.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-20": {
+      "title": "Lektion 3 · Aufgabe 3d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "3d",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 3d."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "c03b47fb99134cc2e982f0c6c471336c44e8dbf861445c11a6f38f824955ad25",
+        "sourceLocator": "audio SHA256 c03b47fb99134cc2e982f0c6c471336c44e8dbf861445c11a6f38f824955ad25 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/c03b47fb99134cc2e982f0c6c471336c44e8dbf861445c11a6f38f824955ad25.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/c03b47fb99134cc2e982f0c6c471336c44e8dbf861445c11a6f38f824955ad25.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-21": {
+      "title": "Lektion 3 · Aufgabe 3e",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "3e",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 3e."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "4998c7d7df27b2d4cdce1368d5b3f2d0a16d6665408aae8337efcc57bd126d56",
+        "sourceLocator": "audio SHA256 4998c7d7df27b2d4cdce1368d5b3f2d0a16d6665408aae8337efcc57bd126d56 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/4998c7d7df27b2d4cdce1368d5b3f2d0a16d6665408aae8337efcc57bd126d56.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/4998c7d7df27b2d4cdce1368d5b3f2d0a16d6665408aae8337efcc57bd126d56.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-22": {
+      "title": "Lektion 3 · Aufgabe 4c, 5a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "4c, 5a",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 4c, 5a."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "6bf85890e3061af45fe7c0f349045606ea31d107b3f2dd35a24d38091753441f",
+        "sourceLocator": "audio SHA256 6bf85890e3061af45fe7c0f349045606ea31d107b3f2dd35a24d38091753441f at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/6bf85890e3061af45fe7c0f349045606ea31d107b3f2dd35a24d38091753441f.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/6bf85890e3061af45fe7c0f349045606ea31d107b3f2dd35a24d38091753441f.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-23": {
+      "title": "Lektion 3 · Aufgabe 6",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 3,
+          "exercise": "6",
+          "evidence": "Reviewed opening announcement: Lektion 3, Aufgabe 6."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "828a7f05ee193ffd095bcb1c6790fc3c285e29528186107ed3d68c7f7cd8579a",
+        "sourceLocator": "audio SHA256 828a7f05ee193ffd095bcb1c6790fc3c285e29528186107ed3d68c7f7cd8579a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/828a7f05ee193ffd095bcb1c6790fc3c285e29528186107ed3d68c7f7cd8579a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/828a7f05ee193ffd095bcb1c6790fc3c285e29528186107ed3d68c7f7cd8579a.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-24": {
+      "title": "Lektion 4 · Aufgabe 1a, 1b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "1a, 1b",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 1a, 1b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "5ad9ff06256e1a2e33698e3b535999ef41d55c29fe637ffca24abd02948d19ed",
+        "sourceLocator": "audio SHA256 5ad9ff06256e1a2e33698e3b535999ef41d55c29fe637ffca24abd02948d19ed at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/5ad9ff06256e1a2e33698e3b535999ef41d55c29fe637ffca24abd02948d19ed.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/5ad9ff06256e1a2e33698e3b535999ef41d55c29fe637ffca24abd02948d19ed.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-25": {
+      "title": "Lektion 4 · Aufgabe 2b, 2c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "2b, 2c",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 2b, 2c."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e7a943f42215b11264305714910169bd99b05bc254df9b595b18f0004ee0b16c",
+        "sourceLocator": "audio SHA256 e7a943f42215b11264305714910169bd99b05bc254df9b595b18f0004ee0b16c at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/e7a943f42215b11264305714910169bd99b05bc254df9b595b18f0004ee0b16c.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/e7a943f42215b11264305714910169bd99b05bc254df9b595b18f0004ee0b16c.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-26": {
+      "title": "Lektion 4 · Aufgabe 4b, 4c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "4b, 4c",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 4b, 4c."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "e89cbd05f2d76f0d53bc4b0bea7b8beeb8ce4bc28dded645777db5b8aebd947a",
+        "sourceLocator": "audio SHA256 e89cbd05f2d76f0d53bc4b0bea7b8beeb8ce4bc28dded645777db5b8aebd947a at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/e89cbd05f2d76f0d53bc4b0bea7b8beeb8ce4bc28dded645777db5b8aebd947a.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/e89cbd05f2d76f0d53bc4b0bea7b8beeb8ce4bc28dded645777db5b8aebd947a.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-27": {
+      "title": "Lektion 4 · Aufgabe 5a, 5b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 4,
+          "evidence": "Reviewed local base-model opening recovers: Lektion 4, Aufgabe 5a, 5b.",
+          "exercise": "5a, 5b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement-base-fallback",
+        "sourceSha256": "26ac3d5b0c87a617eb74af72bedc029cfd9130d3f3ac9888bb02c7954280fcba",
+        "sourceLocator": "audio SHA256 26ac3d5b0c87a617eb74af72bedc029cfd9130d3f3ac9888bb02c7954280fcba at 00:00–00:12; evidence cache 26ac3d5b0c87a617eb74af72bedc029cfd9130d3f3ac9888bb02c7954280fcba-12s-base",
+        "model": "base",
+        "clipSeconds": 12,
+        "evidencePath": ".work/analysis/announcements-by-sha/26ac3d5b0c87a617eb74af72bedc029cfd9130d3f3ac9888bb02c7954280fcba-12s-base.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/26ac3d5b0c87a617eb74af72bedc029cfd9130d3f3ac9888bb02c7954280fcba-12s-base.evidence.json"
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-28": {
+      "title": "Lektion 4 · Aufgabe 6a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "6a",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 6a."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "c4d861d4e11550f9bda29d06400eff9c8ed0eaa5230ea9da972f4d65fa11c9bb",
+        "sourceLocator": "audio SHA256 c4d861d4e11550f9bda29d06400eff9c8ed0eaa5230ea9da972f4d65fa11c9bb at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/c4d861d4e11550f9bda29d06400eff9c8ed0eaa5230ea9da972f4d65fa11c9bb.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/c4d861d4e11550f9bda29d06400eff9c8ed0eaa5230ea9da972f4d65fa11c9bb.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-29": {
+      "title": "Lektion 4 · Aufgabe 6c, 6d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "6c, 6d",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 6c, 6d."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "6b490ffa9d0ca9357e432470f0e00419616bb9a8e3ad647f8ddb1b195c5b4ace",
+        "sourceLocator": "audio SHA256 6b490ffa9d0ca9357e432470f0e00419616bb9a8e3ad647f8ddb1b195c5b4ace at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/6b490ffa9d0ca9357e432470f0e00419616bb9a8e3ad647f8ddb1b195c5b4ace.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/6b490ffa9d0ca9357e432470f0e00419616bb9a8e3ad647f8ddb1b195c5b4ace.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-30": {
+      "title": "Lektion 4 · Aufgabe 6g",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "6g",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 6g."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "1dc0111ed88c246b9455b1abc0facaa4f539a84e1606d9837f80d9e06007ab6c",
+        "sourceLocator": "audio SHA256 1dc0111ed88c246b9455b1abc0facaa4f539a84e1606d9837f80d9e06007ab6c at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/1dc0111ed88c246b9455b1abc0facaa4f539a84e1606d9837f80d9e06007ab6c.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/1dc0111ed88c246b9455b1abc0facaa4f539a84e1606d9837f80d9e06007ab6c.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-31": {
+      "title": "Lektion 4 · Aufgabe 7",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 4,
+          "exercise": "7",
+          "evidence": "Reviewed opening announcement: Lektion 4, Aufgabe 7."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "8f398839303d2d7b17b2a0fbb162da7ae30ec07ca7fa4210bd9e2e3dbd743854",
+        "sourceLocator": "audio SHA256 8f398839303d2d7b17b2a0fbb162da7ae30ec07ca7fa4210bd9e2e3dbd743854 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/8f398839303d2d7b17b2a0fbb162da7ae30ec07ca7fa4210bd9e2e3dbd743854.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/8f398839303d2d7b17b2a0fbb162da7ae30ec07ca7fa4210bd9e2e3dbd743854.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-32": {
+      "title": "Lektion 5 · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 5,
+          "exercise": "2c",
+          "evidence": "Reviewed opening announcement: Lektion 5, Aufgabe 2c."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "931c3db40fed23452be65a18395aa090291ba30039ea72de778dead839d17292",
+        "sourceLocator": "audio SHA256 931c3db40fed23452be65a18395aa090291ba30039ea72de778dead839d17292 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/931c3db40fed23452be65a18395aa090291ba30039ea72de778dead839d17292.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/931c3db40fed23452be65a18395aa090291ba30039ea72de778dead839d17292.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-33": {
+      "title": "Lektion 6 · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 6,
+          "exercise": "2c",
+          "evidence": "Reviewed opening announcement: Lektion 6, Aufgabe 2c."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "29365bbd124b615e209414ab8dcb960a6fa3994788812f9a2fb8d8be626b402d",
+        "sourceLocator": "audio SHA256 29365bbd124b615e209414ab8dcb960a6fa3994788812f9a2fb8d8be626b402d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/29365bbd124b615e209414ab8dcb960a6fa3994788812f9a2fb8d8be626b402d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/29365bbd124b615e209414ab8dcb960a6fa3994788812f9a2fb8d8be626b402d.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-34": {
+      "title": "Lektion 8 · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 8,
+          "exercise": "2a",
+          "evidence": "Reviewed opening announcement: Lektion 8, Aufgabe 2a."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "ebe4cc4b2137ff03909e0b03a0d2c283432dbea7672ebe540449ff771b625362",
+        "sourceLocator": "audio SHA256 ebe4cc4b2137ff03909e0b03a0d2c283432dbea7672ebe540449ff771b625362 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/ebe4cc4b2137ff03909e0b03a0d2c283432dbea7672ebe540449ff771b625362.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/ebe4cc4b2137ff03909e0b03a0d2c283432dbea7672ebe540449ff771b625362.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-35": {
+      "title": "Lektion 11 · Aufgabe 2a, 2b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 11,
+          "exercise": "2a, 2b",
+          "evidence": "Reviewed opening announcement: Lektion 11, Aufgabe 2a, 2b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "a9bed651acc1c845cc226a430dc20720c65fde2f6f88cb80213424d48fcdb1cb",
+        "sourceLocator": "audio SHA256 a9bed651acc1c845cc226a430dc20720c65fde2f6f88cb80213424d48fcdb1cb at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/a9bed651acc1c845cc226a430dc20720c65fde2f6f88cb80213424d48fcdb1cb.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/a9bed651acc1c845cc226a430dc20720c65fde2f6f88cb80213424d48fcdb1cb.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-36": {
+      "title": "Lektion 12 · Aufgabe 1e, 1f",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 12,
+          "exercise": "1e, 1f",
+          "evidence": "Reviewed opening announcement: Lektion 12, Aufgabe 1e, 1f."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "510cc4ba3165d4f6e7f4ea04ad09a343a94b150cfc6522d6b0955e864e007646",
+        "sourceLocator": "audio SHA256 510cc4ba3165d4f6e7f4ea04ad09a343a94b150cfc6522d6b0955e864e007646 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/510cc4ba3165d4f6e7f4ea04ad09a343a94b150cfc6522d6b0955e864e007646.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/510cc4ba3165d4f6e7f4ea04ad09a343a94b150cfc6522d6b0955e864e007646.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-37": {
+      "title": "Lektion 13 · Aufgabe 1a, 1b, 1d",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 13,
+          "exercise": "1a, 1b, 1d",
+          "evidence": "Reviewed opening announcement: Lektion 13, Aufgabe 1a, 1b, 1d."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "68f14b442f7e7c1122619e432b94d60d630ac21f98a1bfacd3ae89b3db9f9d17",
+        "sourceLocator": "audio SHA256 68f14b442f7e7c1122619e432b94d60d630ac21f98a1bfacd3ae89b3db9f9d17 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/68f14b442f7e7c1122619e432b94d60d630ac21f98a1bfacd3ae89b3db9f9d17.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/68f14b442f7e7c1122619e432b94d60d630ac21f98a1bfacd3ae89b3db9f9d17.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-101-track-38": {
+      "title": "Lektion 13 · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Prüfungstraining",
+          "status": "verified",
+          "chapter": 13,
+          "exercise": "4b",
+          "evidence": "Reviewed opening announcement: Lektion 13, Aufgabe 4b."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "3f4469f79e0305653b56be7a2cccea85fa0a5e688a0fcb686a3ccf02e9ca844b",
+        "sourceLocator": "audio SHA256 3f4469f79e0305653b56be7a2cccea85fa0a5e688a0fcb686a3ccf02e9ca844b at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/3f4469f79e0305653b56be7a2cccea85fa0a5e688a0fcb686a3ccf02e9ca844b.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/3f4469f79e0305653b56be7a2cccea85fa0a5e688a0fcb686a3ccf02e9ca844b.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-102-track-39": {
+      "title": "Übungstest 1 · Hören, Teil 1",
+      "references": [
+        {
+          "section": "Übungstest 1",
+          "status": "verified",
+          "exercise": "Hören, Teil 1",
+          "evidence": "Reviewed opening announcement: Übungstest 1, Hören, Teil 1."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "718a0bd6558ce0aa47bd0e8b3da116c11c993ec175ea00d15c676bf535b4186d",
+        "sourceLocator": "audio SHA256 718a0bd6558ce0aa47bd0e8b3da116c11c993ec175ea00d15c676bf535b4186d at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/718a0bd6558ce0aa47bd0e8b3da116c11c993ec175ea00d15c676bf535b4186d.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/718a0bd6558ce0aa47bd0e8b3da116c11c993ec175ea00d15c676bf535b4186d.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-102-track-40": {
+      "title": "Übungstest 1 · Hören, Teil 2",
+      "references": [
+        {
+          "section": "Übungstest 1",
+          "status": "verified",
+          "exercise": "Hören, Teil 2",
+          "evidence": "Reviewed opening announcement: Übungstest 1, Hören, Teil 2."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "1a988314d4ac23999f83aa1e640fbc320507a3bd27d2d6427cf4377bd49bbdc5",
+        "sourceLocator": "audio SHA256 1a988314d4ac23999f83aa1e640fbc320507a3bd27d2d6427cf4377bd49bbdc5 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/1a988314d4ac23999f83aa1e640fbc320507a3bd27d2d6427cf4377bd49bbdc5.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/1a988314d4ac23999f83aa1e640fbc320507a3bd27d2d6427cf4377bd49bbdc5.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-102-track-41": {
+      "title": "Übungstest 1 · Hören, Teil 3",
+      "references": [
+        {
+          "section": "Übungstest 1",
+          "status": "verified",
+          "exercise": "Hören, Teil 3",
+          "evidence": "Reviewed opening announcement: Übungstest 1, Hören, Teil 3."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "fa46d28e92c0989539561c0f8f4729f6effffad5c5584ce6d8b7b5e0cfb7289b",
+        "sourceLocator": "audio SHA256 fa46d28e92c0989539561c0f8f4729f6effffad5c5584ce6d8b7b5e0cfb7289b at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/fa46d28e92c0989539561c0f8f4729f6effffad5c5584ce6d8b7b5e0cfb7289b.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/fa46d28e92c0989539561c0f8f4729f6effffad5c5584ce6d8b7b5e0cfb7289b.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-102-track-42": {
+      "title": "Übungstest 1 · Hören, Teil 4",
+      "references": [
+        {
+          "section": "Übungstest 1",
+          "status": "verified",
+          "exercise": "Hören, Teil 4",
+          "evidence": "Reviewed opening announcement: Übungstest 1, Hören, Teil 4."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "7c4a37a0f3b1928f61aa2c34720918a8def172aebf22eb307ae56c4a0f23c958",
+        "sourceLocator": "audio SHA256 7c4a37a0f3b1928f61aa2c34720918a8def172aebf22eb307ae56c4a0f23c958 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/7c4a37a0f3b1928f61aa2c34720918a8def172aebf22eb307ae56c4a0f23c958.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/7c4a37a0f3b1928f61aa2c34720918a8def172aebf22eb307ae56c4a0f23c958.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    },
+    "prufungstraining-deutsch-test-fur-zuwanderer-pack-102-track-43": {
+      "title": "Übungstest 2 · Hören, Teil 1",
+      "references": [
+        {
+          "section": "Übungstest 2",
+          "status": "verified",
+          "exercise": "Hören, Teil 1",
+          "evidence": "Reviewed opening announcement: Übungstest 2, Hören, Teil 1."
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "opening-announcement",
+        "sourceSha256": "44bffdddd62fa9ddc3664c35b93250959179c14fff48e6e6dd899318b6953d83",
+        "sourceLocator": "audio SHA256 44bffdddd62fa9ddc3664c35b93250959179c14fff48e6e6dd899318b6953d83 at 00:00–00:12",
+        "evidencePath": ".work/analysis/announcements-by-sha/44bffdddd62fa9ddc3664c35b93250959179c14fff48e6e6dd899318b6953d83.txt",
+        "evidenceMetadataPath": ".work/analysis/announcements-by-sha/44bffdddd62fa9ddc3664c35b93250959179c14fff48e6e6dd899318b6953d83.evidence.json",
+        "model": "small",
+        "clipSeconds": 12
+      }
+    }
+  },
+  "documents": {},
+  "sources": []
+}

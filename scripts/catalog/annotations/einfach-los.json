@@ -1,0 +1,2545 @@
+{
+  "bookId": "einfach-los",
+  "tracks": {
+    "einfach-los-pack-100-track-1": {
+      "title": "Wie heißen Sie? – Aufgabe 1a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_001.mp3 (SHA256 f8d5c607577056b95d10a95dc8362903724357e774b60345335de28ec80d8eec), opening announcement reviewed from local transcription: 'Telk - Deutsch für Asylbewerber'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF; Official book sample PDFpage6, visually reviewed original page8: printed speaker icon1 appears beside Aufgabe1a, matching the original spoken listening topic.",
+          "exercise": "1a",
+          "chapter": 1,
+          "chapterTitle": "Neu im Kurs",
+          "page": 8,
+          "sourceUrl": "https://shop.telc.net/media/catalog/product/file/4/0/4001-baa-2201a_bib.pdf",
+          "sourcePage": 6
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-book-sample-and-original-audio",
+        "sourceSha256": "f8d5c607577056b95d10a95dc8362903724357e774b60345335de28ec80d8eec"
+      }
+    },
+    "einfach-los-pack-100-track-2": {
+      "title": "Woher kommen Sie?",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_002.mp3 (SHA256 89662b9ebfb9ec7188b4eb6c26e5ac722b44137a966d2ad20c138ebcbe2103b8), opening announcement reviewed from local transcription: 'Woher kommen Sie?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter1 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 1,
+          "chapterTitle": "Neu im Kurs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "89662b9ebfb9ec7188b4eb6c26e5ac722b44137a966d2ad20c138ebcbe2103b8",
+        "sourceLocator": "Original audio Einfach_los_Track_002.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-3": {
+      "title": "Guten Tag und Auf Wiedersehen",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_003.mp3 (SHA256 eaa8faecafaceb61a102dd8d4ad885044d44e46ee935ee4e2f5d2021be9736ac), opening announcement reviewed from local transcription: 'Gutten Tag und Auf Wiedersehen!'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter1 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 1,
+          "chapterTitle": "Neu im Kurs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "eaa8faecafaceb61a102dd8d4ad885044d44e46ee935ee4e2f5d2021be9736ac",
+        "sourceLocator": "Original audio Einfach_los_Track_003.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-4": {
+      "title": "Du oder Sie? – Aufgabe 4",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_004.mp3 (SHA256 b0b3401e647c1fe2c962daeeb076ce099945805903bfeddeb8d7cc487f4c2c8b), opening announcement reviewed from local transcription: 'aufgabe vier'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter1 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "4",
+          "chapter": 1,
+          "chapterTitle": "Neu im Kurs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "b0b3401e647c1fe2c962daeeb076ce099945805903bfeddeb8d7cc487f4c2c8b",
+        "sourceLocator": "Original audio Einfach_los_Track_004.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-5": {
+      "title": "Wie geht’s? – Aufgabe 5",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_005.mp3 (SHA256 e5a680c1a5f531d5e0c4548bc3ec9886076c744dc0ac4844c17f6dc26a981f38), opening announcement reviewed from local transcription: 'Aufgabe 5'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter1 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "5",
+          "chapter": 1,
+          "chapterTitle": "Neu im Kurs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "e5a680c1a5f531d5e0c4548bc3ec9886076c744dc0ac4844c17f6dc26a981f38",
+        "sourceLocator": "Original audio Einfach_los_Track_005.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-6": {
+      "title": "Ja oder Nein – Aufgabe 2",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_006.mp3 (SHA256 23e95e0c8c6c5138020dc51519f4e5a34f97eb161a515ceddce3056e0166da45), opening announcement reviewed from local transcription: 'Lektion 2'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "2",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "23e95e0c8c6c5138020dc51519f4e5a34f97eb161a515ceddce3056e0166da45",
+        "sourceLocator": "Original audio Einfach_los_Track_006.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-7": {
+      "title": "Meine Familie – Aufgabe 5",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_007.mp3 (SHA256 a802abfa8ffd4aa25fe5f4442b3c238fb58a185b1d8c601c93992b065bdf3c24), opening announcement reviewed from local transcription: 'Aufgabe 5'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "5",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "a802abfa8ffd4aa25fe5f4442b3c238fb58a185b1d8c601c93992b065bdf3c24",
+        "sourceLocator": "Original audio Einfach_los_Track_007.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-8": {
+      "title": "Das sind wir – Aufgabe 6",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_008.mp3 (SHA256 5eaf22c3f12026633a8bdced72f153929a03c7a9b387ccaab9c66368bae95e6f), opening announcement reviewed from local transcription: 'Aufgabe 6'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "6",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "5eaf22c3f12026633a8bdced72f153929a03c7a9b387ccaab9c66368bae95e6f",
+        "sourceLocator": "Original audio Einfach_los_Track_008.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-9": {
+      "title": "Zahlen 0–20 – Aufgabe 8a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_009.mp3 (SHA256 f7c4daee7206aad4502732659121c52de3788ba0602779147e55ef186fe0c836), opening announcement reviewed from local transcription: 'Aufgabe 8a'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "8a",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "f7c4daee7206aad4502732659121c52de3788ba0602779147e55ef186fe0c836",
+        "sourceLocator": "Original audio Einfach_los_Track_009.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-10": {
+      "title": "Zahlen 0–20 – Aufgabe 8b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_010.mp3 (SHA256 6ef8329c05c81cdf8882a09029eb37e5af29efef9be5e8d5b3e2a9b88ee95537), opening announcement reviewed from local transcription: 'Aufgabe 8b'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "8b",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "6ef8329c05c81cdf8882a09029eb37e5af29efef9be5e8d5b3e2a9b88ee95537",
+        "sourceLocator": "Original audio Einfach_los_Track_010.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-11": {
+      "title": "Buchstabieren Sie bitte",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_011.mp3 (SHA256 b985aabf6331817ed8fbb02a750af30c07e73acccb27639194804b2b9096ab97), opening announcement reviewed from local transcription: 'Buchstabieren Sie bitte!'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "b985aabf6331817ed8fbb02a750af30c07e73acccb27639194804b2b9096ab97",
+        "sourceLocator": "Original audio Einfach_los_Track_011.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-12": {
+      "title": "Das ABC",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_012.mp3 (SHA256 c3843817b32d23a372922acc62ab40e78f483f84017da1233fef9adbad4ebe4d), opening announcement reviewed from local transcription: 'A, B, C, D, E, F'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "c3843817b32d23a372922acc62ab40e78f483f84017da1233fef9adbad4ebe4d",
+        "sourceLocator": "Original audio Einfach_los_Track_012.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-13": {
+      "title": "Wie ist Ihr Name?",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_013.mp3 (SHA256 98b0d7f60f3e662bdabbdac4ee6f05e730b3a19bf4c56507304b9c645ee3226e), opening announcement reviewed from local transcription: 'Wie ist Ihr Name?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "98b0d7f60f3e662bdabbdac4ee6f05e730b3a19bf4c56507304b9c645ee3226e",
+        "sourceLocator": "Original audio Einfach_los_Track_013.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-14": {
+      "title": "Zahlen verstehen – Aufgabe 9d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_014.mp3 (SHA256 2d82bbf435a6fe52f0f5b98249af74bf207d9ef5a89f83954e02d063c9d520ed), opening announcement reviewed from local transcription: 'Aufgabe 9D'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "9d",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "2d82bbf435a6fe52f0f5b98249af74bf207d9ef5a89f83954e02d063c9d520ed",
+        "sourceLocator": "Original audio Einfach_los_Track_014.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-15": {
+      "title": "Wie ist Ihre Adresse? – Aufgabe 11",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_015.mp3 (SHA256 29f3c44d4a9f924b0f8f7d9937d1e085f7ed0ca33e468075860babdbca450dc8), opening announcement reviewed from local transcription: 'Aufgabe 11. Wie ist Ihre Adresse?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "11",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "29f3c44d4a9f924b0f8f7d9937d1e085f7ed0ca33e468075860babdbca450dc8",
+        "sourceLocator": "Original audio Einfach_los_Track_015.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-16": {
+      "title": "Zahlen 21–100 – Aufgabe 12a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_016.mp3 (SHA256 534a14ae0c0d96fa2832942105b5a040c386ffda76a31b56aff97b060878ad04), opening announcement reviewed from local transcription: 'Aufgabe 12a'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "12a",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "534a14ae0c0d96fa2832942105b5a040c386ffda76a31b56aff97b060878ad04",
+        "sourceLocator": "Original audio Einfach_los_Track_016.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-17": {
+      "title": "Zahlen 21–100 – Aufgabe 12c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_017.mp3 (SHA256 6e621bee2cdd91793076cb8faed29446c26a48c668b1b0e56430ce94ace8743d), opening announcement reviewed from local transcription: 'Aufgabe 12 C'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "12c",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "6e621bee2cdd91793076cb8faed29446c26a48c668b1b0e56430ce94ace8743d",
+        "sourceLocator": "Original audio Einfach_los_Track_017.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-18": {
+      "title": "Heute ist Montag – Aufgabe 19",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_018.mp3 (SHA256 c9aba69dc91c1c8e14f8595dc16186cba802a165289f80721b51d3fb1254b24b), opening announcement reviewed from local transcription: 'Aufgabe 19.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "19",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "c9aba69dc91c1c8e14f8595dc16186cba802a165289f80721b51d3fb1254b24b",
+        "sourceLocator": "Original audio Einfach_los_Track_018.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-19": {
+      "title": "Noch einmal bitte",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_019.mp3 (SHA256 14b7e5965de3aa8f131853659fae54cf3518d5965a46db3c3a89f7553c6bf0b4), opening announcement reviewed from local transcription: 'Noch einmal bitte.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "14b7e5965de3aa8f131853659fae54cf3518d5965a46db3c3a89f7553c6bf0b4",
+        "sourceLocator": "Original audio Einfach_los_Track_019.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-20": {
+      "title": "Ein Apfel, viele Äpfel",
+      "references": [
+        {
+          "section": "Kursbuch: Orientierung",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_020.mp3 (SHA256 2956277981e85ecac0cce16ea73541c7fc5928cbb0b8a539c8a59ceb04d6d955), opening announcement reviewed from local transcription: 'Lektion 2 Orientierung'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "2956277981e85ecac0cce16ea73541c7fc5928cbb0b8a539c8a59ceb04d6d955",
+        "sourceLocator": "Original audio Einfach_los_Track_020.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-21": {
+      "title": "Wer nimmt den Bus? – Aufgabe 1a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_021.mp3 (SHA256 bf25cadd70780a974cc4f511e042bd5672c271cac111ee145e5f18e82e399859), opening announcement reviewed from local transcription: 'Lektion 3'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF; Official book sample PDFpage7, visually reviewed original page30: printed speaker icon21 appears beside Aufgabe1a, matching the original spoken listening topic.",
+          "exercise": "1a",
+          "chapter": 3,
+          "chapterTitle": "Mobilität",
+          "page": 30,
+          "sourceUrl": "https://shop.telc.net/media/catalog/product/file/4/0/4001-baa-2201a_bib.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-book-sample-and-original-audio",
+        "sourceSha256": "bf25cadd70780a974cc4f511e042bd5672c271cac111ee145e5f18e82e399859"
+      }
+    },
+    "einfach-los-pack-100-track-22": {
+      "title": "Wir fahren mit … – Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_022.mp3 (SHA256 c0301ed1af108fff7a9a36aeaaf84ea79885fa3bae89a436c03a7359a3f53b5e), opening announcement reviewed from local transcription: 'Wir fahren mit'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter3 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF; Official book sample PDFpage7, visually reviewed original page30: printed speaker icon22 appears beside Aufgabe2a, matching the original spoken listening topic.",
+          "chapter": 3,
+          "chapterTitle": "Mobilität",
+          "exercise": "2a",
+          "page": 30,
+          "sourceUrl": "https://shop.telc.net/media/catalog/product/file/4/0/4001-baa-2201a_bib.pdf",
+          "sourcePage": 7
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "publisher-book-sample-and-original-audio",
+        "sourceSha256": "c0301ed1af108fff7a9a36aeaaf84ea79885fa3bae89a436c03a7359a3f53b5e"
+      }
+    },
+    "einfach-los-pack-100-track-23": {
+      "title": "Straßenbahn und Verkehrsmittel",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_023.mp3 (SHA256 fb53e4a7898db2671f466265ab968bbcbab07b7015026e0acc15e129029f44f9), opening announcement reviewed from local transcription: 'Ich fahre immer mit der Straßenbahn und du?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter3 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Mobilität"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "fb53e4a7898db2671f466265ab968bbcbab07b7015026e0acc15e129029f44f9",
+        "sourceLocator": "Original audio Einfach_los_Track_023.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-24": {
+      "title": "Ich fahre zum Arzt",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_024.mp3 (SHA256 8c47dde3a19132217de3349697dfc85a4d3090e626e2fcbdb1c0db1448cc0c4c), opening announcement reviewed from local transcription: 'Ich fahre zum Arzt.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter3 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Mobilität"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "8c47dde3a19132217de3349697dfc85a4d3090e626e2fcbdb1c0db1448cc0c4c",
+        "sourceLocator": "Original audio Einfach_los_Track_024.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-25": {
+      "title": "Wo finde ich das Marienkrankenhaus?",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_025.mp3 (SHA256 66f949f9dfc6ba217a58a58905d3f1a23f3b13f8d45403c1ea3410f9bea169f3), opening announcement reviewed from local transcription: 'Entschuldigung, wo finde ich das Marienkrankenhaus?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter3 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Mobilität"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "66f949f9dfc6ba217a58a58905d3f1a23f3b13f8d45403c1ea3410f9bea169f3",
+        "sourceLocator": "Original audio Einfach_los_Track_025.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-26": {
+      "title": "Nehmen Sie die erste Straße links",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_026.mp3 (SHA256 7f1c69f597a2148b5a44f099e3b8ab152154a27a430e13372dec2537a5daa11d), opening announcement reviewed from local transcription: 'Nehmen Sie die erste Straße links.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter3 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Mobilität"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "7f1c69f597a2148b5a44f099e3b8ab152154a27a430e13372dec2537a5daa11d",
+        "sourceLocator": "Original audio Einfach_los_Track_026.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-27": {
+      "title": "Auf dem Bahnhof – Aufgabe 13",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_027.mp3 (SHA256 d7b044b81c136c9a4d0710a757de72cbba42c172a60699021bbffd500a0abded), opening announcement reviewed from local transcription: 'Aufgabe 13'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter3 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "13",
+          "chapter": 3,
+          "chapterTitle": "Mobilität"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "d7b044b81c136c9a4d0710a757de72cbba42c172a60699021bbffd500a0abded",
+        "sourceLocator": "Original audio Einfach_los_Track_027.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-28": {
+      "title": "Beim Arzt – Aufgabe 7",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_028.mp3 (SHA256 c504edaaca217d55d8e11b13e06d0830ccebd7fb181da8e3c1fda15e90098ea5), opening announcement reviewed from local transcription: 'Lektion 4'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "7",
+          "chapter": 4,
+          "chapterTitle": "Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "c504edaaca217d55d8e11b13e06d0830ccebd7fb181da8e3c1fda15e90098ea5",
+        "sourceLocator": "Original audio Einfach_los_Track_028.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-29": {
+      "title": "In der Apotheke – Aufgabe 8",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_029.mp3 (SHA256 93d8a7f39a596ba282086665cfa0aaa1f46a383865eb1842fc4415d5f285ab00), opening announcement reviewed from local transcription: 'Aufgabe Acht'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter4 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "8",
+          "chapter": 4,
+          "chapterTitle": "Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "93d8a7f39a596ba282086665cfa0aaa1f46a383865eb1842fc4415d5f285ab00",
+        "sourceLocator": "Original audio Einfach_los_Track_029.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-30": {
+      "title": "Termine, Termine – Aufgabe 11a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_030.mp3 (SHA256 0947192432d363b3e3f5d2e67f6c93f6dd476738b7e64db5df829565fc83a8e0), opening announcement reviewed from local transcription: 'Aufgabe 11a. Termine, Termine'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter4 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "11a",
+          "chapter": 4,
+          "chapterTitle": "Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "0947192432d363b3e3f5d2e67f6c93f6dd476738b7e64db5df829565fc83a8e0",
+        "sourceLocator": "Original audio Einfach_los_Track_030.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-31": {
+      "title": "Termine in der Praxis – Aufgabe 11b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_031.mp3 (SHA256 8eaeb748163d3aad9929a56b7183e2c8f70070a58a36e894d96049e741593fa6), opening announcement reviewed from local transcription: 'Aufgabe 11 b Praxisgemeinschaft emmerich und pol was kann ich für sie tun schmitt hier ich habe'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter4 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "11b",
+          "chapter": 4,
+          "chapterTitle": "Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "8eaeb748163d3aad9929a56b7183e2c8f70070a58a36e894d96049e741593fa6",
+        "sourceLocator": "Original audio Einfach_los_Track_031.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-32": {
+      "title": "Krankmeldung – Aufgabe 12",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_032.mp3 (SHA256 023ba9e51042712eb9833d3ab5723ba6d8ffa3c65085659f914776e067ce1735), opening announcement reviewed from local transcription: 'Aufgabe 12'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter4 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "12",
+          "chapter": 4,
+          "chapterTitle": "Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "023ba9e51042712eb9833d3ab5723ba6d8ffa3c65085659f914776e067ce1735",
+        "sourceLocator": "Original audio Einfach_los_Track_032.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-33": {
+      "title": "Was sind Sie von Beruf? – Aufgabe 2",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_033.mp3 (SHA256 12aff4e3852e19ae4749fb67402435a360d9b8562d73a5aa528ef86418a30d89), opening announcement reviewed from local transcription: 'Lektion 5'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "2",
+          "chapter": 5,
+          "chapterTitle": "Arbeit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "12aff4e3852e19ae4749fb67402435a360d9b8562d73a5aa528ef86418a30d89",
+        "sourceLocator": "Original audio Einfach_los_Track_033.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-34": {
+      "title": "Ein Interview mit Laura",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_034.mp3 (SHA256 07e4de7893d743df187c472118fe07e9cf3a3d0dbc9536ade75959a0642c066d), opening announcement reviewed from local transcription: 'Ein Interview mit Laura.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter5 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Arbeit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "07e4de7893d743df187c472118fe07e9cf3a3d0dbc9536ade75959a0642c066d",
+        "sourceLocator": "Original audio Einfach_los_Track_034.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-35": {
+      "title": "Ich kann sofort anfangen",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_035.mp3 (SHA256 5f810072f05b90f747060234b50e635ad149901512c54e062a49f9cef28568b6), opening announcement reviewed from local transcription: 'Ich kann sofort anfangen.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter5 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Arbeit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "5f810072f05b90f747060234b50e635ad149901512c54e062a49f9cef28568b6",
+        "sourceLocator": "Original audio Einfach_los_Track_035.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-36": {
+      "title": "Vormittags? Lieber nachmittags!",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_036.mp3 (SHA256 55081bd59a72bbef5df04e4db00f053ad1f0b4e0ec41b4f2e3e998786bb8463e), opening announcement reviewed from local transcription: 'Vormittags? Lieber Nachmittags!'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter5 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Arbeit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "55081bd59a72bbef5df04e4db00f053ad1f0b4e0ec41b4f2e3e998786bb8463e",
+        "sourceLocator": "Original audio Einfach_los_Track_036.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-37": {
+      "title": "Eine Arbeit suchen – Aufgabe 8b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_037.mp3 (SHA256 bc18b2f9617d4119b6015f5bd5d240db968cd9e69821638d8c208373b8f2c055), opening announcement reviewed from local transcription: 'Aufgabe 8B'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter5 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "8b",
+          "chapter": 5,
+          "chapterTitle": "Arbeit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "bc18b2f9617d4119b6015f5bd5d240db968cd9e69821638d8c208373b8f2c055",
+        "sourceLocator": "Original audio Einfach_los_Track_037.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-38": {
+      "title": "Luis Khalid sucht eine Arbeit – Aufgabe 9",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_038.mp3 (SHA256 877127e38cfeefea4fbe6d2f22d90aa06deeb17a40ff8d119adae9c96fd04bc2), opening announcement reviewed from local transcription: 'Aufgabe 9'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter5 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "9",
+          "chapter": 5,
+          "chapterTitle": "Arbeit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "877127e38cfeefea4fbe6d2f22d90aa06deeb17a40ff8d119adae9c96fd04bc2",
+        "sourceLocator": "Original audio Einfach_los_Track_038.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-100-track-39": {
+      "title": "Wo warst du? – Aufgabe 11",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_039.mp3 (SHA256 15853d66e2aef9b024530b5ed6521e76b7c6add4267a3764dc9d5f485f3e5472), opening announcement reviewed from local transcription: 'Aufgabe 11'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter5 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "11",
+          "chapter": 5,
+          "chapterTitle": "Arbeit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "15853d66e2aef9b024530b5ed6521e76b7c6add4267a3764dc9d5f485f3e5472",
+        "sourceLocator": "Original audio Einfach_los_Track_039.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-40": {
+      "title": "Wer macht was? – Aufgabe 2",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_040.mp3 (SHA256 b3952002bdf2679196c0784e8ab926ebffdebac58cb639bc751b64168cf70a13), opening announcement reviewed from local transcription: 'Aufgabe 2'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF; 40-second opening reviewed: Lektion 6",
+          "exercise": "2",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-40s-and-reviewed-book-context",
+        "sourceSha256": "b3952002bdf2679196c0784e8ab926ebffdebac58cb639bc751b64168cf70a13",
+        "sourceLocator": "Original audio Einfach_los_Track_040.mp3 at00:00–00:40"
+      }
+    },
+    "einfach-los-pack-101-track-41": {
+      "title": "Wie spät ist es?",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_041.mp3 (SHA256 9eefbbbe71da935a36d219fcf1e2076ea39ba01cde0fd683f3c2d69534124413), opening announcement reviewed from local transcription: 'Wie spät ist es?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter6 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "9eefbbbe71da935a36d219fcf1e2076ea39ba01cde0fd683f3c2d69534124413",
+        "sourceLocator": "Original audio Einfach_los_Track_041.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-42": {
+      "title": "Wie spät ist es?",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_042.mp3 (SHA256 755d5a0162768b9790907f5aeabca8fa80f14b60585d7eff8ca5b9b6d672d3dc), opening announcement reviewed from local transcription: 'Wie spät ist es?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter6 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "755d5a0162768b9790907f5aeabca8fa80f14b60585d7eff8ca5b9b6d672d3dc",
+        "sourceLocator": "Original audio Einfach_los_Track_042.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-43": {
+      "title": "Wann beginnt der Fitnesskurs?",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_043.mp3 (SHA256 234a2e80e4bca9ccb27135418d9711d59db0f38fd8b5c976e14b8e9fa2d48681), opening announcement reviewed from local transcription: 'Wann beginnt der Fitnesskurs?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter6 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "234a2e80e4bca9ccb27135418d9711d59db0f38fd8b5c976e14b8e9fa2d48681",
+        "sourceLocator": "Original audio Einfach_los_Track_043.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-44": {
+      "title": "Eine Umfrage – Aufgabe 8a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_044.mp3 (SHA256 d483f164af4353c6f9ec39c76c85a59b5ddefa988a828297d09d8ad93b7401af), opening announcement reviewed from local transcription: 'Aufgabe 8a Eine Umfrage'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter6 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "8a",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "d483f164af4353c6f9ec39c76c85a59b5ddefa988a828297d09d8ad93b7401af",
+        "sourceLocator": "Original audio Einfach_los_Track_044.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-45": {
+      "title": "Eine Umfrage – Fortsetzung – Aufgabe 8b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_045.mp3 (SHA256 25e5b8146b7a9a5c4587656442e9d77b3f1e914e936a13b58d3c906a94576664), opening announcement reviewed from local transcription: 'Aufgabe 8 B. Interessant, und ihr Freund ist Hausmann?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter6 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "8b",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "25e5b8146b7a9a5c4587656442e9d77b3f1e914e936a13b58d3c906a94576664",
+        "sourceLocator": "Original audio Einfach_los_Track_045.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-46": {
+      "title": "Manchmal, immer – Aufgabe 11",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_046.mp3 (SHA256 1445510f2a775a90861ef9e0c5b9cae9c04f368de922ecc8740c95e8c71410af), opening announcement reviewed from local transcription: 'Aufgabe 11 – manchmal, immer'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter6 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "11",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "1445510f2a775a90861ef9e0c5b9cae9c04f368de922ecc8740c95e8c71410af",
+        "sourceLocator": "Original audio Einfach_los_Track_046.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-47": {
+      "title": "Hast du Zeit? – Aufgabe 12a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_047.mp3 (SHA256 0cacd93a8d9a1ddea0da3fc8e6eb090edca36ee8e3436188a73f38a436597148), opening announcement reviewed from local transcription: 'Aufgabe 12a. Hast du Zeit?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter6 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "12a",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "0cacd93a8d9a1ddea0da3fc8e6eb090edca36ee8e3436188a73f38a436597148",
+        "sourceLocator": "Original audio Einfach_los_Track_047.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-48": {
+      "title": "Hast du am Samstag Zeit? – Aufgabe 12d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_048.mp3 (SHA256 c907d769935658f952d0fddb8f9135e9fe07e53bac500648305b587e2513a0fd), opening announcement reviewed from local transcription: 'Aufgabe 12d'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter6 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "12d",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "c907d769935658f952d0fddb8f9135e9fe07e53bac500648305b587e2513a0fd",
+        "sourceLocator": "Original audio Einfach_los_Track_048.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-49": {
+      "title": "Ein Haustürgeschäft – Aufgabe 14",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_049.mp3 (SHA256 e5a458babcf3c0c34d2e8a4f981771c5ec9471a7e53decdaabe543451b8f3e67), opening announcement reviewed from local transcription: 'Aufgabe 14. Ein Haustür-Geschäft'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter6 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "14",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "e5a458babcf3c0c34d2e8a4f981771c5ec9471a7e53decdaabe543451b8f3e67",
+        "sourceLocator": "Original audio Einfach_los_Track_049.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-50": {
+      "title": "Eine Einladung – Aufgabe 2",
+      "references": [
+        {
+          "section": "Kursbuch: Orientierung",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_050.mp3 (SHA256 547dc4b00497da8663f02b827db6077fcb393fd5120687a447d256770de2c35f), opening announcement reviewed from local transcription: 'Lektion 6. Orientierung'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "2",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "547dc4b00497da8663f02b827db6077fcb393fd5120687a447d256770de2c35f",
+        "sourceLocator": "Original audio Einfach_los_Track_050.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-51": {
+      "title": "Wie wichtig ist Pünktlichkeit?",
+      "references": [
+        {
+          "section": "Kursbuch: Orientierung",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_051.mp3 (SHA256 e77e70f3d641ea517eb03bf9c79bfa480a175f96ff53eeb444d18eb338aa8008), opening announcement reviewed from local transcription: 'Wie wichtig ist Pünktlichkeit?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter6 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "e77e70f3d641ea517eb03bf9c79bfa480a175f96ff53eeb444d18eb338aa8008",
+        "sourceLocator": "Original audio Einfach_los_Track_051.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-52": {
+      "title": "Zwei Kilo Tomaten und eine Packung Reis – Aufgabe 2",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_052.mp3 (SHA256 2e91698d8755ccb40f324f6be7820f8b5f7d39cade36654b8bc145dd9940141e), opening announcement reviewed from local transcription: 'Lektion 7'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "2",
+          "chapter": 7,
+          "chapterTitle": "Einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "2e91698d8755ccb40f324f6be7820f8b5f7d39cade36654b8bc145dd9940141e",
+        "sourceLocator": "Original audio Einfach_los_Track_052.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-53": {
+      "title": "Ich möchte Waffeln backen",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_053.mp3 (SHA256 1059aa079b9689910628c282abfbe4c4716216d1c20e8c16be099c20ee12c876), opening announcement reviewed from local transcription: 'Ich möchte Waffeln backen. Dafür brauche ich eine Packung Butter.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter7 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 7,
+          "chapterTitle": "Einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "1059aa079b9689910628c282abfbe4c4716216d1c20e8c16be099c20ee12c876",
+        "sourceLocator": "Original audio Einfach_los_Track_053.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-54": {
+      "title": "Das Kleid ist aber sehr schön",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_054.mp3 (SHA256 bfef687398a3b4319e5c1442671dbff59fc5da0b425f6b2e06a80ea50e9905af), opening announcement reviewed from local transcription: 'Das Kleid ist aber sehr schön - das ist aber sehr toll!'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter7 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 7,
+          "chapterTitle": "Einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "bfef687398a3b4319e5c1442671dbff59fc5da0b425f6b2e06a80ea50e9905af",
+        "sourceLocator": "Original audio Einfach_los_Track_054.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-55": {
+      "title": "Farben – Aufgabe 8",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_055.mp3 (SHA256 af36961c4c19210d417dd393df2c5c94d302fe336067abde5fa1d5c0db8647cb), opening announcement reviewed from local transcription: 'aufgabe 8'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter7 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "8",
+          "chapter": 7,
+          "chapterTitle": "Einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "af36961c4c19210d417dd393df2c5c94d302fe336067abde5fa1d5c0db8647cb",
+        "sourceLocator": "Original audio Einfach_los_Track_055.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-56": {
+      "title": "Kleidung kaufen – Aufgabe 10",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_056.mp3 (SHA256 988a48d4e094d7b8a8205c4923ea28b7ad84d59577c7af708d693e9be97921b9), opening announcement reviewed from local transcription: 'Aufgabe zehn'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter7 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "10",
+          "chapter": 7,
+          "chapterTitle": "Einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "988a48d4e094d7b8a8205c4923ea28b7ad84d59577c7af708d693e9be97921b9",
+        "sourceLocator": "Original audio Einfach_los_Track_056.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-57": {
+      "title": "Ich möchte etwas umtauschen",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_057.mp3 (SHA256 b9f8cff8c9712145821375398c755e810f6fb8f4d316a29edbab9a823fff5ed6), opening announcement reviewed from local transcription: 'Entschuldigung, ich möchte etwas umtauschen.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter7 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 7,
+          "chapterTitle": "Einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "b9f8cff8c9712145821375398c755e810f6fb8f4d316a29edbab9a823fff5ed6",
+        "sourceLocator": "Original audio Einfach_los_Track_057.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-58": {
+      "title": "Ich brauche ein Kleid",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_058.mp3 (SHA256 9c615b99a13d1021eaeb47d417a70477729ae01c134a8ca09c5be920cf6e001b), opening announcement reviewed from local transcription: 'Ich brauche ein Kleid, kurz oder lang.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter7 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 7,
+          "chapterTitle": "Einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "9c615b99a13d1021eaeb47d417a70477729ae01c134a8ca09c5be920cf6e001b",
+        "sourceLocator": "Original audio Einfach_los_Track_058.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-59": {
+      "title": "Die Wohnung ist klein – Aufgabe 1",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_059.mp3 (SHA256 ef9709da742618c52853ee061fba6f36e8442ba547fba3a95658878888f2760b), opening announcement reviewed from local transcription: 'Aufgabe 1. Die Wohnung ist klein.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF; 40-second opening reviewed: Lektion 8",
+          "exercise": "1",
+          "chapter": 8,
+          "chapterTitle": "Wohnen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-40s-and-reviewed-book-context",
+        "sourceSha256": "ef9709da742618c52853ee061fba6f36e8442ba547fba3a95658878888f2760b",
+        "sourceLocator": "Original audio Einfach_los_Track_059.mp3 at00:00–00:40"
+      }
+    },
+    "einfach-los-pack-101-track-60": {
+      "title": "Lieblingszimmer – Aufgabe 3",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_060.mp3 (SHA256 25d162db844362b00fba3563e993be2f6f9693af7e6508d0de7e3e6ae398ed10), opening announcement reviewed from local transcription: 'Aufgabe 3'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter8 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "3",
+          "chapter": 8,
+          "chapterTitle": "Wohnen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "25d162db844362b00fba3563e993be2f6f9693af7e6508d0de7e3e6ae398ed10",
+        "sourceLocator": "Original audio Einfach_los_Track_060.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-61": {
+      "title": "Zahlen bis 10000 – Aufgabe 4a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_061.mp3 (SHA256 66f4a1a2a160917dfcd51a7d04c313f5febd31693a761e18c018c1c0087e0e34), opening announcement reviewed from local transcription: 'aufgabe 4a zahlen bis Zehntausend'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter8 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "4a",
+          "chapter": 8,
+          "chapterTitle": "Wohnen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "66f4a1a2a160917dfcd51a7d04c313f5febd31693a761e18c018c1c0087e0e34",
+        "sourceLocator": "Original audio Einfach_los_Track_061.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-62": {
+      "title": "Zahlen bis 10000 – Aufgabe 4b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_062.mp3 (SHA256 cdafae424d3fc6608479950a468cbabbdc91c8056ade4660cdf5d67de3e9c9fe), opening announcement reviewed from local transcription: 'Aufgabe 4B. 222. 643.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter8 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "4b",
+          "chapter": 8,
+          "chapterTitle": "Wohnen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "cdafae424d3fc6608479950a468cbabbdc91c8056ade4660cdf5d67de3e9c9fe",
+        "sourceLocator": "Original audio Einfach_los_Track_062.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-63": {
+      "title": "Wir brauchen einen Tisch",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_063.mp3 (SHA256 841f11ff2691e5b24a26b21c00b30911aacd1f83796e871d6ca359779e2a1830), opening announcement reviewed from local transcription: 'Wir brauchen einen Tisch. Schau mal den Tisch da.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter8 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 8,
+          "chapterTitle": "Wohnen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "841f11ff2691e5b24a26b21c00b30911aacd1f83796e871d6ca359779e2a1830",
+        "sourceLocator": "Original audio Einfach_los_Track_063.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-64": {
+      "title": "Im Möbelgeschäft",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_064.mp3 (SHA256 ff34782cd015ef0facf38ca90cd2a9bf21c3a52ef4dd37b73721669c53da17e6), opening announcement reviewed from local transcription: 'im Möbelgeschäft'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter8 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 8,
+          "chapterTitle": "Wohnen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "ff34782cd015ef0facf38ca90cd2a9bf21c3a52ef4dd37b73721669c53da17e6",
+        "sourceLocator": "Original audio Einfach_los_Track_064.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-65": {
+      "title": "Wie Leute wohnen",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_065.mp3 (SHA256 30928a34faafe2ebef226d0b69af4f623a43c927c4f1c3f490c3ac4f03c40375), opening announcement reviewed from local transcription: 'Wie Leute wohnen?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter8 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 8,
+          "chapterTitle": "Wohnen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "30928a34faafe2ebef226d0b69af4f623a43c927c4f1c3f490c3ac4f03c40375",
+        "sourceLocator": "Original audio Einfach_los_Track_065.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-66": {
+      "title": "Wohnungsanzeigen – Aufgabe 9",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_066.mp3 (SHA256 ae2de614b208635b533336ab1bd8e5659155b3803524bbbf8404fddc7a8ec8f3), opening announcement reviewed from local transcription: 'Aufgabe 9'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter8 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "9",
+          "chapter": 8,
+          "chapterTitle": "Wohnen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "ae2de614b208635b533336ab1bd8e5659155b3803524bbbf8404fddc7a8ec8f3",
+        "sourceLocator": "Original audio Einfach_los_Track_066.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-67": {
+      "title": "Das Schulsystem in Deutschland – Aufgabe 1",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_067.mp3 (SHA256 a3715b067ba94721545846624495c62e386654d74cfe96b356126cfd2db77753), opening announcement reviewed from local transcription: 'Lektion 9'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "1",
+          "chapter": 9,
+          "chapterTitle": "Unterricht"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "a3715b067ba94721545846624495c62e386654d74cfe96b356126cfd2db77753",
+        "sourceLocator": "Original audio Einfach_los_Track_067.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-101-track-68": {
+      "title": "Tag der offenen Tür – Aufgabe 7c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_068.mp3 (SHA256 2689f011b7bdca3596cb2ab213321637fc558c12cf6a476353cc4102d51c6dd7), opening announcement reviewed from local transcription: 'Aufgabe 7 C'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter9 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "7c",
+          "chapter": 9,
+          "chapterTitle": "Unterricht"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "2689f011b7bdca3596cb2ab213321637fc558c12cf6a476353cc4102d51c6dd7",
+        "sourceLocator": "Original audio Einfach_los_Track_068.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-69": {
+      "title": "Wie heißen Sie? – Aufgabe 1b",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_069.mp3 (SHA256 2136cdcfe028b039d5a0d02aa2e9d260994089e5e90688ff319f4e3d47ae423d), opening announcement reviewed from local transcription: '\"Telk\" Deutsch für Asylbewerber'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "1b",
+          "chapter": 1,
+          "chapterTitle": "Neu im Kurs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "2136cdcfe028b039d5a0d02aa2e9d260994089e5e90688ff319f4e3d47ae423d",
+        "sourceLocator": "Original audio Einfach_los_Track_069.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-70": {
+      "title": "Namen und Begrüßungen",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_070.mp3 (SHA256 088272158d303b93b735f9798097ecf6e18915f8573d9e740318236a392ca69b), opening announcement reviewed from local transcription: 'Hallo, ich bin Rashid Anana.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter1 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 1,
+          "chapterTitle": "Neu im Kurs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "088272158d303b93b735f9798097ecf6e18915f8573d9e740318236a392ca69b",
+        "sourceLocator": "Original audio Einfach_los_Track_070.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-71": {
+      "title": "Herzlich willkommen",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_071.mp3 (SHA256 cdd4a414bf18e1bb2f566d098ae6d33b89c16ac439f3996d501f40db32169370), opening announcement reviewed from local transcription: 'Herzlich Willkommen!'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter1 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 1,
+          "chapterTitle": "Neu im Kurs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "cdd4a414bf18e1bb2f566d098ae6d33b89c16ac439f3996d501f40db32169370",
+        "sourceLocator": "Original audio Einfach_los_Track_071.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-72": {
+      "title": "Guten Morgen, guten Tag",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_072.mp3 (SHA256 c56035d1929c4a8e22d8553c9768f68ebe2f567936d8647ddcf93697b429e80b), opening announcement reviewed from local transcription: 'Guten Morgen, guten Tag, guten Abend, gute Nacht, hallo!'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter1 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 1,
+          "chapterTitle": "Neu im Kurs"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "c56035d1929c4a8e22d8553c9768f68ebe2f567936d8647ddcf93697b429e80b",
+        "sourceLocator": "Original audio Einfach_los_Track_072.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-73": {
+      "title": "Wer ist das? – Aufgabe 3",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_073.mp3 (SHA256 ff599c1f83f1ab41cf0c1bf97d018cc9d0027de746870042f26ed9de441a94c2), opening announcement reviewed from local transcription: 'Lektion 2'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "3",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "ff599c1f83f1ab41cf0c1bf97d018cc9d0027de746870042f26ed9de441a94c2",
+        "sourceLocator": "Original audio Einfach_los_Track_073.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-74": {
+      "title": "Zahlen – Aufgabe 9",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_074.mp3 (SHA256 c25dda4ffc7854102a5db9fd00831ade26f91a9b79ad19c9f2b84728af924f2e), opening announcement reviewed from local transcription: 'Aufgabe 9'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "9",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "c25dda4ffc7854102a5db9fd00831ade26f91a9b79ad19c9f2b84728af924f2e",
+        "sourceLocator": "Original audio Einfach_los_Track_074.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-75": {
+      "title": "Buchstabieren Sie bitte – Aufgabe 10",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_075.mp3 (SHA256 2f9c7ec64e9358927f549d31552ce5e305aba1958be5202513d7a2a041fed108), opening announcement reviewed from local transcription: 'Aufgabe 10. Buchstabieren Sie bitte.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "10",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "2f9c7ec64e9358927f549d31552ce5e305aba1958be5202513d7a2a041fed108",
+        "sourceLocator": "Original audio Einfach_los_Track_075.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-76": {
+      "title": "Telefonnummern – Aufgabe 12",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_076.mp3 (SHA256 9f31d05a8744b8b5b8fb87bdc8ced08f8aa5700d4df675bf19062e6bf49bd1ae), opening announcement reviewed from local transcription: 'Aufgabe 12'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "12",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "9f31d05a8744b8b5b8fb87bdc8ced08f8aa5700d4df675bf19062e6bf49bd1ae",
+        "sourceLocator": "Original audio Einfach_los_Track_076.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-77": {
+      "title": "Zahlen 1–100 – Aufgabe 13b",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_077.mp3 (SHA256 dea56977f83e656e2b40301e8b42a251af400ae2ce2d18e80f7a956c1ce91bf4), opening announcement reviewed from local transcription: 'aufgabe 13 b'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "13b",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "dea56977f83e656e2b40301e8b42a251af400ae2ce2d18e80f7a956c1ce91bf4",
+        "sourceLocator": "Original audio Einfach_los_Track_077.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-78": {
+      "title": "Zahlen 1–100 – Aufgabe 13c",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_078.mp3 (SHA256 ceb8c5102965dad404378a65f621f36f390129225b47fe9a07c233eb43ed6e50), opening announcement reviewed from local transcription: 'aufgabe 13c'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "13c",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "ceb8c5102965dad404378a65f621f36f390129225b47fe9a07c233eb43ed6e50",
+        "sourceLocator": "Original audio Einfach_los_Track_078.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-79": {
+      "title": "Anna Schmidt – Aufgabe 14",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_079.mp3 (SHA256 9c44632c5b217fbee297b656a0e06dc40436680cda8d7f37c623a5480bf43cf4), opening announcement reviewed from local transcription: 'Aufgabe 14'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "14",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "9c44632c5b217fbee297b656a0e06dc40436680cda8d7f37c623a5480bf43cf4",
+        "sourceLocator": "Original audio Einfach_los_Track_079.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-80": {
+      "title": "Informationen zur Person – Aufgabe 16",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_080.mp3 (SHA256 dad4f0da5d61908a36b35cea014ac0b34d376897e1ff8fa95d0d36b35d4bd0fb), opening announcement reviewed from local transcription: 'Aufgabe 16'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "16",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "dad4f0da5d61908a36b35cea014ac0b34d376897e1ff8fa95d0d36b35d4bd0fb",
+        "sourceLocator": "Original audio Einfach_los_Track_080.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-81": {
+      "title": "Das Verb sein – Aufgabe 21",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_081.mp3 (SHA256 0235496d70c78978d16944b736acde289e7964a557c22b27f6e90c330ebfa7c0), opening announcement reviewed from local transcription: 'Aufgabe 21'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "21",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "0235496d70c78978d16944b736acde289e7964a557c22b27f6e90c330ebfa7c0",
+        "sourceLocator": "Original audio Einfach_los_Track_081.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-82": {
+      "title": "Was ist richtig?",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_082.mp3 (SHA256 a4b567e89376c4a7d4fdf27b9dd21414e1fdfaa80293e99c15c990604481ff77), opening announcement reviewed from local transcription: 'Was ist richtig?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter2 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 2,
+          "chapterTitle": "Kontakte"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "a4b567e89376c4a7d4fdf27b9dd21414e1fdfaa80293e99c15c990604481ff77",
+        "sourceLocator": "Original audio Einfach_los_Track_082.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-83": {
+      "title": "Ich fahre mit dem Zug – Aufgabe 2d",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_083.mp3 (SHA256 f6d914976a8ef014c70833bac5d43b985d4f6f7bfee97028f4dc6d49f46d3b66), opening announcement reviewed from local transcription: 'Lektion 3'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "2d",
+          "chapter": 3,
+          "chapterTitle": "Mobilität"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "f6d914976a8ef014c70833bac5d43b985d4f6f7bfee97028f4dc6d49f46d3b66",
+        "sourceLocator": "Original audio Einfach_los_Track_083.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-84": {
+      "title": "Ergänzen Sie – Aufgabe 3",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_084.mp3 (SHA256 b8e9ececff370f9abc91d3545e0b55c2903c2c1ffcbdee369b90ba317094c2d6), opening announcement reviewed from local transcription: 'Aufgabe 3'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter3 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "3",
+          "chapter": 3,
+          "chapterTitle": "Mobilität"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "b8e9ececff370f9abc91d3545e0b55c2903c2c1ffcbdee369b90ba317094c2d6",
+        "sourceLocator": "Original audio Einfach_los_Track_084.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-85": {
+      "title": "Drei Dialoge – Aufgabe 6",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_085.mp3 (SHA256 e7d09cbe712a3ebfc6042ca651d83ef2adbb70f18f6bc47b979554cd52973b83), opening announcement reviewed from local transcription: 'Aufgabe 6'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter3 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "6",
+          "chapter": 3,
+          "chapterTitle": "Mobilität"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "e7d09cbe712a3ebfc6042ca651d83ef2adbb70f18f6bc47b979554cd52973b83",
+        "sourceLocator": "Original audio Einfach_los_Track_085.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-86": {
+      "title": "Wie komme ich zum Jobcenter?",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_086.mp3 (SHA256 3a36ecaa98e6f1050d94c67109b53f5c104b93cfc2bd746adce4bb09f4fca3e8), opening announcement reviewed from local transcription: 'Entschuldigung. Ja, wie komme ich zum Jobcenter?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter3 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 3,
+          "chapterTitle": "Mobilität"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "3a36ecaa98e6f1050d94c67109b53f5c104b93cfc2bd746adce4bb09f4fca3e8",
+        "sourceLocator": "Original audio Einfach_los_Track_086.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-87": {
+      "title": "Mir geht es nicht gut – Aufgabe 4",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_087.mp3 (SHA256 49a236f0751cc0789e338d0d97a260c4282634725c50b3900a4653342061f984), opening announcement reviewed from local transcription: 'Lektion 4'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "4",
+          "chapter": 4,
+          "chapterTitle": "Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "49a236f0751cc0789e338d0d97a260c4282634725c50b3900a4653342061f984",
+        "sourceLocator": "Original audio Einfach_los_Track_087.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-88": {
+      "title": "Nachrichten – Aufgabe 14",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_088.mp3 (SHA256 9be7c1ad24f8045681bb0e92d8abe0a0b55d21f9b167c891b7461777b23c0f40), opening announcement reviewed from local transcription: 'Aufgabe 14 Nachrichten'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter4 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "14",
+          "chapter": 4,
+          "chapterTitle": "Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "9be7c1ad24f8045681bb0e92d8abe0a0b55d21f9b167c891b7461777b23c0f40",
+        "sourceLocator": "Original audio Einfach_los_Track_088.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-89": {
+      "title": "Termine – Aufgabe 15",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_089.mp3 (SHA256 b8cf01bf2a5fad40e04584e71c83355c3cb6b0ed3001d33186ccb68247630c57), opening announcement reviewed from local transcription: 'aufgabe 15'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter4 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "15",
+          "chapter": 4,
+          "chapterTitle": "Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "b8cf01bf2a5fad40e04584e71c83355c3cb6b0ed3001d33186ccb68247630c57",
+        "sourceLocator": "Original audio Einfach_los_Track_089.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-90": {
+      "title": "Bist du krank? – Aufgabe 18",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_090.mp3 (SHA256 cd5a0b80e6031bb110332d61229a1604151265e4202e943c16b84401da8b9acc), opening announcement reviewed from local transcription: 'Aufgabe 18'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter4 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "18",
+          "chapter": 4,
+          "chapterTitle": "Gesundheit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "cd5a0b80e6031bb110332d61229a1604151265e4202e943c16b84401da8b9acc",
+        "sourceLocator": "Original audio Einfach_los_Track_090.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-91": {
+      "title": "Ein Interview mit Frau Jankowska – Aufgabe 12",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_091.mp3 (SHA256 6d836f7e4500ce0e639114392da24ae7bcee9c3a2dcd129d80e2ad2e0091e54b), opening announcement reviewed from local transcription: 'Lektion 5'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "12",
+          "chapter": 5,
+          "chapterTitle": "Arbeit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "6d836f7e4500ce0e639114392da24ae7bcee9c3a2dcd129d80e2ad2e0091e54b",
+        "sourceLocator": "Original audio Einfach_los_Track_091.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-92": {
+      "title": "Welche Reaktion ist richtig?",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_092.mp3 (SHA256 80ac3ea31d978bb327ba5dfe889d393e2aeacbcb66b8b18261b661af0e7c2ec9), opening announcement reviewed from local transcription: 'Welche Reaktion ist richtig?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter5 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Arbeit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "80ac3ea31d978bb327ba5dfe889d393e2aeacbcb66b8b18261b661af0e7c2ec9",
+        "sourceLocator": "Original audio Einfach_los_Track_092.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-93": {
+      "title": "Wann frühstücken Sie morgens?",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_093.mp3 (SHA256 540ba2965e1c9e91c32990a0ff357113957c66c5ac1c7c07df145bf03963312e), opening announcement reviewed from local transcription: 'Wann frühstücken Sie morgens?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter5 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Arbeit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "540ba2965e1c9e91c32990a0ff357113957c66c5ac1c7c07df145bf03963312e",
+        "sourceLocator": "Original audio Einfach_los_Track_093.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-94": {
+      "title": "Können Sie als Kellnerin arbeiten?",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_094.mp3 (SHA256 5ceca7635c382d3e7de59d8777fba7eb7d2351e62a0fc0e6e9c8dc8ce6d55e1f), opening announcement reviewed from local transcription: 'Können Sie als Kellnerin bei uns arbeiten?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter5 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Arbeit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "5ceca7635c382d3e7de59d8777fba7eb7d2351e62a0fc0e6e9c8dc8ce6d55e1f",
+        "sourceLocator": "Original audio Einfach_los_Track_094.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-95": {
+      "title": "Einen Reparaturtermin vereinbaren",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_095.mp3 (SHA256 73212c370b48a7f303cba9fdec1bcd3f886cd464b0a643c61fd0e79037bcc961), opening announcement reviewed from local transcription: 'haben sie am Dienstag Mittagzeit? Ich kann dann kommen und die Tür reparieren.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter5 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Arbeit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "73212c370b48a7f303cba9fdec1bcd3f886cd464b0a643c61fd0e79037bcc961",
+        "sourceLocator": "Original audio Einfach_los_Track_095.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-96": {
+      "title": "Eine Arbeit als Köchin suchen",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_096.mp3 (SHA256 1bc08c2e5a911578c842e4f8123cc3982f00fdb6b65258c0df12e8f4e49c7d3b), opening announcement reviewed from local transcription: 'Ich suche eine Arbeit als Köchin, ich habe viel Zeit und kann flexibel sein.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter5 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 5,
+          "chapterTitle": "Arbeit"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "1bc08c2e5a911578c842e4f8123cc3982f00fdb6b65258c0df12e8f4e49c7d3b",
+        "sourceLocator": "Original audio Einfach_los_Track_096.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-97": {
+      "title": "Was macht Stefan am Samstag? – Aufgabe 6",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_097.mp3 (SHA256 1cd7c649e64f284b5c82dbafb14450f68720887124e8c8d55df7a207aea95c86), opening announcement reviewed from local transcription: 'Lektion 6'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "6",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "1cd7c649e64f284b5c82dbafb14450f68720887124e8c8d55df7a207aea95c86",
+        "sourceLocator": "Original audio Einfach_los_Track_097.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-98": {
+      "title": "Uhrzeiten",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_098.mp3 (SHA256 436085c10dff9a405415a2b186c1a3374789f015bb457d72b1b0e10957a80f9e), opening announcement reviewed from local transcription: 'Es ist 5 nach 8. Es ist 8 Uhr 5.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter6 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "436085c10dff9a405415a2b186c1a3374789f015bb457d72b1b0e10957a80f9e",
+        "sourceLocator": "Original audio Einfach_los_Track_098.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-99": {
+      "title": "Wie spät ist es?",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_099.mp3 (SHA256 90575ea2edea6b3da56954e25e883ddb7e52e699dcd9df02a1dbe3e6a68f500c), opening announcement reviewed from local transcription: 'Entschuldigung, ja bitte, wie spät ist es? Ist es schon elf? Nein.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter6 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "90575ea2edea6b3da56954e25e883ddb7e52e699dcd9df02a1dbe3e6a68f500c",
+        "sourceLocator": "Original audio Einfach_los_Track_099.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-100": {
+      "title": "Keine Zeit – Aufgabe 18",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_100.mp3 (SHA256 5154fdd478da3ce0ba10569495c87ec6378e4380dd7ac4b1b1d639eb37334819), opening announcement reviewed from local transcription: 'Aufgabe 18 Keine Zeit'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter6 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "18",
+          "chapter": 6,
+          "chapterTitle": "Alltag"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "5154fdd478da3ce0ba10569495c87ec6378e4380dd7ac4b1b1d639eb37334819",
+        "sourceLocator": "Original audio Einfach_los_Track_100.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-101": {
+      "title": "Obst, Gemüse, Salat – Aufgabe 1c",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_101.mp3 (SHA256 f90319d9b1c939d8088440eaa2c8547f5f305dd5e2da6f9318a4df22bcd3aaea), opening announcement reviewed from local transcription: 'Lektion 7'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "1c",
+          "chapter": 7,
+          "chapterTitle": "Einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "f90319d9b1c939d8088440eaa2c8547f5f305dd5e2da6f9318a4df22bcd3aaea",
+        "sourceLocator": "Original audio Einfach_los_Track_101.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-102": {
+      "title": "Rabia und Karim im Supermarkt – Aufgabe 4",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_102.mp3 (SHA256 01f6e3104792599cae9122297f037569aa99bd5d810fc5e03eef9b223e89dae7), opening announcement reviewed from local transcription: 'Aufgabe 4'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter7 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "4",
+          "chapter": 7,
+          "chapterTitle": "Einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "01f6e3104792599cae9122297f037569aa99bd5d810fc5e03eef9b223e89dae7",
+        "sourceLocator": "Original audio Einfach_los_Track_102.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-103": {
+      "title": "Preise – Aufgabe 4b",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_103.mp3 (SHA256 43fb878dc4cccdd9832e7781fbeca850c9d3d57d806edc69464bbacea47d2913), opening announcement reviewed from local transcription: 'Aufgabe 4B'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter7 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "4b",
+          "chapter": 7,
+          "chapterTitle": "Einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "43fb878dc4cccdd9832e7781fbeca850c9d3d57d806edc69464bbacea47d2913",
+        "sourceLocator": "Original audio Einfach_los_Track_103.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-104": {
+      "title": "Preise verstehen – Aufgabe 4c",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_104.mp3 (SHA256 39797e2986cc5f8c4c8534ae200d8b089659ce1c067484da501c784dd4c17394), opening announcement reviewed from local transcription: 'Aufgabe 4C. Das macht 6,79 Euro, bitte!'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter7 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "4c",
+          "chapter": 7,
+          "chapterTitle": "Einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "39797e2986cc5f8c4c8534ae200d8b089659ce1c067484da501c784dd4c17394",
+        "sourceLocator": "Original audio Einfach_los_Track_104.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-105": {
+      "title": "Angebote im Supermarkt",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_105.mp3 (SHA256 bc2048ebe4aa333508cb739bcc62b672d0d4ce3221566e5bfb8de487b10b6e2f), opening announcement reviewed from local transcription: 'Heute haben wir ein Superangebot an der Fleischtheke, 6,99 Euro für 1 Kilo Rindfleisch.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter7 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "chapter": 7,
+          "chapterTitle": "Einkaufen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "bc2048ebe4aa333508cb739bcc62b672d0d4ce3221566e5bfb8de487b10b6e2f",
+        "sourceLocator": "Original audio Einfach_los_Track_105.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-106": {
+      "title": "Welche Fragen und Antworten passen? – Aufgabe 4c",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_106.mp3 (SHA256 ac45b922d5f4388b2547aabdcfd2f13d0f5913a98003c0756d3d1713ae486287), opening announcement reviewed from local transcription: 'Aufgabe 4-C Welche Fragen und Antworten passen?'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF; 40-second opening reviewed: Lektion 8",
+          "exercise": "4c",
+          "chapter": 8,
+          "chapterTitle": "Wohnen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-40s-and-reviewed-book-context",
+        "sourceSha256": "ac45b922d5f4388b2547aabdcfd2f13d0f5913a98003c0756d3d1713ae486287",
+        "sourceLocator": "Original audio Einfach_los_Track_106.mp3 at00:00–00:40"
+      }
+    },
+    "einfach-los-pack-102-track-107": {
+      "title": "Welche Zahlen hören Sie? – Aufgabe 5",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "chapter-context",
+          "evidence": "Original audio Einfach_los_Track_107.mp3 (SHA256 a4a764eb08b8dc55f5ce781829d2642e9dea2551d6c9b7b13bedf2425651de71), opening announcement reviewed from local transcription: 'Aufgabe 5'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening. Chapter8 follows the reviewed chapter-start and listening topics within the same original course/exercise part; chapter title is corroborated in the original vocabulary PDF. No unannounced numeric exercise is assigned.; chapter title corroborated in original vocabulary PDF",
+          "exercise": "5",
+          "chapter": 8,
+          "chapterTitle": "Wohnen"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "a4a764eb08b8dc55f5ce781829d2642e9dea2551d6c9b7b13bedf2425651de71",
+        "sourceLocator": "Original audio Einfach_los_Track_107.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-102-track-108": {
+      "title": "Ich habe eine Frage – Aufgabe 7",
+      "references": [
+        {
+          "section": "Übungsteil",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_108.mp3 (SHA256 4fc0a060d8c949e00de278a1e642c8e33ca4681efe76f9178a4240926ede0f2b), opening announcement reviewed from local transcription: 'Ich habe eine Frage.'; Original package title identifies this audio series; listening topic and any exercise label are reviewed from the original opening.; chapter title corroborated in original vocabulary PDF; 40-second opening reviewed: Lektion 9",
+          "exercise": "7",
+          "chapter": 9,
+          "chapterTitle": "Unterricht"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-40s-and-reviewed-book-context",
+        "sourceSha256": "4fc0a060d8c949e00de278a1e642c8e33ca4681efe76f9178a4240926ede0f2b",
+        "sourceLocator": "Original audio Einfach_los_Track_108.mp3 at00:00–00:40"
+      }
+    },
+    "einfach-los-pack-103-track-109": {
+      "title": "Übungstest – Hören, Teil A",
+      "references": [
+        {
+          "section": "Übungstest",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_109.mp3 (SHA256 71d3e12acce0f59c49da5fbdefcfa340b2ce856ca83866fa356ab53ca4d6d03a), opening announcement reviewed from local transcription: '\"Telk\" Deutsch A1 für Zuwanderer. Übungstest \"Hören\" Teil A.'; The original exam-part announcement identifies this task; no chapter applies.",
+          "exercise": "Hören, Teil A"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "71d3e12acce0f59c49da5fbdefcfa340b2ce856ca83866fa356ab53ca4d6d03a",
+        "sourceLocator": "Original audio Einfach_los_Track_109.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-103-track-110": {
+      "title": "Übungstest – Hören, Teil B",
+      "references": [
+        {
+          "section": "Übungstest",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_110.mp3 (SHA256 bdfef0e7f46895d3c4541ab2c87babcba1024dc8f5b3ee2a607794be0f1a9daf), opening announcement reviewed from local transcription: 'Hören Teil B. Lesen Sie die Aufgabe.'; The original exam-part announcement identifies this task; no chapter applies.",
+          "exercise": "Hören, Teil B"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "bdfef0e7f46895d3c4541ab2c87babcba1024dc8f5b3ee2a607794be0f1a9daf",
+        "sourceLocator": "Original audio Einfach_los_Track_110.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-103-track-111": {
+      "title": "Übungstest – Hören und Antworten, Teil A",
+      "references": [
+        {
+          "section": "Übungstest",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_111.mp3 (SHA256 93422feabc2dfca40be5f6488afae6cacd1bfb7ab098ea8f776eebfdf26a8b5d), opening announcement reviewed from local transcription: 'hören und antworten'; The original exam-part announcement identifies this task; no chapter applies.",
+          "exercise": "Hören und Antworten, Teil A"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "93422feabc2dfca40be5f6488afae6cacd1bfb7ab098ea8f776eebfdf26a8b5d",
+        "sourceLocator": "Original audio Einfach_los_Track_111.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-112": {
+      "title": "Phonetik – Teil 1 – Kennen Sie die Wörter?",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_112.mp3 (SHA256 7917172d3888cd5fde70221a3c6e633055185bd1cd485c108fc996100dac73a8), opening announcement reviewed from local transcription: 'Phonetik'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 1"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "7917172d3888cd5fde70221a3c6e633055185bd1cd485c108fc996100dac73a8",
+        "sourceLocator": "Original audio Einfach_los_Track_112.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-113": {
+      "title": "Phonetik – Teil 2a – Das ABC",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_113.mp3 (SHA256 987e8286da54219a513c621ec99ead7904498a3223ccf9d735023ead87ba2ed6), opening announcement reviewed from local transcription: 'Teil 2 – das ABC'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 2a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "987e8286da54219a513c621ec99ead7904498a3223ccf9d735023ead87ba2ed6",
+        "sourceLocator": "Original audio Einfach_los_Track_113.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-114": {
+      "title": "Phonetik – Teil 2b – Das ABC",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_114.mp3 (SHA256 a4e2960311de68225f8e1bda8e0976c5abaa7feb46f6e9ffd58cd962d94c5e3c), opening announcement reviewed from local transcription: 'Teil 2b'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 2b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "a4e2960311de68225f8e1bda8e0976c5abaa7feb46f6e9ffd58cd962d94c5e3c",
+        "sourceLocator": "Original audio Einfach_los_Track_114.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-115": {
+      "title": "Phonetik – Teil 2c – Das ABC",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_115.mp3 (SHA256 3d149be58570c817c6c833172f74413f8ed17257611ec9c4d71475b1f513c1e6), opening announcement reviewed from local transcription: 'Teil 2c. Sch. Sch. Sch.'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 2c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "3d149be58570c817c6c833172f74413f8ed17257611ec9c4d71475b1f513c1e6",
+        "sourceLocator": "Original audio Einfach_los_Track_115.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-116": {
+      "title": "Phonetik – Teil 3 – Buchstabieren",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_116.mp3 (SHA256 bede5d015ce532e3a1f7ecaf551eec2f291f69637aeb99c01232713669272ac0), opening announcement reviewed from local transcription: 'Gutten Tag, wer sind Sie?'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.; 40-second opening reviewed: Teil 3 Buch stabilen",
+          "exercise": "Teil 3"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-40s-and-reviewed-book-context",
+        "sourceSha256": "bede5d015ce532e3a1f7ecaf551eec2f291f69637aeb99c01232713669272ac0",
+        "sourceLocator": "Original audio Einfach_los_Track_116.mp3 at00:00–00:40"
+      }
+    },
+    "einfach-los-pack-104-track-117": {
+      "title": "Phonetik – Teil 4 – Laute und Buchstaben",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_117.mp3 (SHA256 5d0e1c1da8f01479cce4acb0b17b2e826f793733269ec86fade75a6e2a95df73), opening announcement reviewed from local transcription: 'Teil 4 - Laute und Buchstaben'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 4"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "5d0e1c1da8f01479cce4acb0b17b2e826f793733269ec86fade75a6e2a95df73",
+        "sourceLocator": "Original audio Einfach_los_Track_117.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-118": {
+      "title": "Phonetik – Teil 5 – Lange und kurze Vokale",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_118.mp3 (SHA256 8efec394371ca55f5b5ed08e81ab32991ac5fa6695956be276cdea545aa1b32e), opening announcement reviewed from local transcription: 'Teil 5'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 5"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "8efec394371ca55f5b5ed08e81ab32991ac5fa6695956be276cdea545aa1b32e",
+        "sourceLocator": "Original audio Einfach_los_Track_118.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-119": {
+      "title": "Phonetik – Teil 6 – Silben- und Wortakzent",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_119.mp3 (SHA256 fc7a7c7b0ff1c226253685463c034eb7edee2f26375cad96ee04c0c668b20dd0), opening announcement reviewed from local transcription: 'Teil 6'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 6"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "fc7a7c7b0ff1c226253685463c034eb7edee2f26375cad96ee04c0c668b20dd0",
+        "sourceLocator": "Original audio Einfach_los_Track_119.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-120": {
+      "title": "Phonetik – Teil 8 – Die Vokale e und i",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_120.mp3 (SHA256 d0b6efb9e9efe90147034987d4aeabefa3e4147b1d8389b68d77ebb573b37370), opening announcement reviewed from local transcription: 'Die Vokale \"e\" und \"i\".'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.; 40-second opening reviewed: Teil acht. Die Vokale \"e\" und \"i\".",
+          "exercise": "Teil 8"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-40s-and-reviewed-book-context",
+        "sourceSha256": "d0b6efb9e9efe90147034987d4aeabefa3e4147b1d8389b68d77ebb573b37370",
+        "sourceLocator": "Original audio Einfach_los_Track_120.mp3 at00:00–00:40"
+      }
+    },
+    "einfach-los-pack-104-track-121": {
+      "title": "Phonetik – Teil 9a – Satzakzent",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_121.mp3 (SHA256 55fed0837247131f4b39d42882f3a94053415d9cd021961f5207e019903c0cdc), opening announcement reviewed from local transcription: 'Teil 9A Satz-Aktzent'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 9a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "55fed0837247131f4b39d42882f3a94053415d9cd021961f5207e019903c0cdc",
+        "sourceLocator": "Original audio Einfach_los_Track_121.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-122": {
+      "title": "Phonetik – Teil 9c – Satzakzent",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_122.mp3 (SHA256 7c1f9902d3e64644025caa1969fd9d30d4cd048e47681c2e3aa4d259a3b0c825), opening announcement reviewed from local transcription: 'Teil 9c'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 9c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "7c1f9902d3e64644025caa1969fd9d30d4cd048e47681c2e3aa4d259a3b0c825",
+        "sourceLocator": "Original audio Einfach_los_Track_122.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-123": {
+      "title": "Phonetik – Teil 10 – Auslautverhärtung",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_123.mp3 (SHA256 f6409341cf5db3cf3a818b2556d4556bec5aa239d79eef5739794c5746e18338), opening announcement reviewed from local transcription: 'Teil 10'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 10"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "f6409341cf5db3cf3a818b2556d4556bec5aa239d79eef5739794c5746e18338",
+        "sourceLocator": "Original audio Einfach_los_Track_123.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-124": {
+      "title": "Phonetik – Teil 11a – Der Sch-Laut",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_124.mp3 (SHA256 3d4e7c8cd2849eec97f4c110d74db2059eeaa7700384c55442f16b81c2962aa3), opening announcement reviewed from local transcription: 'Teil 11a'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 11a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "3d4e7c8cd2849eec97f4c110d74db2059eeaa7700384c55442f16b81c2962aa3",
+        "sourceLocator": "Original audio Einfach_los_Track_124.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-125": {
+      "title": "Phonetik – Teil 11b – Der Sch-Laut",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_125.mp3 (SHA256 bc9fd1eccd607327a41b01ddc7e216ffa1e84abe6ab81f03acedb2b3f6e155a7), opening announcement reviewed from local transcription: 'steil 11 b'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 11b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "bc9fd1eccd607327a41b01ddc7e216ffa1e84abe6ab81f03acedb2b3f6e155a7",
+        "sourceLocator": "Original audio Einfach_los_Track_125.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-126": {
+      "title": "Phonetik – Teil 11d – Der Sch-Laut",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_126.mp3 (SHA256 c55a3f69b546e3be46421ba700652dfa555f44c87fde3d603f05ab4373f192e4), opening announcement reviewed from local transcription: 'Teil 11d'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 11d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "c55a3f69b546e3be46421ba700652dfa555f44c87fde3d603f05ab4373f192e4",
+        "sourceLocator": "Original audio Einfach_los_Track_126.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-127": {
+      "title": "Phonetik – Teil 13a – Umlaute",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_127.mp3 (SHA256 2ae58e7db22d2d9ba4fe397f23fd2750a1733f5a55b4343767a3dfe3a8faf3c5), opening announcement reviewed from local transcription: 'Teil 13a Die umlaute \"Ö\", \"Ü\", \"ÄH\".'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 13a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "2ae58e7db22d2d9ba4fe397f23fd2750a1733f5a55b4343767a3dfe3a8faf3c5",
+        "sourceLocator": "Original audio Einfach_los_Track_127.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-128": {
+      "title": "Phonetik – Teil 13b – Welches Wort hören Sie?",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_128.mp3 (SHA256 e587dcff44a4eec11cf0e7c8b175265f0df14b80cca2a3e06ebcc5a9373ee03d), opening announcement reviewed from local transcription: 'Teil 13b'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 13b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "e587dcff44a4eec11cf0e7c8b175265f0df14b80cca2a3e06ebcc5a9373ee03d",
+        "sourceLocator": "Original audio Einfach_los_Track_128.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-129": {
+      "title": "Phonetik – Teil 14a – Reduzierte Vokale",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_129.mp3 (SHA256 30e55fa2083e39cdd9ad604855574f55dc0438e834eaf7809897eb8b68d5523b), opening announcement reviewed from local transcription: 'Teil 14, die reduzierten Vokale, Teil 14a'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 14a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "30e55fa2083e39cdd9ad604855574f55dc0438e834eaf7809897eb8b68d5523b",
+        "sourceLocator": "Original audio Einfach_los_Track_129.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-130": {
+      "title": "Phonetik – Teil 14b – Reduzierte Vokale",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_130.mp3 (SHA256 c603dc26d1cff6d245b734b7d0b9ee825db0a524310daf8955591e4e610fe339), opening announcement reviewed from local transcription: 'Teil 14b. Mutter'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 14b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "c603dc26d1cff6d245b734b7d0b9ee825db0a524310daf8955591e4e610fe339",
+        "sourceLocator": "Original audio Einfach_los_Track_130.mp3 at00:00–00:12"
+      }
+    },
+    "einfach-los-pack-104-track-131": {
+      "title": "Phonetik – Teil 15 – Namensdialog",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_131.mp3 (SHA256 0af765cc6e351df91e6956888d7b85962464fe6e4ed1df5107a8990923972f13), opening announcement reviewed from local transcription: 'Teil 15'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.; 40-second opening reviewed: Teil 15",
+          "exercise": "Teil 15"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-40s-and-reviewed-book-context",
+        "sourceSha256": "0af765cc6e351df91e6956888d7b85962464fe6e4ed1df5107a8990923972f13",
+        "sourceLocator": "Original audio Einfach_los_Track_131.mp3 at00:00–00:40"
+      }
+    },
+    "einfach-los-pack-104-track-132": {
+      "title": "Phonetik – Teil 16 – Diphthonge",
+      "references": [
+        {
+          "section": "Phonetik",
+          "status": "verified",
+          "evidence": "Original audio Einfach_los_Track_132.mp3 (SHA256 010e9128307fe806a2aa5fdc1a01005554f11388941fd025db10b8eb3a4f8801), opening announcement reviewed from local transcription: 'Teil 16'; Original package is explicitly labeled Phonetik; the part label and listening topic are reviewed from the recording. Parts not present in these original recordings are omitted.",
+          "exercise": "Teil 16"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-audio-12s-and-reviewed-book-context",
+        "sourceSha256": "010e9128307fe806a2aa5fdc1a01005554f11388941fd025db10b8eb3a4f8801",
+        "sourceLocator": "Original audio Einfach_los_Track_132.mp3 at00:00–00:12"
+      }
+    }
+  },
+  "documents": {
+    "einfach-los-doc-2": {
+      "references": [
+        {
+          "section": "Wortschatz",
+          "chapter": 1,
+          "chapterTitle": "Neu im Kurs",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-los-doc-2, PDF page 1, heading 'Lektion 1: Neu im Kurs'; https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourcePage": 1
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 2,
+          "chapterTitle": "Kontakte",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-los-doc-2, PDF page 2, heading 'Lektion 2: Kontakte'; https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourcePage": 2
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 3,
+          "chapterTitle": "Mobilität",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-los-doc-2, PDF page 5, heading 'Lektion 3: Mobilität'; https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourcePage": 5
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 4,
+          "chapterTitle": "Gesundheit",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-los-doc-2, PDF page 8, heading 'Lektion 4: Gesundheit'; https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourcePage": 8
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 5,
+          "chapterTitle": "Arbeit",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-los-doc-2, PDF page 12, heading 'Lektion 5: Arbeit'; https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourcePage": 12
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 6,
+          "chapterTitle": "Alltag",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-los-doc-2, PDF page 15, heading 'Lektion 6: Alltag'; https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourcePage": 15
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 7,
+          "chapterTitle": "Einkaufen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-los-doc-2, PDF page 18, heading 'Lektion 7: Einkaufen'; https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourcePage": 18
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 8,
+          "chapterTitle": "Wohnen",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-los-doc-2, PDF page 21, heading 'Lektion 8: Wohnen'; https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourcePage": 21
+        },
+        {
+          "section": "Wortschatz",
+          "chapter": 9,
+          "chapterTitle": "Unterricht",
+          "status": "verified",
+          "evidence": "Original vocabulary PDF einfach-los-doc-2, PDF page 23, heading 'Lektion 9: Unterricht'; https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourceUrl": "https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+          "sourcePage": 23
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "method": "original-pdf-chapter-headings",
+        "sourceSha256": "0ea5adba458bf39b234df09930663a9ea33b666f7026be3df2e932a9df568903"
+      }
+    }
+  },
+  "sources": [
+    {
+      "url": "https://shop.telc.net/media/catalog/product/file/4/0/4001-baa-2201a_bib.pdf",
+      "sha256": "db5fde61da1559020b06995eb8c893031b0751120b22d8c463d07b3ba9d4497d",
+      "pageCount": 10,
+      "title": "los-bib"
+    },
+    {
+      "url": "https://telc.container.adrodev.de/produktiv/ftp/11_Einfach_los!/HiddenFolder/other/02_Wortschatzliste_Einfach_los_Englisch.pdf",
+      "sha256": "0ea5adba458bf39b234df09930663a9ea33b666f7026be3df2e932a9df568903",
+      "pageCount": 28,
+      "title": "Wortschatzliste Einfach los Englisch"
+    }
+  ],
+  "review": {
+    "author": "app_architecture",
+    "reviewedAt": "2026-10-11T18:27:19.755418+00:00",
+    "reviewer": "metadata_pipeline",
+    "independentlyReviewedAt": "2026-10-11T18:28:48.731665+00:00"
+  }
+}

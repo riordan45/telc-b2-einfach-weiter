@@ -15,7 +15,10 @@ import kotlinx.coroutines.flow.*
 @UnstableApi
 class StudyViewModel(application: Application) : AndroidViewModel(application) {
     private val app = application as WeiterApplication
-    val tracks = app.catalog
+    val library = app.library
+    val books = library.books
+    val tracks = library.tracks
+    val content = app.content
     val progress = app.database.study().progress().stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), emptyList())
     val bookmarks = app.database.study().bookmarks().stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), emptyList())
     val settings = app.settings.values.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), PlaybackSettings())
@@ -38,6 +41,7 @@ class StudyViewModel(application: Application) : AndroidViewModel(application) {
                 refresh()
             }
         }, ContextCompat.getMainExecutor(app))
+        viewModelScope.launch { content.reconcile() }
         viewModelScope.launch { while (isActive) { refresh(); delay(200) } }
     }
     private fun refresh() {
@@ -52,14 +56,27 @@ class StudyViewModel(application: Application) : AndroidViewModel(application) {
             error = error,
         )
     }
+    fun queueFor(track: Track): List<Track> = library.queueFor(track).filter { content.isReady(it) }
+    fun canSkip(delta: Int): Boolean {
+        val c = controller ?: return false
+        return c.currentMediaItemIndex + delta in 0 until c.mediaItemCount
+    }
     fun select(track: Track, position: Long? = null, play: Boolean = true) {
         val c = controller ?: return
-        if (c.mediaItemCount == 0) return
+        val queue = queueFor(track)
+        if (track !in queue) {
+            error = "Download this book’s audio to listen."
+            refresh()
+            return
+        }
         error = null
         val resume = position ?: progress.value.find { it.trackId == track.id }?.positionMs ?: 0
-        c.seekTo(tracks.indexOf(track), resume.coerceIn(0, track.durationMs).let { if (it >= track.durationMs - 300) 0 else it })
+        val start = resume.coerceIn(0, track.durationMs).let { if (it >= track.durationMs - 300) 0 else it }
+        val existing = (0 until c.mediaItemCount).map { c.getMediaItemAt(it).mediaId }
+        if (existing == queue.map { it.id }) c.seekTo(queue.indexOf(track), start)
+        else c.setMediaItems(queue.map { it.mediaItem(content.audioUri(it)!!, library.book(it.bookId)?.displayTitle.orEmpty()) }, queue.indexOf(track), start)
         c.prepare()
-        if (play) c.play()
+        c.playWhenReady = play
         refresh()
     }
     fun togglePlayback() {
@@ -76,9 +93,26 @@ class StudyViewModel(application: Application) : AndroidViewModel(application) {
     fun seek(position: Long) { controller?.seekTo(position.coerceAtLeast(0)); refresh() }
     fun skip(delta: Int) {
         val c = controller ?: return
-        val index = (c.currentMediaItemIndex + delta).coerceIn(0, tracks.lastIndex)
-        select(tracks[index], 0)
+        if (!canSkip(delta)) return
+        library.track(c.getMediaItemAt(c.currentMediaItemIndex + delta).mediaId)?.let { select(it, 0) }
     }
+    private fun contentAction(action: suspend () -> Unit) {
+        viewModelScope.launch {
+            try { action() } catch (failure: Exception) {
+                if (failure is CancellationException) throw failure
+                error = failure.message ?: "Couldn’t prepare the download. Try again."
+                refresh()
+            }
+        }
+    }
+    fun downloadAudio(id: String) = contentAction { content.downloadAudio(id) }
+    fun cancelAudio(id: String) = contentAction { content.cancelAudio(id) }
+    fun deleteAudio(id: String) = contentAction { content.deleteAudio(id) }
+    fun downloadDocument(id: String) = contentAction { content.downloadDocument(id) }
+    fun cancelDocument(id: String) = contentAction { content.cancelDocument(id) }
+    fun deleteDocument(id: String) = contentAction { content.deleteDocument(id) }
+    fun documentPage(id: String): Flow<Int> = content.documentPage(id)
+    fun saveDocumentPage(id: String, page: Int) = contentAction { content.saveDocumentPage(id, page) }
     fun shift(seconds: Int) { val c = controller ?: return; seek((c.currentPosition + seconds * 1000L).coerceIn(0, tracks.find { it.id == c.currentMediaItem?.mediaId }?.durationMs ?: 0)) }
     fun loop(a: Long, b: Long) {
         controller?.sendCustomCommand(SessionCommand(PlaybackService.LOOP_COMMAND, Bundle.EMPTY), Bundle().apply { putLong("a", a); putLong("b", b) })

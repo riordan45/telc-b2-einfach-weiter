@@ -1,0 +1,603 @@
+{
+  "schemaVersion": 1,
+  "bookId": "einfach-weiter-b2-2",
+  "review": {
+    "author": "official_catalog",
+    "reviewedAt": "2026-10-11T18:07:13.149066+00:00",
+    "reviewer": "root",
+    "independentlyReviewedAt": "2026-10-11T18:12:31.059663+00:00",
+    "independentReviewMethod": "All legacy recording fingerprints and references compared; every changed intro/pronunciation opening checked, including 40-second B2.2 opening and section boundaries."
+  },
+  "tracks": {
+    "einfach-weiter-b2-2-pack-100-track-33": {
+      "title": "Bildung · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 7,
+          "chapterTitle": "Bildung",
+          "exercise": "2b",
+          "evidence": "Reviewed 40-second opening: Einfach weiter Deutsch B2.2, Lektion 7, Aufgabe 2b.",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "cf9646935fa5b42f6822a54a8c173814a6e3b16d3e822f4894d1370c4f69a9d6",
+        "method": "opening-announcement",
+        "sourceLocator": "audio SHA256 cf9646935fa5b42f6822a54a8c173814a6e3b16d3e822f4894d1370c4f69a9d6 at 00:00–00:40"
+      }
+    },
+    "einfach-weiter-b2-2-pack-100-track-34": {
+      "title": "Bildung · Aufgabe 6d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 7,
+          "chapterTitle": "Bildung",
+          "evidence": "Opening announcement: Aufgabe 6d; chapter follows the announced lesson 7 sequence",
+          "status": "chapter-context",
+          "exercise": "6d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "ba40cbefe063a91afb5862306b1ce66fadeb451e52753e7af8b8bce2774be612",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-018"
+      }
+    },
+    "einfach-weiter-b2-2-pack-100-track-35": {
+      "title": "Bildung · Aufgabe 6e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 7,
+          "chapterTitle": "Bildung",
+          "evidence": "Opening announcement: Aufgabe 6e; chapter follows the announced lesson 7 sequence",
+          "status": "chapter-context",
+          "exercise": "6e"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "9c9afdbbe95e2ee1a2321f0487da2d84c3825f7d59436eab6757e64e9023ab44",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-019"
+      }
+    },
+    "einfach-weiter-b2-2-pack-100-track-36": {
+      "title": "Konflikte · Aufgabe 2a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Lektion 8, Aufgabe 2a",
+          "status": "verified",
+          "exercise": "2a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "006d16d63455144f3cd9ab7b1f2a71ac0107a4733b1b41cf2146078078dfaf1a",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-020"
+      }
+    },
+    "einfach-weiter-b2-2-pack-100-track-37": {
+      "title": "Konflikte · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Aufgabe 2b; chapter follows the announced lesson 8 sequence",
+          "status": "chapter-context",
+          "exercise": "2b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "91d1a7b6e594ef94ca14ac9abacc5b4fed33995fe6b739d4455e710905fdac82",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-021"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-38": {
+      "title": "Konflikte · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Aufgabe 2c; chapter follows the announced lesson 8 sequence",
+          "status": "chapter-context",
+          "exercise": "2c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "956d35ed33563933378b9aad0645374d14388175ef7c669fb8d3e33fc346146b",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-022"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-39": {
+      "title": "Konflikte · Aufgabe 2d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Aufgabe 2d; chapter follows the announced lesson 8 sequence",
+          "status": "chapter-context",
+          "exercise": "2d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "58da35f15ec6ab92421656c0695146d943d0986da71004b3ec5d61724b07170f",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-023"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-40": {
+      "title": "Konflikte · Aufgabe 2e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Aufgabe 2e; chapter follows the announced lesson 8 sequence",
+          "status": "chapter-context",
+          "exercise": "2e"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "e190a2ddffde399381d8d7e4aa06af0935878bfd237c4edf8e56a31c84b0657b",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-024"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-41": {
+      "title": "Konflikte · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Aufgabe 3a; chapter follows the announced lesson 8 sequence",
+          "status": "chapter-context",
+          "exercise": "3a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "59462ae7c7293f946d7844b3142cd5d396b73907c9a9ccfa851e5314ecc21dbd",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-025"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-42": {
+      "title": "Gesellschaft · Aufgabe 2c, 2e",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 9,
+          "chapterTitle": "Gesellschaft",
+          "evidence": "Opening announcement: Lektion 9, Aufgabe 2c, 2e",
+          "status": "verified",
+          "exercise": "2c"
+        },
+        {
+          "section": "Kursbuch",
+          "chapter": 9,
+          "chapterTitle": "Gesellschaft",
+          "evidence": "Opening announcement: Lektion 9, Aufgabe 2c, 2e",
+          "status": "verified",
+          "exercise": "2e"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "ffd230cf483a7311773bbd63aa3fde81397f8f48f717f059f1415695ab79beb2",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-026"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-43": {
+      "title": "Wissen und Können · Aufgabe 1d",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 10,
+          "chapterTitle": "Wissen und Können",
+          "evidence": "Opening announcement: Lektion 10, Aufgabe 1d",
+          "status": "verified",
+          "exercise": "1d"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "7ed2a8f06f70b07537bddd6967cb4d170309394790fed7eb9dfe364f3fb5d1d1",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-027"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-44": {
+      "title": "Wissen und Können",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 10,
+          "chapterTitle": "Wissen und Können",
+          "evidence": "Opening announcement: no reliably recognized exercise label; chapter follows the announced lesson 10 sequence between tracks 27 and 29",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "e01148aed6b18430a86be66e37553e6f5aa6a93382a63ad42249c78fb7e30c0c",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-028"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-45": {
+      "title": "Realität und Fiktion · Aufgabe 2c",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 11,
+          "chapterTitle": "Realität und Fiktion",
+          "evidence": "Opening announcement: Lektion 11, Aufgabe 2c",
+          "status": "verified",
+          "exercise": "2c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "e1ac830460cfe3c8dd1c817829c15d0fc1b95f939856d4ee67dff857086e5fa4",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-029"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-46": {
+      "title": "Realität und Fiktion · Aufgabe 5b",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 11,
+          "chapterTitle": "Realität und Fiktion",
+          "evidence": "Opening announcement: Aufgabe 5b; chapter follows the announced lesson 11 sequence",
+          "status": "chapter-context",
+          "exercise": "5b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "ba663291710bf5a83b3a7dd8b8ca8845789fd178073dd5833184519244f825bb",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-030"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-47": {
+      "title": "Fit für die Prüfung · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Kursbuch",
+          "chapter": 12,
+          "chapterTitle": "Fit für die Prüfung",
+          "evidence": "Opening announcement: Lektion 12, Aufgabe 3a",
+          "status": "verified",
+          "exercise": "3a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "841b7d83396379a36cca6e228fea1a4f62daa4388b7f9bcdec7bc44375518c02",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-031"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-48": {
+      "title": "Aussprache · Aufgabe 1a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "1a",
+          "evidence": "Reviewed opening: Aufgabe 1a. Aussprachetraining is announced at track 48; the section ends before the next Arbeitsbuch sequence at track 54.",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "571e524252be7c8aac40faeaf1b18d224d114fa199d54391acf4b26a8ceb082b",
+        "method": "opening-and-reviewed-section-boundary",
+        "sourceLocator": "audio SHA256 571e524252be7c8aac40faeaf1b18d224d114fa199d54391acf4b26a8ceb082b at 00:00–00:12"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-49": {
+      "title": "Aussprache · Aufgabe 1b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "1b",
+          "evidence": "Reviewed opening: Aufgabe 1b. Aussprachetraining is announced at track 48; the section ends before the next Arbeitsbuch sequence at track 54.",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "1acceef77f897340de06f28ad96475c5b4bc083acc4b31928ef4380e02363b3f",
+        "method": "opening-and-reviewed-section-boundary",
+        "sourceLocator": "audio SHA256 1acceef77f897340de06f28ad96475c5b4bc083acc4b31928ef4380e02363b3f at 00:00–00:12"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-50": {
+      "title": "Aussprache · Aufgabe 2a, 2b, 2c",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "2a, 2b, 2c",
+          "evidence": "Reviewed opening: Aufgabe 2a, 2b, 2c. Aussprachetraining is announced at track 48; the section ends before the next Arbeitsbuch sequence at track 54.",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "56eeecb4080ca4fc8b9adb964e31b71ace507a5b68ac92ac439c16a6774c55a4",
+        "method": "opening-and-reviewed-section-boundary",
+        "sourceLocator": "audio SHA256 56eeecb4080ca4fc8b9adb964e31b71ace507a5b68ac92ac439c16a6774c55a4 at 00:00–00:12"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-51": {
+      "title": "Aussprache · Aufgabe 3a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "3a",
+          "evidence": "Reviewed opening: Aufgabe 3a. Aussprachetraining is announced at track 48; the section ends before the next Arbeitsbuch sequence at track 54.",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "84a2d12bb0804da3abb4cd60b9faeb79f166ccf54b59f458f78938c43ea141d3",
+        "method": "opening-and-reviewed-section-boundary",
+        "sourceLocator": "audio SHA256 84a2d12bb0804da3abb4cd60b9faeb79f166ccf54b59f458f78938c43ea141d3 at 00:00–00:12"
+      }
+    },
+    "einfach-weiter-b2-2-pack-101-track-52": {
+      "title": "Aussprache · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "4a",
+          "evidence": "Reviewed opening: Aufgabe 4a. Aussprachetraining is announced at track 48; the section ends before the next Arbeitsbuch sequence at track 54.",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "290dda3fd7f2861f5f9c5d70ca9ba501eccf4759cb80c03c0190f2b2ae5f5f73",
+        "method": "opening-and-reviewed-section-boundary",
+        "sourceLocator": "audio SHA256 290dda3fd7f2861f5f9c5d70ca9ba501eccf4759cb80c03c0190f2b2ae5f5f73 at 00:00–00:12"
+      }
+    },
+    "einfach-weiter-b2-2-pack-102-track-53": {
+      "title": "Aussprache · Aufgabe 4b",
+      "references": [
+        {
+          "section": "Aussprachetraining",
+          "exercise": "4b",
+          "evidence": "Reviewed opening: Aufgabe 4b. Aussprachetraining is announced at track 48; the section ends before the next Arbeitsbuch sequence at track 54.",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "8f83a5fdab3637422b1c812f2f2653ce23c68b030d412bf06300923a3796aa36",
+        "method": "opening-and-reviewed-section-boundary",
+        "sourceLocator": "audio SHA256 8f83a5fdab3637422b1c812f2f2653ce23c68b030d412bf06300923a3796aa36 at 00:00–00:12"
+      }
+    },
+    "einfach-weiter-b2-2-pack-102-track-54": {
+      "title": "Bildung · Aufgabe 5",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 7,
+          "chapterTitle": "Bildung",
+          "evidence": "Opening announcement: Lektion 7, Aufgabe 5",
+          "status": "verified",
+          "exercise": "5"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "5e4d8f5827ff4e90f4d8057b1f8a78a2ea9c2c1012b9d22e706c5b972f5ae1ba",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-054"
+      }
+    },
+    "einfach-weiter-b2-2-pack-102-track-55": {
+      "title": "Konflikte · Aufgabe 4a",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 8,
+          "chapterTitle": "Konflikte",
+          "evidence": "Opening announcement: Lektion 8, Aufgabe 4a",
+          "status": "verified",
+          "exercise": "4a"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "6b7ba4ba2e757260e5974fa3eba8bb7e7daedb591028adb15e045d4d21dc36dd",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-055"
+      }
+    },
+    "einfach-weiter-b2-2-pack-102-track-56": {
+      "title": "Gesellschaft · Aufgabe 2b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 9,
+          "chapterTitle": "Gesellschaft",
+          "evidence": "Opening announcement: Lektion 9, Aufgabe 2b",
+          "status": "verified",
+          "exercise": "2b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "f0aa92fc90819e99cf31c10d1c886f7cf5e104873a2c8d85a62af89c56d07f59",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-056"
+      }
+    },
+    "einfach-weiter-b2-2-pack-102-track-57": {
+      "title": "3. Etappe · Hörverstehen Teil 3",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "3. Etappe, Teil 3",
+          "evidence": "Opening announcement: 3. Etappe, Zwischentest, Hörverstehen Teil 3",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "a7ade155fe7d5b34957b6bdc23c5c7049ad676d73cd48125287b370898d5ec33",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-057"
+      }
+    },
+    "einfach-weiter-b2-2-pack-102-track-58": {
+      "title": "Wissen und Können · Aufgabe 8c",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 10,
+          "chapterTitle": "Wissen und Können",
+          "evidence": "Opening announcement: Lektion 10, Aufgabe 8c; small/base 12-second passes agree",
+          "status": "verified",
+          "exercise": "8c"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "ac6c51a2759e2a5d0c6c034781fd8ca59ccb87c2c2f91058af19eb30b97036a3",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-058"
+      }
+    },
+    "einfach-weiter-b2-2-pack-102-track-59": {
+      "title": "Realität und Fiktion · Aufgabe 1a, 1b",
+      "references": [
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 11,
+          "chapterTitle": "Realität und Fiktion",
+          "evidence": "Opening announcement: Lektion 11, Aufgabe 1a, 1b",
+          "status": "verified",
+          "exercise": "1a"
+        },
+        {
+          "section": "Arbeitsbuch",
+          "chapter": 11,
+          "chapterTitle": "Realität und Fiktion",
+          "evidence": "Opening announcement: Lektion 11, Aufgabe 1a, 1b",
+          "status": "verified",
+          "exercise": "1b"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "ae96a51f820d29ec108cee76b3e3b6d4931d39caefe9b72d810ff6e422d3b260",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-059"
+      }
+    },
+    "einfach-weiter-b2-2-pack-102-track-60": {
+      "title": "4. Etappe · Hörverstehen Teil 2",
+      "references": [
+        {
+          "section": "Zwischentests",
+          "exercise": "4. Etappe, Teil 2",
+          "evidence": "Opening announcement: 4. Etappe, Zwischentest, Hörverstehen Teil 2",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "ae9f92bfa10b09692eadc37b24d35aafd26c7968afa9c0eaac7b9098364688d0",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-060"
+      }
+    },
+    "einfach-weiter-b2-2-pack-102-track-61": {
+      "title": "Übungstest · Hörverstehen Teil 1",
+      "references": [
+        {
+          "section": "Übungstest telc Deutsch B2",
+          "exercise": "Hörverstehen Teil 1",
+          "evidence": "Opening announcement: Hörverstehen Teil 1; Übungstest telc Deutsch B2 explicitly announced at track 61",
+          "status": "verified"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "d8dd9b96ce2859abcd2045f01378d2a83a8a94a6b11c530d059ad6b40eb38802",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-061"
+      }
+    },
+    "einfach-weiter-b2-2-pack-102-track-62": {
+      "title": "Übungstest · Hörverstehen Teil 2",
+      "references": [
+        {
+          "section": "Übungstest telc Deutsch B2",
+          "exercise": "Hörverstehen Teil 2",
+          "evidence": "Opening announcement: Hörverstehen Teil 2; Übungstest telc Deutsch B2 explicitly announced at track 61",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "22fdfd39636699705fa16051a53a6ecda7516f5de56a4c11714697d1f7042e9d",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-062"
+      }
+    },
+    "einfach-weiter-b2-2-pack-102-track-63": {
+      "title": "Übungstest · Hörverstehen Teil 3",
+      "references": [
+        {
+          "section": "Übungstest telc Deutsch B2",
+          "exercise": "Hörverstehen Teil 3",
+          "evidence": "Opening announcement: Hörverstehen Teil 3; Übungstest telc Deutsch B2 explicitly announced at track 61",
+          "status": "chapter-context"
+        }
+      ],
+      "review": {
+        "status": "reviewed",
+        "sourceSha256": "6115bd6ef83cc70266aa80907f7b09b80fa89837c9d03b3880af39a41ecb85af",
+        "method": "checksum-match-to-reviewed-legacy",
+        "sourceLocator": "scripts/catalog/legacy-b2-catalog.json#b2-063"
+      }
+    }
+  },
+  "documents": {},
+  "sources": [
+    {
+      "kind": "preserved-reviewed-legacy",
+      "path": "scripts/catalog/legacy-b2-catalog.json",
+      "sha256": "d1bad58bcb03c0de818f29e18abc43e0f1aa6e1e9aa068cd82a2629851718a22"
+    }
+  ]
+}

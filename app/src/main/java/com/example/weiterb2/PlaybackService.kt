@@ -3,6 +3,7 @@ package com.example.weiterb2
 import android.app.PendingIntent
 import android.content.Intent
 import android.os.Bundle
+import android.net.Uri
 import androidx.media3.common.*
 import androidx.media3.common.util.UnstableApi
 import androidx.media3.exoplayer.ExoPlayer
@@ -37,6 +38,14 @@ class PlaybackService : MediaSessionService() {
                     if (controller.packageName != packageName && !controller.isTrusted) return MediaSession.ConnectionResult.reject()
                     return MediaSession.ConnectionResult.AcceptedResultBuilder(session)
                         .setAvailableSessionCommands(MediaSession.ConnectionResult.DEFAULT_SESSION_COMMANDS.buildUpon().add(SessionCommand(LOOP_COMMAND, Bundle.EMPTY)).build()).build()
+                }
+                override fun onAddMediaItems(session: MediaSession, controller: MediaSession.ControllerInfo, mediaItems: List<MediaItem>): ListenableFuture<List<MediaItem>> {
+                    val resolved = mediaItems.mapNotNull { item ->
+                        app.library.track(item.mediaId)?.let { track -> app.content.audioUri(track)?.let { uri ->
+                            track.mediaItem(uri, app.library.book(track.bookId)?.displayTitle.orEmpty())
+                        } }
+                    }
+                    return Futures.immediateFuture(resolved)
                 }
                 override fun onCustomCommand(session: MediaSession, controller: MediaSession.ControllerInfo, command: SessionCommand, args: Bundle): ListenableFuture<SessionResult> {
                     if (command.customAction != LOOP_COMMAND || controller.packageName != packageName) return Futures.immediateFuture(SessionResult(SessionError.ERROR_NOT_SUPPORTED))
@@ -76,12 +85,37 @@ class PlaybackService : MediaSessionService() {
             }
         })
         scope.launch {
-            val latest = app.database.study().latest()
-            val index = app.catalog.indexOfFirst { it.id == latest?.trackId }.coerceAtLeast(0)
-            val track = app.catalog[index]
-            val position = (latest?.positionMs ?: 0).coerceIn(0, track.durationMs)
-            player.setMediaItems(app.catalog.map { it.mediaItem() }, index, position)
-            player.prepare()
+            app.content.states.collect {
+                val current = app.library.track(player.currentMediaItem?.mediaId.orEmpty())
+                if (current != null) {
+                    val queue = app.library.queueFor(current).filter { app.content.isReady(it) }
+                    if (current !in queue) {
+                        persistSnapshot()
+                        player.pause()
+                        player.stop()
+                        player.clearMediaItems()
+                        setLoop(null)
+                    } else if (queue.map { it.id } != (0 until player.mediaItemCount).map { player.getMediaItemAt(it).mediaId }) {
+                        val position = player.currentPosition
+                        val playing = player.playWhenReady
+                        val savedLoop = loop
+                        player.setMediaItems(queue.map { it.mediaItem(app.content.audioUri(it)!!, app.library.book(it.bookId)?.displayTitle.orEmpty()) }, queue.indexOf(current), position)
+                        player.prepare()
+                        setLoop(savedLoop)
+                        player.playWhenReady = playing
+                    }
+                } else if (player.mediaItemCount == 0) {
+                    val latest = app.database.study().latest()
+                    val track = app.library.track(latest?.trackId.orEmpty())?.takeIf { app.content.isReady(it) }
+                        ?: app.catalog.firstOrNull { app.content.isReady(it) }
+                    if (track != null) {
+                        val queue = app.library.queueFor(track).filter { app.content.isReady(it) }
+                        val position = if (latest?.trackId == track.id) latest.positionMs.coerceIn(0, track.durationMs) else 0L
+                        player.setMediaItems(queue.map { it.mediaItem(app.content.audioUri(it)!!, app.library.book(it.bookId)?.displayTitle.orEmpty()) }, queue.indexOf(track), position)
+                        player.prepare()
+                    }
+                }
+            }
         }
         scope.launch {
             app.settings.values.collect {
@@ -135,5 +169,6 @@ class PlaybackService : MediaSessionService() {
     companion object { const val LOOP_COMMAND = "com.example.weiterb2.LOOP" }
 }
 
-fun Track.mediaItem(): MediaItem = MediaItem.Builder().setMediaId(id).setUri("asset:///$asset")
-    .setMediaMetadata(MediaMetadata.Builder().setTitle("Track $number · $title").setArtist(referenceLabel().ifBlank { "Einfach weiter! B2" }).setAlbumTitle("Einfach weiter! B2").build()).build()
+fun Track.mediaItem(uri: Uri = Uri.parse("asset:///$asset"), bookTitle: String = ""): MediaItem = MediaItem.Builder().setMediaId(id).setUri(uri)
+    .setMediaMetadata(MediaMetadata.Builder().setTitle("Track $number · $title")
+        .setArtist(listOf(bookTitle, referenceLabel()).filter { it.isNotBlank() }.joinToString(" · ")).setAlbumTitle(bookTitle).build()).build()
