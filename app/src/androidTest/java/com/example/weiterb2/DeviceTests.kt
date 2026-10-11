@@ -264,7 +264,7 @@ class LibraryUiTest {
     }
     @Test fun savedAndSettingsHaveClearEmptyStates() {
         compose.onNodeWithText("Saved").performClick()
-        compose.onNodeWithText("Keep the useful bits.").assertExists()
+        compose.onNodeWithText("Bookmarks").assertExists()
         compose.onNodeWithText("Settings").performClick()
         compose.onNodeWithText("Continuous playback").assertExists()
         capture("settings")

@@ -108,11 +108,10 @@ private data class TopLevelMenu(
     val content: @Composable (PaddingValues) -> Unit,
 )
 @Composable
-private fun Heading(eyebrow: String, title: String, subtitle: String? = null) {
+private fun Heading(eyebrow: String, title: String) {
     Column(Modifier.padding(top = 20.dp, bottom = 12.dp)) {
-        Text(eyebrow.uppercase(), color = MaterialTheme.colorScheme.primary, style = MaterialTheme.typography.labelMedium, letterSpacing = 1.8.sp)
-        Text(title, fontFamily = FontFamily.Serif, fontSize = 34.sp, lineHeight = 40.sp, modifier = Modifier.padding(top = 8.dp))
-        if (subtitle != null) Text(subtitle, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant, modifier = Modifier.padding(top = 8.dp))
+        if (eyebrow.isNotBlank()) Text(eyebrow.uppercase(), color = MaterialTheme.colorScheme.primary, style = MaterialTheme.typography.labelMedium, letterSpacing = 1.8.sp)
+        Text(title, fontFamily = FontFamily.Serif, fontSize = 34.sp, lineHeight = 40.sp, modifier = Modifier.padding(top = if (eyebrow.isNotBlank()) 8.dp else 0.dp))
     }
 }
 @OptIn(ExperimentalLayoutApi::class)
@@ -126,7 +125,7 @@ private fun Library(tracks: List<Track>, progress: List<TrackProgress>, ready: B
     val resume = tracks.find { it.id == latest?.trackId } ?: tracks.getOrNull(1)
     val results = tracks.filter { (query.isNotBlank() || group == null || it.groupLabel == group) && it.matches(query) }
     LazyColumn(modifier.fillMaxSize(), contentPadding = PaddingValues(horizontal = 24.dp, vertical = 12.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
-        item { Heading("Einfach weiter! · Deutsch B2", "Listen. Learn. Weiter.", "Your book’s audio, always with you.") }
+        item { Heading("", "Einfach weiter! Deutsch B2") }
         item { FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
             InfoTag("63 tracks · offline", Icons.Rounded.OfflinePin)
             InfoTag("${progress.count { it.completed }} completed")
@@ -279,7 +278,6 @@ private fun Saved(tracks: List<Track>, progress: List<TrackProgress>, bookmarks:
     var filter by rememberSaveable { mutableIntStateOf(0) }
     var editing by remember { mutableStateOf<Bookmark?>(null) }
     LazyColumn(modifier.fillMaxSize(), contentPadding = PaddingValues(horizontal = 24.dp, vertical = 12.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
-        item { Heading("Your study space", "Keep the useful bits.") }
         item { Row(horizontalArrangement = Arrangement.spacedBy(8.dp), modifier = Modifier.horizontalScroll(rememberScrollState())) {
             listOf("Bookmarks", "Notes", "Completed").forEachIndexed { i, label -> FilterChip(selected = filter == i, onClick = { filter = i }, label = { Text(label) }) }
         } }
@@ -309,18 +307,14 @@ private fun Saved(tracks: List<Track>, progress: List<TrackProgress>, bookmarks:
 @Composable
 private fun Settings(settings: PlaybackSettings, modifier: Modifier, continuous: (Boolean) -> Unit) {
     Column(modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 24.dp, vertical = 12.dp)) {
-        Heading("Make it yours", "A little more focus.")
         Row(Modifier.fillMaxWidth().padding(vertical = 24.dp), verticalAlignment = Alignment.CenterVertically) {
             Column(Modifier.weight(1f)) { Text("Continuous playback", style = MaterialTheme.typography.titleMedium); Text("Play the next track automatically. Off by default for exercise practice.", style = MaterialTheme.typography.bodySmall, modifier = Modifier.padding(top = 6.dp)) }
             Switch(checked = settings.continuous, onCheckedChange = continuous, modifier = Modifier.semantics { contentDescription = "Continuous playback" })
         }
         HorizontalDivider()
-        Text("Ready whenever you are", style = MaterialTheme.typography.titleMedium, modifier = Modifier.padding(top = 24.dp))
-        Text("All 63 original recordings are included. Playback, bookmarks and notes work offline.", Modifier.padding(top = 8.dp), style = MaterialTheme.typography.bodyMedium)
         Text("About the book references", style = MaterialTheme.typography.titleMedium, modifier = Modifier.padding(top = 24.dp))
         Text("References come from spoken exercise announcements and official telc samples. Some chapter assignments follow the announced lesson sequence. Page numbers appear only where the full-B2 sample confirms them; your print edition may differ.", Modifier.padding(top = 8.dp), style = MaterialTheme.typography.bodyMedium)
-        Text("Weiter B2 · 1.0.0", Modifier.padding(top = 32.dp), style = MaterialTheme.typography.labelLarge)
-        Text("A personal companion for Einfach weiter! Deutsch B2. Original audio © telc gGmbH. This companion is independently made and is not an official telc app.", Modifier.padding(top = 8.dp, bottom = 32.dp), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+        Text("Weiter B2 · 1.0.0", Modifier.padding(top = 32.dp, bottom = 32.dp), style = MaterialTheme.typography.labelLarge)
     }
 }
 @Composable
