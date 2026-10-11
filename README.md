@@ -10,6 +10,8 @@ For the **2021 edition**, published by **telc gGmbH**. ISBN-13: **978-3946447337
 - Resume listening, save bookmarks and notes, and mark tracks complete.
 - English controls, German book labels, and light/dark themes.
 
+Removing the app from Recents or pressing Back from the Library root stops audio and saves the listening position.
+
 ## Build
 
 Requires JDK 17, Android SDK 36 with build tools 36.0.0, and Python 3. Set `JAVA_HOME` and `ANDROID_HOME` to their installation folders.

@@ -120,7 +120,7 @@ class PlaybackService : MediaSessionService() {
     }
     override fun onGetSession(controllerInfo: MediaSession.ControllerInfo): MediaSession = session
     override fun onTaskRemoved(rootIntent: Intent?) {
-        if (!player.playWhenReady) { persistSnapshot(); stopSelf() }
+        pauseAllPlayersAndStopSelf()
     }
     override fun onDestroy() {
         // Capture before release; complete the final tiny database transaction before cancelling.

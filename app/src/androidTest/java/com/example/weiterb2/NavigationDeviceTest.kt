@@ -22,8 +22,11 @@ class NavigationDeviceTest {
 
     @Before fun showActivity() {
         compose.activityRule.scenario.onActivity {
-            it.setShowWhenLocked(true)
-            it.setTurnScreenOn(true)
+            if (android.os.Build.VERSION.SDK_INT >= 27) {
+                it.setShowWhenLocked(true)
+                it.setTurnScreenOn(true)
+            }
+            it.window.addFlags(android.view.WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
         }
         compose.waitUntil(10000) {
             runCatching { compose.onAllNodesWithText("Library").fetchSemanticsNodes().isNotEmpty() }.getOrDefault(false)
@@ -44,60 +47,70 @@ class NavigationDeviceTest {
         compose.waitForIdle()
     }
 
-    @Test fun systemBackFromChapterReturnsToChapterMenu() {
+    private fun openChapter() {
+        compose.onNode(hasScrollToIndexAction()).performScrollToNode(hasText(chapter))
         compose.onNodeWithText(chapter).performScrollTo().performClick()
+    }
+
+    private fun assertChapterVisible() {
+        compose.onNode(hasScrollToIndexAction()).performScrollToNode(hasText(chapter))
+        compose.onNodeWithText(chapter).assertIsDisplayed()
+    }
+
+    @Test fun systemBackFromChapterReturnsToChapterMenu() {
+        openChapter()
         compose.onNodeWithContentDescription("Back to chapters").assertExists()
         systemBack()
         assertFalse("Back exited instead of returning to the chapter menu", compose.activity.isFinishing)
         compose.onNodeWithContentDescription("Back to chapters").assertDoesNotExist()
-        compose.onNodeWithText(chapter).performScrollTo().assertIsDisplayed()
+        assertChapterVisible()
         compose.onNodeWithText("Library").assertIsDisplayed()
     }
 
     @Test fun screenArrowAndSystemBackHaveTheSameDestination() {
-        compose.onNodeWithText(chapter).performScrollTo().performClick()
+        openChapter()
         compose.onNodeWithContentDescription("Back to chapters").performScrollTo().performClick()
         compose.onNodeWithContentDescription("Back to chapters").assertDoesNotExist()
-        compose.onNodeWithText(chapter).performScrollTo().performClick()
+        openChapter()
         back()
         compose.onNodeWithContentDescription("Back to chapters").assertDoesNotExist()
-        compose.onNodeWithText(chapter).performScrollTo().assertIsDisplayed()
+        assertChapterVisible()
     }
 
     @Test fun backFromOtherMenusReturnsToLibraryRoot() {
         for (menu in listOf("Saved", "Settings")) {
-            compose.onNodeWithText(chapter).performScrollTo().performClick()
+            openChapter()
             compose.onNodeWithText(menu).performClick()
             back()
             compose.onNodeWithContentDescription("Back to chapters").assertDoesNotExist()
-            compose.onNodeWithText(chapter).performScrollTo().assertIsDisplayed()
+            assertChapterVisible()
         }
     }
 
     @Test fun chapterBackWorksAfterActivityRecreation() {
-        compose.onNodeWithText(chapter).performScrollTo().performClick()
+        openChapter()
         compose.activityRule.scenario.recreate()
         showActivity()
         compose.onNodeWithContentDescription("Back to chapters").assertExists()
         back()
         compose.onNodeWithContentDescription("Back to chapters").assertDoesNotExist()
-        compose.onNodeWithText(chapter).performScrollTo().assertIsDisplayed()
+        assertChapterVisible()
     }
 
     @Test fun playerBackDismissesPlayerBeforeLeavingChapter() {
-        compose.onNodeWithText(chapter).performScrollTo().performClick()
+        openChapter()
         val vm = ViewModelProvider(compose.activity)[StudyViewModel::class.java]
         compose.waitUntil(10000) { vm.playback.value.trackId != null }
         val track = vm.tracks.first { it.id == vm.playback.value.trackId }
         // Open the mini-player without selecting or playing a different recording.
         compose.onNodeWithText("Track ${track.number} · ${track.title}").performClick()
-        compose.onNodeWithText("Practice a passage").assertExists()
+        compose.onNodeWithContentDescription("Playback position").assertExists()
         back()
-        compose.onNodeWithText("Practice a passage").assertDoesNotExist()
+        compose.onNodeWithContentDescription("Playback position").assertDoesNotExist()
         compose.onNodeWithContentDescription("Back to chapters").assertExists()
         back()
         compose.onNodeWithContentDescription("Back to chapters").assertDoesNotExist()
-        compose.onNodeWithText(chapter).performScrollTo().assertIsDisplayed()
+        assertChapterVisible()
     }
 
     @Test fun backAtLibraryRootCanExitTheActivity() {

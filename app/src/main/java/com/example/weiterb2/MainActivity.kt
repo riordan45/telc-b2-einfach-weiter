@@ -3,6 +3,7 @@ package com.example.weiterb2
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.BackHandler
+import androidx.activity.compose.LocalActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.*
@@ -51,6 +52,7 @@ fun WeiterTheme(content: @Composable () -> Unit) {
 @UnstableApi
 @Composable
 fun StudyApp(vm: StudyViewModel = viewModel()) {
+    val activity = LocalActivity.current
     val playback by vm.playback.collectAsStateWithLifecycle()
     val progress by vm.progress.collectAsStateWithLifecycle()
     val bookmarks by vm.bookmarks.collectAsStateWithLifecycle()
@@ -78,8 +80,10 @@ fun StudyApp(vm: StudyViewModel = viewModel()) {
             Settings(settings, Modifier.padding(padding), vm::continuous)
         },
     )
-    BackHandler(enabled = playerOpen || navigation.canGoBack) {
-        if (playerOpen) playerOpen = false else navigation = navigation.back()
+    BackHandler {
+        if (playerOpen) playerOpen = false
+        else if (navigation.canGoBack) navigation = navigation.back()
+        else activity?.finishAndRemoveTask()
     }
     Scaffold(
         bottomBar = {
