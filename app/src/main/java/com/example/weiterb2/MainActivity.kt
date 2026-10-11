@@ -314,7 +314,8 @@ private fun Settings(settings: PlaybackSettings, modifier: Modifier, continuous:
         HorizontalDivider()
         Text("About the book references", style = MaterialTheme.typography.titleMedium, modifier = Modifier.padding(top = 24.dp))
         Text("References come from spoken exercise announcements and official telc samples. Some chapter assignments follow the announced lesson sequence. Page numbers appear only where the full-B2 sample confirms them; your print edition may differ.", Modifier.padding(top = 8.dp), style = MaterialTheme.typography.bodyMedium)
-        Text("Weiter B2 · 1.0.0", Modifier.padding(top = 32.dp, bottom = 32.dp), style = MaterialTheme.typography.labelLarge)
+        Text("Weiter B2 · 1.0.0", Modifier.padding(top = 32.dp), style = MaterialTheme.typography.labelLarge)
+        Text("A personal companion for Einfach weiter! Deutsch B2. Original audio © telc gGmbH. This companion is independently made and is not an official telc app.", Modifier.padding(top = 8.dp, bottom = 32.dp), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
     }
 }
 @Composable
